@@ -1,0 +1,6 @@
+git init
+git add remote repo url
+git add .
+git commit -m " "
+git push origin master
+git clone repo url
