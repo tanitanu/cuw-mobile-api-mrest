@@ -1,0 +1,32 @@
+{
+  "cartId": "",
+  "customerId": 123901727,
+  "flow": "",
+  "isOmniCartSavedTrip": false,
+  "isRemoveAll": false,
+  "mileagePlusAccountNumber": "AW719636",
+  "passwordHash": "A5D3AFDAE0BF0E6543650D7B928EB77C94A4AD56",
+  "premierStatusLevel": 0,
+  "sessionId": "6A1792ABFC1CF81182F9C4EAQWESA",
+  "showOmniCartIndicator": false,
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.49",
+      "minor": "4.1.49"
+    }
+  },
+  "deviceId": "ad6526e4-bf8f-4dc1-bcb1-1b0866f4557d",
+  "languageCode": "en-US",
+  "transactionId": "ad6526e4-bf8f-4dc1-bcb1-1b0866f4557d|9c120cc9-6dcd-497e-8144-3bd8f379f314",
+  "CatalogItems": [
+    {
+      "id": "1",
+      "currentValue": "xyz",
+      "saveToPersist": false
+    }
+  ]
+}

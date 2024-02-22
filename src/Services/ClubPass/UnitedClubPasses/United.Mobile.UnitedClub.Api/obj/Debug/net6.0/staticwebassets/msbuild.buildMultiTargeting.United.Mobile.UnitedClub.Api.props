@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\United.Mobile.UnitedClub.Api.props" />
+</Project>

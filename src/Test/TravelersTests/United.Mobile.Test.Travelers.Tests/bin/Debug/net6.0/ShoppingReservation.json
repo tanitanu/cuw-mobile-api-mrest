@@ -1,0 +1,1107 @@
+﻿[
+  {
+    "IsCubaTravel": true,
+    "IsBookingCommonFOPEnabled": true,
+    "IsReshopCommonFOPEnabled": true,
+    "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+    "TravelersCSL": {
+      "0": {
+        "IsProfileOwner": true,
+        "MileagePlus": { "CurrentEliteLevel": 0 }
+      }
+    },
+    "IsReshopChange": false,
+    "AwardTravel": false,
+    "ISInternational": false,
+    "IsRefundable": false,
+    "IsELF": false,
+    "IsSSA": true,
+    "ShopReservationInfo2": {
+      "IsIBELite": false,
+      "IsIBE": false,
+      "TravelerTypes": [
+        {},
+        {}
+      ],
+      "AllEligibleTravelersCSL": [
+        {
+          "PaxIndex": 0,
+          "FirstName": "Traveler",
+          "MiddleName": "MiddleName",
+          "LastName": "LastName",
+          "Suffix": "Suffix",
+          "birthDate": "12/12/1996",
+          "knownTravelerNumber": "1",
+          "genderCode": "M"
+        }
+      ],
+      "NextViewName": "RTI"
+    },
+    "Trips": [
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ],
+                "DepartureDateTime": "04/08/2021 06:00 AM"
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "09/09/2019",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      },
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "11/09/2020",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      }
+    ],
+    "ISFlexibleSegmentExist": false,
+    "Prices": [
+      { "DisplayType": "TRAVELERPRICE" },
+      { "DisplayType": "TOTAL" },
+      { "DisplayType": "GRAND TOTAL" },
+      { "DisplayType": "TOTALPRICEFORUPLIFT" }
+    ]
+  },
+  {
+    "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+    "TravelersCSL": {
+      "0": {
+        "IsProfileOwner": true,
+        "MileagePlus": { "CurrentEliteLevel": 0 }
+      }
+    },
+    "IsReshopChange": false,
+    "AwardTravel": false,
+    "ISInternational": false,
+    "IsRefundable": false,
+    "IsELF": false,
+    "IsSSA": true,
+    "ShopReservationInfo2": {
+      "IsIBELite": false,
+      "IsIBE": false
+    },
+    "Trips": [
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "09/09/2020",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      }
+    ],
+    "ISFlexibleSegmentExist": false,
+    "Prices": [
+      { "DisplayType": "TRAVELERPRICE" },
+      { "DisplayType": "TOTAL" },
+      { "DisplayType": "GRAND TOTAL" },
+      { "DisplayType": "TOTALPRICEFORUPLIFT" }
+    ]
+  },
+  {
+    "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+    "TravelersCSL": {
+      "0": {
+        "IsProfileOwner": true,
+        "MileagePlus": { "CurrentEliteLevel": 0 }
+      }
+    },
+    "IsReshopChange": false,
+    "AwardTravel": false,
+    "ISInternational": false,
+    "IsRefundable": false,
+    "IsELF": false,
+    "IsSSA": true,
+    "ShopReservationInfo2": {
+      "IsIBELite": false,
+      "IsIBE": false
+    },
+    "Trips": [
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "09/09/2019",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      }
+    ],
+    "ISFlexibleSegmentExist": false,
+    "Prices": [
+      { "DisplayType": "TRAVELERPRICE" },
+      { "DisplayType": "TOTAL" },
+      { "DisplayType": "GRAND TOTAL" },
+      { "DisplayType": "TOTALPRICEFORUPLIFT" }
+    ]
+  },
+  {
+    "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+    "TravelersCSL": {
+      "0": {
+        "IsProfileOwner": true,
+        "MileagePlus": { "CurrentEliteLevel": 0 }
+      }
+    },
+    "IsReshopChange": false,
+    "AwardTravel": false,
+    "ISInternational": false,
+    "IsRefundable": false,
+    "IsELF": false,
+    "IsSSA": true,
+    "ShopReservationInfo2": {
+      "IsIBELite": false,
+      "IsIBE": false,
+      "TravelerTypes": [
+        {},
+        {}
+      ]
+    },
+    "Trips": [
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "09/09/2019",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      },
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "11/09/2020",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      }
+    ],
+    "ISFlexibleSegmentExist": false,
+    "Prices": [
+      { "DisplayType": "TRAVELERPRICE" },
+      { "DisplayType": "TOTAL" },
+      { "DisplayType": "GRAND TOTAL" },
+      { "DisplayType": "TOTALPRICEFORUPLIFT" }
+    ]
+  },
+  {
+    "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+    "TravelersCSL": {
+      "0": {
+        "IsProfileOwner": true,
+        "MileagePlus": { "CurrentEliteLevel": 0 }
+      }
+    },
+    "IsReshopChange": false,
+    "AwardTravel": false,
+    "ISInternational": false,
+    "IsRefundable": false,
+    "IsELF": false,
+    "IsSSA": true,
+    "ShopReservationInfo2": null,
+    "Trips": [
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "09/09/2019",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      },
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "11/09/2020",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      }
+    ],
+    "ISFlexibleSegmentExist": false,
+    "Prices": [
+      { "DisplayType": "TRAVELERPRICE" },
+      { "DisplayType": "TOTAL" },
+      { "DisplayType": "GRAND TOTAL" },
+      { "DisplayType": "TOTALPRICEFORUPLIFT" }
+    ]
+  },
+  {
+    "IsCubaTravel": false,
+    "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+    "TravelersCSL": {
+      "0": {
+        "IsProfileOwner": true,
+        "MileagePlus": { "CurrentEliteLevel": 0 }
+      }
+    },
+    "IsReshopChange": false,
+    "AwardTravel": false,
+    "ISInternational": false,
+    "IsRefundable": false,
+    "IsELF": false,
+    "IsSSA": true,
+    "ShopReservationInfo2": null,
+    "Trips": [
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "09/09/2019",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      },
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "11/09/2020",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      }
+    ],
+    "ISFlexibleSegmentExist": false,
+    "Prices": [
+      { "DisplayType": "TRAVELERPRICE" },
+      { "DisplayType": "TOTAL" },
+      { "DisplayType": "GRAND TOTAL" },
+      { "DisplayType": "TOTALPRICEFORUPLIFT" }
+    ]
+  },
+  {
+    "IsCubaTravel": true,
+    "IsBookingCommonFOPEnabled": true,
+    "IsReshopCommonFOPEnabled": true,
+    "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+    "TravelersCSL": {
+      "0": {
+        "IsProfileOwner": true,
+        "MileagePlus": { "CurrentEliteLevel": 0 }
+      }
+    },
+    "IsReshopChange": false,
+    "AwardTravel": false,
+    "ISInternational": true,
+    "IsRefundable": false,
+    "IsELF": false,
+    "IsSSA": true,
+    "ShopReservationInfo2": {
+      "IsIBELite": false,
+      "IsIBE": false,
+      "TravelerTypes": [
+        {},
+        {}
+      ],
+      "AllEligibleTravelersCSL": [
+        {
+          "PaxIndex": 0,
+          "FirstName": "Traveler",
+          "MiddleName": "MiddleName",
+          "LastName": "LastName",
+          "Suffix": "Suffix",
+          "birthDate": "12/12/1996",
+          "knownTravelerNumber": "1",
+          "genderCode": "M"
+        }
+      ],
+      "NextViewName": "RTI"
+    },
+    "Trips": [
+      {
+        "FlattenedFlights": [
+          {
+            "TripId": "0Ge1TbdMph95Rz1Ii5fCVKF",
+            "FlightId": "GJdn0Ucr6OmQ-N4o",
+            "CabinMessage": "",
+            "ProductId": "",
+            "Flights": [
+              {
+                "ShoppingProducts": [
+                  {
+                    "ProductId": "F1f4ti2NFdAQfNqDMmuHl301A",
+                    "Type": "FIRST",
+                    "SubType": "",
+                    "LongCabin": "",
+                    "ReshopFees": "",
+                    "Cabin": "",
+                    "Description": "",
+                    "Price": "$518",
+                    "MilesDisplayValue": "",
+                    "PriceAmount": 518.0,
+                    "MilesDisplayAmount": 0.0,
+                    "Meal": "Meals are not offered for this flight",
+                    "IsMixedCabin": false,
+                    "MixedCabinSegmentMessages": [],
+                    "AwardType": "",
+                    "AllCabinButtonText": "",
+                    "IsSelectedCabin": false,
+                    "MileageButton": -1,
+                    "SeatsRemaining": 2,
+                    "PqdText": "",
+                    "PqmText": "",
+                    "RdmText": "",
+                    "ISPremierCabinSaver": false,
+                    "IsUADiscount": false,
+                    "IsELF": false,
+                    "CabinType": "First",
+                    "PriceFromText": "for",
+                    "IsIBELite": false,
+                    "IsIBE": false,
+                    "ShortProductName": null,
+                    "ProductCode": "",
+                    "ProductBadges": [],
+                    "FareContentDescription": null,
+                    "ColumnID": null,
+                    "PriceApplyLabelText": null
+                  }
+                ]
+              }
+            ],
+            "TripDays": "",
+            "IsUADiscount": false,
+            "IsAddcollectWaived": false,
+            "AddCollectProductId": "",
+            "FlightHash": "252-2198-UA",
+            "AirPortChange": "",
+            "IsIBELite": false,
+            "IsIBE": false,
+            "IsElf": false,
+            "IsChangeFeeWaiver": false,
+            "IsCovidTestFlight": false,
+            "FlightLabelTextList": [],
+            "FlightBadges": [],
+            "MsgFlightCarrier": ""
+          }
+        ],
+        "Index": 0,
+        "Origin": "ORD",
+        "OriginAllAirports": -1,
+        "Destination": "IAD",
+        "DestinationAllAirports": -1,
+        "DepartDate": "09/09/2019",
+        "ArrivalDate": "09/09/2019",
+        "Cabin": "",
+        "UseFilters": false,
+        "SearchNearbyOriginAirports": false,
+        "SearchNearbyDestinationAirports": false,
+        "ShareMessage": ""
+      }
+    ],
+    "ISFlexibleSegmentExist": false,
+    "Prices": [
+      { "DisplayType": "TRAVELERPRICE" },
+      { "DisplayType": "TOTAL" },
+      { "DisplayType": "GRAND TOTAL" },
+      { "DisplayType": "TOTALPRICEFORUPLIFT" }
+    ]
+  }
+]

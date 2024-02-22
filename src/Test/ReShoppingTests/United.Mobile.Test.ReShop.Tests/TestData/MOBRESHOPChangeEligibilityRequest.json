@@ -1,0 +1,28 @@
+{
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.25",
+      "minor": "4.1.25"
+    }
+  },
+  "SessionId": "17C979E184CC495EA083D45F4DD9D19D",
+  "HashPinCode": "7C7D6DE3BB0A56DD424303E20EA996E1AF7DE6BF",
+  "DeviceId": "1E70A8CC-2A59-4450-AF89-0D4AB6C659B4",
+  "MileagePlusNumber": "MR722052",
+  "RecordLocator": "ABCD",
+  "ReshopRequest": {
+    "ObjectName": "United.Persist.Definition.Shopping.Session",
+    "AwardTravel": true,
+    "countryCode": "US",
+    "CslContext": {
+      "_session": "17C979E184CC495EA083D45F4DD9D19D",
+      "_transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|5f2bc92d-f584-492a-8371-6e68120e14f2",
+      "_token": "Bearer rlWuoTpvBvWFHmV1AvVfVzgcMPV6VzRlAzRjLmVkYGIwMwDgAQZlZl04LJDkYGxjZwAuAzMwLwL3MFW9"
+    }
+  }
+}
+ 
+ 

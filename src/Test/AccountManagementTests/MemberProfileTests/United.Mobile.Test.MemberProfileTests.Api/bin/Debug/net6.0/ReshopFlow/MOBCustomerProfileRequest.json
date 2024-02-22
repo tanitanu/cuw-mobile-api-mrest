@@ -1,0 +1,50 @@
+[
+  {
+    "IsRequirePKDispenserPublicKey": true,
+    "cartId": "",
+    "chaseAdType": "NONPREMIER",
+    "customerId": 123492960,
+    "flow": "RESHOP",
+    "hashPinCode": "B1199C481184D95B40810E952ACCAB03A47F553F",
+    "includeAddresses": true,
+    "includeAirPreferences": true,
+    "includeAllTravelerData": true,
+    "includeCarPreferences": false,
+    "includeContacts": false,
+    "includeCreditCards": true,
+    "includeCustomerProfitScore": false,
+    "includeDisplayPreferences": true,
+    "includeEmailAddresses": true,
+    "includeFlexEQM": false,
+    "includeHotelPreferences": false,
+    "includePassports": false,
+    "includePets": false,
+    "includePhones": true,
+    "includePosCountyCode": false,
+    "includeSecureTravelers": false,
+    "includeServiceAnimals": false,
+    "includeSpecialRequests": false,
+    "includeSubscriptions": false,
+    "includeTravelMarkets": false,
+    "mileagePlusNumber": "PU021032",
+    "profileOwnerOnly": false,
+    "redirectViewName": "",
+    "returnAllSavedTravelers": true,
+    "sessionId": "704A76E9B6004914B2EE8B3404400B55",
+    "token": "",
+    "transactionPath": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "languageCode": "en-US",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|18f8afa1-c806-475c-b112-525938b96962"
+  }
+]

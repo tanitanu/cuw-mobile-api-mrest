@@ -1,0 +1,120 @@
+{
+  "request": {
+    "HashPinCode": "F758491B89F84A9A4DF3B4110A77919128EC0D19",
+    "SessionId": "F3A85357D79C481D9D3A8C293CABF3D9",
+    "MpNumber": "AW713019",
+    "IsDeletedMessage": true,
+    "IsNotAvailableMessage": false,
+    "AccessCode": "ACCESSCODE",
+    "TransactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|e78b5897-c38f-42e7-895d-7b68a1feaf30",
+    "LanguageCode": "en-US",
+    "Application": {
+      "id": 2,
+      "name": "Android",
+      "version": {
+        "displayText": null,
+        "major": "4.1.55",
+        "minor": "4.1.55",
+        "build": null
+      },
+      "isProduction": false
+    },
+    "DeviceId": "00c87c77-f976-482d-a9a7-c504cc08ab59"
+  },
+  "captions": [
+    {
+      "id": "TPBoard_PageTitle",
+      "currentValue": "United Trip Planner",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPBoard_BodyText",
+      "currentValue": "This is the wish list of trips you've been dreaming of. Are you ready to turn them into reality?",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPBoard_ButtonText",
+      "currentValue": "Plan another trip",
+      "saveToPersist": false
+    }
+  ],
+  "groupedTrips": [
+    {
+      "shareTitle": "Your shared trips",
+      "viewMoreTripsText": "View more trips",
+      "viewLessTripsText": "View less trips",
+      "noTripsMessage": null,
+      "noOfTripsToShow": 3,
+      "tripPlanDetails": [
+        {
+          "title": "Houston to Chicago",
+          "subTitle": "One-way, Thu, Aug 04",
+          "infoMessage": "Click to discover more trip prices",
+          "tripPlanId": "54442541-a2cb-407c-8a96-a8d5c8062f38"
+        },
+        {
+          "title": "Houston to Chicago",
+          "subTitle": "One-way, Thu, Aug 04",
+          "infoMessage": "Click to discover more trip prices",
+          "tripPlanId": "a2cf5f3f-febd-4768-b673-244e2e5b8d7e"
+        },
+        {
+          "title": "Houston to Chicago",
+          "subTitle": "One-way, Wed, Aug 31",
+          "infoMessage": "Click to discover more trip prices",
+          "tripPlanId": "24f7d651-a00a-4d3a-9e44-426617ffa967"
+        },
+        {
+          "title": "Houston to Chicago",
+          "subTitle": "One-way, Wed, Aug 31",
+          "infoMessage": "Click to discover more trip prices",
+          "tripPlanId": "4d9d8394-5955-4519-ab3e-d2fe0b345e42"
+        },
+        {
+          "title": "Chicago to Houston",
+          "subTitle": "One-way, Tue, Sep 20",
+          "infoMessage": "Click to discover more trip prices",
+          "tripPlanId": "6a494305-6270-444f-aa75-530dd086713f"
+        },
+        {
+          "title": "Chicago to Denver",
+          "subTitle": "One-way, Tue, Sep 20",
+          "infoMessage": "Click to discover more trip prices",
+          "tripPlanId": "36ac7a2e-c643-42f3-8eba-635be08789d9"
+        },
+        {
+          "title": "Chicago to Denver",
+          "subTitle": "One-way, Tue, Sep 20",
+          "infoMessage": "Click to discover more trip prices",
+          "tripPlanId": "b655c674-5778-4e60-9ed7-fc03022072af"
+        }
+      ]
+    },
+    {
+      "shareTitle": "Trips shared with you",
+      "viewMoreTripsText": null,
+      "viewLessTripsText": null,
+      "noTripsMessage": "No trips shared with you.",
+      "noOfTripsToShow": 3,
+      "tripPlanDetails": null
+    }
+  ],
+  "warningMessages": [
+    {
+      "order": "",
+      "iconType": "SUCCESS",
+      "messages": [
+        "You have now deleted the trip for yourself and other co travelers."
+      ],
+      "buttonLabel": null,
+      "headerMessage": null,
+      "isCollapsable": false,
+      "isExpandByDefault": false
+    }
+  ],
+  "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|e78b5897-c38f-42e7-895d-7b68a1feaf30",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 1975,
+  "exception": null
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "flow": "RESHOP",
+    "getShopTnc": true,
+    "groupName": "TnC",
+    "listNames": [ "RTI_TnC" ],
+    "mileagePlusNumber": "PU021032",
+     "sessionId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "languageCode": "en-US",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|952ccb81-f0df-4e42-afad-4c6cd1ebe147"
+  },
+  {
+    "getShopTnc": false,
+    "groupName": "Mobile:Baggage",
+    "listNames": [
+      "baggage"
+    ],
+    "mileagePlusNumber": "AY575986",
+    "sessionId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.23",
+        "minor": "4.1.23"
+      }
+    },
+    "deviceId": "d23ec4e5-fa0b-470a-a66a-0fd226654ace",
+    "languageCode": "en-US",
+    "transactionId": "d23ec4e5-fa0b-470a-a66a-0fd226654ace|bbf54ecf-a305-49bb-b1df-e3b35bb0ba76"
+  },
+  {
+    "getShopTnc": false,
+    "groupName": "Mobile:Baggage",
+    "listNames": [
+      "baggage"
+    ],
+    "mileagePlusNumber": "AY575986",
+    "sessionId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.23",
+        "minor": "4.1.23"
+      }
+    },
+    "deviceId": "d23ec4e5-fa0b-470a-a66a-0fd226654ace",
+    "languageCode": "en-US",
+    "transactionId": "d23ec4e5-fa0b-470a-a66a-0fd226654ace|bbf54ecf-a305-49bb-b1df-e3b35bb0ba76",
+    "BasicEconomyContentChange": "true"
+  }
+]

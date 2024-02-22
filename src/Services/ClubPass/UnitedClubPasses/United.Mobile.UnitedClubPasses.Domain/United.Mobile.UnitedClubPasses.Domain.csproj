@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CouchbaseNetClient" Version="2.7.15" />
+    <PackageReference Include="CrystalDecisions.CrystalReports.Engine" Version="1.0.0" />
+    <PackageReference Include="CustomerDataCommon" Version="2.0.0.15" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Presentation.CslModels" Version="4.6.121" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
+    <PackageReference Include="United.Foundations.Practices.Framework.Model" Version="6.4.0" />
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.372" />
+    <PackageReference Include="ZXing.Net" Version="0.16.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Common.Helper\United.Common.Helper.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\AccountManagement\United.Mobile.DataAccess.MemberSignIn\United.Mobile.DataAccess.MemberSignIn.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\FlightStatus\United.Mobile.DataAccess.FlightStatus\United.Mobile.DataAccess.FlightStatus.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\United.Mobile.DataAccess.FlightShopping\United.Mobile.DataAccess.FlightShopping.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\UnitedClubPasses\United.Mobile.DataAccess.UnitedClub\United.Mobile.DataAccess.UnitedClub.csproj" />
+    <ProjectReference Include="..\..\..\..\Model.Internal\AccountManagement\United.Mobile.Model.Internal.AccountManagement\United.Mobile.Model.Internal.AccountManagement.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\UnitedClubPasses\United.Mobile.Model.UnitedClubPasses\United.Mobile.Model.UnitedClubPasses.csproj" />
+  </ItemGroup>
+
+</Project>

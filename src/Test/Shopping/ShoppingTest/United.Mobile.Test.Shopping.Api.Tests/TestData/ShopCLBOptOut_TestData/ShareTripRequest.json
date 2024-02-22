@@ -1,0 +1,35 @@
+[
+  {
+    "AccessCode": "ACCESSCODE",
+    "TransactionId": "992f7efc-1ce2-4b14-80c8-f20b013df5e8|be52344a-7ee6-44e2-9e0d-8337c44848fe",
+    "LanguageCode": "en-US",
+    "Application": {
+      "Id": "2",
+      "Name": "Android",
+      "Version": {
+        "Major": "4.1.35",
+        "Minor": "4.1.35"
+      },
+      "IsProduction": "false"
+    },
+    "DeviceId": "992f7efc-1ce2-4b14-80c8-f20b013df5e8",
+    "SessionId": "A358FBF6A41440CBB1FB54637E37A691"
+  },
+  {
+    "AccessCode": "ACCESSCODE",
+    "TransactionId": "992f7efc-1ce2-4b14-80c8-f20b013df5e8|be52344a-7ee6-44e2-9e0d-8337c44848fe",
+    "LanguageCode": "en-US",
+    "Application": {
+      "Id": "2",
+      "Name": "Android",
+      "Version": {
+        "Major": "4.1.35",
+        "Minor": "4.1.35"
+      },
+      "IsProduction": "false"
+    },
+    "DeviceId": "992f7efc-1ce2-4b14-80c8-f20b013df5e8",
+    "SessionId": null
+  }
+
+]

@@ -1,0 +1,11 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\bin\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\bin\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\bin\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.csproj.AssemblyReference.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.EmployeeProfile\obj\Debug\netstandard2.0\United.Mobile.Model.EmployeeProfile.pdb

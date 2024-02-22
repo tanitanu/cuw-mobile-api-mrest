@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>11826f33-df80-48fc-b7cc-0bfaf82ce2df</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\ManageReservation\United.Mobile.DataAccess.FlightReservation\United.Mobile.DataAccess.FlightReservation.csproj" />
+    <ProjectReference Include="..\United.Mobile.Services.ShopBundles.Domain\United.Mobile.Services.ShopBundles.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

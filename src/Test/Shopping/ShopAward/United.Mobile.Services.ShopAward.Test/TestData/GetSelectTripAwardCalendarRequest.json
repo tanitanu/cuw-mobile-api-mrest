@@ -1,0 +1,32 @@
+[
+  {
+    "backButtonClick": false,
+    "calendarDateChange": "12/24/2021",
+    "cartId": "",
+    "flightId": "G5-pUTZJqh682f-9",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": false,
+    "lengthOfCalendar": 3,
+    "productId": "7QLpW2Yd6DOOY4ZkKw4FX4001",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "41953F4F304B43D2AC82CB8E1E78380E",
+    "tripId": "0HVbamevqHWSUzgTTO7tftM",
+    "useFilters": false,
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3",
+    "languageCode": "en-US",
+    "transactionId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3|26a4443a-204c-41a2-b650-27f71c2c91c6"
+  }
+]

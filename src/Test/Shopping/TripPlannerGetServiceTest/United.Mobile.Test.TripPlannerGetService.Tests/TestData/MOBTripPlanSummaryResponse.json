@@ -1,0 +1,127 @@
+{
+  "request": {
+    "sessionId": "79F19E1C9B814AB0BF14567AE85FAD25",
+    "tripPlanId": "25bc3fa6-8979-458b-98a1-602acd7a6357",
+    "mpNumber": null,
+    "listTripPlanSelectTrip": [
+      {
+        "tripId": "0H1SgQIaZZ3PSrHfkxh6FkR",
+        "flightId": "G6jHAKoHXdhhBKhv",
+        "productId": "ay2QZ9BakxJTwTmJdso2Y3007",
+        "cartId": "79F19E1C-9B81-4AB0-BF14-567AE85FAD25"
+      }
+    ],
+    "travelerTypes": null,
+    "isTravelCountChanged": false,
+    "travelType": null,
+    "deleteTripCartId": null,
+    "hashPinCode": "F758491B89F84A9A4DF3B4110A77919128EC0D19",
+    "accessCode": "ACCESSCODE",
+    "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|37c8b3a0-5ce3-49a6-885f-a5a4898604d1",
+    "languageCode": "en-US",
+    "application": {
+      "id": 2,
+      "name": "Android",
+      "version": {
+        "displayText": null,
+        "major": "4.1.55",
+        "minor": "4.1.55",
+        "build": null
+      },
+      "isProduction": false
+    },
+    "deviceId": "00c87c77-f976-482d-a9a7-c504cc08ab59"
+  },
+  "tripPlanId": "25bc3fa6-8979-458b-98a1-602acd7a6357",
+  "tripPlanTrips": [
+    {
+      "cartId": "abef4fe3-40d9-4b1e-9ea0-492afed7b89f",
+      "itineraryTitle": "Itinerary 1",
+      "itineraryPriceText": "Oneway from <b>$298 </b>/person",
+      "numberOfVotes": 0,
+      "bookingText": "0 Purchased",
+      "voteText": "0 votes",
+      "hideVotes": false,
+      "numberOfBookings": 0,
+      "tripPlanLOFs": [
+        {
+          "title": "IAH to ORD | 07:25 am to 10:13 am",
+          "subTitle": "Thu, Aug 04 · 2h 48m · Nonstop"
+        }
+      ],
+      "firstFlightDepartDate": "2022-08-04 07:25",
+      "voteInfo": null,
+      "editText": null,
+      "addTripBtnText": null,
+      "itineraryUnavailableText": null,
+      "pnrDetailsLinkText": null,
+      "isNotAvailable": false,
+      "bookLinkText": "Book",
+      "badges": null
+    }
+  ],
+  "captions": [
+    {
+      "id": "TPSummary_PageTitle",
+      "currentValue": "United Trip Planner",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_HeaderText",
+      "currentValue": "Houston to Chicago",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_LastUpdatedText",
+      "currentValue": "One-way, Thu, Aug 04",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_SubHeaderText",
+      "currentValue": "One-way, Thu, Aug 04",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_BodyText",
+      "currentValue": "Here is a summary of your selected flight options. Share this travel plan with your friends and family and vote on your favorite flights. When you discover the group favorite, book your trip straight from here.",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_ShareTripPlanHeaderText",
+      "currentValue": "United Trip Planner",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_ShareTripPlanEmailSubjectText",
+      "currentValue": "What do you think of these United flights?",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_ShareButtonText",
+      "currentValue": "Share trip plan",
+      "saveToPersist": false
+    },
+    {
+      "id": "TPSummary_ItineraryDeleteConfirmationMsg",
+      "currentValue": "Deleting this trip would remove all the co travelers from the shared plan. Are you sure you still want to delete?",
+      "saveToPersist": false
+    }
+  ],
+  "travelerTypes": [
+    {
+      "count": 1,
+      "travelerType": "Adult"
+    }
+  ],
+  "sessionId": "79F19E1C9B814AB0BF14567AE85FAD25",
+  "tripPlannerType": "PILOT",
+  "tripPlanShareLink": "What do you think of these United flights? https://www.united.com/en/us/fly/travel/mobile-tools/united-trip-planner.html?tpuid=25bc3fa6-8979-458b-98a1-602acd7a6357",
+  "infoWarningMessages": null,
+  "tripPlanOnboarding": null,
+  "shouldShowDeleteTrip": true,
+  "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|37c8b3a0-5ce3-49a6-885f-a5a4898604d1",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 3942,
+  "exception": null
+}

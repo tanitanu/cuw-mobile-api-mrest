@@ -1,0 +1,140 @@
+[
+  {
+    "alreadySelectedPAXIDs": [],
+    "cartId": "03896F84-65FB-42FD-9CC9-F4FFF33BE3CB",
+    "flow": "BOOKING",
+    "sessionId": "03896F8465FB42FD9CC9F4FFF33BE3CB",
+    "token": "dfms9VPYnKQ:APA91bHD2U-iJ4NJsHMxhLs7uicu8RMmfiHSWFfJC550chmKdU8kex746fbm6wE5i2K9ul24i1g73LOBE7djFDKTuV5yJVoAtGGI1P3_Be8_kr_O92Ry9oMe8vGzhlBImCJKsd0_ZI4t",
+    "traveler": {
+      "birthDate": "12/12/1996",
+      "currentEliteLevel": 0,
+      "customerId": 0,
+      "emailAddresses": [],
+      "firstName": "Traveler",
+      "MiddleName": "MiddleName",
+      "LastName": "LastName",
+      "Suffix": "Suffix",
+      "genderCode": "M",
+      "isDeceased": false,
+      "isEligibleForSeatSelection": false,
+      "isExecutive": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": true,
+      "isProfileOwner": false,
+      "isTSAFlagON": false,
+      "knownTravelerNumber": "1",
+      "paxID": 0,
+      "paxIndex": 0,
+      "profileId": 0,
+      "profileOwnerId": 0,
+      "CubaTravelReason": {
+        "Vanity": "Vanity"
+      }
+    },
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.23",
+        "minor": "4.1.23"
+      }
+    },
+    "deviceId": "5a1ded36-61c4-4a1f-b321-69cd2deb485d",
+    "languageCode": "en-US",
+    "transactionId": "5a1ded36-61c4-4a1f-b321-69cd2deb485d|f2db176e-a599-454f-92be-29d2de89f47d"
+  },
+  {
+    "alreadySelectedPAXIDs": null,
+    "cartId": "03896F84-65FB-42FD-9CC9-F4FFF33BE3CB",
+    "flow": "BOOKING",
+    "sessionId": "03896F8465FB42FD9CC9F4FFF33BE3CB",
+    "token": "dfms9VPYnKQ:APA91bHD2U-iJ4NJsHMxhLs7uicu8RMmfiHSWFfJC550chmKdU8kex746fbm6wE5i2K9ul24i1g73LOBE7djFDKTuV5yJVoAtGGI1P3_Be8_kr_O92Ry9oMe8vGzhlBImCJKsd0_ZI4t",
+    "traveler": {
+      "birthDate": "12/12/1996",
+      "currentEliteLevel": 0,
+      "customerId": 0,
+      "emailAddresses": [],
+      "firstName": "Traveler",
+      "MiddleName": "MiddleName",
+      "LastName": "LastName",
+      "Suffix": "Suffix",
+      "genderCode": "M",
+      "isDeceased": false,
+      "isEligibleForSeatSelection": false,
+      "isExecutive": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": true,
+      "isProfileOwner": false,
+      "isTSAFlagON": false,
+      "knownTravelerNumber": "1",
+      "paxID": 1,
+      "paxIndex": 0,
+      "profileId": 0,
+      "profileOwnerId": 0,
+      "CubaTravelReason": {
+        "Vanity": "Vanity"
+      }
+    },
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.23",
+        "minor": "4.1.23"
+      }
+    },
+    "deviceId": "5a1ded36-61c4-4a1f-b321-69cd2deb485d",
+    "languageCode": "en-US",
+    "transactionId": "5a1ded36-61c4-4a1f-b321-69cd2deb485d|f2db176e-a599-454f-92be-29d2de89f47d"
+  },
+  {
+    "alreadySelectedPAXIDs": [],
+    "cartId": "03896F84-65FB-42FD-9CC9-F4FFF33BE3CB",
+    "flow": "BOOKING",
+    "sessionId": "03896F8465FB42FD9CC9F4FFF33BE3CB",
+    "token": "dfms9VPYnKQ:APA91bHD2U-iJ4NJsHMxhLs7uicu8RMmfiHSWFfJC550chmKdU8kex746fbm6wE5i2K9ul24i1g73LOBE7djFDKTuV5yJVoAtGGI1P3_Be8_kr_O92Ry9oMe8vGzhlBImCJKsd0_ZI4t",
+    "traveler": {
+      "birthDate": "12/12/1996",
+      "currentEliteLevel": 0,
+      "customerId": 0,
+      "emailAddresses": [],
+      "firstName": "Traveler",
+      "MiddleName": "MiddleName",
+      "LastName": "LastName",
+      "Suffix": "Suffix",
+      "genderCode": "M",
+      "isDeceased": false,
+      "isEligibleForSeatSelection": false,
+      "isExecutive": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": true,
+      "isProfileOwner": false,
+      "isTSAFlagON": false,
+      "knownTravelerNumber": "1",
+      "paxID": 0,
+      "paxIndex": 0,
+      "profileId": 0,
+      "profileOwnerId": 0
+    },
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.23",
+        "minor": "4.1.23"
+      }
+    },
+    "deviceId": "5a1ded36-61c4-4a1f-b321-69cd2deb485d",
+    "languageCode": "en-US",
+    "transactionId": "5a1ded36-61c4-4a1f-b321-69cd2deb485d|f2db176e-a599-454f-92be-29d2de89f47d"
+  }
+]

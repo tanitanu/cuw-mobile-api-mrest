@@ -1,0 +1,46 @@
+[
+  {
+    "SavedItineraryList": [
+      {
+        "SavedItinerary": {
+          "Trips": [
+            {
+              "Flights": [
+                {
+                  "BookingCode": "1233",
+                  "DepartDateTime": "15/04/22,12:34",
+                  "Destination": "ORD",
+                  "FlightNumber": "232",
+                  "MarketingCarrier": "",
+                  "Origin": "IAH",
+                  "ProductType": "ASW"
+                }
+              ],
+              "FlightCount": 3,
+              "Destination": "ORD",
+              "Origin": "IAH",
+              "DepartDate": "15/04/22",
+              "DepartTime": "12:34"
+            }
+          ],
+          "AccessCode": "34455",
+          "SearchTypeSelection": 1,
+          "PaxInfoList": [
+            {
+              "DateOfBirth": "",
+              "PaxType": 5,
+              "PaxTypeCode": "",
+              "PaxTypeDescription": ""
+            }
+          ]
+        },
+        "InsertTimestamp": "12/04/2022",
+        "UpdateTimestamp": "12/04/2022",
+        "InsertID": "",
+        "UpdateID": ""
+      }
+    ],
+    "Status": "Success",
+    "ServerName": ""
+  }
+]

@@ -1,0 +1,34 @@
+{
+  //appsettings
+
+  "ShowServiceAnimalInTravelNeeds": true,
+  "SSRStatesDoNotAllowServiceAnimal": "HI|AS|GU|MP|PR|VI",
+  "SSRAnimalValueCodeDesc": "2^ESAN|3^ESAN",
+   "SSRAnimalTypeValueCodeDesc": "10^SVAN|9^SVAN|3^SVAN|2^SVAN|5^ESAN|6^ESAN|7^ESAN|8^ESAN",
+  "FSRLabelForCorporateLeisure": "",
+
+  //{
+  //  "Messages": [
+  //    {
+  //      "Title": "Shopping.AwardNoFlightExceptionMessage.MOB",
+
+  //    }
+
+  //  ],
+  //  "MessageItems": [],
+  //  "LastCallDateTime": "12.04.2012",
+  //  "CallTime": "02:23",
+  //  "Errors": [],
+  //  "Status": 0
+  //}
+  //appsettings11
+  "IsBookingCommonFOPEnabled": true,
+  "EnableShareTripInSoftRTI": true,
+  "AndroidShareTripInSoftRTIVersion": "3.0.48",
+  "iPhoneShareTripInSoftRTIVersion": "3.0.48",
+  "HideSearchFiletersAndSort": true,
+  "ShowServiceAnimalInTravelNeeds": true,
+  "SSRStatesDoNotAllowServiceAnimal": "HI|AS|GU|MP|PR|VI",
+  "SSRAnimalValueCodeDesc": "2^ESAN|3^ESAN",
+  "SSRAnimalTypeValueCodeDesc": "9^SVAN|3^SVAN|2^SVAN|5^ESAN|6^ESAN|7^ESAN|8^ESAN"
+}

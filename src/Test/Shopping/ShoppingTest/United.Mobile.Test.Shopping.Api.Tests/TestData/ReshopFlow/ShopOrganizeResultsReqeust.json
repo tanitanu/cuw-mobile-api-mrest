@@ -1,0 +1,695 @@
+[
+  {
+    "cartId": "A2F12B81-10B8-4B77-8131-DD93ADA1288B",
+    "columnFareType": "Refundable",
+    "lastTripIndexRequested": 1,
+    "searchFiltersIn": {
+      "aircraftCabinTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy Only",
+          "isSelected": true,
+          "key": "EconomyOnly",
+          "value": "Economy Only"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Multi cabin",
+          "isSelected": true,
+          "key": "Multicabin",
+          "value": "Multi cabin"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "TurboProp",
+          "isSelected": true,
+          "key": "TurboProp",
+          "value": "TurboProp"
+        }
+      ],
+      "aircraftTypes": "",
+      "airportsDestination": "DEN",
+      "airportsOrigin": "ORD",
+      "airportsStop": "ABQ,ASE,ATL,AUS,BNA,BOI,CID,CLE,CMH,COS,DFW,DSM,EGE,FAR,HDN,IAD,IAH,JAC,LAS,LNK,MCI,MEM,MSN,MSP,MSY,MTJ,OKC,PHL,PHX,PIT,RAP,SAT,SGF,SLC,STL,TUL",
+      "airportsStopList": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Albuquerque, NM, US (ABQ)",
+          "isSelected": true,
+          "key": "ABQ",
+          "value": "Albuquerque, NM, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Aspen, CO, US (ASE)",
+          "isSelected": true,
+          "key": "ASE",
+          "value": "Aspen, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Atlanta, GA, US (ATL)",
+          "isSelected": true,
+          "key": "ATL",
+          "value": "Atlanta, GA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Austin, TX, US (AUS)",
+          "isSelected": true,
+          "key": "AUS",
+          "value": "Austin, TX, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Boise, ID, US (BOI)",
+          "isSelected": true,
+          "key": "BOI",
+          "value": "Boise, ID, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Cedar Rapids, IA, US (CID)",
+          "isSelected": true,
+          "key": "CID",
+          "value": "Cedar Rapids, IA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Cleveland, OH, US (CLE)",
+          "isSelected": true,
+          "key": "CLE",
+          "value": "Cleveland, OH, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Colorado Springs, CO, US (COS)",
+          "isSelected": true,
+          "key": "COS",
+          "value": "Colorado Springs, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Columbus, OH, US (CMH)",
+          "isSelected": true,
+          "key": "CMH",
+          "value": "Columbus, OH, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Dallas/Fort Worth, TX, US (DFW)",
+          "isSelected": true,
+          "key": "DFW",
+          "value": "Dallas/Fort Worth, TX, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Des Moines, IA, US (DSM)",
+          "isSelected": true,
+          "key": "DSM",
+          "value": "Des Moines, IA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Fargo, ND, US (FAR)",
+          "isSelected": true,
+          "key": "FAR",
+          "value": "Fargo, ND, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Houston, TX, US (IAH)",
+          "isSelected": true,
+          "key": "IAH",
+          "value": "Houston, TX, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Jackson Hole, WY, US (JAC)",
+          "isSelected": true,
+          "key": "JAC",
+          "value": "Jackson Hole, WY, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Kansas City, MO, US (MCI)",
+          "isSelected": true,
+          "key": "MCI",
+          "value": "Kansas City, MO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Las Vegas, NV, US (LAS)",
+          "isSelected": true,
+          "key": "LAS",
+          "value": "Las Vegas, NV, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Lincoln, NE, US (LNK)",
+          "isSelected": true,
+          "key": "LNK",
+          "value": "Lincoln, NE, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Madison, WI, US (MSN)",
+          "isSelected": true,
+          "key": "MSN",
+          "value": "Madison, WI, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Memphis, TN, US (MEM)",
+          "isSelected": true,
+          "key": "MEM",
+          "value": "Memphis, TN, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Minneapolis/St. Paul, MN, US (MSP)",
+          "isSelected": true,
+          "key": "MSP",
+          "value": "Minneapolis/St. Paul, MN, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Montrose, CO, US (MTJ)",
+          "isSelected": true,
+          "key": "MTJ",
+          "value": "Montrose, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Nashville, TN, US (BNA)",
+          "isSelected": true,
+          "key": "BNA",
+          "value": "Nashville, TN, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "New Orleans, LA, US (MSY)",
+          "isSelected": true,
+          "key": "MSY",
+          "value": "New Orleans, LA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Oklahoma City, OK, US (OKC)",
+          "isSelected": true,
+          "key": "OKC",
+          "value": "Oklahoma City, OK, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Philadelphia, PA, US (PHL)",
+          "isSelected": true,
+          "key": "PHL",
+          "value": "Philadelphia, PA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Phoenix, AZ, US (PHX)",
+          "isSelected": true,
+          "key": "PHX",
+          "value": "Phoenix, AZ, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Pittsburgh, PA, US (PIT)",
+          "isSelected": true,
+          "key": "PIT",
+          "value": "Pittsburgh, PA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Rapid City, SD, US (RAP)",
+          "isSelected": true,
+          "key": "RAP",
+          "value": "Rapid City, SD, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Salt Lake City, UT, US (SLC)",
+          "isSelected": true,
+          "key": "SLC",
+          "value": "Salt Lake City, UT, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "San Antonio, TX, US (SAT)",
+          "isSelected": true,
+          "key": "SAT",
+          "value": "San Antonio, TX, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Springfield, MO, US (SGF)",
+          "isSelected": true,
+          "key": "SGF",
+          "value": "Springfield, MO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "St. Louis, MO, US (STL)",
+          "isSelected": true,
+          "key": "STL",
+          "value": "St. Louis, MO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Steamboat Springs, CO, US (HDN)",
+          "isSelected": true,
+          "key": "HDN",
+          "value": "Steamboat Springs, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Tulsa, OK, US (TUL)",
+          "isSelected": true,
+          "key": "TUL",
+          "value": "Tulsa, OK, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Vail, CO, US (EGE)",
+          "isSelected": true,
+          "key": "EGE",
+          "value": "Vail, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Washington, DC, US (IAD)",
+          "isSelected": true,
+          "key": "IAD",
+          "value": "Washington, DC, US"
+        }
+      ],
+      "airportsStopToAvoid": "",
+      "amenityTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Wifi",
+          "isSelected": true,
+          "key": "Wifi",
+          "value": "Wifi"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "DirecTV",
+          "isSelected": true,
+          "key": "DirecTV",
+          "value": "DirecTV"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "In-seat power",
+          "isSelected": true,
+          "key": "Power",
+          "value": "In-seat power"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Other amenities",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Other amenities"
+        }
+      ],
+      "bookingCodes": "",
+      "cabinCountMax": 2,
+      "cabinCountMin": 1,
+      "carrierDefault": true,
+      "carrierExpress": true,
+      "carrierPartners": true,
+      "carrierStar": true,
+      "carrierTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United",
+          "isSelected": true,
+          "key": "United",
+          "value": "United"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United Express",
+          "isSelected": true,
+          "key": "UnitedExpress",
+          "value": "United Express"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Star Alliance",
+          "isSelected": true,
+          "key": "StarAlliance",
+          "value": "Star Alliance"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Partners",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Partners"
+        }
+      ],
+      "carriersMarketing": "UA",
+      "carriersMarketingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "United Airlines",
+          "isSelected": true,
+          "key": "UA",
+          "value": "United Airlines"
+        }
+      ],
+      "carriersOperating": "UA",
+      "carriersOperatingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "UA",
+          "value": ""
+        }
+      ],
+      "durationMax": 506,
+      "durationMin": 165,
+      "durationStopMax": -1,
+      "durationStopMin": -1,
+      "equipmentCodes": "319,320,738,739,73G,752,753,777,7M8,7M9,CR5,CR7,CRJ,E70,E7W,ERJ",
+      "equipmentList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-900",
+          "isSelected": false,
+          "key": "739",
+          "value": "Boeing 737-900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 777-200",
+          "isSelected": false,
+          "key": "777",
+          "value": "Boeing 777-200"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-300",
+          "isSelected": false,
+          "key": "753",
+          "value": "Boeing 757-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 9",
+          "isSelected": false,
+          "key": "7M9",
+          "value": "Boeing 737 MAX 9"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet",
+          "isSelected": false,
+          "key": "CRJ",
+          "value": "Canadair Regional Jet"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 175",
+          "isSelected": false,
+          "key": "E7W",
+          "value": "Embraer 175"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet 700",
+          "isSelected": false,
+          "key": "CR7",
+          "value": "Canadair Regional Jet 700"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 170",
+          "isSelected": false,
+          "key": "E70",
+          "value": "Embraer 170"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet 550",
+          "isSelected": false,
+          "key": "CR5",
+          "value": "Canadair Regional Jet 550"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-800",
+          "isSelected": false,
+          "key": "738",
+          "value": "Boeing 737-800"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A319",
+          "isSelected": false,
+          "key": "319",
+          "value": "Airbus A319"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A320",
+          "isSelected": false,
+          "key": "320",
+          "value": "Airbus A320"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 8",
+          "isSelected": false,
+          "key": "7M8",
+          "value": "Boeing 737 MAX 8"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer RJ145",
+          "isSelected": false,
+          "key": "ERJ",
+          "value": "Embraer RJ145"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-700",
+          "isSelected": false,
+          "key": "73G",
+          "value": "Boeing 737-700"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-200",
+          "isSelected": false,
+          "key": "752",
+          "value": "Boeing 757-200"
+        }
+      ],
+      "equipmentTypes": "739,777,753,7M9,CRJ,E7W,CR7,E70,CR5,738,319,320,7M8,ERJ,73G,752",
+      "fareFamilies": [
+        {
+          "fareFamily": "ECONOMY",
+          "maxMileage": 647,
+          "maxPrice": "",
+          "minMileage": 189,
+          "minPrice": "",
+          "minPriceInSummary": true
+        },
+        {
+          "fareFamily": "FIRST",
+          "maxMileage": 1925,
+          "maxPrice": "",
+          "minMileage": 338,
+          "minPrice": "",
+          "minPriceInSummary": true
+        }
+      ],
+      "fareFamily": "",
+      "filterSortPaging": false,
+      "numberofStops": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Nonstop",
+          "isSelected": true,
+          "key": "NonStop",
+          "value": "0,0"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "1+ stops",
+          "isSelected": true,
+          "key": "OneStop",
+          "value": "1,1"
+        }
+      ],
+      "pageNumber": 1,
+      "priceMax": 1595.0,
+      "priceMaxDisplayValue": "$1,595",
+      "priceMin": 0.0,
+      "priceMinDisplayValue": "$0",
+      "showArrivalFilters": false,
+      "showDepartureFilters": true,
+      "showDurationFilters": true,
+      "showLayOverFilters": true,
+      "showPriceFilters": false,
+      "showRefundableFaresToggle": false,
+      "showSortingandFilters": true,
+      "sortType1": "DepartEarlyToLate",
+      "sortTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Best matches",
+          "isSelected": false,
+          "key": "BestMatch",
+          "value": "Best matches"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Price (low to high)",
+          "isSelected": false,
+          "key": "PriceLowToHigh",
+          "value": "Price (low to high)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (early to late)",
+          "isSelected": true,
+          "key": "DepartEarlyToLate",
+          "value": "Departure time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (late to early)",
+          "isSelected": false,
+          "key": "DepartLateToEarly",
+          "value": "Departure time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (early to late)",
+          "isSelected": false,
+          "key": "ArriveEarlyToLate",
+          "value": "Arrival time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (late to early)",
+          "isSelected": false,
+          "key": "ArriveLateToEarly",
+          "value": "Arrival time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Duration (fastest to longest)",
+          "isSelected": false,
+          "key": "DurtionShortToLong",
+          "value": "Duration (fastest to longest)"
+        }
+      ],
+      "stopCountExcl": -1,
+      "stopCountMax": 1,
+      "stopCountMin": 0,
+      "timeArrivalMax": "23:59",
+      "timeArrivalMin": "08:55",
+      "timeDepartMax": "21:45",
+      "timeDepartMin": "05:45",
+      "warningsFilter": []
+    },
+    "sessionId": "34E919F72F584D2A83FEF137AF72CD57",
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "languageCode": "en-US",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|9ce26456-305d-42ea-941e-ba35e443909e"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "sessionId": "704A76E9B6004914B2EE8B3404400B55",
+    "cartId": "1406FFA8-288F-4E35-A5BD-4FA469A0BCC4",
+    "token": "Bearer rlWuoTpvBvWFHmV1AvVfVzgcMPV6VzZmZGtlZQAxYGt3ZmVgAQVkZF1uZJVmYGAuLGpmMJL1Z2D2LlW9.NNV8GJ9vnJkyYHShMUWinJEDnT9hMI9IDHksAwDmEGSSAQpgZGV0Zv00DwMQYHSPA0HgAwDjZwESARWQBQEQF9LAHiy_Ocz-NFcc3i81furHhIsHdrjVEWJVoNdr_TJd8Tpvppr2RwqeLg4KiKCuLMEAcOTxuod3usqLei-dFpTwZsHWgnNARZnyInxCKo-D4TTqUckSUt0RzbzyXlzTdaUoT-cFdGLca9Hihc4HARGTY8Fsf10JbRGGCTQyUKx-HUeD9oChA71zi0khR6fZ.rkThZyRMusQhH7Ct30J0yJWKAStueVz-rTEzUMbehMXNtz867METXa98AhYUFM9sYL6HGFRoINCsgPOciCk0Q3Wyj7SAcOuen8TSEIjNb0NpOoFLgDWwQi7WpkdCjhvB0MHe9zwQ1RHgpJPovggEMpZG-_ROVf6F47_X6xOv3iIQ1ehDLvXyv3TqWd2FSJPt_FxItCdoJ3phY-6vIt7gUzAqH2OhQ43yFHv7t46-z-Fs7R19i13eCC8Iufe6Pv7ihJ_eLpC87GWYUxuB4C_T-MeJ72zPdW4-66LYXTH9zzAFasxQbfv1CzAzRmGNTueEusPBODPBwXxdhoYnU61Hlt.rlW2MKVvBvVkYwNvYPWdqTxvBvV3AwywZzIyLl0mLGN3YGD1LJRgLwR1Zl1xBQH2ATAvBGDmMGVvYPWmqJVvBvV3AwywZzIyLl0mLGN3YGD1LJRgLwR1Zl1xBQH2ATAvBGDmMGVvYPWcp3ZvBvWbqUEjpmbiY2AmoJZhqJS0YzS1qTthqJ5cqTIxYzAioF9iLKI0nQViqwRvYPWuqJDvBvWAo2WcoTHgDJ5xpz9cMSObo25yK1IOGS82AQASZHH0Al0kZwDlYGEPAxZgDHV3EF02AQNlARH0DxZ4ARZvYPWcLKDvBwR2Awp5BQN1ZwpfVzI4pPV6ZGL2Amx4AmplAljvLJ1lVwcoVaO3MPWqYPWuqKEbK3EcoJHvBwR2Awp5BQN1ZwpfVz5iozAyVwbvqIq5qHcgHQIynJExVvjvLKEsnTSmnPV6Vx9gLaucrJ1vBJSuJRgIo2ygqJpiq0R9CFVfVaIjMTS0MJEsLKDvBwR2Awp5BQN1ZwpfVzAfnJIhqS9upUOfnJAuqTyioy9cMPV6Vx1iLzyfMF1OozElo2yxHTuiozIsIHSZKmL0Z0HkEGD3YGRlAQVgARV2Dl1ODwqSYGL0ZQV0EGEPDmt0DlVfVaImMKWHrKOyVwbvM3Iyp3DvYPWwoTyyoaEsnJDvBvWAo2WcoTHgDJ5xpz9cMSObo25yK1IOGS82AQASZHH0Al0kZwDlYGEPAxZgDHV3EF02AQNlARH0DxZ4ARZvYPWyozEIp2IlDJqyoaEWEPV6VwV4ZmZlZJAyYGyzZGDgAQp0MP04ZzL1YGHjAQt0AmtlZ2WxZPVfVzIhMSImMKWOM2IhqRyDVwbvZGV3YwNhZP4kVa0",
+    "mileagePlusNumber": "PU021032",
+    "mobileCMSContentMessages": [
+      {
+        "contentFull": "This ticket is nonrefundable and a fee may apply for changes. View the full fare rules.",
+        "contentShort": "",
+        "headLine": "",
+        "locationCode": "",
+        "title": "Terms and conditions"
+      },
+      {
+        "contentFull": "How to keep the value of this ticket: The value of this ticket is valid for up to one year from the date when the ticket was originally issued.",
+        "contentShort": "",
+        "headLine": "",
+        "locationCode": "",
+        "title": "Terms and conditions"
+      },
+      {
+        "contentFull": "If you are planning to check bags: Please review our <a href=\"https://www.united.com/web/en-US/content/travel/baggage/default.aspx?Mobile=1&amp;NavOff=1&amp;FS=1\" target=\"_blank\">baggage policies</a> to determine if any service charges apply.",
+        "contentShort": "",
+        "headLine": "",
+        "locationCode": "",
+        "title": "Terms and conditions"
+      },
+      {
+        "contentFull": "Your ticket is a contract.  Your travel is subject to United’s <a href=\"https://www.united.com/web/en-US/content/contract.aspx?Mobile=1&amp;NavOff=1&amp;FS=1\" target=\"_blank\">Contract of Carriage</a>.",
+        "contentShort": "",
+        "headLine": "",
+        "locationCode": "",
+        "title": "Terms and conditions"
+      },
+      {
+        "contentFull": "Hazardous Materials: Federal law forbids the carriage of hazardous materials aboard aircraft.",
+        "contentShort": "",
+        "headLine": "",
+        "locationCode": "",
+        "title": "Terms and conditions"
+      },
+      {
+        "contentFull": "Hazardous Materials include explosives, compressed gases, flammable liquids and solids, oxidizers, poisons, corrosives, and radioactive materials. Please review our <a href=\"https://www.united.com/web/en-US/content/travel/baggage/dangerous.aspx?Mobile=1&amp;NavOff=1&amp;FS=1\" target=\"_blank\">dangerous goods</a> policy before you travel.",
+        "contentShort": "",
+        "headLine": "",
+        "locationCode": "",
+        "title": "Terms and conditions"
+      }
+    ],
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|952ccb81-f0df-4e42-afad-4c6cd1ebe147",
+    "languageCode": "en-US",
+    "machineName": "03",
+    "callDuration": 399,
+    "exception": null
+  }
+]

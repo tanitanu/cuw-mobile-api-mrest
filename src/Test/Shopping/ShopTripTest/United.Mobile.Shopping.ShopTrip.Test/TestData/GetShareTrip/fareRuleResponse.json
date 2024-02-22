@@ -1,0 +1,17 @@
+[
+  {
+    "Errors": [],
+    "FareRules": [
+      {
+        "Origin": "HOU",
+        "Destination": "CHI",
+        "FareBasisCode": "VAA0OKEN",
+        "ServiceClass": "V",
+        "RulesList": null
+      }
+    ],
+    "Status": 0,
+    "Warnings": []
+  }
+]
+

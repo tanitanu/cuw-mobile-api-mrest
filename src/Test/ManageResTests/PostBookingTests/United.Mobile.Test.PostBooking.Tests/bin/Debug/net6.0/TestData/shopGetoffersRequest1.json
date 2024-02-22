@@ -1,0 +1,21 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "isFromViewResSeatMap": false,
+    "languageCode": "en-US",
+    "productCodes": "PCU,PBS",
+    "sessionId": "0F8371E8B6A54AFBB6D04AAC3DE3F4AE",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|28fd8eff-7f53-4d1f-bf24-cdedf3ad4539"
+  }
+
+]

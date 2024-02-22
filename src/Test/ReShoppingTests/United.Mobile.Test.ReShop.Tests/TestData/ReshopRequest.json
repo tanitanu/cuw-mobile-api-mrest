@@ -1,0 +1,463 @@
+[
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "classOfServices": "",
+    "countryCode": "US",
+    "employeeDiscountId": "",
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": true,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lastName": "LSDM",
+    "lengthOfCalendar": 0,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "",
+    "numberOfAdults": 1,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "premierStatusLevel": 0,
+    "promotionCode": "",
+    "recordLocator": "EYT8HT",
+    "reshopSegments": [
+      {
+        "actionCode": "HK1",
+        "actualMileage": "140",
+        "aircraft": {
+          "code": "319",
+          "longName": "Airbus A319",
+          "shortName": ""
+        },
+        "arrival": {
+          "city": "Austin",
+          "code": "AUS",
+          "name": "Austin, TX (AUS)"
+        },
+        "bundles": [],
+        "classOfService": "W",
+        "classOfServiceDescription": "United Economy",
+        "codeshareCarrier": {
+          "code": "UA",
+          "flightNumber": "468",
+          "name": ""
+        },
+        "codeshareFlightNumber": "",
+        "complimentaryInstantUpgradeMessage": "",
+        "departure": {
+          "city": "Houston",
+          "code": "IAH",
+          "name": "Houston, TX (IAH)"
+        },
+        "emp": "",
+        "flightNumber": "468",
+        "flightTime": "59 MN",
+        "formattedScheduledArrivalDate": "",
+        "formattedScheduledArrivalDateTime": "",
+        "formattedScheduledArrivalTime": "",
+        "formattedScheduledDepartureDate": "",
+        "formattedScheduledDepartureDateTime": "",
+        "formattedScheduledDepartureTime": "",
+        "groundTime": "00:00:00",
+        "isElf": false,
+        "isIBE": false,
+        "isNonPartnerFlight": false,
+        "lmxProducts": [],
+        "lowestEliteLevel": 1,
+        "marketingCarrier": {
+          "code": "UA",
+          "flightNumber": "468",
+          "name": "United Airlines"
+        },
+        "meal": "Meals are not offered for this flight",
+        "mileagePlusMileage": "140",
+        "numberOfStops": "",
+        "operationoperatingCarrier": {
+          "code": "UA",
+          "flightNumber": "",
+          "name": "United Airlines"
+        },
+        "remove": false,
+        "scheduledArrivalDateTime": "2/1/2022 1:19 PM",
+        "scheduledArrivalDateTimeGMT": "2/1/2022 7:19 PM",
+        "scheduledArrivalTimeGMT": "",
+        "scheduledDepartureDateTime": "2/1/2022 12:20 PM",
+        "scheduledDepartureDateTimeGMT": "2/1/2022 6:20 PM",
+        "scheduledDepartureTimeGMT": "",
+        "seats": [
+          {
+            "eddNumber": "",
+            "number": "22F",
+            "passengerSHARESPosition": "1.1",
+            "price": 0.0,
+            "seatLetter": "",
+            "seatRow": ""
+          }
+        ],
+        "segmentNumber": 1,
+        "stops": [],
+        "totalMileagePlusMileage": "",
+        "totalTravelTime": "",
+        "tripNumber": "1",
+        "upgradeEligible": true,
+        "upgradeVisibility": {
+          "carrierCode": "UA",
+          "classOfService": "W",
+          "decodedUpgradeMessage": "CPU Eligible",
+          "departureDateTime": "02/01/2022 12:20 PM",
+          "destination": "AUS",
+          "flightNumber": 468,
+          "origin": "IAH",
+          "previousSegmentActionCode": "NN",
+          "segmentActionCode": "HK1",
+          "segmentNumber": 1,
+          "upgradeMessage": "SegmentIsQualifiedForComplimentaryUpgrade",
+          "upgradeRemark": "You are eligible for a space available complimentary upgrade to United First on this flight. When available, these upgrades are cleared automatically and in priority order on the day of departure. \n\nAfter checking in, view your status on the upgrade standby list by checking Flight Status on the United app. If you do not see your name on the list, please see a United representative at the airport.",
+          "upgradeStatus": 2,
+          "waitlistSegments": []
+        },
+        "upgradeable": false,
+        "upgradeableMessage": "",
+        "upgradeableMessageCode": "",
+        "upgradeableRemark": "",
+        "waitedCOSDesc": "",
+        "waitlisted": false
+      },
+      {
+        "actionCode": "HK1",
+        "actualMileage": "978",
+        "aircraft": {
+          "code": "738",
+          "longName": "Boeing 737-800",
+          "shortName": ""
+        },
+        "arrival": {
+          "city": "Chicago",
+          "code": "ORD",
+          "name": "Chicago, IL (ORD)"
+        },
+        "bundles": [],
+        "classOfService": "S",
+        "classOfServiceDescription": "United Economy",
+        "codeshareCarrier": {
+          "code": "UA",
+          "flightNumber": "790",
+          "name": ""
+        },
+        "codeshareFlightNumber": "",
+        "complimentaryInstantUpgradeMessage": "",
+        "departure": {
+          "city": "Austin",
+          "code": "AUS",
+          "name": "Austin, TX (AUS)"
+        },
+        "emp": "",
+        "flightNumber": "790",
+        "flightTime": "2 HR 42 MN",
+        "formattedScheduledArrivalDate": "",
+        "formattedScheduledArrivalDateTime": "",
+        "formattedScheduledArrivalTime": "",
+        "formattedScheduledDepartureDate": "",
+        "formattedScheduledDepartureDateTime": "",
+        "formattedScheduledDepartureTime": "",
+        "groundTime": "00:00:00",
+        "isElf": false,
+        "isIBE": false,
+        "isNonPartnerFlight": false,
+        "lmxProducts": [],
+        "lowestEliteLevel": 1,
+        "marketingCarrier": {
+          "code": "UA",
+          "flightNumber": "790",
+          "name": "United Airlines"
+        },
+        "meal": "Snacks for Purchase",
+        "mileagePlusMileage": "978",
+        "numberOfStops": "",
+        "operationoperatingCarrier": {
+          "code": "UA",
+          "flightNumber": "",
+          "name": "United Airlines"
+        },
+        "remove": false,
+        "scheduledArrivalDateTime": "2/1/2022 4:52 PM",
+        "scheduledArrivalDateTimeGMT": "2/1/2022 10:52 PM",
+        "scheduledArrivalTimeGMT": "",
+        "scheduledDepartureDateTime": "2/1/2022 2:10 PM",
+        "scheduledDepartureDateTimeGMT": "2/1/2022 8:10 PM",
+        "scheduledDepartureTimeGMT": "",
+        "seats": [
+          {
+            "eddNumber": "",
+            "number": "15C",
+            "passengerSHARESPosition": "1.1",
+            "price": 0.0,
+            "seatLetter": "",
+            "seatRow": ""
+          }
+        ],
+        "segmentNumber": 2,
+        "stops": [],
+        "totalMileagePlusMileage": "",
+        "totalTravelTime": "",
+        "tripNumber": "1",
+        "upgradeEligible": true,
+        "upgradeVisibility": {
+          "carrierCode": "UA",
+          "classOfService": "S",
+          "decodedUpgradeMessage": "CPU Eligible",
+          "departureDateTime": "02/01/2022 02:10 PM",
+          "destination": "ORD",
+          "flightNumber": 790,
+          "origin": "AUS",
+          "previousSegmentActionCode": "NN",
+          "segmentActionCode": "HK1",
+          "segmentNumber": 2,
+          "upgradeMessage": "SegmentIsQualifiedForComplimentaryUpgrade",
+          "upgradeRemark": "You are eligible for a space available complimentary upgrade to United First on this flight. When available, these upgrades are cleared automatically and in priority order on the day of departure. \n\nAfter checking in, view your status on the upgrade standby list by checking Flight Status on the United app. If you do not see your name on the list, please see a United representative at the airport.",
+          "upgradeStatus": 2,
+          "waitlistSegments": []
+        },
+        "upgradeable": false,
+        "upgradeableMessage": "",
+        "upgradeableMessageCode": "",
+        "upgradeableRemark": "",
+        "waitedCOSDesc": "",
+        "waitlisted": false
+      }
+    ],
+    "reshopTravelers": [
+      {
+        "birthDate": "8/31/1988 12:00:00 AM",
+        "contact": {
+          "emails": [
+            {
+              "emailAddress": "SUSHREE.LOPAMUDRA@UNITED.COM",
+              "isDefault": false,
+              "isPrimary": false,
+              "isPrivate": false,
+              "key": "5"
+            }
+          ],
+          "phoneNumbers": []
+        },
+        "earnedMiles": {
+          "awardMileTotalFormated": "1,862",
+          "awardMileTotalShort": "1862",
+          "earnedMilesType": "VBQ",
+          "firstName": "FNAMEA",
+          "isHasInelligibleSegment": false,
+          "isMember": true,
+          "lastName": "LSDM",
+          "memberLevelText": "Premier Silver",
+          "nonMemberMessage": "",
+          "pqdTotalFormated": "--",
+          "pqdTotalShort": "",
+          "pqfTotalFormated": "2",
+          "pqfTotalShort": "2",
+          "pqmTotalFormated": "--",
+          "pqmTotalShort": "",
+          "pqpTotalFormated": "266",
+          "pqpTotalShort": "266",
+          "pqsTotalFormated": "--",
+          "pqsTotalShort": "",
+          "rowData": [
+            {
+              "awardMileText": "1,862",
+              "isElligibleForEarnings": true,
+              "pqdText": "--",
+              "pqfText": "2",
+              "pqmText": "--",
+              "pqpText": "266",
+              "pqsText": "--",
+              "secondLineText": "",
+              "segmentText": "IAH - ORD"
+            }
+          ]
+        },
+        "knownTravelerNumber": "123456789",
+        "mileagePlus": {
+          "accountBalance": 0,
+          "activeStatusCode": "",
+          "activeStatusDescription": "",
+          "allianceEliteLevel": 0,
+          "closedStatusCode": "",
+          "closedStatusDescription": "",
+          "currentEliteLevel": 1,
+          "currentEliteLevelDescription": "Premier Silver",
+          "currentYearMoneySpent": 0.0,
+          "eliteMileageBalance": 0,
+          "eliteSegmentBalance": 0,
+          "eliteSegmentDecimalPlaceValue": 0,
+          "encryptedPin": "",
+          "enrollDate": "",
+          "enrollSourceCode": "",
+          "enrollSourceDescription": "",
+          "flexPqmBalance": 0,
+          "futureEliteDescription": "",
+          "futureEliteLevel": 0,
+          "instantEliteExpirationDate": "",
+          "isCEO": false,
+          "isClosedPermanently": false,
+          "isClosedTemporarily": false,
+          "isCurrentTrialEliteMember": false,
+          "isFlexPqm": false,
+          "isInfiniteElite": false,
+          "isLifetimeCompanion": false,
+          "isLockedOut": false,
+          "isMergePending": false,
+          "isPresidentialPlus": false,
+          "isUnitedClubMember": false,
+          "key": "",
+          "lastActivityDate": "",
+          "lastExpiredMile": 0,
+          "lastFlightDate": "",
+          "lastStatementBalance": 0,
+          "lastStatementDate": "",
+          "lifetimeEliteLevel": 0,
+          "lifetimeEliteMileageBalance": 0,
+          "mileageExpirationDate": "",
+          "mileagePlusId": "AY305211",
+          "mileagePlusPin": "",
+          "nextYearEliteLevel": 0,
+          "nextYearEliteLevelDescription": "",
+          "priorUnitedAccountNumber": "",
+          "skyTeamEliteLevel": 0,
+          "starAllianceEliteLevel": 0
+        },
+        "oaRewardPrograms": [],
+        "passengerName": {
+          "first": "FNAMEA",
+          "last": "LSDM",
+          "middle": "",
+          "suffix": "",
+          "title": ""
+        },
+        "redressNumber": "1334568",
+        "selectedSpecialNeeds": [
+          {
+            "code": "SSMF",
+            "displayDescription": "",
+            "messages": [],
+            "subOptions": [],
+            "value": "false"
+          },
+          {
+            "code": "DOCS",
+            "displayDescription": "DOCSUAHK1/////31AUG88/M//LSDM/FNAMEA-1LSDM/FNAMEA",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          },
+          {
+            "code": "DOCO",
+            "displayDescription": "DOCOUAHK1//R/1334568///US-1LSDM/FNAMEA",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          },
+          {
+            "code": "DOCO",
+            "displayDescription": "DOCOUAHK1//K/123456789///US-1LSDM/FNAMEA",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          },
+          {
+            "code": "CTCE",
+            "displayDescription": "CTCEUAHK1/SUSHREE.LOPAMUDRA//UNITED.COM-1LSDM/FNAMEA",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          },
+          {
+            "code": "TKNE",
+            "displayDescription": "TKNEUAXX1IAHORD0503T31JAN-1LSDM/FNAMEA.01623875412924C1",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          },
+          {
+            "code": "TKNE",
+            "displayDescription": "TKNEUAHK1IAHAUS0468W01FEB-1LSDM/FNAMEA.01623875414103C1",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          },
+          {
+            "code": "TKNE",
+            "displayDescription": "TKNEUAHK1AUSORD0790S01FEB-1LSDM/FNAMEA.01623875414103C2",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          },
+          {
+            "code": "FQTV",
+            "displayDescription": "AY305211.2*SILVER",
+            "messages": [],
+            "subOptions": [],
+            "value": "SSR"
+          }
+        ],
+        "sharesGivenName": "FNAMEA",
+        "sharesPosition": "1.1",
+        "travelerTypeCode": "ADT"
+      }
+    ],
+    "resultSortType": "R",
+    "searchType": "OW",
+    "serviceType": "",
+    "sessionId": "073CB95D10664044830BB28740044DAE",
+    "showMileageDetails": false,
+    "trips": [
+      {
+        "cabin": "Economy",
+        "changeType": 0,
+        "departDate": "02/01/2022",
+        "destination": "ORD",
+        "origin": "IAH",
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "shareMessage": "",
+        "useFilters": false
+      },
+      {
+        "cabin": "Economy",
+        "changeType": 1,
+        "departDate": "02/01/2022",
+        "destination": "ORD",
+        "origin": "IAH",
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "shareMessage": "",
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.39",
+        "minor": "4.1.39"
+      }
+    },
+    "deviceId": "27e6f866-2957-40c7-999f-83521e0e6f3f",
+    "languageCode": "en-US",
+    "transactionId": "27e6f866-2957-40c7-999f-83521e0e6f3f|bbc8d73b-fe79-4c89-994c-32ca9f831762"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "isCatalogOnForTavelerTypes": true,
+    "unfinishedBookings": [
+      {
+        "cartId": "",
+        "channelType": "MOBILE",
+        "countryCode": "US",
+        "displayPrice": "$173",
+        "id": "7F9943DB-1615-487D-98C0-D9353B522A3B",
+        "isELF": false,
+        "isIBE": false,
+        "isSharedFlightRequest": false,
+        "numberOfAdults": 0,
+        "numberOfChildren12To17": 0,
+        "numberOfChildren2To4": 0,
+        "numberOfChildren5To11": 0,
+        "numberOfInfantOnLap": 0,
+        "numberOfInfantWithSeat": 0,
+        "numberOfSeniors": 0,
+        "searchExecutionDate": "04/20/2022 10:27:13 AM",
+        "searchType": "OW",
+        "travelerTypes": [
+          {
+            "count": 1,
+            "travelerType": "Adult"
+          }
+        ],
+        "trips": [
+          {
+            "arrivalDate": "5/9/2022",
+            "arrivalTime": "8:49 AM",
+            "departDate": "5/9/2022",
+            "departTime": "6:00 AM",
+            "destination": "IAH",
+            "flights": [
+              {
+                "bookingCode": "S",
+                "departDateTime": "2022-05-09 06:00",
+                "destination": "IAH",
+                "flightNumber": "2246",
+                "marketingCarrier": "UA",
+                "origin": "ORD",
+                "productType": "ECONOMY",
+                "products": [
+                  {
+                    "bookingCode": "S",
+                    "productType": "ECONOMY",
+                    "tripIndex": 0
+                  }
+                ]
+              }
+            ],
+            "origin": "ORD"
+          }
+        ]
+      },
+      {
+        "cartId": "421CE607-3A77-4386-86FA-FED0077B2D89|1=159||66=3208||6=57||2=1882||3=3|CSLSHOP=1.61||4=460||5=476||3452",
+        "countryCode": "US",
+        "displayPrice": "$139",
+        "isELF": false,
+        "isIBE": false,
+        "isSharedFlightRequest": false,
+        "numberOfAdults": 0,
+        "numberOfChildren12To17": 0,
+        "numberOfChildren2To4": 0,
+        "numberOfChildren5To11": 0,
+        "numberOfInfantOnLap": 0,
+        "numberOfInfantWithSeat": 0,
+        "numberOfSeniors": 0,
+        "searchExecutionDate": "04/20/2022 5:40:54 AM",
+        "searchType": "OW",
+        "travelerTypes": [
+          {
+            "count": 1,
+            "travelerType": "Adult"
+          },
+          {
+            "count": 0,
+            "travelerType": "Senior"
+          },
+          {
+            "count": 0,
+            "travelerType": "Child15To17"
+          },
+          {
+            "count": 0,
+            "travelerType": "Child12To14"
+          },
+          {
+            "count": 0,
+            "travelerType": "Child5To11"
+          },
+          {
+            "count": 0,
+            "travelerType": "Child2To4"
+          },
+          {
+            "count": 0,
+            "travelerType": "InfantSeat"
+          },
+          {
+            "count": 0,
+            "travelerType": "InfantLap"
+          }
+        ],
+        "trips": [
+          {
+            "arrivalDate": "05/09/2022",
+            "arrivalTime": "8:47am",
+            "departDate": "05/09/2022",
+            "departTime": "5:26am",
+            "destination": "IAH",
+            "flights": [
+              {
+                "bookingCode": "T",
+                "departDateTime": "05/09/2022 05:26 AM",
+                "destination": "IAH",
+                "flightNumber": "1415",
+                "marketingCarrier": "UA",
+                "origin": "DEN",
+                "productType": "ECONOMY"
+              }
+            ],
+            "origin": "DEN"
+          }
+        ]
+      }
+    ],
+    "cartId": "",
+    "customerId": 0,
+    "flow": "",
+    "isOmniCartSavedTrip": false,
+    "isRemoveAll": false,
+    "premierStatusLevel": 0,
+    "sessionId": "",
+    "showOmniCartIndicator": false,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.48",
+        "minor": "4.1.48"
+      }
+    },
+    "deviceId": "346ac443-40f2-4799-9cb6-f38a04a7e85c",
+    "languageCode": "en-US",
+    "transactionId": "346ac443-40f2-4799-9cb6-f38a04a7e85c|bbb7197e-0206-4f14-ad96-0792062257be"
+  }
+]

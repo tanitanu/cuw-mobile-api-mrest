@@ -1,0 +1,36 @@
+[
+  {
+    "Session": {
+      "ObjectName": "United.Persist.Definition.Shopping.Session",
+      "Token": "Bearer rlWuoTpvBvWFHmV1AvVfVzgcMPV6VzL0MGt1ZGuxYJWxBJHgATSzBP1uAwpkYJH2ZGR2MzWyBJAxZFW9.NNV8GJ9vnJkyYHShMUWinJEDnT9hMI9IDHksAwDmEGSSAQpgZGV0Zv00DwMQYHSPA0HgAwDjZwESARWQBQEQkp7OU0ISVq4RapwNsgWPj9wJEV-b7hGzKVlmZNrwgCTLCdn6kimFTQqRRkMu1LjeT_8rZEkVmBsO9Lwx6n6EUXT1chkHhyIhWA1sZBZs2VickV2qQw4YAjHsVIPlOj7No4uIEt9EqBFw26XTeXcvWROPujibWoP-A3byKeEHI62GIre88vnO_n-5j6dEgER5.CaVDaxOplyQJw0Y-YeOQWKS1-2iYg7dZL7mW9FYTCpH-lQQyDsw3GUnqf6V0fbeGOKVMbKfI76tfO-suBoRRhG2cFzq5JfcLhTbVHkOoVf0M5i6_f8Ock4qRpr7X2k4fc-Sjqlor50ZUXaFVW8Zt5zJeRHBfUQBWEIOgxpi2fzTA9CeV572Z_iKGzIAHIFAahO6nTg_X7bxzvaNW64Lo3ASaZKho2Bg_2Q4DeQefB5D2A1rnZEwwfPGKgcW3hMaVIStuZnpeWAb0vXPbPb-ZX0BIdf01gygh56zD48r4jarx_HV_vNwkpCicIdke7Ie7_mpkhpebt7y3yYTf6Mf-9j.rlW2MKVvBvVkYwNvYPWdqTxvBvWwA2LmLmqwZv1xZQx0YGDmBGLgLGRlZl1uLmAyAwuvATRkZmRvYPWmqJVvBvWwA2LmLmqwZv1xZQx0YGDmBGLgLGRlZl1uLmAyAwuvATRkZmRvYPWcp3ZvBvWbqUEjpmbiY2AmoJZhpJRhLKI0nP51ozy0MJDhL29gY29uqKEbZv92ZFVfVzS1MPV6Vx1iLzyfMF1OozElo2yxHTuiozIsIHSZKmL0Z0HkEGD3YGRlAQVgARV2Dl1ODwqSYGL0ZQV0EGEPDmt0DlVfVzyuqPV6ZGL0ZwHkAwt4BPjvMKujVwbkAwDlAGV0ZQt4YPWuoKVvByfvpUqxVy0fVzS1qTusqTygMFV6ZGL0ZwHkAwt4BPjvoz9hL2HvBvWlMRqdGJuDZzcWHH4vYPWuqS9bLKAbVwbvnKSfX3IyMaOKX2gZJaqGZ3yCJJLeMm09VvjvqKOxLKEyMS9uqPV6ZGL0ZwHkAwt4BPjvL2kcMJ50K2SjpTkcL2S0nJ9hK2yxVwbvGJ9vnJkyYHShMUWinJEDnT9hMI9IDHksAwDmEGSSAQpgZGV0Zv00DwMQYHSPA0HgAwDjZwESARWQBQEQVvjvqKAypyE5pTHvBvWaqJImqPVfVzAfnJIhqS9cMPV6Vx1iLzyfMF1OozElo2yxHTuiozIsIHSZKmL0Z0HkEGD3YGRlAQVgARV2Dl1ODwqSYGL0ZQV0EGEPDmt0DlVfVzIhMSImMKWOM2IhqRyRVwbvVvjvMJ5xIKAypxSaMJ50FINvBvVkZwphZP4jYwRvsD",
+      "IsTokenAuthenticated": "false",
+      "TokenExpireDateTime": "2022-01-18T10:41:28.8414374-06:00",
+      "TokenExpirationValueInSeconds": "7200",
+      "IsTokenExpired": "false",
+      "SessionId": "073CB95D10664044830BB28740044DAE",
+      "CartId": "21A92CD0-7C45-48D9-BAC9-87C4B85D325D",
+      "CreationTime": "2022-01-18T08:40:12.356611-06:00",
+      "LastSavedTime": "2022-01-18T08:41:54.9277065-06:00",
+      "CustomerID": "0",
+      "MileagPlusNumber": "",
+      "SupressLMXForAppID": "true",
+      "EmployeeId": "",
+      "DeviceID": "27e6f866-2957-40c7-999f-83521e0e6f3f",
+      "AppID": "2",
+      "IsMeta": "false",
+      "ShopSearchTripCount": "1",
+      "IsReshopChange": "true",
+      "IsAward": "false",
+      "IsExpertModeEnabled": "false",
+      "IsYoungAdult": "false",
+      "IsFSRRedesign": "false",
+      "ShopHasNonStop": "-1",
+      "SelectTripHasNonStop": "-1",
+      "IsCorporateBooking": "false",
+      "IsArrangerBooking": "false",
+      "TravelType": "",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+    }
+  }
+]

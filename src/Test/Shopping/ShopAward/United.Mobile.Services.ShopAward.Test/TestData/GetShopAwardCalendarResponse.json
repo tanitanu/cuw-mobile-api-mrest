@@ -1,0 +1,243 @@
+[
+  {
+    "awardCalendarRequest": null,
+    "cartId": "F962E282-C8AF-401B-9D71-3FD07CAF41A1",
+    "sessionID": "F962E282C8AF401B9D713FD07CAF41A1",
+    "awardDynamicCalendar": {
+      "awardcalendars": [
+        {
+          "calendarWeek": [
+            {
+              "week": "Mon, 29",
+              "priceMiles": "14.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "11/29/2021"
+            },
+            {
+              "week": "Tue, 30",
+              "priceMiles": "14.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "11/30/2021"
+            },
+            {
+              "week": "Wed, 1",
+              "priceMiles": "14.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/01/2021"
+            },
+            {
+              "week": "Thu, 2",
+              "priceMiles": "13K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/02/2021"
+            },
+            {
+              "week": "Fri, 3",
+              "priceMiles": "12.8K miles + $5.60",
+              "isLowest": true,
+              "notAvailableText": null,
+              "originalDate": "12/03/2021"
+            },
+            {
+              "week": "Sat, 4",
+              "priceMiles": "12.8K miles + $5.60",
+              "isLowest": true,
+              "notAvailableText": null,
+              "originalDate": "12/04/2021"
+            },
+            {
+              "week": "Sun, 5",
+              "priceMiles": "12.8K miles + $5.60",
+              "isLowest": true,
+              "notAvailableText": null,
+              "originalDate": "12/05/2021"
+            }
+          ],
+          "cabinType": "Economy",
+          "isDefaultSelected": true
+        },
+        {
+          "calendarWeek": [
+            {
+              "week": "Mon, 29",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "11/29/2021"
+            },
+            {
+              "week": "Tue, 30",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "11/30/2021"
+            },
+            {
+              "week": "Wed, 1",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/01/2021"
+            },
+            {
+              "week": "Thu, 2",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/02/2021"
+            },
+            {
+              "week": "Fri, 3",
+              "priceMiles": "27.6K miles + $5.60",
+              "isLowest": true,
+              "notAvailableText": null,
+              "originalDate": "12/03/2021"
+            },
+            {
+              "week": "Sat, 4",
+              "priceMiles": "27.6K miles + $5.60",
+              "isLowest": true,
+              "notAvailableText": null,
+              "originalDate": "12/04/2021"
+            },
+            {
+              "week": "Sun, 5",
+              "priceMiles": "32.1K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/05/2021"
+            }
+          ],
+          "cabinType": "Business",
+          "isDefaultSelected": false
+        },
+        {
+          "calendarWeek": [
+            {
+              "week": "Mon, 29",
+              "priceMiles": null,
+              "isLowest": false,
+              "notAvailableText": "Not Available",
+              "originalDate": "11/29/2021"
+            },
+            {
+              "week": "Tue, 30",
+              "priceMiles": null,
+              "isLowest": false,
+              "notAvailableText": "Not Available",
+              "originalDate": "11/30/2021"
+            },
+            {
+              "week": "Wed, 1",
+              "priceMiles": null,
+              "isLowest": false,
+              "notAvailableText": "Not Available",
+              "originalDate": "12/01/2021"
+            },
+            {
+              "week": "Thu, 2",
+              "priceMiles": null,
+              "isLowest": false,
+              "notAvailableText": "Not Available",
+              "originalDate": "12/02/2021"
+            },
+            {
+              "week": "Fri, 3",
+              "priceMiles": null,
+              "isLowest": false,
+              "notAvailableText": "Not Available",
+              "originalDate": "12/03/2021"
+            },
+            {
+              "week": "Sat, 4",
+              "priceMiles": null,
+              "isLowest": false,
+              "notAvailableText": "Not Available",
+              "originalDate": "12/04/2021"
+            },
+            {
+              "week": "Sun, 5",
+              "priceMiles": null,
+              "isLowest": false,
+              "notAvailableText": "Not Available",
+              "originalDate": "12/05/2021"
+            }
+          ],
+          "cabinType": "First",
+          "isDefaultSelected": false
+        },
+        {
+          "calendarWeek": [
+            {
+              "week": "Mon, 29",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "11/29/2021"
+            },
+            {
+              "week": "Tue, 30",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "11/30/2021"
+            },
+            {
+              "week": "Wed, 1",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/01/2021"
+            },
+            {
+              "week": "Thu, 2",
+              "priceMiles": "27.8K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/02/2021"
+            },
+            {
+              "week": "Fri, 3",
+              "priceMiles": "27.6K miles + $5.60",
+              "isLowest": true,
+              "notAvailableText": null,
+              "originalDate": "12/03/2021"
+            },
+            {
+              "week": "Sat, 4",
+              "priceMiles": "27.6K miles + $5.60",
+              "isLowest": true,
+              "notAvailableText": null,
+              "originalDate": "12/04/2021"
+            },
+            {
+              "week": "Sun, 5",
+              "priceMiles": "32.1K miles + $5.60",
+              "isLowest": false,
+              "notAvailableText": null,
+              "originalDate": "12/05/2021"
+            }
+          ],
+          "cabinType": "Business/First",
+          "isDefaultSelected": false
+        }
+      ],
+      "originDestination": "Houston to Chicago",
+      "awardSubTitleText": "Calendar displays lowest award fare available for that date in the selected cabin",
+      "dateRangeDisplay": "November 29-December 5, 2021",
+      "isLeftArrowDisabled": true,
+      "isRightArrowDisabled": false
+    },
+    "callDurationText": null,
+    "transactionId": "e3e8b501-f154-4c44-b81d-135cdf07759a|42dfbb6a-301c-4ce7-acfd-0e8e60d63c08",
+    "languageCode": "en-US",
+    "machineName": "03",
+    "callDuration": 3479,
+    "exception": null
+  }
+
+]

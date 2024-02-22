@@ -1,0 +1,131 @@
+{
+  "ObjectName": "United.Mobile.CCE.Service.Presentation.Personalization",
+  "ContextualCommResponseJson": "{\n \"SessionId\": \"bfe21c2a-3ad5-4c18-9a16-4f8bfe191cf3\",\n \"MileagePlusId\": \"MR722052\",\n \"CustomerProfile\": {\n \"MileagePlusProfile\": {\n \"LoyaltyProgramMemberTierDescription\": 0,\n \"FirstName\": \"test\",\n \"LastName\": \"jeste\"\n }\n },\n \"Components\": [\n {\n \"ContextualElements\": [\n {\n \"Type\": \"ContextualMessage\",\n \"Value\": {\n \"MessageKey\": \"480.P.35K2KAFW250SC_020121.250SC35KBM.RTI\",\n \"MessageType\": \"ContextualMessage\",\n \"Params\": {\n \"OfferTrackingId\": null,\n \"IsChaseOffer\": \"true\",\n \"StatementCredit\": \"250\",\n \"DoTheMath\": \"true\"\n },\n \"Content\": {\n \"Misc\": [],\n \"Links\": [\n {\n \"Link\": \"https://united.chase-stage3.archer-group.com/35k250afwic?CELL=TFD&int_source=loyalty&mode=d&int_medium=mob&int_campaign=0480_35k2kafw250sc_020121&alm=493479&int_content=250sc35kbm&partner_category=cc&partner_name=chase_acq&asset_type=shopping_path&asset_position=rti&promo_code=cell_tfd&targeting=pnc&launch_date=2021-07-01&rpc=0480&campaign_type=cce&offer_trackingid=null&source_code=null\",\n \"Target\": \"_blank\",\n \"ComponentTitle\": \"http://unitedexplorercard.com - 474787 - DMM\",\n \"ComponentSchema\": \"external_link\",\n \"IsExternalLink\": true\n }\n ],\n \"Images\": [\n {\n \"Url\": \"https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns%202021/02-February/SP_RTI_35K_250_SC_Offer_474787_DMM/070121_828x272_35K_RTI_NonLTO_v2.png\",\n \"MimeType\": \"application/externalcontentlibrary\",\n \"FileName\": \"76-um-E5ACFB6C!2D;6B8A!2D;4BAA!2D;890A!2D;531F18A3F385-img-file.ecl\",\n \"AltText\": \"Advertisement: Learn how to earn a $250 statement credit and 35,000 bonus miles with the United Explorer Card.\",\n \"FileExtension\": \"ecl\",\n \"Width\": 828,\n \"Height\": 272\n },\n {\n \"Url\": \"https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns%202021/02-February/SP_RTI_35K_250_SC_Offer_474787_DMM/070121_3072x369_35K_RTI_Tablet_NonLTO_v2.png\",\n \"MimeType\": \"application/externalcontentlibrary\",\n \"FileName\": \"76-um-F99B3706!2D;BE7F!2D;4865!2D;A2F0!2D;D75DCDDB295D-img-file.ecl\",\n \"AltText\": \"Advertisement: Learn how to earn a $250 statement credit and 35,000 bonus miles with the United Explorer Card.\",\n \"FileExtension\": \"ecl\",\n \"Width\": 3072,\n \"Height\": 369\n }\n ],\n \"ComponentTitle\": \"RTI - 480.P.35K2KAFW250SC_020121.250SC35KBM.RTI - 474787 - DMM\",\n \"ComponentSchema\": \"general_content_basic_rich_text\",\n \"Location\": \"ChaseBannerRTI\",\n \"OrderIndex\": 1,\n \"PersonalizationKey\": \"480.P.35K2KAFW250SC_020121.250SC35KBM.RTI\"\n }\n },\n \"Rank\": 1\n }\n ],\n \"Rank\": 1,\n \"Name\": \"ChaseBannerRTI\",\n \"TestGroupName\": \"ChaseRandom\"\n }\n ],\n \"TransactionID\": \"a89c5855-3aeb-4d3a-b23d-06e2e5c4cf5f\",\n \"GUIDs\": [\n {\n \"ID\": \"1a261840-ff07-4db9-9285-ee995109e39f\",\n \"Name\": \"CorrelationId\",\n \"LanguageCode\": null\n },\n {\n \"ID\": \"bfe21c2a-3ad5-4c18-9a16-4f8bfe191cf3\",\n \"Name\": \"SessionId\",\n \"LanguageCode\": null\n }\n ],\n \"TimeStamps\": [\n {\n \"FunctionName\": \"GetDataSourcesAsync\",\n \"ResponseTime\": \"00:00:00.0020000\"\n },\n {\n \"FunctionName\": \"GetRTDCustomerViewAsync\",\n \"ResponseTime\": \"00:00:00.0500000\"\n },\n {\n \"FunctionName\": \"GetCCEMessageFeedbacks\",\n \"ResponseTime\": \"00:00:00.0250000\"\n },\n {\n \"FunctionName\": \"GetOffersAsync\",\n \"ResponseTime\": \"00:00:02.1770000\"\n },\n {\n \"FunctionName\": \"GetRulesAsync\",\n \"ResponseTime\": \"00:00:00.0040000\"\n },\n {\n \"FunctionName\": \"GetDecisionsAsync\",\n \"ResponseTime\": \"00:00:00.0130000\"\n },\n {\n \"FunctionName\": \"GetContentsAsync\",\n \"ResponseTime\": \"00:00:00.0260000\"\n }\n ]\n}" ,
+  //"ContextualCommResponseJson": 
+  //  {
+  //    "SessionId": "bfe21c2a-3ad5-4c18-9a16-4f8bfe191cf3",
+  //    "MileagePlusId": "MR722052",
+  //    "CustomerProfile": {
+  //      "MileagePlusProfile": {
+  //        "LoyaltyProgramMemberTierDescription": 0,
+  //        "FirstName": "test",
+  //        "LastName": "jeste"
+  //      }
+  //    },
+  //    "Components": [
+  //      {
+  //        "ContextualElements": [
+  //          {
+  //            "Type": "ContextualMessage",
+  //            "Value": {
+  //              "MessageKey": "480.P.35K2KAFW250SC_020121.250SC35KBM.RTI",
+  //              "MessageType": "ContextualMessage",
+  //              "Params": {
+  //                "OfferTrackingId": null,
+  //                "IsChaseOffer": "true",
+  //                "StatementCredit": "250",
+  //                "DoTheMath": "true"
+  //              },
+  //              "Content": {
+  //                "Misc": [],
+  //                "Links": [
+  //                  {
+  //                    "Link": "https://united.chase-stage3.archer-group.com/35k250afwic?CELL=TFD&int_source=loyalty&mode=d&int_medium=mob&int_campaign=0480_35k2kafw250sc_020121&alm=493479&int_content=250sc35kbm&partner_category=cc&partner_name=chase_acq&asset_type=shopping_path&asset_position=rti&promo_code=cell_tfd&targeting=pnc&launch_date=2021-07-01&rpc=0480&campaign_type=cce&offer_trackingid=null&source_code=null",
+  //                    "Target": "_blank",
+  //                    "ComponentTitle": "http://unitedexplorercard.com - 474787 - DMM",
+  //                    "ComponentSchema": "external_link",
+  //                    "IsExternalLink": true
+  //                  }
+  //                ],
+  //                "Images": [
+  //                  {
+  //                    "Url": "https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns%202021/02-February/SP_RTI_35K_250_SC_Offer_474787_DMM/070121_828x272_35K_RTI_NonLTO_v2.png",
+  //                    "MimeType": "application/externalcontentlibrary",
+  //                    "FileName": "76-um-E5ACFB6C!2D;6B8A!2D;4BAA!2D;890A!2D;531F18A3F385-img-file.ecl",
+  //                    "AltText": "Advertisement: Learn how to earn a $250 statement credit and 35,000 bonus miles with the United Explorer Card.",
+  //                    "FileExtension": "ecl",
+  //                    "Width": 828,
+  //                    "Height": 272
+  //                  },
+  //                  {
+  //                    "Url": "https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns%202021/02-February/SP_RTI_35K_250_SC_Offer_474787_DMM/070121_3072x369_35K_RTI_Tablet_NonLTO_v2.png",
+  //                    "MimeType": "application/externalcontentlibrary",
+  //                    "FileName": "76-um-F99B3706!2D;BE7F!2D;4865!2D;A2F0!2D;D75DCDDB295D-img-file.ecl",
+  //                    "AltText": "Advertisement: Learn how to earn a $250 statement credit and 35,000 bonus miles with the United Explorer Card.",
+  //                    "FileExtension": "ecl",
+  //                    "Width": 3072,
+  //                    "Height": 369
+  //                  }
+  //                ],
+  //                "ComponentTitle": "RTI - 480.P.35K2KAFW250SC_020121.250SC35KBM.RTI - 474787 - DMM",
+  //                "ComponentSchema": "general_content_basic_rich_text",
+  //                "Location": "ChaseBannerRTI",
+  //                "OrderIndex": 1,
+  //                "PersonalizationKey": "480.P.35K2KAFW250SC_020121.250SC35KBM.RTI"
+  //              }
+  //            },
+  //            "Rank": 1
+  //          }
+  //        ],
+  //        "Rank": 1,
+  //        "Name": "ChaseBannerRTI",
+  //        "TestGroupName": "ChaseRandom"
+  //      }
+  //    ],
+  //    "TransactionID": "a89c5855-3aeb-4d3a-b23d-06e2e5c4cf5f",
+  //    "GUIDs": [
+  //      {
+  //        "ID": "1a261840-ff07-4db9-9285-ee995109e39f",
+  //        "Name": "CorrelationId",
+  //        "LanguageCode": null
+  //      },
+  //      {
+  //        "ID": "bfe21c2a-3ad5-4c18-9a16-4f8bfe191cf3",
+  //        "Name": "SessionId",
+  //        "LanguageCode": null
+  //      }
+  //    ],
+  //    "TimeStamps": [
+  //      {
+  //        "FunctionName": "GetDataSourcesAsync",
+  //        "ResponseTime": "00:00:00.0020000"
+  //      },
+  //      {
+  //        "FunctionName": "GetRTDCustomerViewAsync",
+  //        "ResponseTime": "00:00:00.0500000"
+  //      },
+  //      {
+  //        "FunctionName": "GetCCEMessageFeedbacks",
+  //        "ResponseTime": "00:00:00.0250000"
+  //      },
+  //      {
+  //        "FunctionName": "GetOffersAsync",
+  //        "ResponseTime": "00:00:02.1770000"
+  //      },
+  //      {
+  //        "FunctionName": "GetRulesAsync",
+  //        "ResponseTime": "00:00:00.0040000"
+  //      },
+  //      {
+  //        "FunctionName": "GetDecisionsAsync",
+  //        "ResponseTime": "00:00:00.0130000"
+  //      },
+  //      {
+  //        "FunctionName": "GetContentsAsync",
+  //        "ResponseTime": "00:00:00.0260000"
+  //      }
+  //    ]
+  //  },
+  "ContextualCommRequest": {
+    "LangCode": "EN",
+    "MileagePlusId": "MR722052",
+    "ChannelType": "MOB",
+    "IPCountry": "US",
+    "DataToLoad": [],
+    "PageToLoad": "MShoppingPathRTI",
+    "ComponentsToLoad": [ "ChaseBannerRTI" ],
+    "Travelers": [],
+    "ChannelSavedItineraries": [],
+    "GUIDs": []
+  }
+}

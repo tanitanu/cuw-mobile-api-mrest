@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\United.Mobile.Travelers.API.props" />
+</Project>

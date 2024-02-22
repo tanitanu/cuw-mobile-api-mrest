@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "United.Mobile.Services.TripPlannerGetService.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54122;http://localhost:54123"
+    }
+  }
+}

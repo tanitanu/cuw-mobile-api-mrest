@@ -1,0 +1,2569 @@
+[
+  {
+    "CartId": "B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+    "Characteristics": [
+      {
+        "Code": "AppId",
+        "Value": "643e1e47-1242-4b6c-ab7e-64024e4bc84c"
+      }
+    ],
+    "Status": 1,
+    "Errors": [],
+    "DisplayCart": {
+      "CartId": "B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+      "CountryCode": "US",
+      "LangCode": "en-US",
+      "BookingCutOffMinutes": 60,
+      "BookingCutOffWarningMinutes": 30,
+      "GrandTotal": 338.4,
+      "SearchType": 1,
+      "PetTravel": {
+        "PetCount": 0,
+        "PetsAreTraveling": false
+      },
+      "MilitaryTravel": 0,
+      "DisplaySeats": [
+        {
+          "FlattenedSeatIndex": 0,
+          "TravelerIndex": 0,
+          "Seat": "",
+          "SeatType": "",
+          "SeatPrice": 0.0,
+          "OriginalPrice": 0.0,
+          "Currency": "USD",
+          "OptOut": false,
+          "Waived": false,
+          "SeatPromotionCode": "",
+          "OriginalSegmentIndex": 1,
+          "ArrivalAirportCode": "DEN",
+          "DepartureAirportCode": "IAH",
+          "LegIndex": 0,
+          "FlightNumber": "2076",
+          "PersonIndex": "1.1",
+          "PCUSeat": false,
+          "IsBundleSeat": false
+        }
+      ],
+      "DisplayTravelers": [
+        {
+          "DateOfBirth": "9/16/1996",
+          "PaxType": 1,
+          "PaxTypeCode": "ADT",
+          "PricingPaxType": "ADT",
+          "PaxTypeDescription": "Adult (18-64)",
+          "TravelerCount": 1,
+          "UMNROptIn": false,
+          "Age": 0
+        }
+      ],
+      "DisplayTrips": [
+        {
+          "ColumnInformation": {
+            "Columns": [
+              {
+                "DataSourceLabel": "Economy ",
+                "Description": "",
+                "Type": "ECONOMY",
+                "SubType": "Revenue",
+                "FareContentDescription": "<p>Our standard Economy fare:</p><ul class=\"fare-details-list\"><li>Seat selection at booking, if available</li><li>Enjoy other options for customizing your travel</li></ul>",
+                "MarketingText": "<span class=bundles-content>Book with our <br>Low Fare Guarantee</span>Find the lowest United fare online at united.com.<br><a target=_blank href=\"http://www.united.com/CMS/en-US/products/travelproducts/Pages/Lowfareguarantee.aspx\">Learn more</a>",
+                "DataSourceLabelStyle": "Economy",
+                "FareFamilies": [ "ECONOMY", "MIN-ECONOMY-SURP-OR-DISP", "ECONOMY" ],
+                "Value": "0-3",
+                "FareFamily": "ECONOMY",
+                "DescriptionId": "3",
+                "MatrixId": 209,
+                "SortIndex": 10
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Club Trip Pass",
+                "Type": "B03",
+                "FareContentDescription": "Club Trip Pass",
+                "DataSourceLabelStyle": "EPB"
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Standard checked bag and Club Trip Pass",
+                "Type": "B06",
+                "FareContentDescription": "Standard checked bag and Club Trip Pass",
+                "DataSourceLabelStyle": "EPB"
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Bonus Miles and Club Trip Pass",
+                "Type": "B05",
+                "FareContentDescription": "Bonus Miles and Club Trip Pass",
+                "DataSourceLabelStyle": "EPB"
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Standard checked bag, Bonus Miles, Club Trip Pass",
+                "Type": "B12",
+                "FareContentDescription": "Standard checked bag, Bonus Miles, Club Trip Pass",
+                "DataSourceLabelStyle": "EPB"
+              }
+            ]
+          },
+          "BBXSession": "3st0a7RTjsMmHRXJwCsaWWmz1",
+          "BBXSolutionSetId": "0X8Qxnojxun3S4lnCDQxrgT",
+          "Origin": "IAH",
+          "Destination": "DEN",
+          "DepartDate": "2021-09-23 08:50 AM",
+          "InternationalCitiesExist": false,
+          "Flights": [
+            {
+              "DepartDateTime": "2021-09-23 08:50",
+              "BBXHash": "GErj83LM5Hs2B8rL",
+              "BBXSolutionSetId": "0X8Qxnojxun3S4lnCDQxrgT",
+              "BookingClassAvailability": "J1|JN1|C0|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E7|U5|H3|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+              "CabinCount": 2,
+              "CabinType": "Coach",
+              "Destination": "DEN",
+              "DestinationCountryCode": "US",
+              "DestinationDateTime": "2021-09-23 10:21",
+              "DestinationDescription": "Denver, CO, US (DEN)",
+              "DestinationStateCode": "CO",
+              "DestinationTimezoneOffset": -6,
+              "DestTimezoneOffset": -6.0,
+              "FareBasisCode": "HAA0OKEN",
+              "FlightNumber": "2076",
+              "MarketingCarrier": "UA",
+              "MarketingCarrierDescription": "United Airlines",
+              "MileageActual": 861,
+              "OperatingCarrier": "UA",
+              "OperatingCarrierDescription": "United Airlines",
+              "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+              "OrderIndex": 1,
+              "PreSortIndex": 7,
+              "Origin": "IAH",
+              "OriginCountryCode": "US",
+              "OriginDescription": "Houston, TX, US (IAH)",
+              "OriginStateCode": "TX",
+              "OriginTimezoneOffset": -5,
+              "OrgTimezoneOffset": -5.0,
+              "OriginalFlightNumber": "2076",
+              "PageIndex": 1,
+              "ParentFlightNumber": "",
+              "Selected": true,
+              "ServiceClass": "H",
+              "ServiceClassCount": 3,
+              "ServiceClassCountLowest": -1,
+              "ServiceClassAlternate": "H",
+              "TravelMinutesTotal": 151,
+              "TravelMinutes": 151,
+              "TripIndex": 1,
+              "Connections": [],
+              "Messages": [],
+              "Products": [
+                {
+                  "BookingCode": "H",
+                  "BookingClassAvailability": "J1|JN1|C0|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E7|U5|H3|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                  "BookingCount": 3,
+                  "CabinTypeText": "",
+                  "CabinType": "Coach",
+                  "Description": "United Economy",
+                  "Mileage": 861,
+                  "ProductId": "bXYCVcGMKmDSkVTOiGRA9C009",
+                  "Fares": [
+                    {
+                      "FareBasisCode": "HAA0OKEN",
+                      "SegmentRefs": [ "2076" ],
+                      "Amount": 301.4,
+                      "Currency": "USD",
+                      "Ptc": "ADT"
+                    }
+                  ],
+                  "ProductPath": "Revenue",
+                  "BestMatchSortOrder": 1,
+                  "ProductSubtype": "BASE",
+                  "ProductCode": "",
+                  "ProductType": "ECONOMY",
+                  "SolutionId": "bXYCVcGMKmDSkVTOiGRA9C009",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": "USD",
+                      "Amount": 339.0,
+                      "AmountAllPax": 339.0,
+                      "AmountBase": 338.4,
+                      "PricingType": "Fare",
+                      "AmountBySlice": 339.0,
+                      "AmountBySliceAllPax": 339.0
+                    },
+                    {
+                      "Currency": "USD",
+                      "Amount": 37.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 37.0,
+                      "PricingType": "Taxes"
+                    }
+                  ],
+                  "MealDescription": "Meals are not offered for this flight",
+                  "NoChangeFeeIndicator": true,
+                  "NonRefundableIndicator": true,
+                  "LmxLoyaltyTiers": [
+                    {
+                      "Level": 0,
+                      "Descr": "Member",
+                      "Key": "1.1",
+                      "LmxQuotes": [
+                        {
+                          "Type": "RDM",
+                          "Descr": "Accruable Miles",
+                          "Amount": "1510",
+                          "Currency": "Miles"
+                        },
+                        {
+                          "Type": "LTM",
+                          "Descr": "Life Time Miles",
+                          "Amount": "862",
+                          "Currency": "Miles"
+                        },
+                        {
+                          "Type": "PQF",
+                          "Descr": "Premier Qualifying Flights",
+                          "Amount": "1",
+                          "Currency": "Segment"
+                        },
+                        {
+                          "Type": "PQP",
+                          "Descr": "Premier Qualifying Points",
+                          "Amount": "302",
+                          "Currency": "Points"
+                        },
+                        {
+                          "Type": "MQS",
+                          "Descr": "Minimum Qualifying Segments",
+                          "Amount": "1",
+                          "Currency": "Segment"
+                        }
+                      ],
+                      "Index": "0"
+                    }
+                  ],
+                  "CabinTypeCode": "UE",
+                  "DisplayOrder": 0,
+                  "ColumnId": 3,
+                  "NumberOfPassengers": 0,
+                  "TripIndex": 0,
+                  "SegmentNumber": 0,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "UserSelection": "ECONOMY",
+                  "FareFamily": "ECONOMY",
+                  "IsDynamicallyPriced": 0,
+                  "SortIndex": 10
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Club Trip Pass",
+                  "MerchIndex": "2",
+                  "ProductId": "B3-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B3",
+                  "ProductType": "B03",
+                  "PromoDescription": "IAH - DEN",
+                  "SolutionId": "0X8Qxnojxun3S4lnCDQxrgT",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "Amount": 60.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 60.0,
+                      "PricingType": "Money",
+                      "ID": "B3-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "H",
+                  "SubProducts": [
+                    {
+                      "Code": "CTP",
+                      "Description": "United Club&#8480 trip pass",
+                      "ReferencedAirports": [
+                        {
+                          "Airport": "IAH",
+                          "IsEligible": true
+                        },
+                        {
+                          "Airport": "DEN",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 60.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 60.0,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 60.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 60.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "CP1",
+                      "DisplayOrder": 1,
+                      "SubDescription": "Access available club locations throughout your trip",
+                      "AlternateDescription": "United Club&#8480 access"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 1,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Standard checked bag and Club Trip Pass",
+                  "MerchIndex": "4",
+                  "ProductId": "B6-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B6",
+                  "ProductType": "B06",
+                  "PromoDescription": "IAH - DEN",
+                  "SolutionId": "0X8Qxnojxun3S4lnCDQxrgT",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "Amount": 81.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 81.0,
+                      "PricingType": "Money",
+                      "ID": "B6-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "H",
+                  "SubProducts": [
+                    {
+                      "Code": "CTP",
+                      "Description": "United Club&#8480 trip pass",
+                      "ReferencedAirports": [
+                        {
+                          "Airport": "IAH",
+                          "IsEligible": true
+                        },
+                        {
+                          "Airport": "DEN",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 60.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 60.0,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 54.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 54.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "CP1",
+                      "DisplayOrder": 1,
+                      "SubDescription": "Access available club locations throughout your trip",
+                      "AlternateDescription": "United Club&#8480 access"
+                    },
+                    {
+                      "Code": "EXB",
+                      "Description": "Standard checked bag",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "IAH",
+                          "Destination": "DEN",
+                          "FlightHash": "266-2076-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 30.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 30.0,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 27.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 27.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "XB1",
+                      "DisplayOrder": 2,
+                      "SubDescription": "One checked bag in addition to the baggage allowance that you otherwise qualify for",
+                      "AlternateDescription": "Standard checked bag"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 2,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Bonus Miles and Club Trip Pass",
+                  "MerchIndex": "3",
+                  "ProductId": "B5-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B5",
+                  "ProductType": "B05",
+                  "PromoDescription": "IAH - DEN",
+                  "SolutionId": "0X8Qxnojxun3S4lnCDQxrgT",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "Amount": 70.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 70.0,
+                      "PricingType": "Money",
+                      "ID": "B5-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "H",
+                  "SubProducts": [
+                    {
+                      "Code": "CTP",
+                      "Description": "United Club&#8480 trip pass",
+                      "ReferencedAirports": [
+                        {
+                          "Airport": "IAH",
+                          "IsEligible": true
+                        },
+                        {
+                          "Airport": "DEN",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 60.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 60.0,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 54.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 54.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "CP1",
+                      "DisplayOrder": 1,
+                      "SubDescription": "Access available club locations throughout your trip",
+                      "AlternateDescription": "United Club&#8480 access"
+                    },
+                    {
+                      "Code": "BMI",
+                      "Description": "Extra 500 award miles",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "IAH",
+                          "Destination": "DEN",
+                          "FlightHash": "266-2076-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 17.5,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 17.5,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 16.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 16.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "BM1",
+                      "DisplayOrder": 2,
+                      "SubDescription": "Earn extra award miles for this trip",
+                      "AlternateDescription": "Extra 500 award miles"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 3,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Standard checked bag, Bonus Miles, Club Trip Pass",
+                  "MerchIndex": "1",
+                  "ProductId": "B12-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B12",
+                  "ProductType": "B12",
+                  "PromoDescription": "IAH - DEN",
+                  "SolutionId": "0X8Qxnojxun3S4lnCDQxrgT",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "Amount": 96.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 96.0,
+                      "PricingType": "Money",
+                      "ID": "B12-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "H",
+                  "SubProducts": [
+                    {
+                      "Code": "CTP",
+                      "Description": "United Club&#8480 trip pass",
+                      "ReferencedAirports": [
+                        {
+                          "Airport": "IAH",
+                          "IsEligible": true
+                        },
+                        {
+                          "Airport": "DEN",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 60.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 60.0,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 53.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 53.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "CP1",
+                      "DisplayOrder": 1,
+                      "SubDescription": "Access available club locations throughout your trip",
+                      "AlternateDescription": "United Club&#8480 access"
+                    },
+                    {
+                      "Code": "BMI",
+                      "Description": "Extra 500 award miles",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "IAH",
+                          "Destination": "DEN",
+                          "FlightHash": "266-2076-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 17.5,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 17.5,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 16.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 16.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "BM1",
+                      "DisplayOrder": 2,
+                      "SubDescription": "Earn extra award miles for this trip",
+                      "AlternateDescription": "Extra 500 award miles"
+                    },
+                    {
+                      "Code": "EXB",
+                      "Description": "Standard checked bag",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "IAH",
+                          "Destination": "DEN",
+                          "FlightHash": "266-2076-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "Amount": 30.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 30.0,
+                        "PricingType": "Money"
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "Amount": 27.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 27.0,
+                        "PricingType": "Money"
+                      },
+                      "EddCode": "XB1",
+                      "DisplayOrder": 3,
+                      "SubDescription": "One checked bag in addition to the baggage allowance that you otherwise qualify for",
+                      "AlternateDescription": "Standard checked bag"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 4,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                }
+              ],
+              "StopInfos": [],
+              "ProductsNotSelected": [
+                {
+                  "BookingCode": "J",
+                  "BookingClassAvailability": "J1|JN1|C0|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E7|U5|H3|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                  "BookingCount": 1,
+                  "CabinTypeText": "(2-cabin)",
+                  "CabinType": "First",
+                  "Description": "United First",
+                  "Mileage": 861,
+                  "ProductId": "bXYCVcGMKmDSkVTOiGRA9C00R",
+                  "Fares": [
+                    {
+                      "FareBasisCode": "JUA",
+                      "SegmentRefs": [ "2076" ],
+                      "Amount": 1575.81,
+                      "Currency": "USD",
+                      "Ptc": "ADT"
+                    }
+                  ],
+                  "ProductPath": "Revenue",
+                  "BestMatchSortOrder": 1,
+                  "ProductSubtype": "BASE",
+                  "ProductType": "MIN-BUSINESS-OR-FIRST",
+                  "SolutionId": "bXYCVcGMKmDSkVTOiGRA9C00R",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": "USD",
+                      "Amount": 1709.0,
+                      "AmountAllPax": 1709.0,
+                      "AmountBase": 1708.4,
+                      "PricingType": "Fare",
+                      "AmountBySlice": 1709.0,
+                      "AmountBySliceAllPax": 1709.0
+                    },
+                    {
+                      "Currency": "USD",
+                      "Amount": 133.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 132.59,
+                      "PricingType": "Taxes"
+                    }
+                  ],
+                  "MealDescription": "Breakfast",
+                  "NoChangeFeeIndicator": true,
+                  "CabinTypeCode": "UF",
+                  "DisplayOrder": 0,
+                  "ColumnId": 79,
+                  "NumberOfPassengers": 0,
+                  "TripIndex": 0,
+                  "SegmentNumber": 0,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                  "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                  "IsDynamicallyPriced": 0,
+                  "SortIndex": 77
+                },
+                {
+                  "BookingCode": "H",
+                  "BookingClassAvailability": "J1|JN1|C0|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E7|U5|H3|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                  "BookingCount": 3,
+                  "CabinTypeText": "(fully refundable)",
+                  "CabinType": "Coach",
+                  "Description": "United Economy",
+                  "Mileage": 861,
+                  "ProductId": "bXYCVcGMKmDSkVTOiGRA9C00I",
+                  "Fares": [
+                    {
+                      "FareBasisCode": "HAA0OKEM",
+                      "SegmentRefs": [ "2076" ],
+                      "Amount": 347.91,
+                      "Currency": "USD",
+                      "Ptc": "ADT"
+                    }
+                  ],
+                  "ProductPath": "Revenue",
+                  "BestMatchSortOrder": 1,
+                  "ProductSubtype": "BASE",
+                  "ProductType": "ECONOMY-UNRESTRICTED",
+                  "SolutionId": "bXYCVcGMKmDSkVTOiGRA9C00I",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": "USD",
+                      "Amount": 389.0,
+                      "AmountAllPax": 389.0,
+                      "AmountBase": 388.4,
+                      "PricingType": "Fare",
+                      "AmountBySlice": 389.0,
+                      "AmountBySliceAllPax": 389.0
+                    },
+                    {
+                      "Currency": "USD",
+                      "Amount": 41.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 40.49,
+                      "PricingType": "Taxes"
+                    }
+                  ],
+                  "MealDescription": "Meals are not offered for this flight",
+                  "NoChangeFeeIndicator": true,
+                  "CabinTypeCode": "UE",
+                  "DisplayOrder": 0,
+                  "ColumnId": 9,
+                  "NumberOfPassengers": 0,
+                  "TripIndex": 0,
+                  "SegmentNumber": 0,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "UserSelection": "ECONOMY-UNRESTRICTED",
+                  "FareFamily": "ECONOMY-UNRESTRICTED",
+                  "IsDynamicallyPriced": 0,
+                  "SortIndex": 16
+                }
+              ],
+              "Warnings": [],
+              "EquipmentDisclosures": {
+                "EquipmentType": "739",
+                "EquipmentDescription": "Boeing 737-900",
+                "IsSingleCabin": false,
+                "NoBoardingAssistance": false,
+                "NonJetEquipment": false,
+                "WheelchairsNotAllowed": false
+              },
+              "FlightInfo": {
+                "EstimatedArrivalDateTime": "2021-09-23 10:21",
+                "EstimatedDepartureDateTime": "2021-09-23 08:50",
+                "ScheduledArrivalDateTime": "2021-09-23 10:21",
+                "ScheduledDepartureDateTime": "2021-09-23 08:50"
+              },
+              "Aircraft": {},
+              "Amenities": [],
+              "Hash": "266-2076-UA",
+              "MerchIndex": "1",
+              "Index": 1
+            }
+          ],
+          "PetCount": 0,
+          "Index": 1,
+          "OriginalMileage": 0,
+          "OriginalMileageTotal": 0,
+          "OriginalTax": 0.0,
+          "ChangeType": 0,
+          "OriginalChangeType": 0
+        }
+      ],
+      "DisplayPrices": [
+        {
+          "Amount": 301.4,
+          "Count": 1,
+          "Currency": "USD",
+          "Description": "Adult (18-64)",
+          "Type": "TravelerPrice",
+          "SubItems": [
+            {
+              "Type": "US",
+              "Amount": 22.6,
+              "Currency": "USD",
+              "Description": "U.S. Transportation Tax",
+              "Key": "0",
+              "Value": "Tax",
+              "Count": 0,
+              "OriginalPrice": 0.0
+            },
+            {
+              "Type": "XF",
+              "Amount": 4.5,
+              "Currency": "USD",
+              "Description": "U.S. Passenger Facility Charge",
+              "Key": "1",
+              "Value": "Tax",
+              "Count": 0,
+              "OriginalPrice": 0.0
+            },
+            {
+              "Type": "ZP",
+              "Amount": 4.3,
+              "Currency": "USD",
+              "Description": "U.S. Flight Segment Tax",
+              "Key": "2",
+              "Value": "Tax",
+              "Count": 0,
+              "OriginalPrice": 0.0
+            },
+            {
+              "Type": "AY",
+              "Amount": 5.6,
+              "Currency": "USD",
+              "Description": "September 11th Security Fee",
+              "Key": "3",
+              "Value": "Tax",
+              "Count": 0,
+              "OriginalPrice": 0.0
+            }
+          ],
+          "PaxTypeCode": "ADT",
+          "Waived": false,
+          "PricingPaxType": "ADT",
+          "ResidualAmount": 0.0
+        },
+        {
+          "Amount": 338.4,
+          "Count": 0,
+          "Currency": "USD",
+          "Description": "Total",
+          "Type": "Total",
+          "Waived": false,
+          "ResidualAmount": 0.0
+        }
+      ],
+      "DisplayDetails": [],
+      "bookingDetails": {
+        "solution": [
+          {
+            "ext": {
+              "bookingCodeCount": 0,
+              "fareFamily": "bookingDetails",
+              "fareFlavor": "vanilla",
+              "isOverbooked": 0
+            },
+            "passenger": [
+              {
+                "ptc": [ "ADT", "AUTOAC", "AUTOSP" ],
+                "id": "0",
+                "age": "25"
+              }
+            ],
+            "pricing": [
+              {
+                "tax": [
+                  {
+                    "salePrice": {
+                      "amount": 22.6,
+                      "currency": "USD"
+                    },
+                    "code": "US",
+                    "status": "APPLIED"
+                  },
+                  {
+                    "salePrice": {
+                      "amount": 4.5,
+                      "currency": "USD"
+                    },
+                    "code": "XF",
+                    "status": "APPLIED"
+                  },
+                  {
+                    "salePrice": {
+                      "amount": 4.3,
+                      "currency": "USD"
+                    },
+                    "code": "ZP",
+                    "status": "APPLIED"
+                  },
+                  {
+                    "salePrice": {
+                      "amount": 5.6,
+                      "currency": "USD"
+                    },
+                    "code": "AY",
+                    "status": "APPLIED"
+                  }
+                ],
+                "PaxPricingIndex": 0,
+                "ext": {
+                  "bookingCodeCount": 0,
+                  "price": {
+                    "amount": 301.4,
+                    "currency": "USD"
+                  },
+                  "taxTotalNoYQYR": {
+                    "totalSalePrice": {
+                      "amount": 37.0,
+                      "currency": "USD"
+                    }
+                  },
+                  "referencePrice": {
+                    "amount": 301.4,
+                    "currency": "USD"
+                  },
+                  "allPassengerPrice": {
+                    "amount": 338.4,
+                    "currency": "USD"
+                  },
+                  "miles": "302",
+                  "endorsements": [ "NONREF/0VALUAFTDPT" ],
+                  "taxTotal": {
+                    "totalSalePrice": {
+                      "amount": 37.0,
+                      "currency": "USD"
+                    }
+                  },
+                  "isOverbooked": 0
+                },
+                "saleFareTotal": {
+                  "amount": 301.4,
+                  "currency": "USD"
+                },
+                "salePrice": {
+                  "amount": 338.4,
+                  "currency": "USD"
+                },
+                "saleTaxTotal": {
+                  "amount": 37.0,
+                  "currency": "USD"
+                },
+                "cocFareTotal": {
+                  "amount": 301.4,
+                  "currency": "USD"
+                },
+                "additionalCollectionAwardPoints": 0,
+                "previousAwardPointsFareTotal": 0,
+                "refundAwardPoints": 0,
+                "fareCalculation": [ { "line": [ "HOU UA DEN 301.40HAA0OKEN USD 301.40 END ZP IAH XT 22.60US 4.30ZP 5.60AY 4.50XF IAH4.5" ] } ],
+                "fare": [
+                  {
+                    "destinationCity": "DEN",
+                    "originCity": "HOU",
+                    "tag": "ONE-WAY",
+                    "extendedFareCode": "HAA0OKEN",
+                    "carrier": "UA",
+                    "endorsement": "NONREF/0VALUAFTDPT",
+                    "ptc": "ADT",
+                    "isMerchEnginePriced": false,
+                    "rkey": "Aw2KA+VfOOIfZsCWvCJ2cDpeJMCmTBEvdds1pv/0/y/E",
+                    "basePrice": "USD301.40",
+                    "bookingInfo": [
+                      {
+                        "segment": {
+                          "duration": 0,
+                          "bookingInfo": [
+                            {
+                              "bookingCode": "H",
+                              "PaxPriceIndex": 0,
+                              "marriedSegmentIndex": 0
+                            }
+                          ],
+                          "isConnection": false
+                        },
+                        "PaxPriceIndex": 0,
+                        "marriedSegmentIndex": 0
+                      }
+                    ],
+                    "ruleSummary": {},
+                    "characteristics": []
+                  }
+                ],
+                "note": [ {} ],
+                "paxCount": 1,
+                "passenger": [
+                  {
+                    "ptc": [ "ADT", "AUTOAC", "AUTOSP" ],
+                    "id": "0",
+                    "age": "25"
+                  }
+                ]
+              }
+            ],
+            "id": "LXU25ajjiIRR820KLUx7SM001",
+            "slice": [
+              {
+                "duration": "151",
+                "segment": [
+                  {
+                    "duration": 0,
+                    "hash": "GErj83LM5Hs2B8rL",
+                    "leg": [
+                      {
+                        "arrival": "2021-09-23T10:21-06:00",
+                        "departure": "2021-09-23T08:50-05:00",
+                        "destination": "DEN",
+                        "origin": "IAH",
+                        "originTerminal": "C",
+                        "flight": "UA2076",
+                        "hash": "LUiyxSftk4Obs1oU",
+                        "cabinCount": 2
+                      }
+                    ],
+                    "availability": {
+                      "bookingCodeCount": [
+                        {
+                          "code": "J",
+                          "count": "1"
+                        },
+                        {
+                          "code": "JN",
+                          "count": "1"
+                        },
+                        {
+                          "code": "C",
+                          "count": "0"
+                        },
+                        {
+                          "code": "D",
+                          "count": "0"
+                        },
+                        {
+                          "code": "Z",
+                          "count": "0"
+                        },
+                        {
+                          "code": "ZN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "P",
+                          "count": "0"
+                        },
+                        {
+                          "code": "PN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "PZ",
+                          "count": "0"
+                        },
+                        {
+                          "code": "IN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "I",
+                          "count": "0"
+                        },
+                        {
+                          "code": "Y",
+                          "count": "9"
+                        },
+                        {
+                          "code": "YN",
+                          "count": "9"
+                        },
+                        {
+                          "code": "B",
+                          "count": "9"
+                        },
+                        {
+                          "code": "M",
+                          "count": "9"
+                        },
+                        {
+                          "code": "E",
+                          "count": "7"
+                        },
+                        {
+                          "code": "U",
+                          "count": "5"
+                        },
+                        {
+                          "code": "H",
+                          "count": "3"
+                        },
+                        {
+                          "code": "HN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "Q",
+                          "count": "0"
+                        },
+                        {
+                          "code": "V",
+                          "count": "0"
+                        },
+                        {
+                          "code": "W",
+                          "count": "0"
+                        },
+                        {
+                          "code": "S",
+                          "count": "0"
+                        },
+                        {
+                          "code": "T",
+                          "count": "0"
+                        },
+                        {
+                          "code": "L",
+                          "count": "0"
+                        },
+                        {
+                          "code": "K",
+                          "count": "0"
+                        },
+                        {
+                          "code": "G",
+                          "count": "0"
+                        },
+                        {
+                          "code": "N",
+                          "count": "9"
+                        },
+                        {
+                          "code": "XN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "X",
+                          "count": "0"
+                        }
+                      ]
+                    },
+                    "isConnection": false
+                  }
+                ],
+                "index": "0"
+              }
+            ]
+          }
+        ]
+      },
+      "TravelOptions": [],
+      "DisplayFees": [],
+      "ProductCode": "",
+      "Characteristics": [
+        {
+          "Code": "SHOPREQPETTRAVEL",
+          "Value": "False"
+        },
+        {
+          "Code": "SHOPREQPETCOUNT",
+          "Value": "0"
+        },
+        {
+          "Code": "RECENTSEARCHKEY",
+          "Value": "IAHDEN09/23/2021"
+        },
+        {
+          "Code": "DEVICEID",
+          "Value": "589d7852-14e7-44a9-b23b-a6db36657579"
+        },
+        {
+          "Code": "IS_FROM_FSCSL",
+          "Value": "true"
+        },
+        {
+          "Code": "WorkFlowType",
+          "Value": "1"
+        }
+      ],
+      "ProductCodeBeforeUpgrade": "",
+      "BookingDetailsRespSolutionSetId": "0HPxNmWhWRx3OGMaHi78kxC",
+      "FareEndorsements": [ "NONREF/0VALUAFTDPT" ]
+    },
+    "MerchProductOffer": {
+      "Offers": [
+        {
+          "ProductInformation": {
+            "ProductDetails": [
+              {
+                "Product": {
+                  "Description": "Baggage Service",
+                  "Code": "BAG",
+                  "SubProducts": [
+                    {
+                      "Type": { "Description": "Allowance" },
+                      "Descriptions": [ "MinQuantity: 1, MaxQuantity: 1, Type: Discount, Group: BG, " ],
+                      "Prices": [
+                        {
+                          "ID": "S10",
+                          "Association": {
+                            "SegmentRefIDs": [ "S1" ],
+                            "TravelerRefIDs": [ "0" ]
+                          },
+                          "PaymentOptions": [
+                            {
+                              "Type": "Money",
+                              "PriceComponents": [
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [
+                                    {
+                                      "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                      "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                    }
+                                  ],
+                                  "Disclaimers": [
+                                    {
+                                      "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                      "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                    }
+                                  ],
+                                  "Characteristics": [
+                                    {
+                                      "Code": "MSCarrier",
+                                      "Value": "UA"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "ID": "1",
+                      "IsDefault": "False",
+                      "GroupCode": "BG",
+                      "Extension": {
+                        "Bag": {
+                          "MaximumQuantity": 1,
+                          "MinimumQuantity": 1,
+                          "Bags": [
+                            {
+                              "ExcessFees": [
+                                {
+                                  "SubGroupCode": "0DB",
+                                  "Description": "Overweight up to 45K/100LB",
+                                  "Type": "HEAVYOVERWEIGHT",
+                                  "AdditionalDescriptions": [ "Overweight up to 45K/100LB" ],
+                                  "ExcessWeights": [
+                                    {
+                                      "Maximun": 45.0,
+                                      "Unit": "KG"
+                                    },
+                                    {
+                                      "Maximun": 100.0,
+                                      "Unit": "LBS"
+                                    }
+                                  ],
+                                  "ExcessSizes": [
+                                    {
+                                      "Unit": "CM",
+                                      "MaximunLength": 157.0
+                                    },
+                                    {
+                                      "Unit": "IN",
+                                      "MaximunLength": 62.0
+                                    }
+                                  ],
+                                  "PaymentOptions": [
+                                    {
+                                      "Type": "Money",
+                                      "EDDCode": "OWH",
+                                      "PriceComponents": [
+                                        {
+                                          "Price": {
+                                            "BasePrice": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "Fees": [],
+                                            "Totals": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "FareType": 0
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "SubGroupCode": "0D1",
+                                  "Description": "Oversize up to 115IN/292CM",
+                                  "Type": "OVERSIZE",
+                                  "AdditionalDescriptions": [ "Oversize up to 115IN/292CM" ],
+                                  "ExcessWeights": [
+                                    {
+                                      "Maximun": 23.0,
+                                      "Unit": "KG"
+                                    },
+                                    {
+                                      "Maximun": 50.0,
+                                      "Unit": "LBS"
+                                    }
+                                  ],
+                                  "ExcessSizes": [
+                                    {
+                                      "Unit": "CM",
+                                      "MaximunLength": 292.0
+                                    },
+                                    {
+                                      "Unit": "IN",
+                                      "MaximunLength": 115.0
+                                    }
+                                  ],
+                                  "PaymentOptions": [
+                                    {
+                                      "Type": "Money",
+                                      "EDDCode": "OSB",
+                                      "PriceComponents": [
+                                        {
+                                          "Price": {
+                                            "BasePrice": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "Fees": [],
+                                            "Totals": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "FareType": 0
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ],
+                              "Dimensions": [
+                                {
+                                  "Unit": "CM",
+                                  "MaximunLength": 157.0
+                                },
+                                {
+                                  "Unit": "IN",
+                                  "MaximunLength": 62.0
+                                }
+                              ],
+                              "Weights": [
+                                {
+                                  "Maximun": 32.0,
+                                  "Unit": "KG"
+                                },
+                                {
+                                  "Maximun": 70.0,
+                                  "Unit": "LBS"
+                                }
+                              ],
+                              "RegularPrice": [
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 30.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 30.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [ { "Details": [ { "Text": "Regular 1 bag fee" } ] } ],
+                                  "MaximumQuantity": 1
+                                },
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 40.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 40.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [ { "Details": [ { "Text": "Regular 2 bag fee" } ] } ],
+                                  "MaximumQuantity": 2
+                                }
+                              ],
+                              "PrePaidBagPrice": [
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [ { "Details": [ { "Text": "PrePaid bag fee" } ] } ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "IsEntitled": "False"
+                    },
+                    {
+                      "Type": { "Description": "Allowance" },
+                      "Descriptions": [ "MinQuantity: 2, MaxQuantity: 2, Type: Discount, Group: BG, " ],
+                      "Prices": [
+                        {
+                          "ID": "S10",
+                          "Association": {
+                            "SegmentRefIDs": [ "S1" ],
+                            "TravelerRefIDs": [ "0" ]
+                          },
+                          "PaymentOptions": [
+                            {
+                              "Type": "Money",
+                              "PriceComponents": [
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [
+                                    {
+                                      "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                      "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                    }
+                                  ],
+                                  "Disclaimers": [
+                                    {
+                                      "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                      "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                    }
+                                  ],
+                                  "Characteristics": [
+                                    {
+                                      "Code": "MSCarrier",
+                                      "Value": "UA"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "ID": "1",
+                      "IsDefault": "False",
+                      "GroupCode": "BG",
+                      "Extension": {
+                        "Bag": {
+                          "MaximumQuantity": 2,
+                          "MinimumQuantity": 2,
+                          "Bags": [
+                            {
+                              "ExcessFees": [
+                                {
+                                  "SubGroupCode": "0DB",
+                                  "Description": "Overweight up to 45K/100LB",
+                                  "Type": "HEAVYOVERWEIGHT",
+                                  "AdditionalDescriptions": [ "Overweight up to 45K/100LB" ],
+                                  "ExcessWeights": [
+                                    {
+                                      "Maximun": 45.0,
+                                      "Unit": "KG"
+                                    },
+                                    {
+                                      "Maximun": 100.0,
+                                      "Unit": "LBS"
+                                    }
+                                  ],
+                                  "ExcessSizes": [
+                                    {
+                                      "Unit": "CM",
+                                      "MaximunLength": 157.0
+                                    },
+                                    {
+                                      "Unit": "IN",
+                                      "MaximunLength": 62.0
+                                    }
+                                  ],
+                                  "PaymentOptions": [
+                                    {
+                                      "Type": "Money",
+                                      "EDDCode": "OWH",
+                                      "PriceComponents": [
+                                        {
+                                          "Price": {
+                                            "BasePrice": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "Fees": [],
+                                            "Totals": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "FareType": 0
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "SubGroupCode": "0D1",
+                                  "Description": "Oversize up to 115IN/292CM",
+                                  "Type": "OVERSIZE",
+                                  "AdditionalDescriptions": [ "Oversize up to 115IN/292CM" ],
+                                  "ExcessWeights": [
+                                    {
+                                      "Maximun": 23.0,
+                                      "Unit": "KG"
+                                    },
+                                    {
+                                      "Maximun": 50.0,
+                                      "Unit": "LBS"
+                                    }
+                                  ],
+                                  "ExcessSizes": [
+                                    {
+                                      "Unit": "CM",
+                                      "MaximunLength": 292.0
+                                    },
+                                    {
+                                      "Unit": "IN",
+                                      "MaximunLength": 115.0
+                                    }
+                                  ],
+                                  "PaymentOptions": [
+                                    {
+                                      "Type": "Money",
+                                      "EDDCode": "OSB",
+                                      "PriceComponents": [
+                                        {
+                                          "Price": {
+                                            "BasePrice": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "Fees": [],
+                                            "Totals": [
+                                              {
+                                                "Currency": { "Code": "USD" },
+                                                "Amount": 200.0,
+                                                "Type": "Money"
+                                              }
+                                            ],
+                                            "FareType": 0
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ],
+                              "Dimensions": [
+                                {
+                                  "Unit": "CM",
+                                  "MaximunLength": 157.0
+                                },
+                                {
+                                  "Unit": "IN",
+                                  "MaximunLength": 62.0
+                                }
+                              ],
+                              "Weights": [
+                                {
+                                  "Maximun": 32.0,
+                                  "Unit": "KG"
+                                },
+                                {
+                                  "Maximun": 70.0,
+                                  "Unit": "LBS"
+                                }
+                              ],
+                              "RegularPrice": [
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 30.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 30.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [ { "Details": [ { "Text": "Regular 1 bag fee" } ] } ],
+                                  "MaximumQuantity": 1
+                                },
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 40.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 40.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [ { "Details": [ { "Text": "Regular 2 bag fee" } ] } ],
+                                  "MaximumQuantity": 2
+                                }
+                              ],
+                              "PrePaidBagPrice": [
+                                {
+                                  "Price": {
+                                    "BasePrice": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "Totals": [
+                                      {
+                                        "Currency": { "Code": "USD" },
+                                        "Amount": 0.0,
+                                        "Type": "Money"
+                                      }
+                                    ],
+                                    "FareType": 0
+                                  },
+                                  "Descriptions": [ { "Details": [ { "Text": "PrePaid bag fee" } ] } ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "IsEntitled": "False"
+                    }
+                  ],
+                  "DisplayName": "Baggage"
+                }
+              }
+            ],
+            "CurrencyConversions": []
+          },
+          "ID": "SOL1",
+          "Warnings": []
+        }
+      ],
+      "Response": {
+        "TransactionID": "1631771525686010232113251998361",
+        "Message": [],
+        "GUIDs": [
+          {
+            "ID": "1631771525686010232113251998361",
+            "Name": "CORRELATIONID"
+          },
+          {
+            "ID": "1631771525686010232113251998361",
+            "Name": "TRANSACTIONID"
+          }
+        ],
+        "ProcessTime": 183.0,
+        "TimeStamps": [
+          {
+            "Time": "9/16/2021 12:52:05 AM",
+            "Type": "Central Standard Time"
+          },
+          {
+            "Time": "9/16/2021 12:52:05 AM",
+            "Type": "Fms Service Invoke Date Time"
+          },
+          {
+            "Time": "1/1/0001 00:00:00",
+            "Type": "PnrCreateDate"
+          }
+        ],
+        "RecordLocator": ""
+      },
+      "FlightSegments": [
+        {
+          "ID": "S1",
+          "ClassOfService": "H",
+          "FareBasisCode": "HAA0OKEN",
+          "TripIndicator": "1",
+          "DepartureAirport": {
+            "IATACode": "IAH",
+            "Name": "Houston, TX, US (IAH)",
+            "IATACountryCode": { "CountryCode": "US" }
+          },
+          "ArrivalAirport": {
+            "IATACode": "DEN",
+            "Name": "Denver, CO, US (DEN)",
+            "IATACountryCode": { "CountryCode": "US" }
+          },
+          "DepartureDateTime": "2021-09-23 08:50 AM",
+          "ArrivalDateTime": "2021-09-23 10:21 AM",
+          "FlightNumber": "2076",
+          "OperatingAirlineCode": "UA",
+          "Equipment": {
+            "Model": {
+              "Description": "Boeing 737-900",
+              "Fleet": "739"
+            },
+            "CabinCount": 2
+          },
+          "MarketedFlightSegment": [
+            {
+              "MarketingAirlineCode": "UA",
+              "FlightNumber": "2076",
+              "Description": "United Airlines"
+            }
+          ],
+          "DirectionIndicator": "",
+          "Distance": 861,
+          "SegmentNumber": 1,
+          "BookingClasses": [
+            {
+              "Code": "H",
+              "Cabin": {
+                "Key": "UE",
+                "Name": "United Economy",
+                "Description": "United Economy",
+                "Layout": "2"
+              }
+            }
+          ],
+          "IsInternational": "False",
+          "OperatingAirline": { "IATACode": "UA" },
+          "AvailBookingClasses": [
+            {
+              "Code": "J",
+              "Counts": { "Value": "1" }
+            },
+            {
+              "Code": "JN",
+              "Counts": { "Value": "1" }
+            },
+            {
+              "Code": "C",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "D",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "Z",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "ZN",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "P",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "PN",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "PZ",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "IN",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "I",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "Y",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "YN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "B",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "M",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "E",
+              "Counts": { "Value": "7" }
+            },
+            {
+              "Code": "U",
+              "Counts": { "Value": "5" }
+            },
+            {
+              "Code": "H",
+              "Counts": { "Value": "3" }
+            },
+            {
+              "Code": "HN",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "Q",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "V",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "W",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "S",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "T",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "L",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "K",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "G",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "N",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "XN",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "X",
+              "Counts": { "Value": "0" }
+            }
+          ],
+          "UpgradeEligibilityStatus": 0,
+          "UpgradeVisibilityType": 0,
+          "InstantUpgradable": false
+        }
+      ],
+      "ODOptions": [
+        {
+          "ID": "OD1",
+          "FlightSegments": [
+            {
+              "ID": "S1",
+              "RefID": "S1",
+              "DepartureAirport": {
+                "IATACode": "IAH",
+                "Name": "Houston, TX, US (IAH)",
+                "IATACountryCode": { "CountryCode": "US" }
+              },
+              "ArrivalAirport": {
+                "IATACode": "DEN",
+                "Name": "Denver, CO, US (DEN)",
+                "IATACountryCode": { "CountryCode": "US" }
+              },
+              "DepartureDateTime": "2021-09-23 08:50",
+              "ArrivalDateTime": "2021-09-23 10:21",
+              "UpgradeEligibilityStatus": 0,
+              "UpgradeVisibilityType": 0,
+              "InstantUpgradable": false
+            }
+          ],
+          "Characteristics": [
+            {
+              "Code": "SELECTED_FARE_TYPE",
+              "Value": "ECONOMY"
+            }
+          ]
+        }
+      ],
+      "Travelers": [
+        {
+          "LoyaltyProgramProfile": {
+            "LoyaltyProgramCarrierCode": "UA",
+            "LoyaltyProgramMemberID": "AW791957",
+            "LoyaltyProgramMemberTierLevel": "Premier Gold",
+            "LoyaltyProgramMemberTierDescription": 2,
+            "MilesBalance": 4985328
+          },
+          "TravelerNameIndex": "1.1",
+          "TicketNumber": "",
+          "ID": "0",
+          "PassengerTypeCode": "ADT",
+          "TicketingDate": "9/16/2021 12:52:00 AM",
+          "Entitlements": [
+            {
+              "GroupCode": "BG",
+              "SubGroupCode": "4",
+              "Reason": "FFSTATUS",
+              "EntitledBy": "FFSTATUS"
+            }
+          ],
+          "ProductLoyaltyProgramProfile": [
+            {
+              "IsPrimary": "true",
+              "CreditCards": [
+                {
+                  "Code": "0278",
+                  "Description": 0,
+                  "CreditCardTypeCode": 0,
+                  "PinEntryCapability": 0,
+                  "InputCapability": 0,
+                  "TerminalAttended": 0,
+                  "TerminalCardholderActivated": 0,
+                  "CardType": "NONE",
+                  "WalletCategory": 0,
+                  "GroupPaymentType": 0
+                }
+              ],
+              "LoyaltyProgramCarrierCode": "UA",
+              "LoyaltyProgramMemberID": "AW791957",
+              "LoyaltyProgramMemberTierLevel": "Premier Gold",
+              "LoyaltyProgramMemberTierDescription": 2
+            }
+          ],
+          "Surname": "jeste",
+          "GivenName": "test",
+          "DateOfBirth": "8/31/1988 12:00:00 AM",
+          "Sex": "M",
+          "CustomerID": "0",
+          "Type": "ADT"
+        }
+      ],
+      "Solutions": [
+        {
+          "ID": "SOL1",
+          "ODOptions": [
+            {
+              "RefID": "OD1",
+              "FlightSegments": [
+                {
+                  "ID": "S1",
+                  "RefID": "S1",
+                  "DepartureAirport": {
+                    "IATACode": "IAH",
+                    "Name": "Houston, TX, US (IAH)",
+                    "IATACountryCode": { "CountryCode": "US" }
+                  },
+                  "ArrivalAirport": {
+                    "IATACode": "DEN",
+                    "Name": "Denver, CO, US (DEN)",
+                    "IATACountryCode": { "CountryCode": "US" }
+                  },
+                  "DepartureDateTime": "2021-09-23 08:50",
+                  "ArrivalDateTime": "2021-09-23 10:21",
+                  "UpgradeEligibilityStatus": 0,
+                  "UpgradeVisibilityType": 0,
+                  "InstantUpgradable": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Requester": {
+        "GUIDs": [
+          {
+            "ID": "B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+            "Name": "CartId"
+          },
+          {
+            "ID": "1631771525686010232113251998361",
+            "Name": "CORRELATIONID"
+          }
+        ],
+        "Requestor": {
+          "Characteristic": [
+            {
+              "Code": "TransactionLog",
+              "Value": "true"
+            }
+          ],
+          "ID": "1631771525686010232113251998361",
+          "ChannelID": "401",
+          "ChannelName": "MBE",
+          "LanguageCode": "en"
+        }
+      }
+    },
+    "Reservation": {
+      "Travelers": [
+        {
+          "Person": {
+            "Key": "1.1",
+            "Surname": "jeste",
+            "GivenName": "test",
+            "MiddleName": "sam",
+            "Suffix": "",
+            "DateOfBirth": "08/31/1988",
+            "Sex": "M",
+            "Documents": [
+              {
+                "DateOfBirth": "08/31/1988",
+                "GivenName": "test",
+                "Surname": "jeste",
+                "Suffix": "",
+                "Sex": "M",
+                "Type": 0,
+                "KnownTravelerNumber": "",
+                "RedressNumber": "",
+                "MiddleName": "sam"
+              }
+            ],
+            "Type": "ADT",
+            "InfantIndicator": "false",
+            "ReservationIndex": "0",
+            "Contact": {
+              "Emails": [],
+              "PhoneNumbers": []
+            },
+            "PricingPaxType": "ADT"
+          },
+          "LoyaltyProgramProfile": {
+            "LoyaltyProgramCarrierCode": "UA",
+            "LoyaltyProgramMemberID": "AW791957",
+            "LoyaltyProgramMemberTierLevel": "2",
+            "LoyaltyProgramMemberTierDescription": 2,
+            "MilesBalance": 4985328
+          }
+        }
+      ],
+      "TelephoneNumbers": [],
+      "FlightSegments": [
+        {
+          "FlightSegment": {
+            "DepartureAirport": {
+              "IATACode": "IAH",
+              "Name": "Houston, TX, US (IAH)",
+              "IATACountryCode": { "CountryCode": "US" },
+              "StateProvince": { "StateProvinceCode": "TX" }
+            },
+            "ArrivalAirport": {
+              "IATACode": "DEN",
+              "Name": "Denver, CO, US (DEN)",
+              "IATACountryCode": { "CountryCode": "US" },
+              "StateProvince": { "StateProvinceCode": "CO" }
+            },
+            "DepartureDateTime": "2021-09-23 08:50",
+            "ArrivalDateTime": "2021-09-23 10:21",
+            "FlightNumber": "2076",
+            "OperatingAirlineCode": "UA",
+            "Equipment": {
+              "Model": {
+                "Description": "Boeing 737-900",
+                "Fleet": "739"
+              },
+              "CabinCount": 2
+            },
+            "MarketedFlightSegment": [
+              {
+                "MarketingAirlineCode": "UA",
+                "FlightNumber": "2076"
+              }
+            ],
+            "MarriageGroup": "N",
+            "Distance": 861,
+            "SegmentNumber": 1,
+            "BookingClasses": [
+              {
+                "Code": "H",
+                "Cabin": {
+                  "Key": "UE",
+                  "Name": "United Economy",
+                  "Layout": "2"
+                }
+              }
+            ],
+            "FlightSegmentType": "NN",
+            "TravelerCounts": [ { "Counts": [ { "Value": "1" } ] } ],
+            "Message": [
+              { "Code": "ARRDAYDIFF" },
+              {
+                "Text": "HAA0OKEN",
+                "Code": "BASIS_CODE"
+              },
+              {
+                "Text": "False",
+                "Code": "PETS_DISALLOWED"
+              },
+              {
+                "Text": "United Airlines",
+                "Code": "OPERATINGCARRIERDESC"
+              },
+              {
+                "Text": "OBY",
+                "Code": "OB"
+              }
+            ],
+            "Characteristic": [
+              {
+                "Code": "PET_COUNT",
+                "Value": "0"
+              }
+            ],
+            "IsInternational": "False",
+            "AvailBookingClasses": [
+              {
+                "Code": "J",
+                "Counts": { "Value": "1" }
+              },
+              {
+                "Code": "JN",
+                "Counts": { "Value": "1" }
+              },
+              {
+                "Code": "C",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "D",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "Z",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "ZN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "P",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "PN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "PZ",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "IN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "I",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "Y",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "YN",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "B",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "M",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "E",
+                "Counts": { "Value": "7" }
+              },
+              {
+                "Code": "U",
+                "Counts": { "Value": "5" }
+              },
+              {
+                "Code": "H",
+                "Counts": { "Value": "3" }
+              },
+              {
+                "Code": "HN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "Q",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "V",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "W",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "S",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "T",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "L",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "K",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "G",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "N",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "XN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "X",
+                "Counts": { "Value": "0" }
+              }
+            ],
+            "UpgradeEligibilityStatus": 0,
+            "UpgradeVisibilityType": 0,
+            "InstantUpgradable": false
+          },
+          "IsConnection": "False",
+          "Characteristic": [
+            {
+              "Code": "SELECTED_FARE_TYPE",
+              "Value": "ECONOMY"
+            }
+          ],
+          "SegmentNumber": 1,
+          "TripNumber": "1"
+        }
+      ],
+      "Prices": [
+        {
+          "BasePrice": [
+            {
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 301.4
+            }
+          ],
+          "Taxes": [
+            {
+              "Code": "US",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 22.6,
+              "Description": "U.S. Transportation Tax",
+              "Status": "APPLIED"
+            },
+            {
+              "Code": "XF",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 4.5,
+              "Description": "U.S. Passenger Facility Charge",
+              "Status": "APPLIED"
+            },
+            {
+              "Code": "ZP",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 4.3,
+              "Description": "U.S. Flight Segment Tax",
+              "Status": "APPLIED"
+            },
+            {
+              "Code": "AY",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 5.6,
+              "Description": "September 11th Security Fee",
+              "Status": "APPLIED"
+            }
+          ],
+          "Surcharges": [],
+          "Fees": [],
+          "Totals": [
+            {
+              "Name": "TaxTotal",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 37.0
+            },
+            {
+              "Name": "GrandTotalForMileage",
+              "Currency": { "Code": "MIL" },
+              "Amount": 0.0
+            },
+            {
+              "Name": "GrandTotalForCurrency",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 338.4
+            }
+          ],
+          "BasePriceEquivalent": {
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 301.4
+          },
+          "Type": {
+            "Key": "Revenue",
+            "Description": "fareFlavor",
+            "Value": "ADT"
+          },
+          "Rules": [ { "Description": "NONREF/0VALUAFTDPT" } ],
+          "FareCalculation": "HOU UA DEN 301.40HAA0OKEN USD 301.40 END ZP IAH XT 22.60US 4.30ZP 5.60AY 4.50XF IAH4.5",
+          "FareComponents": [
+            {
+              "AirlineCode": "UA",
+              "OriginCity": "HOU",
+              "DestinationCity": "DEN",
+              "BasisCodes": [ "HAA0OKEN" ],
+              "TripType": "ONE-WAY",
+              "BasePrice": [
+                {
+                  "Currency": { "Code": "USD" },
+                  "Amount": 301.4
+                }
+              ],
+              "DestinationAirportCode": "DEN",
+              "OriginAirportCode": "HOU",
+              "SequenceNumber": 1,
+              "PassengerTypeCode": "ADT",
+              "Characteristic": []
+            }
+          ],
+          "Count": {
+            "CountType": "Pax Count",
+            "Value": "1"
+          },
+          "FareType": 0,
+          "PriceFlightSegments": [
+            {
+              "FareBasisCode": "HAA0OKEN",
+              "TicketDesignator": "",
+              "LOFNumber": 1,
+              "FareComponentSequenceNumber": 1,
+              "GlobalIndicator": "",
+              "DepartureAirport": {
+                "IATACode": "IAH",
+                "ShortName": "IAH"
+              },
+              "ArrivalAirport": {
+                "IATACode": "DEN",
+                "ShortName": "DEN"
+              },
+              "DepartureDateTime": "2021-09-23 08:50",
+              "ArrivalDateTime": "2021-09-23 10:21",
+              "FlightNumber": "2076",
+              "MarketedFlightSegment": [ { "MarketingAirlineCode": "UA" } ],
+              "MarriageGroup": "N",
+              "SegmentNumber": 1,
+              "BookingClasses": [ { "Code": "H" } ],
+              "Legs": [
+                {
+                  "Equipment": { "Model": { "Fleet": "739" } },
+                  "CabinCount": 2
+                }
+              ],
+              "UpgradeEligibilityStatus": 0,
+              "UpgradeVisibilityType": 0,
+              "InstantUpgradable": false,
+              "AuxillaryText": "False"
+            }
+          ],
+          "PassengerTypeCode": "ADT",
+          "Characteristics": [],
+          "PassengerIDs": {
+            "Key": "1.1",
+            "Description": "ADT"
+          }
+        }
+      ],
+      "Type": [
+        { "Key": "NEW" },
+        { "Key": "REVENUE" }
+      ],
+      "Characteristic": [
+        {
+          "Code": "Refundable",
+          "Value": "False"
+        },
+        {
+          "Code": "ContentLookupID",
+          "Value": "Messages:63"
+        },
+        {
+          "Code": "BBXID",
+          "Value": "X4Md2qt8JkKp7253t0a7RU"
+        },
+        {
+          "Code": "TRIP_TYPE",
+          "Value": "OW",
+          "Description": "TRIP_TYPE"
+        },
+        {
+          "Code": "StationCode",
+          "Value": "HOU"
+        }
+      ],
+      "NumberInParty": 1,
+      "Pets": [],
+      "Sponsor": {
+        "LoyaltyProgramMemberID": "AW791957",
+        "LoyaltyProgramCarrierCode": "UA",
+        "LoyaltyProgramMemberTierLevel": 2,
+        "AccountBalances": [ { "Balance": 4985328 } ],
+        "Surname": "jeste",
+        "GivenName": "test",
+        "MiddleName": "sam"
+      },
+      "GUID": { "ID": "B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4" },
+      "PointOfSale": {
+        "Country": { "CountryCode": "US" },
+        "CurrencyCode": "USD"
+      },
+      "CartId": "B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4"
+    }
+  }
+]

@@ -1,0 +1,328 @@
+{
+  "awardCalendarRequest": {
+    "sessionId": "77E46C3C9B844EDC9E6313697610EBDD",
+    "tripId": "0NNoqyDrZ3p7VSWPUwpWomV",
+    "flightId": "G9e8Yru5nRxTsT4S",
+    "productId": "dOHs7H8sIP9T9RUdHSJU57002",
+    "rewardId": "-1",
+    "useFilters": false,
+    "filters": null,
+    "resultSortType": "",
+    "calendarDateChange": "11/30/2022",
+    "backButtonClick": false,
+    "isProductSelected": false,
+    "getNonStopFlightsOnly": false,
+    "getFlightsWithStops": false,
+    "lengthOfCalendar": 3,
+    "cartId": "",
+    "catalogItems": [
+      {
+        "id": "21388",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21389",
+        "currentValue": "0",
+        "saveToPersist": false
+      },
+      {
+        "id": "21428",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21463",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21587",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21502",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21647",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21699",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21643",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21757",
+        "currentValue": "1",
+        "saveToPersist": false
+      },
+      {
+        "id": "21665",
+        "currentValue": "1",
+        "saveToPersist": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|245b72ea-16b5-4382-b94d-5096a32af294",
+    "languageCode": "en-US",
+    "application": {
+      "id": 2,
+      "name": "Android",
+      "version": {
+        "displayText": null,
+        "major": "4.1.68",
+        "minor": "4.1.68",
+        "build": null
+      },
+      "isProduction": false
+    },
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0"
+  },
+  "cartId": "EDD4B2A7-9659-4519-A2EE-9DCA9ECB0E60",
+  "sessionID": "77E46C3C9B844EDC9E6313697610EBDD",
+  "awardDynamicCalendar": {
+    "awardcalendars": [
+      {
+        "calendarWeek": [
+          {
+            "week": "Sun, 27",
+            "priceMiles": "36.7K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/27/2022"
+          },
+          {
+            "week": "Mon, 28",
+            "priceMiles": "12.5K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/28/2022"
+          },
+          {
+            "week": "Tue, 29",
+            "priceMiles": "12.5K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/29/2022"
+          },
+          {
+            "week": "Wed, 30",
+            "priceMiles": "12.5K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/30/2022"
+          },
+          {
+            "week": "Thu, 1",
+            "priceMiles": "12.5K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "12/01/2022"
+          },
+          {
+            "week": "Fri, 2",
+            "priceMiles": "12.5K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "12/02/2022"
+          },
+          {
+            "week": "Sat, 3",
+            "priceMiles": "9.7K miles",
+            "isLowest": true,
+            "notAvailableText": null,
+            "originalDate": "12/03/2022"
+          }
+        ],
+        "cabinType": "Economy",
+        "isDefaultSelected": true
+      },
+      {
+        "calendarWeek": [
+          {
+            "week": "Sun, 27",
+            "priceMiles": "63.1K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/27/2022"
+          },
+          {
+            "week": "Mon, 28",
+            "priceMiles": "42.7K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/28/2022"
+          },
+          {
+            "week": "Tue, 29",
+            "priceMiles": "25K miles",
+            "isLowest": true,
+            "notAvailableText": null,
+            "originalDate": "11/29/2022"
+          },
+          {
+            "week": "Wed, 30",
+            "priceMiles": "25K miles",
+            "isLowest": true,
+            "notAvailableText": null,
+            "originalDate": "11/30/2022"
+          },
+          {
+            "week": "Thu, 1",
+            "priceMiles": "43.7K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "12/01/2022"
+          },
+          {
+            "week": "Fri, 2",
+            "priceMiles": "34.4K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "12/02/2022"
+          },
+          {
+            "week": "Sat, 3",
+            "priceMiles": "25K miles",
+            "isLowest": true,
+            "notAvailableText": null,
+            "originalDate": "12/03/2022"
+          }
+        ],
+        "cabinType": "Business",
+        "isDefaultSelected": false
+      },
+      {
+        "calendarWeek": [
+          {
+            "week": "Sun, 27",
+            "priceMiles": null,
+            "isLowest": false,
+            "notAvailableText": "Not Available",
+            "originalDate": "11/27/2022"
+          },
+          {
+            "week": "Mon, 28",
+            "priceMiles": null,
+            "isLowest": false,
+            "notAvailableText": "Not Available",
+            "originalDate": "11/28/2022"
+          },
+          {
+            "week": "Tue, 29",
+            "priceMiles": null,
+            "isLowest": false,
+            "notAvailableText": "Not Available",
+            "originalDate": "11/29/2022"
+          },
+          {
+            "week": "Wed, 30",
+            "priceMiles": null,
+            "isLowest": false,
+            "notAvailableText": "Not Available",
+            "originalDate": "11/30/2022"
+          },
+          {
+            "week": "Thu, 1",
+            "priceMiles": null,
+            "isLowest": false,
+            "notAvailableText": "Not Available",
+            "originalDate": "12/01/2022"
+          },
+          {
+            "week": "Fri, 2",
+            "priceMiles": null,
+            "isLowest": false,
+            "notAvailableText": "Not Available",
+            "originalDate": "12/02/2022"
+          },
+          {
+            "week": "Sat, 3",
+            "priceMiles": null,
+            "isLowest": false,
+            "notAvailableText": "Not Available",
+            "originalDate": "12/03/2022"
+          }
+        ],
+        "cabinType": "First",
+        "isDefaultSelected": false
+      },
+      {
+        "calendarWeek": [
+          {
+            "week": "Sun, 27",
+            "priceMiles": "63.1K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/27/2022"
+          },
+          {
+            "week": "Mon, 28",
+            "priceMiles": "42.7K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "11/28/2022"
+          },
+          {
+            "week": "Tue, 29",
+            "priceMiles": "25K miles",
+            "isLowest": true,
+            "notAvailableText": null,
+            "originalDate": "11/29/2022"
+          },
+          {
+            "week": "Wed, 30",
+            "priceMiles": "25K miles",
+            "isLowest": true,
+            "notAvailableText": null,
+            "originalDate": "11/30/2022"
+          },
+          {
+            "week": "Thu, 1",
+            "priceMiles": "43.7K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "12/01/2022"
+          },
+          {
+            "week": "Fri, 2",
+            "priceMiles": "34.4K miles",
+            "isLowest": false,
+            "notAvailableText": null,
+            "originalDate": "12/02/2022"
+          },
+          {
+            "week": "Sat, 3",
+            "priceMiles": "25K miles",
+            "isLowest": true,
+            "notAvailableText": null,
+            "originalDate": "12/03/2022"
+          }
+        ],
+        "cabinType": "Business/First",
+        "isDefaultSelected": false
+      }
+    ],
+    "originDestination": "Chicago to Houston",
+    "awardSubTitleText": "Calendar displays lowest award fare available for that date in the selected cabin",
+    "dateRangeDisplay": "November 27-December 3, 2022",
+    "isLeftArrowDisabled": false,
+    "isRightArrowDisabled": false
+  },
+  "callDurationText": null,
+  "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|245b72ea-16b5-4382-b94d-5096a32af294",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 6577,
+  "exception": null
+}

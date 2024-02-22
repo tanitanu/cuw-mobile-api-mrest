@@ -1,0 +1,204 @@
+{
+  "ServiceAnimalResponses": [
+    {
+      "Animals": [
+        {
+          "Value": "2",
+          "Description": "Cat"
+        },
+        {
+          "Value": "3",
+          "Description": "Dog"
+        }
+      ]
+    }
+  ],
+  "ServiceAnimalTypeResponses": [
+    {
+      "Types": [
+        {
+          "Value": "9",
+          "Description": "Balance-assistance dog"
+        },
+        {
+          "Value": "3",
+          "Description": "Guide dog"
+        },
+        {
+          "Value": "2",
+          "Description": "Hearing dog"
+        },
+        {
+          "Value": "5",
+          "Description": "Medical alert dog"
+        },
+        {
+          "Value": "10",
+          "Description": "Psychiatric assistance dog"
+        }
+      ]
+    }
+  ],
+  "SpecialRequestResponses": [
+    {
+      "SpecialRequests": [
+        {
+          "Genre": {},
+          "Code": "--  ",
+          "Value": "1",
+          "Description": "No Special Needs"
+        },
+        {
+          "Genre": { "Description": "General" },
+          "Code": "BSCT",
+          "Value": "19",
+          "Description": "Bassinet/cot"
+        },
+        {
+          "Genre": { "Description": "General" },
+          "Code": "BLND",
+          "Value": "6",
+          "Description": "Blind"
+        },
+        {
+          "Genre": { "Description": "General" },
+          "Code": "DEAF",
+          "Value": "7",
+          "Description": "Deaf"
+        },
+        {
+          "Genre": { "Description": "General" },
+          "Code": "DPNA_1",
+          "Value": "20",
+          "Description": "Cognitive disability"
+        },
+        {
+          "Genre": { "Description": "General" },
+          "Code": "DPNA_2",
+          "Value": "21",
+          "Description": "Other disability requiring assistance"
+        },
+        {
+          "Genre": { "Description": "WheelchairReason" },
+          "Code": "WCBD",
+          "Value": "16",
+          "Description": "Dry cell battery"
+        },
+        {
+          "Genre": { "Description": "WheelchairReason" },
+          "Code": "WCBW",
+          "Value": "17",
+          "Description": "Wet cell battery"
+        },
+        {
+          "Genre": { "Description": "WheelchairType" },
+          "Code": "WCHR",
+          "Value": "4",
+          "Description": "Cannot walk long distance"
+        },
+        {
+          "Genre": { "Description": "WheelchairReason" },
+          "Code": "WCLB",
+          "Value": "22",
+          "Description": "Lithium-ion battery"
+        },
+        {
+          "Genre": { "Description": "WheelchairType" },
+          "Code": "WCHS",
+          "Value": "3",
+          "Description": "Cannot ascend or descend stairs"
+        },
+        {
+          "Genre": { "Description": "WheelchairType" },
+          "Code": "WCHC",
+          "Value": "14",
+          "Description": "Cannot walk"
+        },
+        {
+          "Genre": { "Description": "WheelchairReason" },
+          "Code": "WCMP",
+          "Value": "18",
+          "Description": "Manual power"
+        },
+        {
+          "Genre": { "Description": "PortableOxygenConcentrator" },
+          "Code": "PPOC",
+          "Value": "1",
+          "Description": "Portable oxygen concentrator"
+        }
+      ]
+    }
+  ],
+  "SpecialMealResponses": [
+    {
+      "SpecialMeals": [
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "--" },
+          "Description": "Select meal type",
+          "Value": [ "1" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "HNML" },
+          "Description": "Hindu",
+          "Value": [ "5" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "GFML" },
+          "Description": "Gluten Intolerant",
+          "Value": [ "7" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "KSML" },
+          "Description": "Kosher",
+          "Value": [ "8" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "MOML" },
+          "Description": "Muslim",
+          "Value": [ "12" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "VGML" },
+          "Description": "Vegan (Strict) Vegetarian",
+          "Value": [ "13" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "AVML" },
+          "Description": "Asian Vegetarian",
+          "Value": [ "14" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "CHML" },
+          "Description": "Child",
+          "Value": [ "17" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "VJML" },
+          "Description": "Jain (Mumbai Flights only)",
+          "Value": [ "22" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "JPML" },
+          "Description": "Japanese",
+          "Value": [ "23" ]
+        },
+        {
+          "Name": "Special Meal",
+          "Type": { "Key": "VLML" },
+          "Description": "Vegetarian lacto-ovo",
+          "Value": [ "24" ]
+        }
+      ]
+    }
+  ]
+}

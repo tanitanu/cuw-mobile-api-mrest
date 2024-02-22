@@ -1,0 +1,29 @@
+{
+  "backButtonClick": false,
+  "cartId": "",
+  "flightId": "G19ZboRJzVexbDPA",
+  "getFlightsWithStops": false,
+  "getNonStopFlightsOnly": false,
+  "isProductSelected": true,
+  "lengthOfCalendar": 6,
+  "productId": "H5wrnNeRF1JPAH9ektvHvK001",
+  "rewardId": "-1",
+  "sessionId": "1FDCEB9482F34F43AEDA902346A521E0",
+  "tripId": "0Dc9zarnugSTOtbLGkaRTHN",
+  "useFilters": false,
+  "booking": "",
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.56",
+      "minor": "4.1.56"
+    }
+  },
+  "deviceId": "f527c449-1aaa-41c3-ae44-b37def784ce9",
+  "languageCode": "en-US",
+  "transactionId": "f527c449-1aaa-41c3-ae44-b37def784ce9|5c4b68b7-e781-427c-bce8-b11431c850c8",
+  "CalendarDateChange": ""
+}

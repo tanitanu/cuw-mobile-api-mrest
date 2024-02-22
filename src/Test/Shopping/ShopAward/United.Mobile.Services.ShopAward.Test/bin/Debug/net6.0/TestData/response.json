@@ -1,0 +1,225 @@
+﻿[
+  {
+    "MOBBookingBundlesResponse": {
+      "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "TransactionId": "",
+      "LanguageCode": "en-US",
+      "MachineName": "2W",
+      "CallDuration": "0",
+      "Products": {
+        "MOBBundleProduct": [
+          {
+            "BundleProductCodes": { "string": "WIFI" },
+            "ProductID": "B27-SOL1_OD1_S1_0",
+            "ProductIDs": { "string": "B27-SOL1_OD1_S1_0" },
+            "ProductCode": "B27",
+            "Tile": {
+              "OfferTitle": "Bundle offer 1",
+              "OfferDescription": { "string": "Wi-Fi Day Pass" },
+              "PriceText": "+$7/person",
+              "IsSelected": "false",
+              "TileIndex": "0",
+              "OfferPrice": "$7"
+            },
+            "Detail": {
+              "OfferTitle": "Bundle offer 1 includes the following additions to your trip:",
+              "OfferWarningMessage": "",
+              "OfferDetails": {
+                "MOBBundleOfferDetail": {
+                  "offerDetailHeader": "Wi-Fi Day Pass",
+                  "offerDetailDescription": "Wi-Fi Day Pass.",
+                  "offerDetailWarningMessage": "",
+                  "OfferDetailHeader": "Wi-Fi Day Pass",
+                  "OfferDetailDescription": "Wi-Fi Day Pass.",
+                  "OfferDetailWarningMessage": ""
+                }
+              },
+              "OfferTrips": {
+                "MOBBundleOfferTrip": {
+                  "OriginDestination": "IAH - ORD | $7/person",
+                  "TripId": "1",
+                  "IsChecked": "false",
+                  "Price": "7",
+                  "TripProductID": "B27-SOL1_OD1_S1_0",
+                  "TripProductIDs": { "string": "B27-SOL1_OD1_S1_0" }
+                }
+              }
+            },
+            "Amount": "0",
+            "ProductIndex": "0"
+          },
+          {
+            "BundleProductCodes": {
+              "string": [
+                "CTP",
+                "WIFI"
+              ]
+            },
+            "ProductID": "B28-SOL1_OD1_S1_0",
+            "ProductIDs": { "string": "B28-SOL1_OD1_S1_0" },
+            "ProductCode": "B28",
+            "Tile": {
+              "OfferTitle": "Bundle offer 2",
+              "OfferDescription": {
+                "string": [
+                  "United Club℠ trip pass",
+                  "Wi-Fi Day Pass"
+                ]
+              },
+              "PriceText": "+$14/person",
+              "IsSelected": "false",
+              "TileIndex": "1",
+              "OfferPrice": "$14"
+            },
+            "Detail": {
+              "OfferTitle": "Bundle offer 2 includes the following additions to your trip:",
+              "OfferWarningMessage": "",
+              "OfferDetails": {
+                "MOBBundleOfferDetail": [
+                  {
+                    "offerDetailHeader": "United Club℠ trip pass",
+                    "offerDetailDescription": "Access available club locations throughout your trip.",
+                    "offerDetailWarningMessage": "",
+                    "OfferDetailHeader": "United Club℠ trip pass",
+                    "OfferDetailDescription": "Access available club locations throughout your trip.",
+                    "OfferDetailWarningMessage": ""
+                  },
+                  {
+                    "offerDetailHeader": "Wi-Fi Day Pass",
+                    "offerDetailDescription": "Wi-Fi Day Pass.",
+                    "offerDetailWarningMessage": "",
+                    "OfferDetailHeader": "Wi-Fi Day Pass",
+                    "OfferDetailDescription": "Wi-Fi Day Pass.",
+                    "OfferDetailWarningMessage": ""
+                  }
+                ]
+              },
+              "OfferTrips": {
+                "MOBBundleOfferTrip": {
+                  "OriginDestination": "IAH - ORD | $14/person",
+                  "TripId": "1",
+                  "IsChecked": "false",
+                  "Price": "14",
+                  "TripProductID": "B28-SOL1_OD1_S1_0",
+                  "TripProductIDs": { "string": "B28-SOL1_OD1_S1_0" }
+                }
+              }
+            },
+            "Amount": "0",
+            "ProductIndex": "1"
+          },
+          {
+            "BundleProductCodes": { "string": "CTP" },
+            "ProductID": "B3-SOL1_OD1_S1_0",
+            "ProductIDs": { "string": "B3-SOL1_OD1_S1_0" },
+            "ProductCode": "B03",
+            "Tile": {
+              "OfferTitle": "Bundle offer 3",
+              "OfferDescription": { "string": "United Club℠ trip pass" },
+              "PriceText": "+$60/person",
+              "IsSelected": "false",
+              "TileIndex": "2",
+              "OfferPrice": "$60"
+            },
+            "Detail": {
+              "OfferTitle": "Bundle offer 3 includes the following additions to your trip:",
+              "OfferWarningMessage": "",
+              "OfferDetails": {
+                "MOBBundleOfferDetail": {
+                  "offerDetailHeader": "United Club℠ trip pass",
+                  "offerDetailDescription": "Access available club locations throughout your trip.",
+                  "offerDetailWarningMessage": "",
+                  "OfferDetailHeader": "United Club℠ trip pass",
+                  "OfferDetailDescription": "Access available club locations throughout your trip.",
+                  "OfferDetailWarningMessage": ""
+                }
+              },
+              "OfferTrips": {
+                "MOBBundleOfferTrip": {
+                  "OriginDestination": "IAH - ORD | $60/person",
+                  "TripId": "1",
+                  "IsChecked": "false",
+                  "Price": "60",
+                  "TripProductID": "B3-SOL1_OD1_S1_0",
+                  "TripProductIDs": { "string": "B3-SOL1_OD1_S1_0" }
+                }
+              }
+            },
+            "Amount": "0",
+            "ProductIndex": "2"
+          },
+          {
+            "BundleProductCodes": {
+              "string": [
+                "CTP",
+                "EXB"
+              ]
+            },
+            "ProductID": "B6-SOL1_OD1_S1_0",
+            "ProductIDs": { "string": "B6-SOL1_OD1_S1_0" },
+            "ProductCode": "B06",
+            "Tile": {
+              "OfferTitle": "Bundle offer 4",
+              "OfferDescription": {
+                "string": [
+                  "United Club℠ trip pass",
+                  "Standard checked bag"
+                ]
+              },
+              "PriceText": "+$81/person",
+              "IsSelected": "false",
+              "TileIndex": "3",
+              "OfferPrice": "$81"
+            },
+            "Detail": {
+              "OfferTitle": "Bundle offer 4 includes the following additions to your trip:",
+              "OfferWarningMessage": "",
+              "OfferDetails": {
+                "MOBBundleOfferDetail": [
+                  {
+                    "offerDetailHeader": "United Club℠ trip pass",
+                    "offerDetailDescription": "Access available club locations throughout your trip.",
+                    "offerDetailWarningMessage": "",
+                    "OfferDetailHeader": "United Club℠ trip pass",
+                    "OfferDetailDescription": "Access available club locations throughout your trip.",
+                    "OfferDetailWarningMessage": ""
+                  },
+                  {
+                    "offerDetailHeader": "Standard checked bag",
+                    "offerDetailDescription": "Travel with an extra standard checked bag.",
+                    "offerDetailWarningMessage": "",
+                    "OfferDetailHeader": "Standard checked bag",
+                    "OfferDetailDescription": "Travel with an extra standard checked bag.",
+                    "OfferDetailWarningMessage": ""
+                  }
+                ]
+              },
+              "OfferTrips": {
+                "MOBBundleOfferTrip": {
+                  "OriginDestination": "IAH - ORD | $81/person",
+                  "TripId": "1",
+                  "IsChecked": "false",
+                  "Price": "81",
+                  "TripProductID": "B6-SOL1_OD1_S1_0",
+                  "TripProductIDs": { "string": "B6-SOL1_OD1_S1_0" }
+                }
+              }
+            },
+            "Amount": "0",
+            "ProductIndex": "3"
+          }
+        ]
+      },
+      "BookingBundlesTitle": "Customize Your Itinerary",
+      "TermsAndCondition": {
+        "ContentFull": "<ul><li>Travel Options bundles are nonrefundable on a standalone basis in whole or part. Certain changes to the travel covered by the associated air ticket may result in a full or partial refund of the Travel Options bundle.</li> <li>Travel Options bundles may, depending on the package purchased, include Economy Plus® seating, one standard checked bag, extra award miles (except on award tickets), Premier Access®, and a United Club℠ trip pass.</li><li>Travel Options bundles are sold per directional trip (either outbound or return travel) and apply to all travelers on the reservation. Bundle benefits only apply to purchased flights.</li><li>Travel Options bundles are only available on trips with all flights wholly marketed and operated by United and United Express®.</li><li>Due to limited availability of certain components, it is possible your bundle will not include all components on all flights. The bundle price only includes components available at purchase.</li><li>Your receipt will show the value of the bundle components.</li><li>The standard checked bag allowance will grant one extra, standard checked bag beyond their original allowance for the trip purchased. The standard checked bag allowance is in addition to any baggage benefits due to MileagePlus® Premier® status, baggage subscriptions, or purchasing a ticket with certain credit cards. The standard checked bag allowance does not cover any additional charges due to overweight or oversize baggage.</li><li>If included in bundle, extra award miles will be deposited in traveler\u2019s MileagePlus account within 48 hours after departure of the first flight included in their Travel Options bundle.</li><li>Travelers must enter their MileagePlus number in their reservation before departure of the first flight in order to receive any extra award miles included in bundle. Extra award miles are subject to all MileagePlus terms and conditions.</li><li>Travelers purchasing a bundle that includes extra award miles will receive the number of award miles indicated at the time the bundle is purchased.</li><li>Priority baggage handling is not included with Premier Access®, whether purchased on its own or as part of a Travel Options bundle.</li><li>United Club trip pass grants travelers access to all available United Club locations (excluding Global First and Arrivals lounges) for the trip purchased.</li><li>United Club trip passes are good only for the person named on the boarding pass \u2013 no guests.</li><li>United Club trip passes are good only for the trip purchased; trip passes expire within 2 hours after completion of the trip.</li><li>United Club trip passes are available to anyone 18 years of age or older. Enjoyment of clubroom amenities and facilities is subject to the terms and conditions of United Club and applicable law.</li></ul>",
+        "ContentShort": "",
+        "HeadLine": "Travel Options bundle terms and conditions",
+        "LocationCode": "",
+        "Title": "Terms and Conditions"
+      },
+      "TotalAmount": "0"
+    }
+  }
+]

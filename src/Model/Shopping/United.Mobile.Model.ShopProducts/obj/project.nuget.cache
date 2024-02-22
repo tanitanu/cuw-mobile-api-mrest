@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Pytg6n1BqlN1HRzVJVSX+ZY9g04+Aid/vo+7lPnf52vV5VlVT9gxHeohKCzAFS+FF3ZL8joR29OBhEyAa19GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopProducts\\United.Mobile.Model.ShopProducts.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.ual.com/packages/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vcld36gdersas01.global.ual.com/EresNuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://edtweb.global.ual.com:8080/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

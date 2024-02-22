@@ -1,0 +1,12 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\bin\Debug\net6.0\United.Mobile.Model.ShopFareWheel.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\bin\Debug\net6.0\United.Mobile.Model.ShopFareWheel.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\bin\Debug\net6.0\United.Mobile.Model.ShopFareWheel.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\United.Mobile.Model.ShopFareWheel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\United.Mobile.Model.ShopFareWheel.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\United.Mobile.Model.ShopFareWheel.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\United.Mobile.Model.ShopFareWheel.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\United.Mobile.Model.ShopFareWheel.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\United.Mobile.Model.ShopFareWheel.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\refint\United.Mobile.Model.ShopFareWheel.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\United.Mobile.Model.ShopFareWheel.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFareWheel\obj\Debug\net6.0\ref\United.Mobile.Model.ShopFareWheel.dll

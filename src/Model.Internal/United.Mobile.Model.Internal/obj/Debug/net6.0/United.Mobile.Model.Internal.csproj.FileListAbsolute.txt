@@ -1,0 +1,16 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\bin\Debug\net6.0\United.Mobile.Model.Internal.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\bin\Debug\net6.0\United.Mobile.Model.Internal.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\bin\Debug\net6.0\United.Mobile.Model.Internal.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\bin\Debug\net6.0\United.Mobile.Model.HomePageContent.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\bin\Debug\net6.0\United.Mobile.Model.HomePageContent.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.csproj.AssemblyReference.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.csproj.CopyComplete
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\refint\United.Mobile.Model.Internal.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\United.Mobile.Model.Internal.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal\obj\Debug\net6.0\ref\United.Mobile.Model.Internal.dll

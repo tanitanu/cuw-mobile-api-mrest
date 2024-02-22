@@ -1,0 +1,12 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\bin\Debug\net6.0\United.Mobile.Model.ShopProducts.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\bin\Debug\net6.0\United.Mobile.Model.ShopProducts.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\bin\Debug\net6.0\United.Mobile.Model.ShopProducts.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\United.Mobile.Model.ShopProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\United.Mobile.Model.ShopProducts.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\United.Mobile.Model.ShopProducts.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\United.Mobile.Model.ShopProducts.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\United.Mobile.Model.ShopProducts.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\United.Mobile.Model.ShopProducts.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\refint\United.Mobile.Model.ShopProducts.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\United.Mobile.Model.ShopProducts.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopProducts\obj\Debug\net6.0\ref\United.Mobile.Model.ShopProducts.dll

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>5fad0b37-b52d-420b-b236-0b646f45e3f2</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
+		<PackageReference Include="Serilog" Version="2.9.0" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\..\Core\United.Ebs.Logging\United.Ebs.Logging.csproj" />
+		<ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+		<ProjectReference Include="..\..\..\..\DataAccess\AccountManagement\United.Mobile.DataAccess.MemberSignIn\United.Mobile.DataAccess.MemberSignIn.csproj" />
+		<ProjectReference Include="..\..\..\..\DataAccess\FlightStatus\United.Mobile.DataAccess.FlightStatus\United.Mobile.DataAccess.FlightStatus.csproj" />
+		<ProjectReference Include="..\United.Mobile.UnitedClubPasses.Domain\United.Mobile.UnitedClubPasses.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

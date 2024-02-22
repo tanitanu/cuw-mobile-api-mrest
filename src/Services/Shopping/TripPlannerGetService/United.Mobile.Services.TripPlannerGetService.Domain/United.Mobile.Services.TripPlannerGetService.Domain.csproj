@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Presentation.CSL.AnalysisModel" Version="3.9.9.336" />
+    <PackageReference Include="United.TripPlanner.Model4.6" Version="4.6.0.27" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.ShopBundles\United.Mobile.DataAccess.ShopBundles\United.Mobile.DataAccess.ShopBundles.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.TeaserPage\United.Mobile.DataAccess.TeaserPage\United.Mobile.DataAccess.TeaserPage.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.TripPlannerGetService\United.Mobile.DataAccess.TripPlannerGetService\United.Mobile.DataAccess.TripPlannerGetService.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.TripPlannerService\United.Mobile.DataAccess.TripPlannerService\United.Mobile.DataAccess.TripPlannerService.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Shopping\United.Mobile.Model.TripPlannerGetService\United.Mobile.Model.TripPlannerGetService.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Shopping\United.Mobile.Model.TripPlannerService\United.Mobile.Model.TripPlannerService.csproj" />
+  </ItemGroup>
+
+</Project>

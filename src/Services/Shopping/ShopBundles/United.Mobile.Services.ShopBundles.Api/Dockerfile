@@ -1,0 +1,74 @@
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM artifactorycloud.ual.com/l-docker-releases/datadog/dotnet/aspnet:6.0.5-2.10.0 AS base
+
+WORKDIR /app
+EXPOSE 80
+
+FROM artifactorycloud.ual.com/l-docker/ms/dotnet/core/sdk:6.0 AS build
+WORKDIR /
+
+COPY ["src/Services/Shopping/ShopBundles/United.Mobile.Services.ShopBundles.Api/United.Mobile.Services.ShopBundles.Api.csproj", "src/Services/Shopping/ShopBundles/United.Mobile.Services.ShopBundles.Api/"]
+COPY ["src/Services/Shopping/ShopBundles/United.Mobile.Services.ShopBundles.Domain/United.Mobile.Services.ShopBundles.Domain.csproj", "src/Services/Shopping/ShopBundles/United.Mobile.Services.ShopBundles.Domain/"]
+COPY ["src/DataAccess/Shopping/United.Mobile.DataAccess.Shopping/United.Mobile.DataAccess.Shopping.csproj", "src/DataAccess/Shopping/United.Mobile.DataAccess.Shopping/"]
+COPY ["src/Core/United.Utility/United.Utility.csproj", "src/Core/United.Utility/"]
+COPY ["src/Core/United.Ebs.Logging/United.Ebs.Logging.csproj", "src/Core/United.Ebs.Logging/"]
+COPY ["src/Model/United.Mobile.Model.Common/United.Mobile.Model.Common.csproj", "src/Model/United.Mobile.Model.Common/"]
+COPY ["src/Model.Internal/United.Mobile.Model.Internal.Exception/United.Mobile.Model.Internal.Exception.csproj", "src/Model.Internal/United.Mobile.Model.Internal.Exception/"]
+COPY ["src/DataAccess/United.Mobile.DataAccess.Common/United.Mobile.DataAccess.Common.csproj", "src/DataAccess/United.Mobile.DataAccess.Common/"]
+COPY ["src/Model.Internal/United.Definition/United.Mobile.Model.Internal.Common.csproj", "src/Model.Internal/United.Definition/"]
+COPY ["src/Model.Internal/United.Mobile.Model.Internal/United.Mobile.Model.Internal.csproj", "src/Model.Internal/United.Mobile.Model.Internal/"]
+COPY ["src/Model/eRes/United.Mobile.Model.HomePageContent/United.Mobile.Model.HomePageContent.csproj", "src/Model/eRes/United.Mobile.Model.HomePageContent/"]
+COPY ["src/DataAccess/United.Mobile.DataAccess.FlightShopping/United.Mobile.DataAccess.FlightShopping.csproj", "src/DataAccess/United.Mobile.DataAccess.FlightShopping/"]
+COPY ["src/Core/Common/United.Common.Helper.Shopping/United.Common.Helper.Shopping.csproj", "src/Core/Common/United.Common.Helper.Shopping/"]
+COPY ["src/Model/Shopping/United.Mobile.Model.Shopping/United.Mobile.Model.Shopping.csproj", "src/Model/Shopping/United.Mobile.Model.Shopping/"]
+COPY ["src/Model/Shopping/United.Mobile.Model.ShopAward/United.Mobile.Model.ShopAward.csproj", "src/Model/Shopping/United.Mobile.Model.ShopAward/"]
+COPY ["src/Model/Shopping/United.Mobile.Model.Common/United.Mobile.Model.Shopping.Common.csproj", "src/Model/Shopping/United.Mobile.Model.Common/"]
+COPY ["src/Model/PNRManagement/United.Mobile.Model.PNRManagement/United.Mobile.Model.PNRManagement.csproj", "src/Model/PNRManagement/United.Mobile.Model.PNRManagement/"]
+COPY ["src/Model/FlightStatus/United.Mobile.Model.FlightStatus/United.Mobile.Model.FlightStatus.csproj", "src/Model/FlightStatus/United.Mobile.Model.FlightStatus/"]
+COPY ["src/DataAccess/Shopping/United.Mobile.DataAccess.ShopTrips/United.Mobile.DataAccess.ShopTrips.csproj", "src/DataAccess/Shopping/United.Mobile.DataAccess.ShopTrips/"]
+COPY ["src/Core/United.Common.Helper/United.Common.Helper.csproj", "src/Core/United.Common.Helper/"]
+COPY ["src/DataAccess/United.Mobile.DataAccess.DynamoDB/United.Mobile.DataAccess.DynamoDB.csproj", "src/DataAccess/United.Mobile.DataAccess.DynamoDB/"]
+COPY ["src/DataAccess/FlightStatus/United.Mobile.DataAccess.FlightStatus/United.Mobile.DataAccess.FlightStatus.csproj", "src/DataAccess/FlightStatus/United.Mobile.DataAccess.FlightStatus/"]
+COPY ["src/DataAccess/BagCalculator/United.Mobile.DataAccess.CMSContent/United.Mobile.DataAccess.CMSContent.csproj", "src/DataAccess/BagCalculator/United.Mobile.DataAccess.CMSContent/"]
+COPY ["src/Model.Internal/AccountManagement/United.Mobile.Model.Internal.AccountManagement/United.Mobile.Model.Internal.AccountManagement.csproj", "src/Model.Internal/AccountManagement/United.Mobile.Model.Internal.AccountManagement/"]
+COPY ["src/Model/Shopping/United.Mobile.Model.EmpShop/United.Mobile.Model.EmpShop.csproj", "src/Model/Shopping/United.Mobile.Model.EmpShop/"]
+COPY ["src/Core/Common/United.Common.Helper.Profile/United.Common.Helper.Profile.csproj", "src/Core/Common/United.Common.Helper.Profile/"]
+COPY ["src/DataAccess/AccountManagement/United.Mobile.DataAccess.Profile/United.Mobile.DataAccess.Profile.csproj", "src/DataAccess/AccountManagement/United.Mobile.DataAccess.Profile/"]
+COPY ["src/DataAccess/AccountManagement/United.Mobile.DataAccess.Loyalty/United.Mobile.DataAccess.Loyalty.csproj", "src/DataAccess/AccountManagement/United.Mobile.DataAccess.Loyalty/"]
+COPY ["src/Model/UnitedClubPasses/United.Mobile.Model.UnitedClubPasses/United.Mobile.Model.UnitedClubPasses.csproj", "src/Model/UnitedClubPasses/United.Mobile.Model.UnitedClubPasses/"]
+COPY ["src/Model/AccountManagement/United.Mobile.Model.MemberProfile/United.Mobile.Model.MemberProfile.csproj", "src/Model/AccountManagement/United.Mobile.Model.MemberProfile/"]
+COPY ["src/Model/Shopping/United.Mobile.Model.Booking/United.Mobile.Model.Booking.csproj", "src/Model/Shopping/United.Mobile.Model.Booking/"]
+COPY ["src/DataAccess/AccountManagement/United.Mobile.DataAccess.MPAuthentication/United.Mobile.DataAccess.MPAuthentication.csproj", "src/DataAccess/AccountManagement/United.Mobile.DataAccess.MPAuthentication/"]
+COPY ["src/DataAccess/AccountManagement/United.Mobile.DataAccess.MemberSignIn/United.Mobile.DataAccess.MemberSignIn.csproj", "src/DataAccess/AccountManagement/United.Mobile.DataAccess.MemberSignIn/"]
+COPY ["src/DataAccess/UnitedClubPasses/United.Mobile.DataAccess.UnitedClub/United.Mobile.DataAccess.UnitedClub.csproj", "src/DataAccess/UnitedClubPasses/United.Mobile.DataAccess.UnitedClub/"]
+COPY ["src/Model/AccountManagement/United.Mobile.Model.AccountManagement/United.Mobile.Model.MPSignIn.csproj", "src/Model/AccountManagement/United.Mobile.Model.AccountManagement/"]
+COPY ["src/Model/AccountManagement/United.Mobile.Model.UpdateMemberProfile/United.Mobile.Model.UpdateMemberProfile.csproj", "src/Model/AccountManagement/United.Mobile.Model.UpdateMemberProfile/"]
+COPY ["src/DataAccess/ManageReservation/United.Mobile.DataAccess.ManageReservation/United.Mobile.DataAccess.ManageReservation.csproj", "src/DataAccess/ManageReservation/United.Mobile.DataAccess.ManageReservation/"]
+COPY ["src/DataAccess/AccountManagement/United.Mobile.DataAccess.ETC/United.Mobile.DataAccess.ETC.csproj", "src/DataAccess/AccountManagement/United.Mobile.DataAccess.ETC/"]
+COPY ["src/Core/Common/United.Common.Helper.EmployeeReservation/United.Common.Helper.EmployeeReservation.csproj", "src/Core/Common/United.Common.Helper.EmployeeReservation/"]
+COPY ["src/DataAccess/AccountManagement/United.Mobile.DataAccess.Customer/United.Mobile.DataAccess.Customer.csproj", "src/DataAccess/AccountManagement/United.Mobile.DataAccess.Customer/"]
+COPY ["src/DataAccess/AccountManagement/United.Mobile.DataAccess.MPRewards/United.Mobile.DataAccess.MPRewards.csproj", "src/DataAccess/AccountManagement/United.Mobile.DataAccess.MPRewards/"]
+
+ARG NUGET_PASSWORD
+ARG NUGET_USERNAME
+
+
+RUN dotnet nuget add source https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget \
+            -n artifactory \
+            -u ${NUGET_USERNAME}  \
+            -p ${NUGET_PASSWORD} \
+            --store-password-in-clear-text
+
+
+
+COPY . .
+WORKDIR "/src/Services/Shopping/ShopBundles/United.Mobile.Services.ShopBundles.Api"
+
+FROM build AS publish
+RUN dotnet publish "United.Mobile.Services.ShopBundles.Api.csproj" -c Release --self-contained -r linux-x64 -o /app/publish
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "United.Mobile.Services.ShopBundles.Api.dll"]

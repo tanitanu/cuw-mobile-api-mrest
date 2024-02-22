@@ -1,0 +1,12 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\bin\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\bin\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\bin\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\refint\United.Mobile.Model.ShopFlightDetails.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\United.Mobile.Model.ShopFlightDetails.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\Shopping\United.Mobile.Model.ShopFlightDetails\obj\Debug\net6.0\ref\United.Mobile.Model.ShopFlightDetails.dll

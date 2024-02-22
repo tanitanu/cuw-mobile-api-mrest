@@ -1,0 +1,73 @@
+{
+  "omniCartSavedTrips": [
+    {
+      "trips": null,
+      "links": [
+        {
+          "componentTitle": "SNS_INFO_RTI",
+          "linkText": "Book from $304"
+        },
+        {
+          "componentTitle": "SNS_SHOW",
+          "linkText": "Show details"
+        },
+        {
+          "componentTitle": "SNS_HIDE",
+          "linkText": "Hide details"
+        }
+      ],
+      "cartId": "7783542B-A44D-4522-A29E-ACA55A89110D",
+      "tripInfo": {
+        "title": "Sep 30",
+        "subTitle": "Chicago ORD to Denver DEN",
+        "subTitle2": "One-way · 1 Traveler · United Economy",
+        "flightDetails": [
+          {
+            "title": "Chicago ORD to Denver DEN",
+            "subTitle": "Sep 30 · 5:15 am to 7:00 am",
+            "subTitle2": null,
+            "flightDetails": null,
+            "connectionTime": "",
+            "selectedAncillaries": [
+              "<strong>Seats:</strong> 8C"
+            ]
+          }
+        ],
+        "connectionTime": null,
+        "selectedAncillaries": null
+      }
+    }
+  ],
+  "header": "Start new search or select a previously searched flight to begin your new journey!",
+  "footer": "Availability and pricing are subject to change",
+  "cartTitle": "Your Cart ",
+  "sessionId": "9234FD6407D849A793853336F183400F",
+  "links": [
+    {
+      "componentTitle": "SNS_LINK",
+      "linkText": "Start new search"
+    },
+    {
+      "componentTitle": "SNS_BUTTON",
+      "linkText": "Start new search"
+    },
+    {
+      "componentTitle": "SNS_CART_REMOVEALL",
+      "linkText": "Remove all trips"
+    }
+  ],
+  "warningMessages": {
+    "text1": null,
+    "text2": "The price of a one-way flight from <strong>Chicago to Denver</strong> has recently increased.",
+    "text3": null,
+    "messageType": "INFORMATION",
+    "isDefaultOpen": true,
+    "order": null
+  },
+  "showOmniCartIndicator": true,
+  "transactionId": "",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 2858,
+  "exception": null
+}

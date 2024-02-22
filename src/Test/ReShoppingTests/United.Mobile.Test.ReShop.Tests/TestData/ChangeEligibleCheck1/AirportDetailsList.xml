@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AirportDetailsList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AirportsList>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>IAH</AirportCode>
+      <AirportInfo>Houston, TX (IAH)</AirportInfo>
+      <AirportCityName>Houston</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>ORD</AirportCode>
+      <AirportInfo>Chicago, IL (ORD)</AirportInfo>
+      <AirportCityName>Chicago</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+  </AirportsList>
+</AirportDetailsList>

@@ -1,0 +1,13 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\bin\Debug\net6.0\United.Ebs.Logging.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\bin\Debug\net6.0\United.Ebs.Logging.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\bin\Debug\net6.0\United.Ebs.Logging.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.csproj.AssemblyReference.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\refint\United.Ebs.Logging.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\United.Ebs.Logging.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\United.Ebs.Logging\obj\Debug\net6.0\ref\United.Ebs.Logging.dll

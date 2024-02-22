@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Reservation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SearchType>OW</SearchType>
+  <FlightShareMessage>United itinerary: Nov 25, 1 traveler, one way, Economy. Flight 551 from DEN to ORD .</FlightShareMessage>
+  <PKDispenserPublicKey>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbRgFvMxNQK+gzYovB19KksUiMF9d2do4sf/qIFWeAi+xXbERMOtPiTW6wsrHFb8tpQq4BWHGwdD+HBC+MSHDrJm4c2DULpkosEV+rQt/C7p1WRb0bHoK8qsFkGZEZmG0W7bnSnIQTIEZEpYN5/ZACDSCGIDIPXTCy5eNEjNHEhuAcU2/0Tm+MGU3BdzLYfZl9ZSfVRPJycOEI1t0mowb8EcFPYsVqGGXr9BAPlpnH84hwJSek7y6Whoj5f5FFxet4H9SoHl0ZZ1e8BBO9F/Ktyg/fsMK1kCpo8YLFW46rldHAXbGPwlu2gRApfz9Tq8i2UP6faUiNrnf8SMHjUAlQIDAQAB</PKDispenserPublicKey>
+  <ObjectName>United.Persist.Definition.Shopping.Reservation</ObjectName>
+  <SessionId>2319BFA532E54F0C92D74CDFD954D7B5</SessionId>
+  <CartId>2319BFA5-32E5-4F0C-92D7-4CDFD954D7B5</CartId>
+  <IsSignedInWithMP>true</IsSignedInWithMP>
+  <Trips>
+    <MOBSHOPTrip>
+      <Index>0</Index>
+      <Origin>DEN</Origin>
+      <OriginAllAirports>-1</OriginAllAirports>
+      <Destination>ORD</Destination>
+      <DestinationAllAirports>-1</DestinationAllAirports>
+      <DepartDate>11/25/2021</DepartDate>
+      <ArrivalDate>11/25/2021</ArrivalDate>
+      <Cabin />
+      <UseFilters>false</UseFilters>
+      <SearchNearbyOriginAirports>false</SearchNearbyOriginAirports>
+      <SearchNearbyDestinationAirports>false</SearchNearbyDestinationAirports>
+      <ShareMessage />
+      <ChangeType>ChangeFlight</ChangeType>
+      <DestinationDecodedWithCountry>Chicago, IL, US (ORD)</DestinationDecodedWithCountry>
+      <OriginDecodedWithCountry>Denver, CO, US (DEN)</OriginDecodedWithCountry>
+      <YqyrMessage />
+      <TripId>0CczuLxogpoFUrJ3fIYGXIR</TripId>
+      <OriginDecoded>Denver, CO (DEN)</OriginDecoded>
+      <DestinationDecoded>Chicago, IL (ORD)</DestinationDecoded>
+      <ShowOriginDestinationForFlights>false</ShowOriginDestinationForFlights>
+      <FlattenedFlights>
+        <MOBSHOPFlattenedFlight>
+          <TripId>0CczuLxogpoFUrJ3fIYGXIR</TripId>
+          <FlightId>GtmpbcdL+wJwa90y</FlightId>
+          <CabinMessage />
+          <ProductId />
+          <Flights>
+            <MOBSHOPFlight>
+              <FlightSegmentAlerts />
+              <ReshopFees />
+              <IsChangeFeeWaiver>false</IsChangeFeeWaiver>
+              <IsCovidTestFlight>false</IsCovidTestFlight>
+              <DestinationDecodedWithCountry>Chicago, IL, US (ORD)</DestinationDecodedWithCountry>
+              <OriginDecodedWithCountry>Denver, CO, US (DEN)</OriginDecodedWithCountry>
+              <OriginStateCode>CO</OriginStateCode>
+              <DestinationStateCode>IL</DestinationStateCode>
+              <YaDiscount />
+              <IsAddcollectWaived>false</IsAddcollectWaived>
+              <CorporateFareIndicator />
+              <MilesDisplayValue />
+              <CabinDisclaimer />
+              <AvailSeatsDisclaimer />
+              <PreferredCabinName />
+              <PreferredCabinMessage />
+              <OvernightConnection />
+              <AirportChange />
+              <ShowSeatMap>false</ShowSeatMap>
+              <IsStopOver>false</IsStopOver>
+              <TripId>0CczuLxogpoFUrJ3fIYGXIR</TripId>
+              <FlightId>GtmpbcdL+wJwa90y</FlightId>
+              <ProductId />
+              <Airfare>228.0</Airfare>
+              <AirfareDisplayValue>$228</AirfareDisplayValue>
+              <SeatsRemaining>1</SeatsRemaining>
+              <Cabin>Coach</Cabin>
+              <ChangeOfGauge>false</ChangeOfGauge>
+              <GaugeChanges />
+              <Connections />
+              <ConnectTimeMinutes />
+              <DepartDate>Thu., Nov. 25, 2021</DepartDate>
+              <DepartTime>6:00am</DepartTime>
+              <Destination>ORD</Destination>
+              <DestinationDate>Thu., Nov. 25, 2021</DestinationDate>
+              <DestinationTime>9:26am</DestinationTime>
+              <DestinationDescription>Chicago, IL (ORD)</DestinationDescription>
+              <DestinationCountryCode>US</DestinationCountryCode>
+              <EquipmentDisclosures>
+                <EquipmentDescription>Boeing 737-900</EquipmentDescription>
+                <EquipmentType>739</EquipmentType>
+                <IsSingleCabin>false</IsSingleCabin>
+                <NoBoardingAssistance>false</NoBoardingAssistance>
+                <NonJetEquipment>false</NonJetEquipment>
+                <WheelchairsNotAllowed>false</WheelchairsNotAllowed>
+              </EquipmentDisclosures>
+              <FareBasisCode>WAA3AKEN</FareBasisCode>
+              <FlightNumber>551</FlightNumber>
+              <GroundTime>0</GroundTime>
+              <InternationalCity />
+              <IsCheapestAirfare>false</IsCheapestAirfare>
+              <IsConnection>false</IsConnection>
+              <MarketingCarrier>UA</MarketingCarrier>
+              <MarketingCarrierDescription>United Airlines</MarketingCarrierDescription>
+              <Miles>885</Miles>
+              <OperatingCarrier>UA</OperatingCarrier>
+              <OperatingCarrierDescription />
+              <Origin>DEN</Origin>
+              <OriginDescription>Denver, CO (DEN)</OriginDescription>
+              <OriginCountryCode>US</OriginCountryCode>
+              <Rewards />
+              <RewardPriceSummaries />
+              <Selected>false</Selected>
+              <StopDestination />
+              <StopInfos />
+              <Stops>0</Stops>
+              <TravelTime>2h 26m</TravelTime>
+              <TotalTravelTime>2h 26m</TotalTravelTime>
+              <Messages>
+                <MOBSHOPMessage>
+                  <TripId />
+                  <FlightId />
+                  <ConnectionIndex />
+                  <FlightNumberField />
+                  <MessageCode>United Economy (W)</MessageCode>
+                  <MessageParameters />
+                </MOBSHOPMessage>
+                <MOBSHOPMessage>
+                  <TripId />
+                  <FlightId />
+                  <ConnectionIndex />
+                  <FlightNumberField />
+                  <MessageCode>Snacks for Purchase</MessageCode>
+                  <MessageParameters />
+                </MOBSHOPMessage>
+              </Messages>
+              <Meal>Snacks for Purchase</Meal>
+              <FPWSAir>false</FPWSAir>
+              <ServiceClass>W</ServiceClass>
+              <ServiceClassDescription>United Economy</ServiceClassDescription>
+              <EPAMessageTitle />
+              <EPAMessage />
+              <ShowEPAMessage>false</ShowEPAMessage>
+              <IsCheckInWindow>false</IsCheckInWindow>
+              <CheckInWindowText />
+              <DepartureDateTime>11/25/2021 06:00 AM</DepartureDateTime>
+              <ArrivalDateTime>11/25/2021 09:26 AM</ArrivalDateTime>
+              <DepartureDateTimeGMT>11/25/2021 01:00 PM</DepartureDateTimeGMT>
+              <ArrivalDateTimeGMT>11/25/2021 03:26 PM</ArrivalDateTimeGMT>
+              <MatchServiceClassRequested>false</MatchServiceClassRequested>
+              <HasInSeatPower>false</HasInSeatPower>
+              <HasWifi>false</HasWifi>
+              <HasDirecTV>false</HasDirecTV>
+              <HasAVOnDemand>false</HasAVOnDemand>
+              <HasBeverageService>false</HasBeverageService>
+              <HasEconomyLieFlatSeating>false</HasEconomyLieFlatSeating>
+              <HasEconomyMeal>false</HasEconomyMeal>
+              <HasFirstClassMeal>false</HasFirstClassMeal>
+              <HasFirstClassLieFlatSeating>false</HasFirstClassLieFlatSeating>
+              <ShoppingProducts>
+                <MOBSHOPShoppingProduct>
+                  <ProductId>XSERJhWC45ELdnyzmFEEkT002</ProductId>
+                  <Type>ECONOMY</Type>
+                  <SubType />
+                  <LongCabin />
+                  <ReshopFees />
+                  <Cabin />
+                  <Description />
+                  <Price>$228</Price>
+                  <MilesDisplayValue />
+                  <PriceAmount>228.0</PriceAmount>
+                  <MilesDisplayAmount>0</MilesDisplayAmount>
+                  <Meal>Snacks for Purchase</Meal>
+                  <ProductDetail>
+                    <Title />
+                    <Header />
+                    <Body />
+                    <ProductDetails />
+                    <PqdText />
+                    <PqmText />
+                    <RdmText />
+                    <ProductCabinMessages />
+                  </ProductDetail>
+                  <IsMixedCabin>false</IsMixedCabin>
+                  <MixedCabinSegmentMessages />
+                  <AwardType />
+                  <AllCabinButtonText />
+                  <IsSelectedCabin>false</IsSelectedCabin>
+                  <MileageButton>-1</MileageButton>
+                  <SeatsRemaining>1</SeatsRemaining>
+                  <PqdText />
+                  <PqmText />
+                  <RdmText />
+                  <ISPremierCabinSaver>false</ISPremierCabinSaver>
+                  <IsUADiscount>false</IsUADiscount>
+                  <IsELF>false</IsELF>
+                  <CabinType>Coach</CabinType>
+                  <PriceFromText>for</PriceFromText>
+                  <IsIBELite>false</IsIBELite>
+                  <IsIBE>false</IsIBE>
+                  <ProductCode />
+                  <ProductBadges />
+                </MOBSHOPShoppingProduct>
+              </ShoppingProducts>
+              <SegID />
+              <SegmentNumber>0</SegmentNumber>
+              <FlightDepartureDays />
+              <FlightArrivalDays />
+              <PqdText />
+              <PqmText />
+              <RdmText />
+              <YqyrMessage />
+              <GovtMessage />
+              <IsAwardSaver>false</IsAwardSaver>
+              <RedEyeFlightDepDate />
+              <NextDayFlightArrDate />
+              <FlightDateChanged>false</FlightDateChanged>
+              <TripIndex>1</TripIndex>
+              <FlightHash>329-551-UA</FlightHash>
+              <OperatingCarrierFlightNumber>551</OperatingCarrierFlightNumber>
+              <LineOfFlightMessage>United Economy (W) / Snacks for Purchase</LineOfFlightMessage>
+            </MOBSHOPFlight>
+          </Flights>
+          <TripDays />
+          <IsUADiscount>false</IsUADiscount>
+          <IsAddcollectWaived>false</IsAddcollectWaived>
+          <FlightHash>329-551-UA</FlightHash>
+          <AirPortChange />
+          <IsIBELite>false</IsIBELite>
+          <IsIBE>false</IsIBE>
+          <IsElf>false</IsElf>
+          <IsChangeFeeWaiver>false</IsChangeFeeWaiver>
+          <IsCovidTestFlight>false</IsCovidTestFlight>
+          <FlightLabelTextList />
+          <FlightBadges />
+        </MOBSHOPFlattenedFlight>
+      </FlattenedFlights>
+      <FlightSections />
+      <FlightCount>1</FlightCount>
+      <TotalFlightCount>0</TotalFlightCount>
+      <LastTripIndexRequested>0</LastTripIndexRequested>
+      <Columns />
+      <CallDurationText />
+      <PageCount>0</PageCount>
+      <FlightDateChangeMessage>Please note this flight involves a date change</FlightDateChangeMessage>
+      <TripHasNonStopflightsOnly>false</TripHasNonStopflightsOnly>
+    </MOBSHOPTrip>
+  </Trips>
+  <Prices>
+    <MOBSHOPPrice>
+      <PaxTypeCode>ADT</PaxTypeCode>
+      <Waived>false</Waived>
+      <Status />
+      <PriceIndex />
+      <CurrencyCode>USD</CurrencyCode>
+      <PriceType />
+      <DisplayType>TRAVELERPRICE</DisplayType>
+      <DisplayValue>198.14</DisplayValue>
+      <TotalBaseFare />
+      <TotalOtherTaxes />
+      <FormattedDisplayValue>$198.14</FormattedDisplayValue>
+      <Value>198.14</Value>
+      <PriceTypeDescription>Fare Oneway (1 adult)</PriceTypeDescription>
+      <ProductId />
+    </MOBSHOPPrice>
+    <MOBSHOPPrice>
+      <Waived>false</Waived>
+      <Status />
+      <PriceIndex />
+      <CurrencyCode>USD</CurrencyCode>
+      <PriceType />
+      <DisplayType>TOTAL</DisplayType>
+      <DisplayValue>227.40</DisplayValue>
+      <TotalBaseFare />
+      <TotalOtherTaxes />
+      <FormattedDisplayValue>$227.40</FormattedDisplayValue>
+      <Value>227.4</Value>
+      <PriceTypeDescription>total</PriceTypeDescription>
+      <ProductId />
+    </MOBSHOPPrice>
+    <MOBSHOPPrice>
+      <Waived>false</Waived>
+      <Status />
+      <PriceIndex />
+      <CurrencyCode>USD</CurrencyCode>
+      <PriceType>GRAND TOTAL</PriceType>
+      <DisplayType>GRAND TOTAL</DisplayType>
+      <DisplayValue>227.40</DisplayValue>
+      <TotalBaseFare />
+      <TotalOtherTaxes />
+      <FormattedDisplayValue>$227.40</FormattedDisplayValue>
+      <Value>227.4</Value>
+      <ProductId />
+    </MOBSHOPPrice>
+    <MOBSHOPPrice>
+      <Waived>false</Waived>
+      <Status />
+      <PriceIndex />
+      <CurrencyCode>USD</CurrencyCode>
+      <PriceType />
+      <DisplayType>TOTALPRICEFORUPLIFT</DisplayType>
+      <DisplayValue>227.40</DisplayValue>
+      <TotalBaseFare />
+      <TotalOtherTaxes />
+      <FormattedDisplayValue>$227.40</FormattedDisplayValue>
+      <Value>227.4</Value>
+      <ProductId />
+    </MOBSHOPPrice>
+  </Prices>
+  <Taxes />
+  <TravelerKeys>
+    <string>0</string>
+  </TravelerKeys>
+  <TravelersCSL>
+    <item>
+      <key>
+        <string>0</string>
+      </key>
+      <value>
+        <MOBCPTraveler>
+          <TotalFFCNewValueAfterRedeem />
+          <FutureFlightCredits />
+          <CslReservationPaxTypeCode>ADT</CslReservationPaxTypeCode>
+          <IndividualTotalAmount>227.4</IndividualTotalAmount>
+          <PTCDescription>Adult (18-64)</PTCDescription>
+          <IsEligibleForSeatSelection>true</IsEligibleForSeatSelection>
+          <EmployeeId />
+          <Title>Mr.</Title>
+          <FirstName>test</FirstName>
+          <MiddleName>sam</MiddleName>
+          <LastName>jeste</LastName>
+          <Suffix />
+          <GenderCode>M</GenderCode>
+          <BirthDate>08/31/1988</BirthDate>
+          <IsProfileOwner>true</IsProfileOwner>
+          <IsDeceased>false</IsDeceased>
+          <IsExecutive>false</IsExecutive>
+          <CurrentEliteLevel>0</CurrentEliteLevel>
+          <Key>H0VJZYpQQccyen2K1he7N1GYcKhw2jBG4rqwIh7vuxo=</Key>
+          <CustomerId>123902716</CustomerId>
+          <ProfileId>59925135</ProfileId>
+          <ProfileOwnerId>123902716</ProfileOwnerId>
+          <MileagePlus>
+            <AccountBalance>0</AccountBalance>
+            <ActiveStatusCode>A</ActiveStatusCode>
+            <ActiveStatusDescription>ACTIVE</ActiveStatusDescription>
+            <AllianceEliteLevel>0</AllianceEliteLevel>
+            <ClosedStatusCode>O</ClosedStatusCode>
+            <ClosedStatusDescription>OPEN</ClosedStatusDescription>
+            <CurrentEliteLevel>0</CurrentEliteLevel>
+            <CurrentEliteLevelDescription>General member</CurrentEliteLevelDescription>
+            <CurrentYearMoneySpent>0.0</CurrentYearMoneySpent>
+            <EliteMileageBalance>0</EliteMileageBalance>
+            <EliteSegmentBalance>0</EliteSegmentBalance>
+            <EliteSegmentDecimalPlaceValue>0</EliteSegmentDecimalPlaceValue>
+            <EncryptedPin />
+            <EnrollDate>01/28/2015</EnrollDate>
+            <EnrollSourceCode>IN15</EnrollSourceCode>
+            <EnrollSourceDescription>2002 CO.COM NEW BOOKING SITE</EnrollSourceDescription>
+            <FlexPqmBalance>0</FlexPqmBalance>
+            <FutureEliteLevel>0</FutureEliteLevel>
+            <FutureEliteDescription>Non-Elite</FutureEliteDescription>
+            <InstantEliteExpirationDate>Non-Elite</InstantEliteExpirationDate>
+            <IsCEO>false</IsCEO>
+            <IsClosedPermanently>false</IsClosedPermanently>
+            <IsClosedTemporarily>false</IsClosedTemporarily>
+            <IsCurrentTrialEliteMember>false</IsCurrentTrialEliteMember>
+            <IsFlexPqm>false</IsFlexPqm>
+            <IsInfiniteElite>false</IsInfiniteElite>
+            <IsLifetimeCompanion>false</IsLifetimeCompanion>
+            <IsLockedOut>false</IsLockedOut>
+            <IsMergePending>false</IsMergePending>
+            <IsUnitedClubMember>false</IsUnitedClubMember>
+            <IsPresidentialPlus>false</IsPresidentialPlus>
+            <Key>9XTILzD/YPs3mR9kuM2XTw==</Key>
+            <LastActivityDate />
+            <LastExpiredMile>0</LastExpiredMile>
+            <LastFlightDate />
+            <LastStatementBalance>0</LastStatementBalance>
+            <LastStatementDate>12/31/2017</LastStatementDate>
+            <LifetimeEliteLevel>0</LifetimeEliteLevel>
+            <LifetimeEliteMileageBalance>0</LifetimeEliteMileageBalance>
+            <MileageExpirationDate />
+            <NextYearEliteLevel>0</NextYearEliteLevel>
+            <NextYearEliteLevelDescription />
+            <MileagePlusId>AW720477</MileagePlusId>
+            <MileagePlusPin />
+            <PriorUnitedAccountNumber />
+            <StarAllianceEliteLevel>0</StarAllianceEliteLevel>
+            <MpCustomerId>123902716</MpCustomerId>
+            <PremierLevelExpirationDate />
+            <TravelBankBalance>0</TravelBankBalance>
+          </MileagePlus>
+          <SecureTravelers />
+          <AirRewardPrograms>
+            <MOBBKLoyaltyProgramProfile>
+              <RewardProgramKey>BurM4vQ4qCY4Rs9mb8nOZw==</RewardProgramKey>
+              <CarrierCode>UA</CarrierCode>
+              <ProgramId>7</ProgramId>
+              <ProgramName>United MileagePlus</ProgramName>
+              <MemberId>AW720477</MemberId>
+              <MemberTierDescription />
+              <MemberTierLevel />
+              <MPEliteLevel>0</MPEliteLevel>
+              <StarEliteLevel />
+            </MOBBKLoyaltyProgramProfile>
+          </AirRewardPrograms>
+          <Phones />
+          <Addresses>
+            <MOBAddress>
+              <Key>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</Key>
+              <Channel>
+                <ChannelCode>A</ChannelCode>
+                <ChannelDescription>Address</ChannelDescription>
+                <ChannelTypeCode>H</ChannelTypeCode>
+                <ChannelTypeDescription>Home</ChannelTypeDescription>
+              </Channel>
+              <CompanyName />
+              <JobTitle />
+              <Line1>1600 smith st</Line1>
+              <Line2 />
+              <Line3 />
+              <ApartmentNumber />
+              <City>houston</City>
+              <State>
+                <Code>TX</Code>
+                <Name />
+              </State>
+              <Country>
+                <Code>US</Code>
+                <Name>United States</Name>
+                <PhoneCode />
+              </Country>
+              <IsPrivate>false</IsPrivate>
+              <IsDefault>false</IsDefault>
+              <IsPrimary>true</IsPrimary>
+              <PostalCode>77002-7362</PostalCode>
+              <IsCorporate>false</IsCorporate>
+              <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+            </MOBAddress>
+          </Addresses>
+          <AirPreferences>
+            <MOBPrefAirPreference>
+              <CustomerId>123902716</CustomerId>
+              <ProfileId>59925135</ProfileId>
+              <AirPreferenceId>63368476</AirPreferenceId>
+              <Key>H0VJZYpQQccyen2K1he7N+Jy0K1wTynNaEJ+hRlSbIU=</Key>
+              <MealId>1</MealId>
+              <MealCode>--</MealCode>
+              <MealDescription>No Preference</MealDescription>
+              <SeatFrontBack>0</SeatFrontBack>
+              <SeatSide>0</SeatSide>
+              <SeatSideDescription>No Preference</SeatSideDescription>
+              <NumOfFlightsDisplay>10</NumOfFlightsDisplay>
+              <SearchPreferenceId>1</SearchPreferenceId>
+              <SearchPreferenceDescription>Price</SearchPreferenceDescription>
+              <EquipmentId>1</EquipmentId>
+              <EquipmentCode>NONE</EquipmentCode>
+              <EquipmentDesc>No Preference</EquipmentDesc>
+              <ClassId>1</ClassId>
+              <ClassDescription>No Preference</ClassDescription>
+              <AirportCode />
+              <AirportNameLong />
+              <AirportNameShort />
+              <VendorId>1106</VendorId>
+              <VendorCode>UA</VendorCode>
+              <VendorDescription>United</VendorDescription>
+              <IsNew>false</IsNew>
+              <IsSelected>false</IsSelected>
+              <IsActive>true</IsActive>
+              <LanguageCode />
+              <AirRewardPrograms>
+                <MOBPrefRewardProgram>
+                  <CustomerId>123902716</CustomerId>
+                  <ProfileId>59925135</ProfileId>
+                  <PreferenceId>0</PreferenceId>
+                  <Key />
+                  <ProgramMemberId>AW720477</ProgramMemberId>
+                  <SourceDescription />
+                  <SourceCode />
+                  <VendorCode>UA</VendorCode>
+                  <VendorDescription>United</VendorDescription>
+                  <ProgramId>0</ProgramId>
+                  <ProgramCode />
+                  <ProgramDescription />
+                  <ProgramType />
+                  <IsSelected>false</IsSelected>
+                  <IsNew>false</IsNew>
+                  <IsValidNumber>false</IsValidNumber>
+                </MOBPrefRewardProgram>
+              </AirRewardPrograms>
+              <SpecialRequests />
+              <ServiceAnimals />
+            </MOBPrefAirPreference>
+          </AirPreferences>
+          <EmailAddresses />
+          <CreditCards>
+            <MOBCreditCard>
+              <Key>CtkL4CUlcr5FamRJMRA9ejmEfuxcFnC7xeV3XPR2j+jcS2xGNtOpo63afz2cpKSoW5sPjoNFFfZkJfwCCNiOJh6/bkk8LvTLEsM5+x/CPOo=</Key>
+              <CardType>VI</CardType>
+              <CardTypeDescription>Visa</CardTypeDescription>
+              <Description />
+              <ExpireMonth>5</ExpireMonth>
+              <ExpireYear>2022</ExpireYear>
+              <IsPrimary>true</IsPrimary>
+              <UnencryptedCardNumber>XXXXXXXXXXXX5678</UnencryptedCardNumber>
+              <EncryptedCardNumber />
+              <DisplayCardNumber>XXXXXXXXXXXX5678</DisplayCardNumber>
+              <CIDCVV2 />
+              <CCName>Test</CCName>
+              <AddressKey>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</AddressKey>
+              <PhoneKey />
+              <Message />
+              <AccountNumberToken>8179ef9b-30ef-4805-abd8-b81bc8741a49</AccountNumberToken>
+              <PersistentToken>9808016830015678</PersistentToken>
+              <SecurityCodeToken />
+              <BarCode />
+              <IsCorporate>false</IsCorporate>
+              <IsMandatory>false</IsMandatory>
+              <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+              <IsOAEPPaddingCatalogEnabled>false</IsOAEPPaddingCatalogEnabled>
+            </MOBCreditCard>
+            <MOBCreditCard>
+              <Key>CtkL4CUlcr5FamRJMRA9eoM8Wr9FchZvrlXY0gdFLIq2YVU5wToz+khoLdFFoFsbyKizbY4fsAr7lxvFT/OAyZ4uoP8waExZghbXZYwcf7c=</Key>
+              <CardType>MC</CardType>
+              <CardTypeDescription>MasterCard</CardTypeDescription>
+              <Description />
+              <ExpireMonth>5</ExpireMonth>
+              <ExpireYear>2022</ExpireYear>
+              <IsPrimary>false</IsPrimary>
+              <UnencryptedCardNumber>XXXXXXXXXXXX0007</UnencryptedCardNumber>
+              <EncryptedCardNumber />
+              <DisplayCardNumber>XXXXXXXXXXXX0007</DisplayCardNumber>
+              <CIDCVV2 />
+              <CCName>test</CCName>
+              <AddressKey>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</AddressKey>
+              <PhoneKey />
+              <Message />
+              <AccountNumberToken>6e57a335-7e41-40de-8620-18004baabfac</AccountNumberToken>
+              <PersistentToken>7066583965040007</PersistentToken>
+              <SecurityCodeToken />
+              <BarCode />
+              <IsCorporate>false</IsCorporate>
+              <IsMandatory>false</IsMandatory>
+              <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+              <IsOAEPPaddingCatalogEnabled>false</IsOAEPPaddingCatalogEnabled>
+            </MOBCreditCard>
+          </CreditCards>
+          <TravelerTypeCode>ADT</TravelerTypeCode>
+          <TravelerTypeDescription>Adults (age 18 to 64)</TravelerTypeDescription>
+          <TravelProgramMemberId />
+          <KnownTravelerNumber />
+          <RedressNumber />
+          <OwnerFirstName>test</OwnerFirstName>
+          <OwnerLastName>jeste</OwnerLastName>
+          <OwnerMiddleName>sam</OwnerMiddleName>
+          <OwnerSuffix />
+          <OwnerTitle>Mr.</OwnerTitle>
+          <PaxIndex>0</PaxIndex>
+          <Seats />
+          <TravelerNameIndex>1.1</TravelerNameIndex>
+          <IsTSAFlagON>false</IsTSAFlagON>
+          <Message />
+          <MPNameNotMatchMessage />
+          <ISMPNameMisMatch>false</ISMPNameMisMatch>
+          <ReservationEmailAddresses>
+            <MOBEmail>
+              <Key>boKYEwj+MmxhPCZF8pJ8nvgXenWTBwEM521WCpaHsxSpJ4f7rWXzE14WU7EN8LE8</Key>
+              <Channel>
+                <ChannelCode>E</ChannelCode>
+                <ChannelDescription>Email</ChannelDescription>
+                <ChannelTypeCode>U</ChannelTypeCode>
+                <ChannelTypeDescription>Unknown</ChannelTypeDescription>
+              </Channel>
+              <EmailAddress>ravikumar.bokka@united.com</EmailAddress>
+              <IsPrivate>false</IsPrivate>
+              <IsDefault>false</IsDefault>
+              <IsPrimary>true</IsPrimary>
+              <IsDayOfTravel>false</IsDayOfTravel>
+            </MOBEmail>
+          </ReservationEmailAddresses>
+          <ReservationPhones>
+            <MOBCPPhone>
+              <AreaNumber>713</AreaNumber>
+              <Attention />
+              <ChannelCode>P</ChannelCode>
+              <ChannelCodeDescription>Phone</ChannelCodeDescription>
+              <ChannelTypeCode>H</ChannelTypeCode>
+              <ChannelTypeDescription>Home</ChannelTypeDescription>
+              <ChannelTypeSeqNumber>1</ChannelTypeSeqNumber>
+              <CountryCode>US</CountryCode>
+              <CountryNumber />
+              <CountryPhoneNumber />
+              <CustomerId>123902716</CustomerId>
+              <Description />
+              <DiscontinuedDate>1/1/3001 9:00:00 AM</DiscontinuedDate>
+              <EffectiveDate>1/29/2015 1:28:15 AM</EffectiveDate>
+              <ExtensionNumber />
+              <IsPrimary>true</IsPrimary>
+              <IsPrivate>false</IsPrivate>
+              <IsProfileOwner>true</IsProfileOwner>
+              <Key>zostfXzeLegOTHQqzcV0rW2atM8NNK4EImEVwja2AfWNLbbzVul2RS9i9c12G/lh</Key>
+              <LanguageCode>EN</LanguageCode>
+              <MileagePlusId />
+              <PagerPinNumber />
+              <PhoneNumber>3241234</PhoneNumber>
+              <SharesCountryCode />
+              <WrongPhoneDate />
+              <DeviceTypeCode>PH</DeviceTypeCode>
+              <DeviceTypeDescription>Phone</DeviceTypeDescription>
+              <IsDayOfTravel>false</IsDayOfTravel>
+              <IsSMSEnabled>false</IsSMSEnabled>
+            </MOBCPPhone>
+          </ReservationPhones>
+          <CustomerMetrics>
+            <PTCCode>PPR</PTCCode>
+          </CustomerMetrics>
+          <PaxID>1</PaxID>
+          <IsPaxSelected>true</IsPaxSelected>
+          <SelectedSpecialNeeds />
+          <SelectedSpecialNeedMessages />
+          <IsMustRideTraveler>false</IsMustRideTraveler>
+        </MOBCPTraveler>
+      </value>
+    </item>
+  </TravelersCSL>
+  <SeatPrices />
+  <CreditCards>
+    <MOBCreditCard>
+      <Key>CtkL4CUlcr5FamRJMRA9ejmEfuxcFnC7xeV3XPR2j+jcS2xGNtOpo63afz2cpKSoW5sPjoNFFfZkJfwCCNiOJh6/bkk8LvTLEsM5+x/CPOo=</Key>
+      <CardType>VI</CardType>
+      <CardTypeDescription>Visa</CardTypeDescription>
+      <Description />
+      <ExpireMonth>5</ExpireMonth>
+      <ExpireYear>2022</ExpireYear>
+      <IsPrimary>true</IsPrimary>
+      <UnencryptedCardNumber>XXXXXXXXXXXX5678</UnencryptedCardNumber>
+      <EncryptedCardNumber />
+      <DisplayCardNumber>XXXXXXXXXXXX5678</DisplayCardNumber>
+      <CIDCVV2 />
+      <CCName>Test</CCName>
+      <AddressKey>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</AddressKey>
+      <PhoneKey />
+      <Message />
+      <AccountNumberToken>8179ef9b-30ef-4805-abd8-b81bc8741a49</AccountNumberToken>
+      <PersistentToken>9808016830015678</PersistentToken>
+      <SecurityCodeToken />
+      <BarCode />
+      <IsCorporate>false</IsCorporate>
+      <IsMandatory>false</IsMandatory>
+      <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+      <IsOAEPPaddingCatalogEnabled>false</IsOAEPPaddingCatalogEnabled>
+    </MOBCreditCard>
+  </CreditCards>
+  <CSLReservationJSONFormat>[{"Characteristic":[{"Code":"SELECTED_FARE_TYPE","Value":"ECONOMY"}],"SegmentNumber":1,"TripNumber":"1","FlightSegment":{"ArrivalAirport":{"IATACode":"ORD","IATACountryCode":{"CountryCode":"US"},"Name":"Chicago, IL, US (ORD)","StateProvince":{"StateProvinceCode":"IL"}},"ArrivalDateTime":"2021-11-25 09:26","AvailBookingClasses":[{"Code":"J","Counts":{"Value":"9"}},{"Code":"JN","Counts":{"Value":"9"}},{"Code":"C","Counts":{"Value":"9"}},{"Code":"D","Counts":{"Value":"9"}},{"Code":"Z","Counts":{"Value":"9"}},{"Code":"ZN","Counts":{"Value":"9"}},{"Code":"P","Counts":{"Value":"9"}},{"Code":"PN","Counts":{"Value":"9"}},{"Code":"PZ","Counts":{"Value":"7"}},{"Code":"IN","Counts":{"Value":"0"}},{"Code":"I","Counts":{"Value":"0"}},{"Code":"Y","Counts":{"Value":"9"}},{"Code":"YN","Counts":{"Value":"9"}},{"Code":"B","Counts":{"Value":"9"}},{"Code":"M","Counts":{"Value":"9"}},{"Code":"E","Counts":{"Value":"9"}},{"Code":"U","Counts":{"Value":"9"}},{"Code":"H","Counts":{"Value":"9"}},{"Code":"HN","Counts":{"Value":"9"}},{"Code":"Q","Counts":{"Value":"9"}},{"Code":"V","Counts":{"Value":"9"}},{"Code":"W","Counts":{"Value":"1"}},{"Code":"S","Counts":{"Value":"0"}},{"Code":"T","Counts":{"Value":"0"}},{"Code":"L","Counts":{"Value":"0"}},{"Code":"K","Counts":{"Value":"0"}},{"Code":"G","Counts":{"Value":"0"}},{"Code":"N","Counts":{"Value":"9"}},{"Code":"XN","Counts":{"Value":"0"}},{"Code":"X","Counts":{"Value":"0"}}],"BookingClasses":[{"Cabin":{"Key":"UE","Layout":"2","Name":"United Economy"},"Code":"W"}],"Characteristic":[{"Code":"PET_COUNT","Value":"0"}],"DepartureAirport":{"IATACode":"DEN","IATACountryCode":{"CountryCode":"US"},"Name":"Denver, CO, US (DEN)","StateProvince":{"StateProvinceCode":"CO"}},"DepartureDateTime":"2021-11-25 06:00","Distance":885,"Equipment":{"CabinCount":2,"Model":{"Description":"Boeing 737-900","Fleet":"739"},"SeatmapLegendList":null},"FlightNumber":"551","FlightSegmentType":"NN","InstantUpgradable":false,"IsInternational":"False","MarketedFlightSegment":[{"FlightNumber":"551","MarketingAirlineCode":"UA"}],"MarriageGroup":"N","Message":[{"Code":"ARRDAYDIFF"},{"Code":"BASIS_CODE","Text":"WAA3AKEN"},{"Code":"PETS_DISALLOWED","Text":"False"},{"Code":"OPERATINGCARRIERDESC","Text":"United Airlines"},{"Code":"OB","Text":"OBY"}],"OperatingAirlineCode":"UA","SegmentNumber":1,"UpgradeEligibilityStatus":0,"UpgradeVisibilityType":0},"IsConnection":"False"}]</CSLReservationJSONFormat>
+  <TravelOptions />
+  <NumberOfTravelers>1</NumberOfTravelers>
+  <TravelersRegistered>false</TravelersRegistered>
+  <CreditCardsAddress>
+    <MOBAddress>
+      <Key>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</Key>
+      <Channel>
+        <ChannelCode>A</ChannelCode>
+        <ChannelDescription>Address</ChannelDescription>
+        <ChannelTypeCode>H</ChannelTypeCode>
+        <ChannelTypeDescription>Home</ChannelTypeDescription>
+      </Channel>
+      <CompanyName />
+      <JobTitle />
+      <Line1>1600 smith st</Line1>
+      <Line2 />
+      <Line3 />
+      <ApartmentNumber />
+      <City>houston</City>
+      <State>
+        <Code>TX</Code>
+        <Name />
+      </State>
+      <Country>
+        <Code>US</Code>
+        <Name>United States</Name>
+        <PhoneCode />
+      </Country>
+      <IsPrivate>false</IsPrivate>
+      <IsDefault>false</IsDefault>
+      <IsPrimary>true</IsPrimary>
+      <PostalCode>77002-7362</PostalCode>
+      <IsCorporate>false</IsCorporate>
+      <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+    </MOBAddress>
+  </CreditCardsAddress>
+  <FareRules />
+  <ReservationPhone>
+    <AreaNumber>713</AreaNumber>
+    <Attention />
+    <ChannelCode>P</ChannelCode>
+    <ChannelCodeDescription>Phone</ChannelCodeDescription>
+    <ChannelTypeCode>H</ChannelTypeCode>
+    <ChannelTypeDescription>Home</ChannelTypeDescription>
+    <ChannelTypeSeqNumber>1</ChannelTypeSeqNumber>
+    <CountryCode>US</CountryCode>
+    <CountryNumber />
+    <CountryPhoneNumber />
+    <CustomerId>123902716</CustomerId>
+    <Description />
+    <DiscontinuedDate>1/1/3001 9:00:00 AM</DiscontinuedDate>
+    <EffectiveDate>1/29/2015 1:28:15 AM</EffectiveDate>
+    <ExtensionNumber />
+    <IsPrimary>true</IsPrimary>
+    <IsPrivate>false</IsPrivate>
+    <IsProfileOwner>true</IsProfileOwner>
+    <Key>zostfXzeLegOTHQqzcV0rW2atM8NNK4EImEVwja2AfWNLbbzVul2RS9i9c12G/lh</Key>
+    <LanguageCode>EN</LanguageCode>
+    <MileagePlusId />
+    <PagerPinNumber />
+    <PhoneNumber>3241234</PhoneNumber>
+    <SharesCountryCode />
+    <WrongPhoneDate />
+    <DeviceTypeCode>PH</DeviceTypeCode>
+    <DeviceTypeDescription>Phone</DeviceTypeDescription>
+    <IsDayOfTravel>false</IsDayOfTravel>
+    <IsSMSEnabled>false</IsSMSEnabled>
+  </ReservationPhone>
+  <ReservationEmail>
+    <Key>boKYEwj+MmxhPCZF8pJ8nvgXenWTBwEM521WCpaHsxSpJ4f7rWXzE14WU7EN8LE8</Key>
+    <Channel>
+      <ChannelCode>E</ChannelCode>
+      <ChannelDescription>Email</ChannelDescription>
+      <ChannelTypeCode>U</ChannelTypeCode>
+      <ChannelTypeDescription>Unknown</ChannelTypeDescription>
+    </Channel>
+    <EmailAddress>ravikumar.bokka@united.com</EmailAddress>
+    <IsPrivate>false</IsPrivate>
+    <IsDefault>false</IsDefault>
+    <IsPrimary>true</IsPrimary>
+    <IsDayOfTravel>false</IsDayOfTravel>
+  </ReservationEmail>
+  <Override24HrFlex>false</Override24HrFlex>
+  <LMXTravelers />
+  <PointOfSale>US</PointOfSale>
+  <FareLock>
+    <FareLockHoldButtonText>Hold fare</FareLockHoldButtonText>
+    <FareLockTextTop>United’s FareLock service lets you hold your fare and complete the purchase of your itinerary at a later time.</FareLockTextTop>
+    <FareLockTextBottom>FareLock fees are nonrefundable and not applied toward the price of the ticket.</FareLockTextBottom>
+    <FareLockPurchaseButtonText>Purchase now</FareLockPurchaseButtonText>
+    <FareLockPurchaseButtonAmount>227.4</FareLockPurchaseButtonAmount>
+    <FareLockPurchaseButtonAmountDisplayText>227.4</FareLockPurchaseButtonAmountDisplayText>
+    <FareLockMinAmount>999999.9</FareLockMinAmount>
+    <FareLockDisplayMinAmount>999999.9</FareLockDisplayMinAmount>
+    <FareLockTitleText>Hold fare with FareLock℠</FareLockTitleText>
+    <FareLockDescriptionText>Hold Reservation Using FareLock</FareLockDescriptionText>
+    <FareLockDisclaimerText />
+    <FareLockTermsAndConditions />
+    <FareLockProducts />
+  </FareLock>
+  <UnregisterFareLock>false</UnregisterFareLock>
+  <AwardTravel>false</AwardTravel>
+  <LMXFlights />
+  <TCDAdvisoryMessages>
+    <MOBItem>
+      <Id>PhoneEmail</Id>
+      <CurrentValue>Providing a traveler’s mobile number and/or email address indicates that he or she consents to receive SMS and/or email messages via the contact information provided concerning flight status updates or notifications, and as otherwise permitted by our privacy policy. Standard messaging and data rates may apply. Messaging frequency varies based on customer preferences and the status of flight operations.</CurrentValue>
+      <SaveToPersist>false</SaveToPersist>
+    </MOBItem>
+    <MOBItem>
+      <Id>PurchaseTnC</Id>
+      <CurrentValue>Purchase of this ticket means you understand and agree to all fare rules associated with this ticket, all terms and conditions associated with any additional offer/product purchases made, United’s dangerous goods policy, and the terms and conditions in United’s Contract of Carriage.</CurrentValue>
+      <SaveToPersist>false</SaveToPersist>
+    </MOBItem>
+    <MOBItem>
+      <Id>TCDmessage</Id>
+      <CurrentValue>View text messaging terms and conditions. U.S. supported carriers are AT&amp;T, U.S. Cellular®, Verizon Wireless, Sprint, Cricket, Boost, Virgin Mobile USA , T-Mobile® and MetroPCS. Canadian supported carriers are Aliant Mobility, Bell Mobility, Eastlink, Fido, Mobilicity, MTS, NorthernTel Mobility, Public Mobile, Rogers Wireless, SaskTel Mobility, Télébec Mobilité, TELUS Mobility, Vidéotron, Virgin Mobile Canada, WIND Mobile. The wireless carriers are not liable for delayed or undelivered messages. U.S. and Canadian customers may opt out at any time by texting STOP to 26266 from their mobile device. For more information, text HELP to 26266 or call 1-800-UNITED-1 (1-800-864-8331).</CurrentValue>
+      <SaveToPersist>false</SaveToPersist>
+    </MOBItem>
+  </TCDAdvisoryMessages>
+  <IsRefundable>false</IsRefundable>
+  <ISInternational>false</ISInternational>
+  <IneligibleToEarnCreditMessage>This itinerary includes one or more flights that are ineligible to earn mileage or Premier qualifying credit.</IneligibleToEarnCreditMessage>
+  <OaIneligibleToEarnCreditMessage>Ineligible to accrue mileage or Premier qualifying credit.</OaIneligibleToEarnCreditMessage>
+  <ISFlexibleSegmentExist>false</ISFlexibleSegmentExist>
+  <GetALLSavedTravelers>true</GetALLSavedTravelers>
+  <IsELF>false</IsELF>
+  <IsMetaSearch>false</IsMetaSearch>
+  <IsUpgradedFromEntryLevelFare>false</IsUpgradedFromEntryLevelFare>
+  <IsGetProfileCalledForProfileOwner>true</IsGetProfileCalledForProfileOwner>
+  <IsCubaTravel>false</IsCubaTravel>
+  <FormOfPaymentType>CreditCard</FormOfPaymentType>
+  <FOPOptions>
+    <MOBTypeOption>
+      <Key>ApplePay</Key>
+      <Value>Apple Pay</Value>
+    </MOBTypeOption>
+    <MOBTypeOption>
+      <Key>PayPal</Key>
+      <Value>PayPal</Value>
+    </MOBTypeOption>
+    <MOBTypeOption>
+      <Key>PayPalCredit</Key>
+      <Value>PayPal Credit</Value>
+    </MOBTypeOption>
+    <MOBTypeOption>
+      <Key>Masterpass</Key>
+      <Value>Masterpass</Value>
+    </MOBTypeOption>
+  </FOPOptions>
+  <ELFMessagesForRTI />
+  <IsReshopChange>false</IsReshopChange>
+  <ReshopTrips />
+  <ReshopUsedTrips />
+  <IsSSA>true</IsSSA>
+  <SeatAssignmentMessage />
+  <AboveGoldMembers>0</AboveGoldMembers>
+  <GoldMembers>0</GoldMembers>
+  <SilverMembers>0</SilverMembers>
+  <NoOfFreeEplusWithSubscriptions>0</NoOfFreeEplusWithSubscriptions>
+  <ShopReservationInfo2>
+    <IsDisplayCart>false</IsDisplayCart>
+    <IsCovidTestFlight>false</IsCovidTestFlight>
+    <AlertMessages>
+      <MOBSection>
+        <Text1>Face masks required for all travelers</Text1>
+        <Text2>Federal law requires all travelers to wear a face mask with no vents or openings that fully covers their nose and mouth. Masks must be worn in the airport and during the entire flight, and between bites and sips if travelers are eating or drinking. Travelers who aren't wearing their masks in the airport or on board may be refused transport, be subject to fines, and could also lose their travel privileges on future United flights. Children younger than 2 years old are exempt. &lt;a class="external-link" href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/face-masks-public-transportation.html"&gt;Learn more&lt;/a&gt;</Text2>
+        <Order>FACECOVERING</Order>
+        <IsDefaultOpen>true</IsDefaultOpen>
+      </MOBSection>
+    </AlertMessages>
+    <ConfirmationPageAlertMessages />
+    <ShowSelectDifferentFOPAtRTI>false</ShowSelectDifferentFOPAtRTI>
+    <IsArrangerBooking>false</IsArrangerBooking>
+    <IsYATravel>false</IsYATravel>
+    <DisplayTravelTypes>
+      <MOBDisplayTravelType>
+        <PaxID>1</PaxID>
+        <PaxType>ADT</PaxType>
+        <TravelerDescription>Adult (18-64)</TravelerDescription>
+        <TravelerType>Adult</TravelerType>
+      </MOBDisplayTravelType>
+    </DisplayTravelTypes>
+    <TravelOptionEligibleTravelersCount>1</TravelOptionEligibleTravelersCount>
+    <TravelerTypes>
+      <MOBTravelerType>
+        <Count>1</Count>
+        <TravelerType>Adult</TravelerType>
+      </MOBTravelerType>
+      <MOBTravelerType>
+        <Count>0</Count>
+        <TravelerType>Senior</TravelerType>
+      </MOBTravelerType>
+      <MOBTravelerType>
+        <Count>0</Count>
+        <TravelerType>Child15To17</TravelerType>
+      </MOBTravelerType>
+      <MOBTravelerType>
+        <Count>0</Count>
+        <TravelerType>Child12To14</TravelerType>
+      </MOBTravelerType>
+      <MOBTravelerType>
+        <Count>0</Count>
+        <TravelerType>Child5To11</TravelerType>
+      </MOBTravelerType>
+      <MOBTravelerType>
+        <Count>0</Count>
+        <TravelerType>Child2To4</TravelerType>
+      </MOBTravelerType>
+      <MOBTravelerType>
+        <Count>0</Count>
+        <TravelerType>InfantSeat</TravelerType>
+      </MOBTravelerType>
+      <MOBTravelerType>
+        <Count>0</Count>
+        <TravelerType>InfantLap</TravelerType>
+      </MOBTravelerType>
+    </TravelerTypes>
+    <ChaseCreditStatement>
+      <initialDisplayPrice>$227.40</initialDisplayPrice>
+      <statementCreditDisplayPrice>$250.00</statementCreditDisplayPrice>
+      <finalAfterStatementDisplayPrice>-$22.60</finalAfterStatementDisplayPrice>
+      <bannerImage>
+        <PhoneUrl>https://smartphone-qa.united.com/REST20PQA/Images/ChasePromo/Chase_Ad/chase_ad_phone_25k_old_arch_9_30.png</PhoneUrl>
+        <TabletUrl>https://smartphone-qa.united.com/REST20PQA/Images/ChasePromo/Chase_Ad/chase_ad_tablet_25k_old_arch_9_30.png</TabletUrl>
+      </bannerImage>
+      <ccImage>https://smartphone-qa.united.com/REST20PQA/Images/ChasePromo/Chase_Ad/cc_old_arch.png</ccImage>
+      <chaseBanner>
+        <MessageKey>480.P.35K2KAFW250SC_020121.250SC35KBM.RTI</MessageKey>
+        <BannerImage>
+          <PhoneUrl>https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns%202021/02-February/SP_RTI_35K_250_SC_Offer_474787_DMM/070121_828x272_35K_RTI_NonLTO_v2.png</PhoneUrl>
+          <TabletUrl>https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns%202021/02-February/SP_RTI_35K_250_SC_Offer_474787_DMM/070121_3072x369_35K_RTI_Tablet_NonLTO_v2.png</TabletUrl>
+        </BannerImage>
+        <MakeFeedBackCall>false</MakeFeedBackCall>
+        <DisplayPriceCalculation>true</DisplayPriceCalculation>
+        <PlacementLandingPageURL>https://united.chase-stage3.archer-group.com/35k250afwic?CELL=TFH&amp;int_source=loyalty&amp;mode=d&amp;int_medium=mob&amp;int_campaign=0480_35k2kafw250sc_020121&amp;alm=493479&amp;int_content=250sc35kbm&amp;partner_category=cc&amp;partner_name=chase_acq&amp;asset_type=shopping_path&amp;asset_position=rti&amp;promo_code=cell_tfh&amp;targeting=lina&amp;launch_date=2021-07-01&amp;rpc=0480&amp;campaign_type=cce&amp;offer_trackingid=null&amp;source_code=null</PlacementLandingPageURL>
+      </chaseBanner>
+      <styledInitialDisplayPrice>&lt;span&gt;$227.40&lt;/span&gt;</styledInitialDisplayPrice>
+      <styledInitialDisplayText>&lt;span&gt;You Pay Today&lt;/span&gt;</styledInitialDisplayText>
+      <styledStatementCreditDisplayPrice>&lt;span style=color:#1B7742&gt;&lt;strong&gt;-$250.00&lt;/strong&gt;&lt;/span&gt;</styledStatementCreditDisplayPrice>
+      <styledStatementCreditDisplayText>&lt;span style=color:#1B7742&gt;&lt;strong&gt;Card Statement Credit&lt;/strong&gt;&lt;/span&gt;</styledStatementCreditDisplayText>
+      <styledFinalAfterStatementDisplayPrice>&lt;span&gt;-$22.60&lt;/span&gt;</styledFinalAfterStatementDisplayPrice>
+      <styledFinalAfterStatementDisplayText>&lt;span&gt;Total After Statement Credit&lt;/span&gt;</styledFinalAfterStatementDisplayText>
+    </ChaseCreditStatement>
+    <InfoNationalityAndResidence>
+      <ComplianceTaxes>
+        <ArrayOfMOBSHOPTax>
+          <MOBSHOPTax>
+            <Amount>29.26</Amount>
+            <DisplayAmount>$29.26</DisplayAmount>
+            <CurrencyCode>USD</CurrencyCode>
+            <NewAmount>0</NewAmount>
+            <DisplayNewAmount />
+            <TaxCode>PERPERSONTAX</TaxCode>
+            <TaxCodeDescription>1 adult (18-64): $29.26 per person</TaxCodeDescription>
+          </MOBSHOPTax>
+          <MOBSHOPTax>
+            <Amount>14.86</Amount>
+            <DisplayAmount>$14.86</DisplayAmount>
+            <CurrencyCode>USD</CurrencyCode>
+            <NewAmount>0</NewAmount>
+            <DisplayNewAmount />
+            <TaxCode>US</TaxCode>
+            <TaxCodeDescription>U.S. Transportation Tax</TaxCodeDescription>
+          </MOBSHOPTax>
+          <MOBSHOPTax>
+            <Amount>4.5</Amount>
+            <DisplayAmount>$4.50</DisplayAmount>
+            <CurrencyCode>USD</CurrencyCode>
+            <NewAmount>0</NewAmount>
+            <DisplayNewAmount />
+            <TaxCode>XF</TaxCode>
+            <TaxCodeDescription>U.S. Passenger Facility Charge</TaxCodeDescription>
+          </MOBSHOPTax>
+          <MOBSHOPTax>
+            <Amount>4.3</Amount>
+            <DisplayAmount>$4.30</DisplayAmount>
+            <CurrencyCode>USD</CurrencyCode>
+            <NewAmount>0</NewAmount>
+            <DisplayNewAmount />
+            <TaxCode>ZP</TaxCode>
+            <TaxCodeDescription>U.S. Flight Segment Tax</TaxCodeDescription>
+          </MOBSHOPTax>
+          <MOBSHOPTax>
+            <Amount>5.6</Amount>
+            <DisplayAmount>$5.60</DisplayAmount>
+            <CurrencyCode>USD</CurrencyCode>
+            <NewAmount>0</NewAmount>
+            <DisplayNewAmount />
+            <TaxCode>AY</TaxCode>
+            <TaxCodeDescription>September 11th Security Fee</TaxCodeDescription>
+          </MOBSHOPTax>
+        </ArrayOfMOBSHOPTax>
+        <ArrayOfMOBSHOPTax>
+          <MOBSHOPTax>
+            <Amount>29.26</Amount>
+            <DisplayAmount>$29.26</DisplayAmount>
+            <CurrencyCode>USD</CurrencyCode>
+            <NewAmount>0</NewAmount>
+            <DisplayNewAmount />
+            <TaxCode>TOTALTAX</TaxCode>
+            <TaxCodeDescription>Taxes and fees total</TaxCodeDescription>
+          </MOBSHOPTax>
+        </ArrayOfMOBSHOPTax>
+      </ComplianceTaxes>
+      <IsRequireNationalityAndResidence>false</IsRequireNationalityAndResidence>
+    </InfoNationalityAndResidence>
+    <IsForceSeatMapInRTI>false</IsForceSeatMapInRTI>
+    <IsForceSeatMap>false</IsForceSeatMap>
+    <IsPaxRegisterd>false</IsPaxRegisterd>
+    <EnableFinalBookingAgreenPurchaseButton>true</EnableFinalBookingAgreenPurchaseButton>
+    <InfoWarningMessages />
+    <InfoWarningMessagesPayment />
+    <AllEligibleTravelersCSL>
+      <MOBCPTraveler>
+        <TotalFFCNewValueAfterRedeem />
+        <FutureFlightCredits />
+        <IndividualTotalAmount>0</IndividualTotalAmount>
+        <PTCDescription>Adult (18-64)</PTCDescription>
+        <IsEligibleForSeatSelection>true</IsEligibleForSeatSelection>
+        <EmployeeId />
+        <Title>Mr.</Title>
+        <FirstName>test</FirstName>
+        <MiddleName>sam</MiddleName>
+        <LastName>jeste</LastName>
+        <Suffix />
+        <GenderCode>M</GenderCode>
+        <BirthDate>08/31/1988</BirthDate>
+        <IsProfileOwner>true</IsProfileOwner>
+        <IsDeceased>false</IsDeceased>
+        <IsExecutive>false</IsExecutive>
+        <CurrentEliteLevel>0</CurrentEliteLevel>
+        <Key>H0VJZYpQQccyen2K1he7N1GYcKhw2jBG4rqwIh7vuxo=</Key>
+        <CustomerId>123902716</CustomerId>
+        <ProfileId>59925135</ProfileId>
+        <ProfileOwnerId>123902716</ProfileOwnerId>
+        <MileagePlus>
+          <AccountBalance>0</AccountBalance>
+          <ActiveStatusCode>A</ActiveStatusCode>
+          <ActiveStatusDescription>ACTIVE</ActiveStatusDescription>
+          <AllianceEliteLevel>0</AllianceEliteLevel>
+          <ClosedStatusCode>O</ClosedStatusCode>
+          <ClosedStatusDescription>OPEN</ClosedStatusDescription>
+          <CurrentEliteLevel>0</CurrentEliteLevel>
+          <CurrentEliteLevelDescription>General member</CurrentEliteLevelDescription>
+          <CurrentYearMoneySpent>0.0</CurrentYearMoneySpent>
+          <EliteMileageBalance>0</EliteMileageBalance>
+          <EliteSegmentBalance>0</EliteSegmentBalance>
+          <EliteSegmentDecimalPlaceValue>0</EliteSegmentDecimalPlaceValue>
+          <EncryptedPin />
+          <EnrollDate>01/28/2015</EnrollDate>
+          <EnrollSourceCode>IN15</EnrollSourceCode>
+          <EnrollSourceDescription>2002 CO.COM NEW BOOKING SITE</EnrollSourceDescription>
+          <FlexPqmBalance>0</FlexPqmBalance>
+          <FutureEliteLevel>0</FutureEliteLevel>
+          <FutureEliteDescription>Non-Elite</FutureEliteDescription>
+          <InstantEliteExpirationDate>Non-Elite</InstantEliteExpirationDate>
+          <IsCEO>false</IsCEO>
+          <IsClosedPermanently>false</IsClosedPermanently>
+          <IsClosedTemporarily>false</IsClosedTemporarily>
+          <IsCurrentTrialEliteMember>false</IsCurrentTrialEliteMember>
+          <IsFlexPqm>false</IsFlexPqm>
+          <IsInfiniteElite>false</IsInfiniteElite>
+          <IsLifetimeCompanion>false</IsLifetimeCompanion>
+          <IsLockedOut>false</IsLockedOut>
+          <IsMergePending>false</IsMergePending>
+          <IsUnitedClubMember>false</IsUnitedClubMember>
+          <IsPresidentialPlus>false</IsPresidentialPlus>
+          <Key>9XTILzD/YPs3mR9kuM2XTw==</Key>
+          <LastActivityDate />
+          <LastExpiredMile>0</LastExpiredMile>
+          <LastFlightDate />
+          <LastStatementBalance>0</LastStatementBalance>
+          <LastStatementDate>12/31/2017</LastStatementDate>
+          <LifetimeEliteLevel>0</LifetimeEliteLevel>
+          <LifetimeEliteMileageBalance>0</LifetimeEliteMileageBalance>
+          <MileageExpirationDate />
+          <NextYearEliteLevel>0</NextYearEliteLevel>
+          <NextYearEliteLevelDescription />
+          <MileagePlusId>AW720477</MileagePlusId>
+          <MileagePlusPin />
+          <PriorUnitedAccountNumber />
+          <StarAllianceEliteLevel>0</StarAllianceEliteLevel>
+          <MpCustomerId>123902716</MpCustomerId>
+          <PremierLevelExpirationDate />
+          <TravelBankBalance>0</TravelBankBalance>
+        </MileagePlus>
+        <SecureTravelers />
+        <AirRewardPrograms>
+          <MOBBKLoyaltyProgramProfile>
+            <RewardProgramKey>BurM4vQ4qCY4Rs9mb8nOZw==</RewardProgramKey>
+            <CarrierCode>UA</CarrierCode>
+            <ProgramId>7</ProgramId>
+            <ProgramName>United MileagePlus</ProgramName>
+            <MemberId>AW720477</MemberId>
+            <MemberTierDescription />
+            <MemberTierLevel />
+            <MPEliteLevel>0</MPEliteLevel>
+            <StarEliteLevel />
+          </MOBBKLoyaltyProgramProfile>
+        </AirRewardPrograms>
+        <Phones />
+        <Addresses>
+          <MOBAddress>
+            <Key>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</Key>
+            <Channel>
+              <ChannelCode>A</ChannelCode>
+              <ChannelDescription>Address</ChannelDescription>
+              <ChannelTypeCode>H</ChannelTypeCode>
+              <ChannelTypeDescription>Home</ChannelTypeDescription>
+            </Channel>
+            <CompanyName />
+            <JobTitle />
+            <Line1>1600 smith st</Line1>
+            <Line2 />
+            <Line3 />
+            <ApartmentNumber />
+            <City>houston</City>
+            <State>
+              <Code>TX</Code>
+              <Name />
+            </State>
+            <Country>
+              <Code>US</Code>
+              <Name>United States</Name>
+              <PhoneCode />
+            </Country>
+            <IsPrivate>false</IsPrivate>
+            <IsDefault>false</IsDefault>
+            <IsPrimary>true</IsPrimary>
+            <PostalCode>77002-7362</PostalCode>
+            <IsCorporate>false</IsCorporate>
+            <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+          </MOBAddress>
+        </Addresses>
+        <AirPreferences>
+          <MOBPrefAirPreference>
+            <CustomerId>123902716</CustomerId>
+            <ProfileId>59925135</ProfileId>
+            <AirPreferenceId>63368476</AirPreferenceId>
+            <Key>H0VJZYpQQccyen2K1he7N+Jy0K1wTynNaEJ+hRlSbIU=</Key>
+            <MealId>1</MealId>
+            <MealCode>--</MealCode>
+            <MealDescription>No Preference</MealDescription>
+            <SeatFrontBack>0</SeatFrontBack>
+            <SeatSide>0</SeatSide>
+            <SeatSideDescription>No Preference</SeatSideDescription>
+            <NumOfFlightsDisplay>10</NumOfFlightsDisplay>
+            <SearchPreferenceId>1</SearchPreferenceId>
+            <SearchPreferenceDescription>Price</SearchPreferenceDescription>
+            <EquipmentId>1</EquipmentId>
+            <EquipmentCode>NONE</EquipmentCode>
+            <EquipmentDesc>No Preference</EquipmentDesc>
+            <ClassId>1</ClassId>
+            <ClassDescription>No Preference</ClassDescription>
+            <AirportCode />
+            <AirportNameLong />
+            <AirportNameShort />
+            <VendorId>1106</VendorId>
+            <VendorCode>UA</VendorCode>
+            <VendorDescription>United</VendorDescription>
+            <IsNew>false</IsNew>
+            <IsSelected>false</IsSelected>
+            <IsActive>true</IsActive>
+            <LanguageCode />
+            <AirRewardPrograms>
+              <MOBPrefRewardProgram>
+                <CustomerId>123902716</CustomerId>
+                <ProfileId>59925135</ProfileId>
+                <PreferenceId>0</PreferenceId>
+                <Key />
+                <ProgramMemberId>AW720477</ProgramMemberId>
+                <SourceDescription />
+                <SourceCode />
+                <VendorCode>UA</VendorCode>
+                <VendorDescription>United</VendorDescription>
+                <ProgramId>0</ProgramId>
+                <ProgramCode />
+                <ProgramDescription />
+                <ProgramType />
+                <IsSelected>false</IsSelected>
+                <IsNew>false</IsNew>
+                <IsValidNumber>false</IsValidNumber>
+              </MOBPrefRewardProgram>
+            </AirRewardPrograms>
+            <SpecialRequests />
+            <ServiceAnimals />
+          </MOBPrefAirPreference>
+        </AirPreferences>
+        <EmailAddresses />
+        <CreditCards>
+          <MOBCreditCard>
+            <Key>CtkL4CUlcr5FamRJMRA9ejmEfuxcFnC7xeV3XPR2j+jcS2xGNtOpo63afz2cpKSoW5sPjoNFFfZkJfwCCNiOJh6/bkk8LvTLEsM5+x/CPOo=</Key>
+            <CardType>VI</CardType>
+            <CardTypeDescription>Visa</CardTypeDescription>
+            <Description />
+            <ExpireMonth>5</ExpireMonth>
+            <ExpireYear>2022</ExpireYear>
+            <IsPrimary>true</IsPrimary>
+            <UnencryptedCardNumber>XXXXXXXXXXXX5678</UnencryptedCardNumber>
+            <EncryptedCardNumber />
+            <DisplayCardNumber>XXXXXXXXXXXX5678</DisplayCardNumber>
+            <CIDCVV2 />
+            <CCName>Test</CCName>
+            <AddressKey>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</AddressKey>
+            <PhoneKey />
+            <Message />
+            <AccountNumberToken>8179ef9b-30ef-4805-abd8-b81bc8741a49</AccountNumberToken>
+            <PersistentToken>9808016830015678</PersistentToken>
+            <SecurityCodeToken />
+            <BarCode />
+            <IsCorporate>false</IsCorporate>
+            <IsMandatory>false</IsMandatory>
+            <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+            <IsOAEPPaddingCatalogEnabled>false</IsOAEPPaddingCatalogEnabled>
+          </MOBCreditCard>
+          <MOBCreditCard>
+            <Key>CtkL4CUlcr5FamRJMRA9eoM8Wr9FchZvrlXY0gdFLIq2YVU5wToz+khoLdFFoFsbyKizbY4fsAr7lxvFT/OAyZ4uoP8waExZghbXZYwcf7c=</Key>
+            <CardType>MC</CardType>
+            <CardTypeDescription>MasterCard</CardTypeDescription>
+            <Description />
+            <ExpireMonth>5</ExpireMonth>
+            <ExpireYear>2022</ExpireYear>
+            <IsPrimary>false</IsPrimary>
+            <UnencryptedCardNumber>XXXXXXXXXXXX0007</UnencryptedCardNumber>
+            <EncryptedCardNumber />
+            <DisplayCardNumber>XXXXXXXXXXXX0007</DisplayCardNumber>
+            <CIDCVV2 />
+            <CCName>test</CCName>
+            <AddressKey>V4OzwaOtBCFZpcVfw6fyQdxR/G+OyFHuPLvSV+cYsPlNnpsz/h1XldSEjqOGzVKh</AddressKey>
+            <PhoneKey />
+            <Message />
+            <AccountNumberToken>6e57a335-7e41-40de-8620-18004baabfac</AccountNumberToken>
+            <PersistentToken>7066583965040007</PersistentToken>
+            <SecurityCodeToken />
+            <BarCode />
+            <IsCorporate>false</IsCorporate>
+            <IsMandatory>false</IsMandatory>
+            <IsValidForTPIPurchase>true</IsValidForTPIPurchase>
+            <IsOAEPPaddingCatalogEnabled>false</IsOAEPPaddingCatalogEnabled>
+          </MOBCreditCard>
+        </CreditCards>
+        <TravelerTypeCode>ADT</TravelerTypeCode>
+        <TravelerTypeDescription>Adults (age 18 to 64)</TravelerTypeDescription>
+        <TravelProgramMemberId />
+        <KnownTravelerNumber />
+        <RedressNumber />
+        <OwnerFirstName>test</OwnerFirstName>
+        <OwnerLastName>jeste</OwnerLastName>
+        <OwnerMiddleName>sam</OwnerMiddleName>
+        <OwnerSuffix />
+        <OwnerTitle>Mr.</OwnerTitle>
+        <PaxIndex>0</PaxIndex>
+        <Seats />
+        <IsTSAFlagON>false</IsTSAFlagON>
+        <Message />
+        <MPNameNotMatchMessage />
+        <ISMPNameMisMatch>false</ISMPNameMisMatch>
+        <ReservationEmailAddresses>
+          <MOBEmail>
+            <Key>boKYEwj+MmxhPCZF8pJ8nvgXenWTBwEM521WCpaHsxSpJ4f7rWXzE14WU7EN8LE8</Key>
+            <Channel>
+              <ChannelCode>E</ChannelCode>
+              <ChannelDescription>Email</ChannelDescription>
+              <ChannelTypeCode>U</ChannelTypeCode>
+              <ChannelTypeDescription>Unknown</ChannelTypeDescription>
+            </Channel>
+            <EmailAddress>ravikumar.bokka@united.com</EmailAddress>
+            <IsPrivate>false</IsPrivate>
+            <IsDefault>false</IsDefault>
+            <IsPrimary>true</IsPrimary>
+            <IsDayOfTravel>false</IsDayOfTravel>
+          </MOBEmail>
+        </ReservationEmailAddresses>
+        <ReservationPhones>
+          <MOBCPPhone>
+            <AreaNumber>713</AreaNumber>
+            <Attention />
+            <ChannelCode>P</ChannelCode>
+            <ChannelCodeDescription>Phone</ChannelCodeDescription>
+            <ChannelTypeCode>H</ChannelTypeCode>
+            <ChannelTypeDescription>Home</ChannelTypeDescription>
+            <ChannelTypeSeqNumber>1</ChannelTypeSeqNumber>
+            <CountryCode>US</CountryCode>
+            <CountryNumber />
+            <CountryPhoneNumber />
+            <CustomerId>123902716</CustomerId>
+            <Description />
+            <DiscontinuedDate>1/1/3001 9:00:00 AM</DiscontinuedDate>
+            <EffectiveDate>1/29/2015 1:28:15 AM</EffectiveDate>
+            <ExtensionNumber />
+            <IsPrimary>true</IsPrimary>
+            <IsPrivate>false</IsPrivate>
+            <IsProfileOwner>true</IsProfileOwner>
+            <Key>zostfXzeLegOTHQqzcV0rW2atM8NNK4EImEVwja2AfWNLbbzVul2RS9i9c12G/lh</Key>
+            <LanguageCode>EN</LanguageCode>
+            <MileagePlusId />
+            <PagerPinNumber />
+            <PhoneNumber>3241234</PhoneNumber>
+            <SharesCountryCode />
+            <WrongPhoneDate />
+            <DeviceTypeCode>PH</DeviceTypeCode>
+            <DeviceTypeDescription>Phone</DeviceTypeDescription>
+            <IsDayOfTravel>false</IsDayOfTravel>
+            <IsSMSEnabled>false</IsSMSEnabled>
+          </MOBCPPhone>
+        </ReservationPhones>
+        <CustomerMetrics>
+          <PTCCode>PPR</PTCCode>
+        </CustomerMetrics>
+        <PaxID>1</PaxID>
+        <IsPaxSelected>true</IsPaxSelected>
+        <SelectedSpecialNeeds />
+        <SelectedSpecialNeedMessages />
+        <IsMustRideTraveler>false</IsMustRideTraveler>
+      </MOBCPTraveler>
+    </AllEligibleTravelersCSL>
+    <RTIMandateContentsToDisplayByMarket />
+    <NextViewName />
+    <ReservationAgeBoundInfo>
+      <MinimumAge>14</MinimumAge>
+      <UpBoundAge>18</UpBoundAge>
+      <ErrorMessage>Children under the age of 5 cannot travel unless they’re accompanied by a parent, legal guardian or someone who is at least 18 years old. Children ages 5-14 who are traveling unaccompanied must use our unaccompanied minor service, which cannot be booked with the United app. Please go to united.com to book.</ErrorMessage>
+    </ReservationAgeBoundInfo>
+    <IsShowBookingBundles>true</IsShowBookingBundles>
+    <ShouldHideBackButton>false</ShouldHideBackButton>
+    <IsUnfinihedBookingPath>false</IsUnfinihedBookingPath>
+    <IsIBELite>false</IsIBELite>
+    <IsIBE>false</IsIBE>
+    <SpecialNeeds>
+      <HighTouchItems />
+      <SpecialMeals />
+      <SpecialMealsMessages>
+        <MOBItem>
+          <Id />
+          <CurrentValue>We're unable to book a  meal on this route.</CurrentValue>
+          <SaveToPersist>false</SaveToPersist>
+        </MOBItem>
+      </SpecialMealsMessages>
+      <SpecialRequests>
+        <MOBTravelSpecialNeed>
+          <Value>19</Value>
+          <Code>BSCT</Code>
+          <DisplayDescription>Bassinet/cot</DisplayDescription>
+          <RegisterServiceDescription>Bassinet/cot</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>6</Value>
+          <Code>BLND</Code>
+          <DisplayDescription>Blind</DisplayDescription>
+          <RegisterServiceDescription>Blind</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>7</Value>
+          <Code>DEAF</Code>
+          <DisplayDescription>Deaf</DisplayDescription>
+          <RegisterServiceDescription>Deaf</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>20</Value>
+          <Code>DPNA_1</Code>
+          <DisplayDescription>Cognitive disability</DisplayDescription>
+          <RegisterServiceDescription>Cognitive disability</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages>
+            <MOBItem>
+              <Id />
+              <CurrentValue>After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.</CurrentValue>
+              <SaveToPersist>false</SaveToPersist>
+            </MOBItem>
+          </Messages>
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>21</Value>
+          <Code>DPNA_2</Code>
+          <DisplayDescription>Other disability requiring assistance</DisplayDescription>
+          <RegisterServiceDescription>Other disability requiring assistance</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages>
+            <MOBItem>
+              <Id />
+              <CurrentValue>After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.</CurrentValue>
+              <SaveToPersist>false</SaveToPersist>
+            </MOBItem>
+          </Messages>
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value />
+          <Code>Bringing a wheelchair</Code>
+          <DisplayDescription>Bringing a wheelchair</DisplayDescription>
+          <RegisterServiceDescription>Bringing a wheelchair</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions>
+            <MOBTravelSpecialNeed>
+              <Value>16</Value>
+              <Code>WCBD</Code>
+              <DisplayDescription>Dry cell battery</DisplayDescription>
+              <RegisterServiceDescription>Dry cell battery</RegisterServiceDescription>
+              <Type>SpecialRequest</Type>
+              <Messages />
+              <SubOptions />
+            </MOBTravelSpecialNeed>
+            <MOBTravelSpecialNeed>
+              <Value>17</Value>
+              <Code>WCBW</Code>
+              <DisplayDescription>Wet cell battery</DisplayDescription>
+              <RegisterServiceDescription>Wet cell battery</RegisterServiceDescription>
+              <Type>SpecialRequest</Type>
+              <Messages />
+              <SubOptions />
+            </MOBTravelSpecialNeed>
+            <MOBTravelSpecialNeed>
+              <Value>22</Value>
+              <Code>WCLB</Code>
+              <DisplayDescription>Lithium-ion battery</DisplayDescription>
+              <RegisterServiceDescription>Lithium-ion battery</RegisterServiceDescription>
+              <Type>SpecialRequest</Type>
+              <Messages />
+              <SubOptions />
+            </MOBTravelSpecialNeed>
+            <MOBTravelSpecialNeed>
+              <Value>18</Value>
+              <Code>WCMP</Code>
+              <DisplayDescription>Manual power</DisplayDescription>
+              <RegisterServiceDescription>Manual power</RegisterServiceDescription>
+              <Type>SpecialRequest</Type>
+              <Messages />
+              <SubOptions />
+            </MOBTravelSpecialNeed>
+          </SubOptions>
+          <SubOptionHeader>Select power type</SubOptionHeader>
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>4</Value>
+          <Code>WCHR</Code>
+          <DisplayDescription>Cannot walk long distance</DisplayDescription>
+          <RegisterServiceDescription>Cannot walk long distance</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>3</Value>
+          <Code>WCHS</Code>
+          <DisplayDescription>Cannot ascend or descend stairs</DisplayDescription>
+          <RegisterServiceDescription>Cannot ascend or descend stairs</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>14</Value>
+          <Code>WCHC</Code>
+          <DisplayDescription>Cannot walk</DisplayDescription>
+          <RegisterServiceDescription>Cannot walk</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>23</Value>
+          <Code>OTHS</Code>
+          <DisplayDescription>Service Animal</DisplayDescription>
+          <RegisterServiceDescription>Service Animal</RegisterServiceDescription>
+          <Type>SpecialRequest</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+      </SpecialRequests>
+      <SpecialRequestsMessages />
+      <ServiceAnimals>
+        <MOBTravelSpecialNeed>
+          <Value>9</Value>
+          <Code>SVAN</Code>
+          <DisplayDescription>Balance-assistance dog</DisplayDescription>
+          <RegisterServiceDescription>Balance-assistance dog</RegisterServiceDescription>
+          <Type>ServiceAnimalType</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>3</Value>
+          <Code>SVAN</Code>
+          <DisplayDescription>Guide dog</DisplayDescription>
+          <RegisterServiceDescription>Guide dog</RegisterServiceDescription>
+          <Type>ServiceAnimalType</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>2</Value>
+          <Code>SVAN</Code>
+          <DisplayDescription>Hearing dog</DisplayDescription>
+          <RegisterServiceDescription>Hearing dog</RegisterServiceDescription>
+          <Type>ServiceAnimalType</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>10</Value>
+          <Code>SVAN</Code>
+          <DisplayDescription>Psychiatric assistance dog</DisplayDescription>
+          <RegisterServiceDescription>Psychiatric assistance dog</RegisterServiceDescription>
+          <Type>ServiceAnimalType</Type>
+          <Messages />
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+        <MOBTravelSpecialNeed>
+          <Value>99</Value>
+          <Code>ESAN</Code>
+          <DisplayDescription />
+          <Type>TravelSpecialNeedInfo</Type>
+          <Messages>
+            <MOBItem>
+              <Id />
+              <CurrentValue>United requires the &lt;a href="https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Health-Behavior-Training-Form.pdf"&gt;Training and Behavior Form&lt;/a&gt; and, if applicable, the &lt;a href="https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Relief-Formmm.pdf"&gt;Relief Form&lt;/a&gt; to be completed, printed, and carried with you during your trip.
+&lt;br /&gt;&lt;br /&gt;
+We no longer accept emotional support animals due to new Department of Transportation regulations.
+&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.united.com/ual/en/US/fly/travel/special-needs/disabilities/assistance-animals.html"&gt;Review our service animal policy&lt;/a&gt;</CurrentValue>
+              <SaveToPersist>false</SaveToPersist>
+            </MOBItem>
+          </Messages>
+          <SubOptions />
+        </MOBTravelSpecialNeed>
+      </ServiceAnimals>
+      <ServiceAnimalsMessages />
+    </SpecialNeeds>
+    <PurchaseToTravelTimeIsWithinSevenDays>false</PurchaseToTravelTimeIsWithinSevenDays>
+    <Characteristics>
+      <MOBItem>
+        <Id>Refundable</Id>
+        <CurrentValue>False</CurrentValue>
+        <SaveToPersist>false</SaveToPersist>
+      </MOBItem>
+      <MOBItem>
+        <Id>ContentLookupID</Id>
+        <CurrentValue>Messages:63</CurrentValue>
+        <SaveToPersist>false</SaveToPersist>
+      </MOBItem>
+      <MOBItem>
+        <Id>BBXID</Id>
+        <CurrentValue>dBbQjizNJ1xZlJXO60aVU1</CurrentValue>
+        <SaveToPersist>false</SaveToPersist>
+      </MOBItem>
+      <MOBItem>
+        <Id>TRIP_TYPE</Id>
+        <CurrentValue>OW</CurrentValue>
+        <SaveToPersist>false</SaveToPersist>
+      </MOBItem>
+      <MOBItem>
+        <Id>StationCode</Id>
+        <CurrentValue>HOU</CurrentValue>
+        <SaveToPersist>false</SaveToPersist>
+      </MOBItem>
+    </Characteristics>
+    <HideSelectSeatOnRTI>false</HideSelectSeatOnRTI>
+    <HideTravelOptionsOnRTI>false</HideTravelOptionsOnRTI>
+    <IsMultipleTravelerEtcFeatureClientToggleEnabled>true</IsMultipleTravelerEtcFeatureClientToggleEnabled>
+    <TravelType>RA</TravelType>
+    <SeatRemoveCouponPopupCount>0</SeatRemoveCouponPopupCount>
+    <IsSelectSeatsFromRTI>false</IsSelectSeatsFromRTI>
+    <IsOmniCartSavedTrip>false</IsOmniCartSavedTrip>
+  </ShopReservationInfo2>
+  <AlertMessages />
+  <IsRedirectToSecondaryPayment>false</IsRedirectToSecondaryPayment>
+  <RecordLocator />
+  <Messages />
+  <CheckedbagChargebutton>View checked bag charges</CheckedbagChargebutton>
+  <IsBookingCommonFOPEnabled>true</IsBookingCommonFOPEnabled>
+  <IsReshopCommonFOPEnabled>false</IsReshopCommonFOPEnabled>
+  <IsPostBookingCommonFOPEnabled>false</IsPostBookingCommonFOPEnabled>
+</Reservation>

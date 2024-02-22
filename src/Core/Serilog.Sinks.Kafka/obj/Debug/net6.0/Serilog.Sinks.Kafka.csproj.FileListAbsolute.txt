@@ -1,0 +1,13 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\bin\Debug\net6.0\Serilog.Sinks.Kafka.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\bin\Debug\net6.0\Serilog.Sinks.Kafka.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\bin\Debug\net6.0\Serilog.Sinks.Kafka.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.csproj.AssemblyReference.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\refint\Serilog.Sinks.Kafka.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\Serilog.Sinks.Kafka.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Serilog.Sinks.Kafka\obj\Debug\net6.0\ref\Serilog.Sinks.Kafka.dll

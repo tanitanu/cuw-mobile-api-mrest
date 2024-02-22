@@ -1,0 +1,131 @@
+{
+  "screenTitle": "Compare fare types",
+  "columns": [
+    {
+      "dataSourceLabel": "Economy",
+      "description": "",
+      "teaserTexts": [
+        {
+          "text": "Choose your seat",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": true,
+          "sortIndex": 1,
+          "itemType": ""
+        },
+        {
+          "text": "2 checked bags included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 2,
+          "itemType": ""
+        },
+        {
+          "text": "1 carry-on bag included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 3,
+          "itemType": ""
+        }
+      ]
+    },
+    {
+      "dataSourceLabel": "Premium Economy",
+      "description": "",
+      "teaserTexts": [
+        {
+          "text": "Roomier seat",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": true,
+          "sortIndex": 1,
+          "itemType": ""
+        },
+        {
+          "text": "2 checked bags included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 2,
+          "itemType": ""
+        },
+        {
+          "text": "1 carry-on bag included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 3,
+          "itemType": ""
+        }
+      ]
+    },
+    {
+      "dataSourceLabel": "Business",
+      "description": "(lowest)",
+      "teaserTexts": [
+        {
+          "text": "Extra-spacious seat",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": true,
+          "sortIndex": 1,
+          "itemType": ""
+        },
+        {
+          "text": "2 checked bags included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 2,
+          "itemType": ""
+        },
+        {
+          "text": "1 carry-on bag included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 3,
+          "itemType": ""
+        }
+      ]
+    },
+    {
+      "dataSourceLabel": "First",
+      "description": "(lowest)",
+      "teaserTexts": [
+        {
+          "text": "Extra-spacious seat",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": true,
+          "sortIndex": 1,
+          "itemType": ""
+        },
+        {
+          "text": "2 checked bags included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 2,
+          "itemType": ""
+        },
+        {
+          "text": "1 carry-on bag included",
+          "icon": "https://mobileapi.qa.united.com/shopflightdetailsservice/images/rule-checkmark.png",
+          "langCode": "en-US",
+          "isPrimary": false,
+          "sortIndex": 3,
+          "itemType": ""
+        }
+      ]
+    }
+  ],
+  "footerText": "These features only apply to flights operated by United and United Express®.",
+  "transactionId": "",
+  "languageCode": "en-US",
+  "machineName": "ip-10-37-150-161",
+  "callDuration": 571,
+  "exception": null
+}

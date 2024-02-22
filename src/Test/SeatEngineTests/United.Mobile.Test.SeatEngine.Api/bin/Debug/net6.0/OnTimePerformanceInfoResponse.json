@@ -1,0 +1,91 @@
+[
+  {
+    "DepartureDateTime": "",
+    "Destination": "IAH",
+    "Errors": [
+      {
+        "MajorCode": "",
+        "MajorDescription": "",
+        "MinorCode": "",
+        "MinorDescription": "",
+        "Message": "",
+        "CallTime": "",
+        "VendorCod": ""
+      }
+    ],
+    "FlightNumber": "",
+    "MarketingCarrier": "",
+    "OnTimePerformanceInformation": {
+      "MarketingCarrierCode": "UA",
+      "FlightNumber": "3215",
+      "OriginAirportCode": "",
+      "DestinationAirportCode": "",
+      "DaysCalculated": 7,
+      "ArrivalMoreThan30MinLateRate": 50,
+      "ArrivalMoreThan60MinLateRate": 70,
+      "Source": "BR",
+      "ArrivalOnTimeRate": "",
+      "ArrivalLateRate": "",
+      "IsArrivalOnTimeLessThan50Percent": "",
+      "CancellationRate": 3,
+      "Month": "",
+      "Year": "",
+      "ScheduledFrequency": ""
+    },
+    "Origin": ""
+  },
+  {
+    "DepartureDateTime": "",
+    "Destination": "IAH",
+    "Errors": [
+      {
+        "MajorCode": "",
+        "MajorDescription": "",
+        "MinorCode": "",
+        "MinorDescription": "",
+        "Message": "",
+        "CallTime": "",
+        "VendorCod": ""
+      }
+    ],
+    "FlightNumber": "",
+    "MarketingCarrier": "",
+    "OnTimePerformanceInformation": {
+      "MarketingCarrierCode": "UA",
+      "FlightNumber": "3215",
+      "OriginAirportCode": "",
+      "DestinationAirportCode": "",
+      "DaysCalculated": 7,
+      "ArrivalMoreThan30MinLateRate": -20,
+      "ArrivalMoreThan60MinLateRate": -70,
+      "Source": "SA",
+      "ArrivalOnTimeRate": "",
+      "ArrivalLateRate": "",
+      "IsArrivalOnTimeLessThan50Percent": "",
+      "CancellationRate": -1,
+      "Month": "",
+      "Year": "",
+      "ScheduledFrequency": ""
+    },
+    "Origin": ""
+  },
+  {
+    "DepartureDateTime": "",
+    "Destination": "IAH",
+    "Errors": [
+      {
+        "MajorCode": "",
+        "MajorDescription": "",
+        "MinorCode": "",
+        "MinorDescription": "",
+        "Message": "",
+        "CallTime": "",
+        "VendorCod": ""
+      }
+    ],
+    "FlightNumber": "",
+    "MarketingCarrier": "",
+    "OnTimePerformanceInformation": null,
+    "Origin": ""
+  }
+]

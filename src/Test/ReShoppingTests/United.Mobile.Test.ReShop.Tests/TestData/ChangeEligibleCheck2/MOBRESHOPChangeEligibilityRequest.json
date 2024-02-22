@@ -1,0 +1,18 @@
+{
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.25",
+      "minor": "4.1.25"
+    }
+
+  },
+  "SessionId": "17C979E184CC495EA083D45F4DD9D19D",
+  "HashPinCode": "7C7D6DE3BB0A56DD424303E20EA996E1AF7DE6BF",
+  "MileagePlusNumber": "MR722052",
+  "OverrideATREEligible": true,
+  "LastName": "woods",
+  "DeviceId": "81b794ab-7a07-437a-8431-ee1b9537086f"
+}

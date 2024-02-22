@@ -1,0 +1,35 @@
+[
+  {
+    "TravelPlanID": "2",
+    "CreatorMpID": "1",
+    "CreatorDeviceID": "234",
+    "CurrentCoPilotMpID": "OMP567",
+    "CurrentCoPilotDeviceID": "ASE456",
+    "FlightOptions": [
+      {
+        "ID": 1,
+        "VotingCount": 4
+      }
+    ],
+    "CoPilots": [
+      {
+        "MpID": "C09",
+        "DeviceID": "SER890",
+        "Name": "XYZ",
+        "PhoneNumber": "9876543210"
+      }
+    ],
+    "Characteristics": [
+      {
+        "Code": "LoyaltyId",
+        "Value": "AW719636"
+      },
+      { "Code": "LoyaltyId" },
+      {
+        "Code": "MilesBalance",
+        "Value": "AW719636"
+      },
+      { "Code": "MilesBalance" }
+    ]
+  }
+]

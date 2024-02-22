@@ -1,0 +1,12 @@
+{
+  "ObjectName": "United.Persist.Definition.Shopping",
+  "SessionId": "D4106F22B1F941288F5D0E441720E80C",
+  "CartId": "CD74D339-DBEA-4F74-8766-870BAB39DBCF",
+  "Columns": [
+    {
+      "ProductId": "1",
+      "Type": "ABC",
+      "IsReshopCredit": true
+    }
+  ]
+}

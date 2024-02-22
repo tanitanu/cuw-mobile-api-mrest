@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="6.0.25" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="coverlet.collector" Version="3.1.2">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Services\AccountManagement\MemberProfile\United.Mobile.MemberProfile.Api\United.Mobile.MemberProfile.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\AccountManagement\UpdateMemberProfile\United.Mobile.UpdateMemberProfile.Api\United.Mobile.UpdateMemberProfile.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\BagCalculator\United.Mobile.BagCalculator.Api\United.Mobile.BagCalculator.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\ClubPass\UnitedClubPasses\United.Mobile.UnitedClub.Api\United.Mobile.UnitedClub.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\ManageRes\PostBooking\United.Mobile.PostBooking.Api\United.Mobile.PostBooking.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\ReShopping\ReShop\United.Mobile.ReShop.Api\United.Mobile.ReShop.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\SeatEngine\United.Mobile.SeatEngine.Api\United.Mobile.SeatEngine.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\SeatMap\SeatMap\United.Mobile.SeatMap.Api\United.Mobile.SeatMap.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\ShopAward\United.Mobile.Services.ShopAward.Api\United.Mobile.Services.ShopAward.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\ShopBundles\United.Mobile.Services.ShopBundles.Api\United.Mobile.Services.ShopBundles.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\ShopFareWheel\United.Mobile.Services.ShopFareWheel.Api\United.Mobile.Services.ShopFareWheel.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\ShopFlightDetails\United.Mobile.Services.ShopFlightDetails.Api\United.Mobile.Services.ShopFlightDetails.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\Shopping\United.Mobile.Services.Shopping.Api\United.Mobile.Services.Shopping.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\ShopSeats\United.Mobile.Services.ShopSeats.Api\United.Mobile.Services.ShopSeats.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\ShopTrips\United.Mobile.Services.ShopTrips.Api\United.Mobile.Services.ShopTrips.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\TripPlannerGetService\United.Mobile.Services.TripPlannerGetService.Api\United.Mobile.Services.TripPlannerGetService.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\TripPlannerService\United.Mobile.Services.TripPlannerService.Api\United.Mobile.Services.TripPlannerService.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Shopping\UnfinishedBooking\United.Mobile.Services.UnfinishedBooking.Api\United.Mobile.Services.UnfinishedBooking.Api.csproj" />
+    <ProjectReference Include="..\..\..\Services\Travelers\United.Mobile.Travelers.API\United.Mobile.Travelers.API.csproj" />
+  </ItemGroup>
+
+</Project>

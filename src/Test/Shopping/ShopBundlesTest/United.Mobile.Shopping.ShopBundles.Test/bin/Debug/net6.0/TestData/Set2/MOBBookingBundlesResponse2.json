@@ -1,0 +1,57 @@
+{
+  "totalAmount": 24000,
+  "products": [
+    {
+      "productID": "1",
+      "productCode": "234",
+      "ProductIDs": {
+        "string": "B27-SOL1_OD1_S1_0"
+      }
+    },
+    {
+      "productID": "1",
+      "productCode": "234",
+      "ProductIDs": {
+        "string": "B27-SOL1_OD1_S1_0"
+      }
+    }
+  ],
+  "tile": {
+    "OfferTitle": "Bundle offer 1",
+    "OfferDescription": {
+      "string": "Wi-Fi Day Pass"
+    },
+    "PriceText": "+$7/person",
+    "IsSelected": "false",
+    "TileIndex": "0",
+    "OfferPrice": "$7"
+  },
+  "detail": {
+    "OfferTitle": "Bundle offer 1 includes the following additions to your trip:",
+    "OfferWarningMessage": "",
+    "OfferDetails": {
+      "MOBBundleOfferDetail": {
+        "offerDetailHeader": "Wi-Fi Day Pass",
+        "offerDetailDescription": "Wi-Fi Day Pass.",
+        "offerDetailWarningMessage": "",
+        "OfferDetailHeader": "Wi-Fi Day Pass",
+        "OfferDetailDescription": "Wi-Fi Day Pass.",
+        "OfferDetailWarningMessage": ""
+      }
+    },
+    "OfferTrips": {
+      "MOBBundleOfferTrip": {
+        "OriginDestination": "IAH - ORD | $7/person",
+        "TripId": "1",
+        "IsChecked": "false",
+        "Price": "7",
+        "TripProductID": "B27-SOL1_OD1_S1_0",
+        "TripProductIDs": {
+          "string": "B27-SOL1_OD1_S1_0"
+        }
+      }
+    }
+  },
+  "Amount": "0",
+  "ProductIndex": "0"
+}

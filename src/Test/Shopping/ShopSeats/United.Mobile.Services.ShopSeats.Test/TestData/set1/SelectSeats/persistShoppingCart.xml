@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MOBShoppingCart xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PromoCodeDetails>
+    <PromoCodes />
+    <IsDisablePromoOption>false</IsDisablePromoOption>
+    <IsHidePromoOption>false</IsHidePromoOption>
+  </PromoCodeDetails>
+  <ConfirmationPageAlertMessages />
+  <ProfileTravelerCertificates />
+  <CertificateTravelers>
+    <MOBFOPCertificateTraveler>
+      <PaxId>1</PaxId>
+      <IndividualTotalAmount>138.4</IndividualTotalAmount>
+      <IsCertificateApplied>false</IsCertificateApplied>
+      <Name>nn n</Name>
+      <TravelerNameIndex>1.1</TravelerNameIndex>
+    </MOBFOPCertificateTraveler>
+  </CertificateTravelers>
+  <IsCouponEligibleProduct>false</IsCouponEligibleProduct>
+  <IsCouponApplied>false</IsCouponApplied>
+  <DisableCouponEditOption>false</DisableCouponEditOption>
+  <CartId>5393ACE6-879C-4E13-A51B-4ACCF864C74E</CartId>
+  <Flow>BOOKING</Flow>
+  <Products>
+    <MOBProdDetail>
+      <CouponDetails />
+      <ProdDescription>Reservation</ProdDescription>
+      <Code>RES</Code>
+      <ProdTotalPrice>138.40</ProdTotalPrice>
+      <ProdDisplayTotalPrice>$138.40</ProdDisplayTotalPrice>
+      <ProdOtherPrice />
+      <ProdDisplayOtherPrice />
+      <ProdDisplaySubTotal />
+      <ProdDisplayTaxesAndFees />
+      <Segments />
+      <ProdTotalMiles>0</ProdTotalMiles>
+      <LineItems />
+    </MOBProdDetail>
+  </Products>
+  <TotalPrice>138.40</TotalPrice>
+  <DisplayTotalPrice>$138.40</DisplayTotalPrice>
+  <DisplaySubTotalPrice />
+  <DisplayTaxesAndFees />
+  <FormofPaymentDetails>
+    <TravelCreditDetails>
+      <NameWaiverMatchMessage>Flexible credits during COVID-19. Normally, future flight credits must be used by the same traveler the credit was issued to. However, because this credit was issued for a ticket purchased on or before 8/31/2021, it can be used by anyone.</NameWaiverMatchMessage>
+      <LookUpMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Confirmation number or PIN</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.PinPNR.Label</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please enter a valid 6-character confirmation number or a 10-character PIN.</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.PinPNR.InvalidMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please enter a valid [Confirmation/PIN] number.</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.PinPNR.RequiredMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Last name</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.LstNm.Label</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please use only the 26 English letters (A-Z), hyphens (-), and spaces.</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>New KeywordRTI.TravelCertificate.LookUpTravelCredits.LstNm.InvalidMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please enter a valid last name.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.LstNm.RequiredMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Apply</ContentFull>
+          <ContentShort />
+          <HeadLine>Look up credits</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.PageContent</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Book by</ContentFull>
+          <ContentShort>Travel by</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.TravelBookDate</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please note, future flight credits can’t be combined with travel certificates. To use multiple credits, select either all flight credits or all travel certificates to pay for your booking.</ContentFull>
+          <ContentShort>Select credits to apply in cart</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.PageSubContent</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Show details</ContentFull>
+          <ContentShort>Hide details</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.ShowHide</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>We're not able to apply this credit here. Select “Book with credit” below to restart your booking.</ContentFull>
+          <ContentShort>Book with credit</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage1</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This credit is for a trip originally booked by a travel agency. Please contact the agency directly to use this credit.</ContentFull>
+          <ContentShort />
+          <HeadLine />
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage4</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This future flight credit can't be used on our website or app. Please contact Customer Support to book a flight using this credit.</ContentFull>
+          <ContentShort>https://www.united.com/en/us/fly/customer-support/contact-directory.html</ContentShort>
+          <HeadLine>Customer Support</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage5</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This future flight credit can't be used for the selected travel dates. To use this credit, your travel must begin by {0}.</ContentFull>
+          <ContentShort />
+          <HeadLine />
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage3</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This credit can only be used by the traveler it was issued to, so the names on the credit and booking must match.</ContentFull>
+          <ContentShort>https://www.united.com/en/us/fly/travel/credit.html</ContentShort>
+          <HeadLine>Learn more</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage2</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel booked with future flight credits must begin before the “Travel by” date.</ContentFull>
+          <ContentShort>Close</ContentShort>
+          <HeadLine>Future flight credits</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Travelby</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>We can’t find this future flight credit. We couldn’t find any future flight credits that match the confirmation number and name you entered. Please double-check the information you entered to make sure it’s correct, or you can continue this booking without using credit.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>Future flight credits</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.FFCR.NoData</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>The electronic travel certificate you entered is invalid. Please try again.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>Travel certificates</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ETC.NoData</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel certificates must be used to purchase a ticket by the “Book by” date.</ContentFull>
+          <ContentShort>Close</ContentShort>
+          <HeadLine>Travel certificates</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Bookby</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already selected travel certificate. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the travel certificate in your cart to use this future flight credit instead.</ContentFull>
+          <ContentShort>Lookup travel credit</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.ETCAlreadySelected</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already selected future flight credit. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the future flight credit in your cart to use this travel certificate instead.</ContentFull>
+          <ContentShort>Lookup travel credit</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.FFCRAlreadySelected</Title>
+        </MOBMobileCMSContentMessages>
+      </LookUpMessages>
+      <ReviewMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Select credits to apply</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.SelectCredits</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please note, future flight credits can’t be combined with travel certificates. To use multiple credits, select either all flight credits or all travel certificates to pay for your booking.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.SelectCreditsMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Dynamic message to bring transparency for the users.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.DynamicMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Contact original ticket agency to use this credit.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.ContactMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Includes taxes and fees</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.IncTax</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Total price</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.TotalPrice</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Once your purchase is complete, we'll email you a new combined future flight credit for the credit remaining balance for {0}, travel-by date {1}. Please note that when future flight credits given for residual value are combined, the new future flight credit will adopt the earliest travel-by date of all the credits for that traveler.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.InfoMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Last name</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.LastName</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Find travel credits</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.FindTravelCredits</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Confirmation number or PIN</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.ConfirmationNum</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Look up credits</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.Lookup</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Choose the credits you wish to find, then enter your email address below and we'll send you an email with the travel credits that are linked to your account.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.FindTravelCreditsMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>What are travel credits?</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.WhatTravelCredit</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Future flight credits and travel certificates can be used to book travel on United, United Express® and partner-operated flights. &lt;a href="https://www.united.com/en/us/fly/travel/credit.html" target="\\'_blank\\'"&gt;Learn more&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+Travel booked with future flight credits must begin before the “Travel by” date, while travel certificates must be used to purchase a ticket by the “Book by” date.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.TravelCreditMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel by</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.TravelBy</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel booked with future flight credits must begin before the “Travel by” date.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.FFCDesc</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Book by</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.BookBy</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel certificate</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.TravelCertificates</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel certificates must be used to purchase a ticket by the “Book by” date.</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.TravelCertificatesDesc</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Future flight credit</ContentFull>
+          <ContentShort>Review travel credits</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.ReviewTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.ReviewTravelCredits.FutureFlightCredit</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already applied a future flight credit and promo code to your booking. If you edit or add travelers, both will be removed. You may re-apply the travel credit and promo code once all traveler information is updated.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>United Airlines</HeadLine>
+          <LocationCode>RTI.TravelCertificate.AlertTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.AppliedFFCNPromo</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already applied a future flight credit to your booking. If you edit or add travelers, the credit will be removed. You may re-apply your travel credit once all traveler information is updated.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>United Airlines</HeadLine>
+          <LocationCode>RTI.TravelCertificate.AlertTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.AlreadyAppliedFFC</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already selected [future flight credit/travel certificates]. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the [future flight credit] in your cart to use this [travel certificate] instead.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>United Airlines</HeadLine>
+          <LocationCode>RTI.TravelCertificate.AlertTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.AlreadySelected</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already applied enough credits. The total cost of this itinerary is covered by the credits you've already selected. If you'd like to use this one instead, please deselect the credits you've already applied.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>United Airlines</HeadLine>
+          <LocationCode>RTI.TravelCertificate.AlertTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.AlreadyApplied</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Confirmation number or PIN</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.PinPNR.Label</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please enter a valid 6-character confirmation number or a 10-character PIN.</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.PinPNR.InvalidMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please enter a valid [Confirmation/PIN] number.</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.PinPNR.RequiredMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Last name</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.LstNm.Label</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please use only the 26 English letters (A-Z), hyphens (-), and spaces.</ContentFull>
+          <ContentShort />
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>New KeywordRTI.TravelCertificate.LookUpTravelCredits.LstNm.InvalidMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please enter a valid last name.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.LstNm.RequiredMsg</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Apply</ContentFull>
+          <ContentShort />
+          <HeadLine>Look up credits</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.PageContent</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Book by</ContentFull>
+          <ContentShort>Travel by</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.TravelBookDate</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Please note, future flight credits can’t be combined with travel certificates. To use multiple credits, select either all flight credits or all travel certificates to pay for your booking.</ContentFull>
+          <ContentShort>Select credits to apply in cart</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.PageSubContent</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Show details</ContentFull>
+          <ContentShort>Hide details</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Apply.ShowHide</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>We're not able to apply this credit here. Select “Book with credit” below to restart your booking.</ContentFull>
+          <ContentShort>Book with credit</ContentShort>
+          <HeadLine>What are travel credits?</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage1</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This credit is for a trip originally booked by a travel agency. Please contact the agency directly to use this credit.</ContentFull>
+          <ContentShort />
+          <HeadLine />
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage4</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This future flight credit can't be used on our website or app. Please contact Customer Support to book a flight using this credit.</ContentFull>
+          <ContentShort>https://www.united.com/en/us/fly/customer-support/contact-directory.html</ContentShort>
+          <HeadLine>Customer Support</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage5</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This future flight credit can't be used for the selected travel dates. To use this credit, your travel must begin by {0}.</ContentFull>
+          <ContentShort />
+          <HeadLine />
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage3</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>This credit can only be used by the traveler it was issued to, so the names on the credit and booking must match.</ContentFull>
+          <ContentShort>https://www.united.com/en/us/fly/travel/credit.html</ContentShort>
+          <HeadLine>Learn more</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage2</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel booked with future flight credits must begin before the “Travel by” date.</ContentFull>
+          <ContentShort>Close</ContentShort>
+          <HeadLine>Future flight credits</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Travelby</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>We can’t find this future flight credit. We couldn’t find any future flight credits that match the confirmation number and name you entered. Please double-check the information you entered to make sure it’s correct, or you can continue this booking without using credit.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>Future flight credits</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.FFCR.NoData</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>The electronic travel certificate you entered is invalid. Please try again.</ContentFull>
+          <ContentShort>Continue</ContentShort>
+          <HeadLine>Travel certificates</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ETC.NoData</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Travel certificates must be used to purchase a ticket by the “Book by” date.</ContentFull>
+          <ContentShort>Close</ContentShort>
+          <HeadLine>Travel certificates</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Bookby</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already selected travel certificate. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the travel certificate in your cart to use this future flight credit instead.</ContentFull>
+          <ContentShort>Lookup travel credit</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.ETCAlreadySelected</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You've already selected future flight credit. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the future flight credit in your cart to use this travel certificate instead.</ContentFull>
+          <ContentShort>Lookup travel credit</ContentShort>
+          <HeadLine>Travel Credit</HeadLine>
+          <LocationCode>RTI.TravelCertificate.LookUpTravelCredits</LocationCode>
+          <Title>RTI.TravelCertificate.LookUpTravelCredits.Alert.FFCRAlreadySelected</Title>
+        </MOBMobileCMSContentMessages>
+      </ReviewMessages>
+      <TravelCredits />
+    </TravelCreditDetails>
+    <TravelFutureFlightCredit>
+      <EmailConfirmationFFCMessages />
+      <FutureFlightCredits />
+      <FindFFCMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>To retrieve your future flight credits, please enter your email address below. If any future flight credits are linked to that email, you should receive them within a few minutes.</ContentFull>
+          <ContentShort>“”</ContentShort>
+          <HeadLine>Find future flight credit</HeadLine>
+          <LocationCode />
+          <Title>RTI.FutureFlightCredits.FindFFC</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Find</ContentFull>
+          <ContentShort>Find</ContentShort>
+          <HeadLine>Find future flight credits</HeadLine>
+          <LocationCode />
+          <Title>RTI.FutureFlightCredits.FindFFC.BtnText</Title>
+        </MOBMobileCMSContentMessages>
+      </FindFFCMessages>
+      <LookUpFFCMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Your future flight credit will be applied to the ticket price. If you're purchasing non-ticket items such as preferred seating, you’ll need to pay for those with a debit or credit card. &lt;a href="https://www.united.com/en/us/fly/travel/credit.html" target="\\'_blank '"&gt;Learn more&lt;/a&gt;</ContentFull>
+          <ContentShort>Find a future flight credit</ContentShort>
+          <HeadLine>Look up a future flight credit</HeadLine>
+          <LocationCode />
+          <Title>RTI.FutureFlightCredits.LookupFFC</Title>
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>Apply</ContentFull>
+          <ContentShort>Apply</ContentShort>
+          <HeadLine>Look up a future flight credit</HeadLine>
+          <LocationCode />
+          <Title>RTI.FutureFlightCredits.LookupFFC.BtnText</Title>
+        </MOBMobileCMSContentMessages>
+      </LookUpFFCMessages>
+      <ReviewFFCMessages />
+      <LearnmoreTermsandConditions />
+      <AllowedFFCAmount>0</AllowedFFCAmount>
+      <AllowedAncillaryAmount>0</AllowedAncillaryAmount>
+    </TravelFutureFlightCredit>
+    <IsOtherFOPRequired>true</IsOtherFOPRequired>
+    <TravelCertificate>
+      <SavedETCMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>The maximum value of your available travel certificates has been applied.If you're also purchasing non-ticket items,a debit or credit card will be needed for the remaining balance.</ContentFull>
+          <ContentShort />
+          <HeadLine>Attention</HeadLine>
+          <LocationCode />
+          <Title />
+        </MOBMobileCMSContentMessages>
+      </SavedETCMessages>
+      <ReviewETCMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>A credit card,debit card or additional travel certificate(s) will be needed for the remaining balances.&lt;a href="https://www.united.com/ual/en/us/fly/booking/flight/travel-credits.html" target="_blank"&gt;Learn more about travel certificates&lt;/a&gt;.</ContentFull>
+          <ContentShort />
+          <HeadLine>TravelCertificate_Combinability_ReviewETCAlertMsgs_OtherFopRequiredMessage</HeadLine>
+          <LocationCode />
+          <Title />
+        </MOBMobileCMSContentMessages>
+        <MOBMobileCMSContentMessages>
+          <ContentFull>You'll have a remaining balance of &lt;b&gt;${0}&lt;/b&gt;. This will be combined into a new travel certificate that you'll receive via email once you complete your purchase. The latest expiration date will become your new travel certificate's expiration date</ContentFull>
+          <ContentShort />
+          <HeadLine>TravelCertificate_Combinability_ReviewETCAlertMsgs_ETCBalanceAttentionmessage</HeadLine>
+          <LocationCode />
+          <Title />
+        </MOBMobileCMSContentMessages>
+      </ReviewETCMessages>
+      <MaxAmountOfETCsAllowed>1000000</MaxAmountOfETCsAllowed>
+      <MaxNumberOfETCsAllowed>100</MaxNumberOfETCsAllowed>
+      <NotAllowedETCAmount>0</NotAllowedETCAmount>
+      <AllowedETCAmount>138.4</AllowedETCAmount>
+      <RemoveAllCertificateAlertMessage>
+        <Text1 />
+        <Text2>Cancel</Text2>
+        <Text3>Continue</Text3>
+        <IsDefaultOpen>true</IsDefaultOpen>
+      </RemoveAllCertificateAlertMessage>
+    </TravelCertificate>
+    <FormOfPaymentType>CreditCard</FormOfPaymentType>
+    <ClientCardType>false</ClientCardType>
+  </FormofPaymentDetails>
+  <SCTravelers>
+    <MOBCPTraveler>
+      <TotalFFCNewValueAfterRedeem />
+      <FutureFlightCredits />
+      <CslReservationPaxTypeCode>ADT</CslReservationPaxTypeCode>
+      <IndividualTotalAmount>138.4</IndividualTotalAmount>
+      <PTCDescription>Adult (18-64)</PTCDescription>
+      <IsEligibleForSeatSelection>true</IsEligibleForSeatSelection>
+      <EmployeeId />
+      <Title />
+      <FirstName>nn</FirstName>
+      <MiddleName>nn</MiddleName>
+      <LastName>n</LastName>
+      <Suffix />
+      <GenderCode>M</GenderCode>
+      <BirthDate>01/01/1999</BirthDate>
+      <IsProfileOwner>false</IsProfileOwner>
+      <IsDeceased>false</IsDeceased>
+      <IsExecutive>false</IsExecutive>
+      <CurrentEliteLevel>0</CurrentEliteLevel>
+      <Key />
+      <CustomerId>0</CustomerId>
+      <ProfileId>0</ProfileId>
+      <ProfileOwnerId>0</ProfileOwnerId>
+      <SecureTravelers />
+      <AirRewardPrograms />
+      <Phones>
+        <MOBCPPhone>
+          <AreaNumber>999</AreaNumber>
+          <Attention />
+          <ChannelCode />
+          <ChannelCodeDescription />
+          <ChannelTypeCode />
+          <ChannelTypeDescription />
+          <ChannelTypeSeqNumber>0</ChannelTypeSeqNumber>
+          <CountryCode>US</CountryCode>
+          <CountryNumber />
+          <CountryPhoneNumber>+1</CountryPhoneNumber>
+          <CustomerId>0</CustomerId>
+          <Description />
+          <DiscontinuedDate />
+          <EffectiveDate />
+          <ExtensionNumber />
+          <IsPrimary>false</IsPrimary>
+          <IsPrivate>false</IsPrivate>
+          <IsProfileOwner>false</IsProfileOwner>
+          <Key />
+          <LanguageCode />
+          <MileagePlusId />
+          <PagerPinNumber />
+          <PhoneNumber>9999999</PhoneNumber>
+          <SharesCountryCode />
+          <WrongPhoneDate />
+          <DeviceTypeCode />
+          <DeviceTypeDescription />
+          <IsDayOfTravel>false</IsDayOfTravel>
+          <IsSMSEnabled>false</IsSMSEnabled>
+        </MOBCPPhone>
+      </Phones>
+      <Addresses />
+      <AirPreferences />
+      <EmailAddresses>
+        <MOBEmail>
+          <Key />
+          <EmailAddress>nn@nn.com</EmailAddress>
+          <IsPrivate>false</IsPrivate>
+          <IsDefault>false</IsDefault>
+          <IsPrimary>false</IsPrimary>
+          <IsDayOfTravel>false</IsDayOfTravel>
+        </MOBEmail>
+      </EmailAddresses>
+      <CreditCards />
+      <TravelerTypeCode>ADT</TravelerTypeCode>
+      <TravelerTypeDescription>Adult (18-64)</TravelerTypeDescription>
+      <TravelProgramMemberId />
+      <KnownTravelerNumber />
+      <RedressNumber />
+      <OwnerFirstName />
+      <OwnerLastName />
+      <OwnerMiddleName />
+      <OwnerSuffix />
+      <OwnerTitle />
+      <PaxIndex>0</PaxIndex>
+      <Seats />
+      <TravelerNameIndex>1.1</TravelerNameIndex>
+      <IsTSAFlagON>false</IsTSAFlagON>
+      <Message />
+      <MPNameNotMatchMessage />
+      <ISMPNameMisMatch>false</ISMPNameMisMatch>
+      <ReservationEmailAddresses />
+      <ReservationPhones />
+      <PaxID>1</PaxID>
+      <IsPaxSelected>true</IsPaxSelected>
+      <SelectedSpecialNeeds />
+      <SelectedSpecialNeedMessages />
+      <IsMustRideTraveler>false</IsMustRideTraveler>
+    </MOBCPTraveler>
+  </SCTravelers>
+  <PointofSale>US</PointofSale>
+  <CurrencyCode />
+  <AlertMessages />
+  <TermsAndConditions />
+  <PaymentTarget>RES</PaymentTarget>
+  <Trips />
+  <Prices />
+  <Taxes />
+  <Captions />
+  <ELFLimitations />
+  <FlightShareMessage />
+  <PaymentAlerts />
+  <IsMultipleTravelerEtcFeatureClientToggleEnabled>true</IsMultipleTravelerEtcFeatureClientToggleEnabled>
+  <IsHidePaymentMethod>false</IsHidePaymentMethod>
+  <OmniCart>
+    <CartItemsCount>1</CartItemsCount>
+    <TotalPrice>
+      <Id>Total due</Id>
+      <CurrentValue>$138.40</CurrentValue>
+      <SaveToPersist>false</SaveToPersist>
+    </TotalPrice>
+    <IsCallRegisterOffers>false</IsCallRegisterOffers>
+  </OmniCart>
+</MOBShoppingCart>

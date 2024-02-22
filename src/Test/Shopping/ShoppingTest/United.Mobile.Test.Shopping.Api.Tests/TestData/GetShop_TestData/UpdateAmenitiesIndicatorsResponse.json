@@ -1,0 +1,64 @@
+{
+  "Errors": [
+    {
+      "MajorCode": "20003.02",
+      "MajorDescription": "FlightShopping/ShopBookingDetails",
+      "MinorCode": "10036",
+      "MinorDescription": "Service Error – Processing error",
+      "Message": "Get ShopBookingDetails Strategy: ShopRequest not found in session",
+      "CallTime": "20210705 184545"
+    }
+  ],
+  "Profiles": [
+    {
+      "Amenities": [
+        {
+          "Key": "audiovideoondemand",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "beverages",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "directv",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "economylieflatseating",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "economymeal",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "firstclasslieflatseating",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "firstclassmeal",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "inseatpower",
+          "Description": "Amenty",
+          "IsOffered": true
+        },
+        {
+          "Key": "wifi",
+          "Description": "Amenty",
+          "IsOffered": true
+        }
+      ],
+      "Key": "3735"
+    }
+  ]
+}

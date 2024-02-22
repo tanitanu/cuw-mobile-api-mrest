@@ -1,0 +1,1914 @@
+[
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "columnFareType": "Refundable",
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": true,
+    "hashPinCode": "B2298479698447E63716067604910CE4D9D438A4",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": true,
+    "isReshopChange": true,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719636",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "United States",
+    "premierStatusLevel": 0,
+    "promotionCode": "AGDJH",
+    "resultSortType": "R",
+    "searchType": "OW",
+    "serviceType": "",
+    "SessionId": "67945321097C4CF58FFC7DF9565CB276",
+    "showMileageDetails": false,
+    "travelType": "CLB",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 2,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "04/28/2022",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "IAH",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 1,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.48",
+        "minor": "4.1.48"
+      }
+    },
+    "deviceId": "446e943d-d749-4f2d-8bf2-e0ba5d6da685",
+    "languageCode": "en-US",
+    "transactionId": "446e943d-d749-4f2d-8bf2-e0ba5d6da685|a43aa991-9d57-40f0-9b83-79f34d880e7c",
+    "BWCSessionId": "CD74D339DBEA4F748766870BAB39DBCF",
+    "catalogItems": [
+      {
+        "id": "2",
+        "currentValue": "1",
+        "saveToPersist": false
+      }
+    ],
+    "EmployeeDiscountId": "2"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "urf",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": true,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "",
+    "resultSortType": "R",
+    "searchType": "OW",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 3,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": true,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "",
+    "resultSortType": "R",
+    "searchType": "OW,RT,MD",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0",
+    "BWCSessionId": "DC74D339DBEA4F748766870BAB39DBCF",
+    "catalogItems": [
+      {
+        "id": "1",
+        "currentValue": "2",
+        "saveToPersist": false
+      }
+    ],
+    "EmployeeDiscountId": "1"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "",
+    "resultSortType": "R",
+    "searchType": "OW,RT,MD",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "TravelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 3,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 4,
+    "numberOfChildren12To17": 3,
+    "numberOfChildren2To4": 2,
+    "numberOfChildren5To11": 8,
+    "numberOfInfantOnLap": 4,
+    "numberOfInfantWithSeat": 2,
+    "numberOfSeniors": 9,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "9T432",
+    "resultSortType": "R",
+    "searchType": "OW,RT,MD",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "TPSearch",
+    "travelerTypes": null,
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "BOM",
+        "destinationAllAirports": 0,
+        "origin": "CLL",
+        "originAllAirports": 1,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "businessfirst",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "first",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardecon",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardbusinessfirst",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardfirst",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": true,
+    "ReshopTravelers": [
+      {
+        "BirthDate": "12/05/1999",
+        "PNRCustomerID": "2334443765",
+        "SHARESPosition": "5"
+      }
+    ],
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 4,
+    "numberOfChildren12To17": 3,
+    "numberOfChildren2To4": 2,
+    "numberOfChildren5To11": 8,
+    "numberOfInfantOnLap": 4,
+    "numberOfInfantWithSeat": 2,
+    "numberOfSeniors": 9,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": null,
+    "resultSortType": "R",
+    "searchType": "OW,RT,MD",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "TPSearch",
+    "travelerTypes": null,
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "BOM",
+        "destinationAllAirports": 0,
+        "origin": "CLL",
+        "originAllAirports": 1,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": true,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "ff",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": true,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": {
+      "noOfTravelers": 0,
+      "DiscountCode": "FLYNEW"
+    },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "9T432",
+    "resultSortType": "R",
+    "searchType": "OW,RT,MD",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": true,
+    "travelType": "TPSearch",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 1,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child12To17"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 1,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 1,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 3,
+        "departDate": "2022/01/25",
+        "destination": "BOM",
+        "destinationAllAirports": 0,
+        "origin": "CLL",
+        "originAllAirports": 1,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false,
+        "SearchFiltersIn": {
+          "AircraftTypes": "STANDARD",
+          "AirportsStop": "IXR",
+          "AirportsStopToAvoid": "MAA",
+          "AirportsOrigin": "LEX",
+          "AirportsDestination": "ORD",
+          "BookingCodes": "AS321",
+          "CarriersMarketing": "YES",
+          "CarriersOperating": "FG",
+          "CabinCountMin": -1,
+          "CabinCountMax": -1,
+          "CarrierDefault": true,
+          "CarrierExpress": true,
+          "CarrierPartners": true,
+          "CarrierStar": true,
+          "EquipmentCodes": "TED221",
+          "DurationMin": -1,
+          "DurationMax": -1,
+          "DurationStopMin": -1,
+          "EquipmentTypes": "DSA",
+          "DurationStopMax": -1,
+          "FareFamily": "ECONOMY",
+          "FareFamilies": [
+            {
+              "FareFamily": "ECONOMY",
+              "MaxMileage": 23,
+              "MaxPrice": "23422",
+              "MinMileage": 12,
+              "MinPrice": "12333",
+              "MinPriceInSummary": true
+            }
+          ],
+          "PriceMin": -1.0,
+          "PriceMinCurrency": "USD",
+          "PriceMax": -1.0,
+          "PriceMaxCurrency": "USD",
+          "StopCountExcl": -1,
+          "StopCountMin": 1,
+          "StopCountMax": -1,
+          "TimeArrivalMax": "23",
+          "TimeArrivalMin": "12",
+          "TimeDepartMax": "22:12",
+          "TimeDepartMin": "04",
+          "AirportsDestinationList": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ],
+          "AirportsOriginList": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ],
+          "AirportsStopList": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ],
+          "AirportsStopToAvoidList": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ],
+          "CarriersMarketingList": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ],
+          "CarriersOperatingList": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ],
+          "EquipmentList": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ],
+          "FareFamilyFilters": [],
+          "Warnings": [],
+          "WarningsFilter": [
+            {
+              "Key": "1",
+              "Value": "0",
+              "DisplayValue": "11",
+              "Amount": "2322",
+              "Currency": "Yen",
+              "IsSelected": true
+            }
+          ]
+        }
+      },
+      {
+        "cabin": "business",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "first",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardecon",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardbusiness",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardfirst",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "9T432",
+    "resultSortType": "R",
+    "searchType": "OW",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "TPSearch",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "BOM",
+        "destinationAllAirports": 0,
+        "origin": "CLL",
+        "originAllAirports": 1,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "9T432",
+    "resultSortType": "R",
+    "searchType": "RT",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "TPSearch",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "BOM",
+        "destinationAllAirports": 0,
+        "origin": "CLL",
+        "originAllAirports": 1,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "9T432",
+    "resultSortType": "R",
+    "searchType": "MD",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "TPSearch",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "BOM",
+        "destinationAllAirports": 0,
+        "origin": "CLL",
+        "originAllAirports": 1,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "9T432",
+    "resultSortType": "R",
+    "searchType": "OW,RT,MD",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "TPSearch",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "BOM",
+        "destinationAllAirports": 0,
+        "origin": "CLL",
+        "originAllAirports": 1,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "LAX",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ATL",
+        "destinationAllAirports": 0,
+        "origin": "DEN",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "2022/01/25",
+        "destination": "LAX",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  }
+]
+
+
+
+

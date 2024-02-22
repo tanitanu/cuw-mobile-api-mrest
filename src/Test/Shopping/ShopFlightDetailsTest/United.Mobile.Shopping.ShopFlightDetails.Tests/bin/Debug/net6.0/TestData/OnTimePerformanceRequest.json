@@ -1,0 +1,22 @@
+[{
+  "arrivalAirportCode": "ORD",
+  "departureAirportCode": "IAH",
+  "flightDate": "20211118",
+  "flightNumber": "677",
+  "marketingCarrierCode": "UA",
+  "operatingCarrierCode": "UA",
+  "sessionID": "FAA3A25F689B47B284A6990DBE2B6385",
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.34",
+      "minor": "4.1.34"
+    }
+  },
+  "deviceId": "735b90d3-402f-4d78-b935-ae394a2b519d",
+  "languageCode": "en-US",
+  "transactionId": "735b90d3-402f-4d78-b935-ae394a2b519d|2af1b1e7-d5a4-4999-9865-65fc3aac24f2"
+}]

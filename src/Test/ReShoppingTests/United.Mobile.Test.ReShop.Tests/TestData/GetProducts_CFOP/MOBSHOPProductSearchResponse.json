@@ -1,0 +1,45 @@
+{
+  "OfferSource": {
+    "OfferHeaderDescription": "Would you like to add extras to your trip",
+    "ClubDayPassOffer": {
+      "OfferDescriptionHeader": "abc",
+      "OfferDescription": "xyz",
+      "Prices": [
+        {
+          "StrikeThroughDescription": "123"
+        }
+      ],
+      "Descriptions": [],
+      "TermsAndConditions": [],
+      "ProductCode": "pqr",
+      "ProductName": "uvw"
+    },
+    "ProductOffer": {
+      "ProductOffersPerSegment": [
+        {
+          "Travelers": [
+            {
+              "SHARESPosition": "123",
+              "Key": "5"
+            }
+          ],
+          "Offers": [
+            {
+              "OfferID": "123",
+              "OfferDescriptionHeader": "abc"
+            }
+          ]
+        }
+      ],
+      "Benefits": [
+        {
+          "Type": "123",
+          "Headers": [
+          ],
+          "Contents": [
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\bin\Debug\net6.0\United.Mobile.Model.Internal.Exception.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\bin\Debug\net6.0\United.Mobile.Model.Internal.Exception.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\bin\Debug\net6.0\United.Mobile.Model.Internal.Exception.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\United.Mobile.Model.Internal.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\United.Mobile.Model.Internal.Exception.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\United.Mobile.Model.Internal.Exception.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\United.Mobile.Model.Internal.Exception.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\United.Mobile.Model.Internal.Exception.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\United.Mobile.Model.Internal.Exception.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\refint\United.Mobile.Model.Internal.Exception.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\United.Mobile.Model.Internal.Exception.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model.Internal\United.Mobile.Model.Internal.Exception\obj\Debug\net6.0\ref\United.Mobile.Model.Internal.Exception.dll

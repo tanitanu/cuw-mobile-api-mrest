@@ -1,0 +1,110 @@
+{
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.69",
+      "minor": "4.1.69"
+    }
+  },
+  "deviceId": "2b733438-12d7-4e6b-96ed-8607f8484811",
+  "hashValue": "",
+  "languageCode": "en-US",
+  "lastName": "jeste",
+  "loggedInMPNumber": "",
+  "recordLocator": "FQ3K9R",
+  "sessionId": "0E32D9373AE143C590058D7250C2585B",
+  "sharesGivenName": "TESTSAM",
+  "transactionId": "2b733438-12d7-4e6b-96ed-8607f8484811|f48d344d-d150-411d-b132-1860e07dda15",
+  "travelersInfo": [
+    {
+      "canadianTravelNumber": "",
+      "contact": {
+        "emails": [
+          {
+            "emailAddress": "V.CHOPPERLA@DXC.COM",
+            "isDefault": false,
+            "isPrimary": false,
+            "isPrivate": false,
+            "key": ""
+          }
+        ],
+        "phoneNumbers": [
+          {
+            "channelTypeSeqNumber": 0,
+            "countryCode": "",
+            "countryPhoneNumber": "1",
+            "customerId": 0,
+            "isPrimary": false,
+            "isPrivate": false,
+            "isProfileOwner": false,
+            "phoneNumber": "8728721101"
+          }
+        ]
+      },
+      "knownTravelerNumber": "9981835188",
+      "mileagePlus": {
+        "accountBalance": 0,
+        "activeStatusCode": "",
+        "activeStatusDescription": "",
+        "allianceEliteLevel": 0,
+        "closedStatusCode": "",
+        "closedStatusDescription": "",
+        "currentEliteLevel": 0,
+        "currentEliteLevelDescription": "Member",
+        "currentYearMoneySpent": 0,
+        "eliteMileageBalance": 0,
+        "eliteSegmentBalance": 0,
+        "eliteSegmentDecimalPlaceValue": 0,
+        "encryptedPin": "",
+        "enrollDate": "",
+        "enrollSourceCode": "",
+        "enrollSourceDescription": "",
+        "flexPqmBalance": 0,
+        "futureEliteDescription": "",
+        "futureEliteLevel": 0,
+        "instantEliteExpirationDate": "",
+        "isCEO": false,
+        "isClosedPermanently": false,
+        "isClosedTemporarily": false,
+        "isCurrentTrialEliteMember": false,
+        "isFlexPqm": false,
+        "isInfiniteElite": false,
+        "isLifetimeCompanion": false,
+        "isLockedOut": false,
+        "isMergePending": false,
+        "isPresidentialPlus": false,
+        "isUnitedClubMember": false,
+        "key": "",
+        "lastActivityDate": "",
+        "lastExpiredMile": 0,
+        "lastFlightDate": "",
+        "lastStatementBalance": 0,
+        "lastStatementDate": "",
+        "lifetimeEliteLevel": 0,
+        "lifetimeEliteMileageBalance": 0,
+        "mileageExpirationDate": "",
+        "mileagePlusId": "MR722052",
+        "mileagePlusPin": "",
+        "nextYearEliteLevel": 0,
+        "nextYearEliteLevelDescription": "",
+        "priorUnitedAccountNumber": "",
+        "skyTeamEliteLevel": 0,
+        "starAllianceEliteLevel": 0
+      },
+      "passengerName": {
+        "dateOfBirth": "",
+        "first": "TESTSAM",
+        "last": "JESTE",
+        "middle": "",
+        "suffix": "",
+        "title": ""
+      },
+      "redressNumber": "2104671",
+      "sharesGivenName": "TESTSAM",
+      "sharesPosition": "1.1"
+    }
+  ]
+}

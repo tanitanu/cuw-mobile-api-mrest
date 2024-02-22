@@ -1,0 +1,19 @@
+[
+  {
+    "cartID": "4962F995-9033-4CC9-A494-35C35B9201F2",
+    "sessionID": "4962F99590334CC9A49435C35B9201F2",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.49",
+        "minor": "4.1.49"
+      }
+    },
+    "deviceId": "e759a189-4792-49b1-985f-45862fd5c4fa",
+    "languageCode": "en-US",
+    "transactionId": "e759a189-4792-49b1-985f-45862fd5c4fa|08c3b14b-5c6d-4d0b-a4c0-fd8e8aabef3f"
+  }
+]

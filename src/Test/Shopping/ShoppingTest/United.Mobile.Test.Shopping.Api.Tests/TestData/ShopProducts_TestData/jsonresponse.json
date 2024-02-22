@@ -1,0 +1,908 @@
+{
+  "CartId": "0FF87253-2562-4475-85DB-EC8B658FE554",
+  "Status": 1,
+  "Errors": null,
+  "ProductOffer": {
+    "Offers": [
+      {
+        "ProductInformation": {
+          "ProductDetails": [
+            {
+              "Product": {
+                "Description": "Baggage Service",
+                "Code": "BAG",
+                "SubProducts": [
+                  {
+                    "Type": { "Description": "Allowance" },
+                    "Descriptions": [ "MinQuantity: 1, MaxQuantity: 1, Type: Discount, Group: BG, " ],
+                    "Prices": [
+                      {
+                        "ID": "S10",
+                        "Association": {
+                          "SegmentRefIDs": [ "S1" ],
+                          "TravelerRefIDs": [ "0" ]
+                        },
+                        "PaymentOptions": [
+                          {
+                            "Type": "Money",
+                            "PriceComponents": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [
+                                  {
+                                    "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                    "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                  }
+                                ],
+                                "Disclaimers": [
+                                  {
+                                    "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                    "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                  }
+                                ],
+                                "Characteristics": [
+                                  {
+                                    "Code": "MSCarrier",
+                                    "Value": "UA"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "ID": "1",
+                    "IsDefault": "False",
+                    "GroupCode": "BG",
+                    "Extension": {
+                      "Bag": {
+                        "MaximumQuantity": 1,
+                        "MinimumQuantity": 1,
+                        "Bags": [
+                          {
+                            "ExcessFees": [
+                              {
+                                "SubGroupCode": "0DB",
+                                "Description": "Overweight up to 45K/100LB",
+                                "Type": "HEAVYOVERWEIGHT",
+                                "AdditionalDescriptions": [ "Overweight up to 45K/100LB" ],
+                                "ExcessWeights": [
+                                  {
+                                    "Maximun": 45.0,
+                                    "Unit": "KG"
+                                  },
+                                  {
+                                    "Maximun": 100.0,
+                                    "Unit": "LBS"
+                                  }
+                                ],
+                                "ExcessSizes": [
+                                  {
+                                    "Unit": "CM",
+                                    "MaximunLength": 157.0
+                                  },
+                                  {
+                                    "Unit": "IN",
+                                    "MaximunLength": 62.0
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Type": "Money",
+                                    "EDDCode": "OWH",
+                                    "PriceComponents": [
+                                      {
+                                        "Price": {
+                                          "BasePrice": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "Fees": [],
+                                          "Totals": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "FareType": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "SubGroupCode": "0D1",
+                                "Description": "Oversize up to 115IN/292CM",
+                                "Type": "OVERSIZE",
+                                "AdditionalDescriptions": [ "Oversize up to 115IN/292CM" ],
+                                "ExcessWeights": [
+                                  {
+                                    "Maximun": 23.0,
+                                    "Unit": "KG"
+                                  },
+                                  {
+                                    "Maximun": 50.0,
+                                    "Unit": "LBS"
+                                  }
+                                ],
+                                "ExcessSizes": [
+                                  {
+                                    "Unit": "CM",
+                                    "MaximunLength": 292.0
+                                  },
+                                  {
+                                    "Unit": "IN",
+                                    "MaximunLength": 115.0
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Type": "Money",
+                                    "EDDCode": "OSB",
+                                    "PriceComponents": [
+                                      {
+                                        "Price": {
+                                          "BasePrice": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "Fees": [],
+                                          "Totals": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "FareType": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "Dimensions": [
+                              {
+                                "Unit": "CM",
+                                "MaximunLength": 157.0
+                              },
+                              {
+                                "Unit": "IN",
+                                "MaximunLength": 62.0
+                              }
+                            ],
+                            "Weights": [
+                              {
+                                "Maximun": 32.0,
+                                "Unit": "KG"
+                              },
+                              {
+                                "Maximun": 70.0,
+                                "Unit": "LBS"
+                              }
+                            ],
+                            "RegularPrice": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 30.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 30.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [ { "Details": [ { "Text": "Regular 1 bag fee" } ] } ],
+                                "MaximumQuantity": 1
+                              },
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 40.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 40.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [ { "Details": [ { "Text": "Regular 2 bag fee" } ] } ],
+                                "MaximumQuantity": 2
+                              }
+                            ],
+                            "PrePaidBagPrice": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [ { "Details": [ { "Text": "PrePaid bag fee" } ] } ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "IsEntitled": "False"
+                  },
+                  {
+                    "Type": { "Description": "Allowance" },
+                    "Descriptions": [ "MinQuantity: 2, MaxQuantity: 2, Type: Discount, Group: BG, " ],
+                    "Prices": [
+                      {
+                        "ID": "S10",
+                        "Association": {
+                          "SegmentRefIDs": [ "S1" ],
+                          "TravelerRefIDs": [ "0" ]
+                        },
+                        "PaymentOptions": [
+                          {
+                            "Type": "Money",
+                            "PriceComponents": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [
+                                  {
+                                    "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                    "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                  }
+                                ],
+                                "Disclaimers": [
+                                  {
+                                    "Details": [ { "Text": "Baggage check-in must occur with United or United Express, and United MileagePlus Premier® Gold membership must be valid at time of check-in to qualify for any applicable waiver of service charges for checked bags (within specified size and weight limits). Changes to the fare type purchased could result in increased baggage service charges. Based on your itinerary and selected cabin, service charges may be waived for one or more checked bags. See below for the charges for your 1st and 2nd checked bags. For additional baggage service charge information, select the “additional and other bag fees” box below." } ],
+                                    "Key": "Merch.Bag.Price.Disclaimer.Policy.PG1"
+                                  }
+                                ],
+                                "Characteristics": [
+                                  {
+                                    "Code": "MSCarrier",
+                                    "Value": "UA"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "ID": "1",
+                    "IsDefault": "False",
+                    "GroupCode": "BG",
+                    "Extension": {
+                      "Bag": {
+                        "MaximumQuantity": 2,
+                        "MinimumQuantity": 2,
+                        "Bags": [
+                          {
+                            "ExcessFees": [
+                              {
+                                "SubGroupCode": "0DB",
+                                "Description": "Overweight up to 45K/100LB",
+                                "Type": "HEAVYOVERWEIGHT",
+                                "AdditionalDescriptions": [ "Overweight up to 45K/100LB" ],
+                                "ExcessWeights": [
+                                  {
+                                    "Maximun": 45.0,
+                                    "Unit": "KG"
+                                  },
+                                  {
+                                    "Maximun": 100.0,
+                                    "Unit": "LBS"
+                                  }
+                                ],
+                                "ExcessSizes": [
+                                  {
+                                    "Unit": "CM",
+                                    "MaximunLength": 157.0
+                                  },
+                                  {
+                                    "Unit": "IN",
+                                    "MaximunLength": 62.0
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Type": "Money",
+                                    "EDDCode": "OWH",
+                                    "PriceComponents": [
+                                      {
+                                        "Price": {
+                                          "BasePrice": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "Fees": [],
+                                          "Totals": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "FareType": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "SubGroupCode": "0D1",
+                                "Description": "Oversize up to 115IN/292CM",
+                                "Type": "OVERSIZE",
+                                "AdditionalDescriptions": [ "Oversize up to 115IN/292CM" ],
+                                "ExcessWeights": [
+                                  {
+                                    "Maximun": 23.0,
+                                    "Unit": "KG"
+                                  },
+                                  {
+                                    "Maximun": 50.0,
+                                    "Unit": "LBS"
+                                  }
+                                ],
+                                "ExcessSizes": [
+                                  {
+                                    "Unit": "CM",
+                                    "MaximunLength": 292.0
+                                  },
+                                  {
+                                    "Unit": "IN",
+                                    "MaximunLength": 115.0
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Type": "Money",
+                                    "EDDCode": "OSB",
+                                    "PriceComponents": [
+                                      {
+                                        "Price": {
+                                          "BasePrice": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "Fees": [],
+                                          "Totals": [
+                                            {
+                                              "Currency": { "Code": "USD" },
+                                              "Amount": 200.0,
+                                              "Type": "Money"
+                                            }
+                                          ],
+                                          "FareType": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "Dimensions": [
+                              {
+                                "Unit": "CM",
+                                "MaximunLength": 157.0
+                              },
+                              {
+                                "Unit": "IN",
+                                "MaximunLength": 62.0
+                              }
+                            ],
+                            "Weights": [
+                              {
+                                "Maximun": 32.0,
+                                "Unit": "KG"
+                              },
+                              {
+                                "Maximun": 70.0,
+                                "Unit": "LBS"
+                              }
+                            ],
+                            "RegularPrice": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 30.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 30.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [ { "Details": [ { "Text": "Regular 1 bag fee" } ] } ],
+                                "MaximumQuantity": 1
+                              },
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 40.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 40.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [ { "Details": [ { "Text": "Regular 2 bag fee" } ] } ],
+                                "MaximumQuantity": 2
+                              }
+                            ],
+                            "PrePaidBagPrice": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": { "Code": "USD" },
+                                      "Amount": 0.0,
+                                      "Type": "Money"
+                                    }
+                                  ],
+                                  "FareType": 0
+                                },
+                                "Descriptions": [ { "Details": [ { "Text": "PrePaid bag fee" } ] } ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "IsEntitled": "False"
+                  }
+                ],
+                "DisplayName": "Baggage"
+              }
+            }
+          ],
+          "CurrencyConversions": []
+        },
+        "ID": "SOL1",
+        "Warnings": []
+      }
+    ],
+    "Response": {
+      "TransactionID": "1631771525686010232113251998361",
+      "Message": [],
+      "GUIDs": [
+        {
+          "ID": "1631771525686010232113251998361",
+          "Name": "CORRELATIONID"
+        },
+        {
+          "ID": "1631771525686010232113251998361",
+          "Name": "TRANSACTIONID"
+        }
+      ],
+      "ProcessTime": 183.0,
+      "TimeStamps": [
+        {
+          "Time": "9/16/2021 12:52:05 AM",
+          "Type": "Central Standard Time"
+        },
+        {
+          "Time": "9/16/2021 12:52:05 AM",
+          "Type": "Fms Service Invoke Date Time"
+        },
+        {
+          "Time": "1/1/0001 00:00:00",
+          "Type": "PnrCreateDate"
+        }
+      ],
+      "RecordLocator": ""
+    },
+    "FlightSegments": [
+      {
+        "ID": "S1",
+        "ClassOfService": "H",
+        "FareBasisCode": "HAA0OKEN",
+        "TripIndicator": "1",
+        "DepartureAirport": {
+          "IATACode": "IAH",
+          "Name": "Houston, TX, US (IAH)",
+          "IATACountryCode": { "CountryCode": "US" }
+        },
+        "ArrivalAirport": {
+          "IATACode": "DEN",
+          "Name": "Denver, CO, US (DEN)",
+          "IATACountryCode": { "CountryCode": "US" }
+        },
+        "DepartureDateTime": "2021-09-23 08:50 AM",
+        "ArrivalDateTime": "2021-09-23 10:21 AM",
+        "FlightNumber": "2076",
+        "OperatingAirlineCode": "UA",
+        "Equipment": {
+          "Model": {
+            "Description": "Boeing 737-900",
+            "Fleet": "739"
+          },
+          "CabinCount": 2
+        },
+        "MarketedFlightSegment": [
+          {
+            "MarketingAirlineCode": "UA",
+            "FlightNumber": "2076",
+            "Description": "United Airlines"
+          }
+        ],
+        "DirectionIndicator": "",
+        "Distance": 861,
+        "SegmentNumber": 1,
+        "BookingClasses": [
+          {
+            "Code": "H",
+            "Cabin": {
+              "Key": "UE",
+              "Name": "United Economy",
+              "Description": "United Economy",
+              "Layout": "2"
+            }
+          }
+        ],
+        "IsInternational": "False",
+        "OperatingAirline": { "IATACode": "UA" },
+        "AvailBookingClasses": [
+          {
+            "Code": "J",
+            "Counts": { "Value": "1" }
+          },
+          {
+            "Code": "JN",
+            "Counts": { "Value": "1" }
+          },
+          {
+            "Code": "C",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "D",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "Z",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "ZN",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "P",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "PN",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "PZ",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "IN",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "I",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "Y",
+            "Counts": { "Value": "9" }
+          },
+          {
+            "Code": "YN",
+            "Counts": { "Value": "9" }
+          },
+          {
+            "Code": "B",
+            "Counts": { "Value": "9" }
+          },
+          {
+            "Code": "M",
+            "Counts": { "Value": "9" }
+          },
+          {
+            "Code": "E",
+            "Counts": { "Value": "7" }
+          },
+          {
+            "Code": "U",
+            "Counts": { "Value": "5" }
+          },
+          {
+            "Code": "H",
+            "Counts": { "Value": "3" }
+          },
+          {
+            "Code": "HN",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "Q",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "V",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "W",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "S",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "T",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "L",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "K",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "G",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "N",
+            "Counts": { "Value": "9" }
+          },
+          {
+            "Code": "XN",
+            "Counts": { "Value": "0" }
+          },
+          {
+            "Code": "X",
+            "Counts": { "Value": "0" }
+          }
+        ],
+        "UpgradeEligibilityStatus": 0,
+        "UpgradeVisibilityType": 0,
+        "InstantUpgradable": false
+      }
+    ],
+    "ODOptions": [
+      {
+        "ID": "OD1",
+        "FlightSegments": [
+          {
+            "ID": "S1",
+            "RefID": "S1",
+            "DepartureAirport": {
+              "IATACode": "IAH",
+              "Name": "Houston, TX, US (IAH)",
+              "IATACountryCode": { "CountryCode": "US" }
+            },
+            "ArrivalAirport": {
+              "IATACode": "DEN",
+              "Name": "Denver, CO, US (DEN)",
+              "IATACountryCode": { "CountryCode": "US" }
+            },
+            "DepartureDateTime": "2021-09-23 08:50",
+            "ArrivalDateTime": "2021-09-23 10:21",
+            "UpgradeEligibilityStatus": 0,
+            "UpgradeVisibilityType": 0,
+            "InstantUpgradable": false
+          }
+        ],
+        "Characteristics": [
+          {
+            "Code": "SELECTED_FARE_TYPE",
+            "Value": "ECONOMY"
+          }
+        ]
+      }
+    ],
+    "Travelers": [
+      {
+        "LoyaltyProgramProfile": {
+          "LoyaltyProgramCarrierCode": "UA",
+          "LoyaltyProgramMemberID": "AW791957",
+          "LoyaltyProgramMemberTierLevel": "Premier Gold",
+          "LoyaltyProgramMemberTierDescription": 2,
+          "MilesBalance": 4985328
+        },
+        "TravelerNameIndex": "1.1",
+        "TicketNumber": "",
+        "ID": "0",
+        "PassengerTypeCode": "ADT",
+        "TicketingDate": "9/16/2021 12:52:00 AM",
+        "Entitlements": [
+          {
+            "GroupCode": "BG",
+            "SubGroupCode": "4",
+            "Reason": "FFSTATUS",
+            "EntitledBy": "FFSTATUS"
+          }
+        ],
+        "ProductLoyaltyProgramProfile": [
+          {
+            "IsPrimary": "true",
+            "CreditCards": [
+              {
+                "Code": "0278",
+                "Description": 0,
+                "CreditCardTypeCode": 0,
+                "PinEntryCapability": 0,
+                "InputCapability": 0,
+                "TerminalAttended": 0,
+                "TerminalCardholderActivated": 0,
+                "CardType": "NONE",
+                "WalletCategory": 0,
+                "GroupPaymentType": 0
+              }
+            ],
+            "LoyaltyProgramCarrierCode": "UA",
+            "LoyaltyProgramMemberID": "AW791957",
+            "LoyaltyProgramMemberTierLevel": "Premier Gold",
+            "LoyaltyProgramMemberTierDescription": 2
+          }
+        ],
+        "Surname": "jeste",
+        "GivenName": "test",
+        "DateOfBirth": "8/31/1988 12:00:00 AM",
+        "Sex": "M",
+        "CustomerID": "0",
+        "Type": "ADT"
+      }
+    ],
+    "Solutions": [
+      {
+        "ID": "SOL1",
+        "ODOptions": [
+          {
+            "RefID": "OD1",
+            "FlightSegments": [
+              {
+                "ID": "S1",
+                "RefID": "S1",
+                "DepartureAirport": {
+                  "IATACode": "IAH",
+                  "Name": "Houston, TX, US (IAH)",
+                  "IATACountryCode": { "CountryCode": "US" }
+                },
+                "ArrivalAirport": {
+                  "IATACode": "DEN",
+                  "Name": "Denver, CO, US (DEN)",
+                  "IATACountryCode": { "CountryCode": "US" }
+                },
+                "DepartureDateTime": "2021-09-23 08:50",
+                "ArrivalDateTime": "2021-09-23 10:21",
+                "UpgradeEligibilityStatus": 0,
+                "UpgradeVisibilityType": 0,
+                "InstantUpgradable": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Requester": {
+      "GUIDs": [
+        {
+          "ID": "B78CBAEE-5CCF-4EE9-8215-8E2C4521B4F4",
+          "Name": "CartId"
+        },
+        {
+          "ID": "1631771525686010232113251998361",
+          "Name": "CORRELATIONID"
+        }
+      ],
+      "Requestor": {
+        "Characteristic": [
+          {
+            "Code": "TransactionLog",
+            "Value": "true"
+          }
+        ],
+        "ID": "1631771525686010232113251998361",
+        "ChannelID": "401",
+        "ChannelName": "MBE",
+        "LanguageCode": "en"
+      }
+    }
+  }
+}

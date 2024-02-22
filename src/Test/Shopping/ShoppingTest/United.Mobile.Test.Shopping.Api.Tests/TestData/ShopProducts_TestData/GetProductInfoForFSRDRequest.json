@@ -1,0 +1,25 @@
+[
+  {
+    "countryCode": "US",
+    "flightHash": "334-931-UA",
+    "isIBE": true,
+    "numberOfAdults": 0,
+    "searchType": "RT",
+    "sessionId": "0FF872532562447585DBEC8B658FE554",
+    "tripId": "0c8FRtUdKXb7R4VxMV7e9R3",
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "",
+    "languageCode": "en-US",
+    "transactionId": ""
+  }
+]

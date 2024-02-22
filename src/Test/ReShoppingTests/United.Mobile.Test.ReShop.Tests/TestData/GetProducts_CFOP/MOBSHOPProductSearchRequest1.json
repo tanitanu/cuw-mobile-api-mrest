@@ -1,0 +1,23 @@
+{
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.62",
+      "minor": "4.1.62"
+    }
+  },
+  "cartId": "C7F6AB10-129B-444B-9FF8-63C1984D0D4C",
+  "cartKey": "PAS",
+  "deviceId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2",
+  "flow": "RESHOP",
+  "languageCode": "en-US",
+  "pointOfSale": "US",
+  "productCodes": [
+    "PAS"
+  ],
+  "sessionId": "47AF18BF37AF406085E4E1525695F7F6",
+  "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|af0d9bdd-341a-4f42-a70b-757414ec0bbc"
+}

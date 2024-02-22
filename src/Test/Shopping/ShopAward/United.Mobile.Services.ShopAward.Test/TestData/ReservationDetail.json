@@ -1,0 +1,93 @@
+{
+  "Detail": {
+    "Travelers": [
+      {
+        "FirstNamePosition": "",
+        "NumberOfFirstName": "",
+        "CardHolderName": "",
+        "PayerIndicator": "",
+        "PurchaserIndicator": "",
+        "TravellerIndicator": "",
+        "Person": {
+          "Age": 18,
+          "Key": 5
+        },
+        "LoyaltyProgramProfile": {},
+        "TelephoneNumbers": [
+          {
+            "Description": "",
+            "CountryAccessCode": "",
+            "PhoneNumber": "76436483"
+          }
+        ],
+        "EmailAddress": [
+          {
+            "DefaultIndicator": ""
+          }
+        ]
+      },
+      {
+        "FirstNamePosition": "",
+        "NumberOfFirstName": "",
+        "CardHolderName": "",
+        "PayerIndicator": "",
+        "PurchaserIndicator": "",
+        "TravellerIndicator": "",
+        "Person": {
+          "Age": 18,
+          "Key": 5
+        },
+        "LoyaltyProgramProfile": {}
+      }
+    ],
+    "TelephoneNumbers": [
+      {
+        "Description": "",
+        "CountryAccessCode": "",
+        "PhoneNumber": "76436483"
+      }
+    ],
+    "EmailAddress": [
+      {
+        "DefaultIndicator": "",
+        "Address": "xyz@gmail.com"
+      }
+    ],
+    "FlightSegments": [
+      {
+        "HistoryClass": "",
+        "EstimatedDepartureUTCTime": "",
+        "EstimatedDepartureTime": "",
+        "EstimatedDepartureDelayMinutes": "",
+        "CurrentSeats": [
+          {
+            "ValueDocumentID": "",
+            "ReservationNameIndex": "5",
+            "Status": "pass"
+          }
+        ],
+        "FlightSegment": {
+          "FlightNumber": "AW567",
+          "OperatingAirlineCode": "XYZ123",
+          "DepartureDateTime": "08/12/2022 13:02",
+          "DepartureAirport": {
+            "IATACode": "12345"
+          },
+          "ArrivalAirport": {
+            "IATACode": "1432"
+          }
+        },
+        "TripNumber": "0"
+      }
+    ],
+    "Characteristic": [
+      {
+        "Code": "24HrFlexibleBookingPolicy",
+        "Value": "TRUE",
+        "Description": "An elevated level of comfort and service",
+        "Genre": "",
+        "Status": ""
+      }
+    ]
+  }
+}

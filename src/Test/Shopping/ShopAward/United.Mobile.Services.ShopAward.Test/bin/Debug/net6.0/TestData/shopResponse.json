@@ -1,0 +1,875 @@
+[
+  {
+    "ObjectName": "United.Persist.Definition.Shopping",
+    "ArrivalAirports": "IAH",
+    "CalendarLengthOfStay": -1,
+    "CallTimeBBX": "1.24",
+    "CallTimeDomain": "1.76",
+    "CallTimeProvider": "1.25",
+    "CartId": "291ED12F-9355-4D22-871C-BB12A461A9D5",
+    "CountryCode": "US",
+    "DepartureAirports": "ORD",
+    "Timings": [
+      {
+        "Name": "Boombox query time",
+        "TimeMilliseconds": "1243",
+        "DTStart": null
+      },
+      {
+        "Name": "Cache Write Time revenueFareFamilies",
+        "TimeMilliseconds": "0",
+        "DTStart": null
+      },
+      {
+        "Name": "GetPersistedFileTryShopResponse0 (Success)",
+        "TimeMilliseconds": "000000.57",
+        "DTStart": "20211123_104202.583"
+      },
+      {
+        "Name": "GetFareColumnDetails",
+        "TimeMilliseconds": "000000.32",
+        "DTStart": "20211123_104203.092"
+      },
+      {
+        "Name": "IsFareWheelEligible",
+        "TimeMilliseconds": "000509.08",
+        "DTStart": "20211123_104202.583"
+      },
+      {
+        "Name": "SpecialPricing",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20211123_104203.092"
+      },
+      {
+        "Name": "AdjustNegativePrices",
+        "TimeMilliseconds": "000000.01",
+        "DTStart": "20211123_104204.339"
+      },
+      {
+        "Name": "ShopHelperUpdateTiming",
+        "TimeMilliseconds": "000000.11",
+        "DTStart": "20211123_104204.339"
+      }
+    ],
+    "LangCode": "en-US",
+    "LastBBXSolutionSetId": "0WkewvfPfZ2LPve6MvYNwj5",
+    "LastCallDateTime": "11/23/2021 10:42:04 AM",
+    "LastTripIndexRequested": 1,
+    "QueryType": "bbx",
+    "ServerName": "VCLD21MSCSL03",
+    "ServiceType": 1,
+    "SessionId": "33CD074F-99C1-4D9F-891A-F85C65D0E3CF",
+    "Status": 1,
+    "TripCount": 1,
+    "IsFareWheelEligible": true,
+    "RecentSearchVersion": "2021-DECW2_",
+    "Version": "",
+    "Calendar": {
+      "LoadedFromCache": false,
+      "LengthOfStay": 6,
+      "MaxLengthOfStay": 6,
+      "AdvancePurchase": 14,
+      "CalendarWindow": 30,
+      "Months": [
+        {
+          "ShowPreviousMonthIndicator": false,
+          "ShowNextMonthIndicator": false,
+          "Year": 2021,
+          "Month": 10,
+          "Weeks": [
+            {
+              "Year": 2021,
+              "Month": 10,
+              "Days": [
+                {
+                  "Year": 2021,
+                  "Month": 10,
+                  "Cheapest": false,
+                  "CabinCount": 2,
+                  "DateValue": "10/28/2021",
+                  "DayNotInThisMonth": false,
+                  "Display": false,
+                  "DisplayFare": 0.0,
+                  "Economy": false,
+                  "First": false,
+                  "LastResultId": "VFDB1CVcd3u2AaRpj0ZgAK",
+                  "TravelDateRange": false,
+                  "DayFareInfos": [],
+                  "Solutions": [
+                    {
+                      "AwardType": "BUSINESS-SURPLUS",
+                      "CabinType": "Business",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 27700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": false,
+                      "DateValue": "10/28/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    },
+                    {
+                      "AwardType": "ECONOMY-SURPLUS",
+                      "CabinType": "Economy",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 9700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "10/28/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    }
+                  ]
+                },
+                {
+                  "Year": 2021,
+                  "Month": 10,
+                  "Cheapest": false,
+                  "CabinCount": 2,
+                  "DateValue": "10/29/2021",
+                  "DayNotInThisMonth": false,
+                  "Display": false,
+                  "DisplayFare": 0.0,
+                  "Economy": false,
+                  "First": false,
+                  "LastResultId": "6Q16U14jIsxUZsPeV0ZgAK",
+                  "TravelDateRange": false,
+                  "DayFareInfos": [],
+                  "Solutions": [
+                    {
+                      "AwardType": "DOM",
+                      "CabinType": "Business",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 27700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": false,
+                      "DateValue": "10/29/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    },
+                    {
+                      "AwardType": "DOM Dynamic Saver",
+                      "CabinType": "Economy",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 9700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "10/29/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    }
+                  ]
+                },
+                {
+                  "Year": 2021,
+                  "Month": 10,
+                  "Cheapest": false,
+                  "CabinCount": 2,
+                  "DateValue": "10/30/2021",
+                  "DayNotInThisMonth": false,
+                  "Display": false,
+                  "DisplayFare": 0.0,
+                  "Economy": false,
+                  "First": false,
+                  "LastResultId": "gQDB19UtAZa7uTfKU0ZgAK",
+                  "TravelDateRange": false,
+                  "DayFareInfos": [],
+                  "Solutions": [
+                    {
+                      "AwardType": "DOM",
+                      "CabinType": "Business",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 27700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": false,
+                      "DateValue": "10/30/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    },
+                    {
+                      "AwardType": "DOM Dynamic Saver",
+                      "CabinType": "Economy",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 9700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "10/30/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    }
+                  ]
+                },
+                {
+                  "Year": 2021,
+                  "Month": 10,
+                  "Cheapest": false,
+                  "CabinCount": 2,
+                  "DateValue": "01/31/2021",
+                  "DayNotInThisMonth": false,
+                  "Display": false,
+                  "DisplayFare": 0.0,
+                  "Economy": false,
+                  "First": false,
+                  "LastResultId": "O91DpZ9zdX5Psottk0ZgAK",
+                  "TravelDateRange": false,
+                  "DayFareInfos": [],
+                  "Solutions": [
+                    {
+                      "AwardType": "Catch All",
+                      "CabinType": "Business",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 25000.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "10/31/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    },
+                    {
+                      "AwardType": "DOM Dynamic Saver",
+                      "CabinType": "Economy",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 9700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "10/31/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    }
+                  ]
+                },
+                {
+                  "Year": 2021,
+                  "Month": 11,
+                  "Cheapest": false,
+                  "CabinCount": 2,
+                  "DateValue": "11/01/2021",
+                  "DayNotInThisMonth": false,
+                  "Display": false,
+                  "DisplayFare": 0.0,
+                  "Economy": false,
+                  "First": false,
+                  "LastResultId": "p8v0rqkj8Pz4MbC2l0ZgAK",
+                  "TravelDateRange": false,
+                  "DayFareInfos": [],
+                  "Solutions": [
+                    {
+                      "AwardType": "DOM",
+                      "CabinType": "Business",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 27700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": false,
+                      "DateValue": "11/01/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    },
+                    {
+                      "AwardType": "DOM Dynamic Saver",
+                      "CabinType": "Economy",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 9700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "11/01/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    }
+                  ]
+                },
+                {
+                  "Year": 2021,
+                  "Month": 11,
+                  "Cheapest": false,
+                  "CabinCount": 2,
+                  "DateValue": "02/11/2021",
+                  "DayNotInThisMonth": false,
+                  "Display": false,
+                  "DisplayFare": 0.0,
+                  "Economy": false,
+                  "First": false,
+                  "LastResultId": "3sBLCT512S9qzhX660ZgAK",
+                  "TravelDateRange": false,
+                  "DayFareInfos": [],
+                  "Solutions": [
+                    {
+                      "AwardType": "DOM",
+                      "CabinType": "Business",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 27700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": false,
+                      "DateValue": "11/02/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    },
+                    {
+                      "AwardType": "DOM Dynamic Saver",
+                      "CabinType": "Economy",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 9700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "11/02/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    }
+                  ]
+                },
+                {
+                  "Year": 2021,
+                  "Month": 11,
+                  "Cheapest": false,
+                  "CabinCount": 2,
+                  "DateValue": "03/11/2021",
+                  "DayNotInThisMonth": false,
+                  "Display": false,
+                  "DisplayFare": 0.0,
+                  "Economy": false,
+                  "First": false,
+                  "LastResultId": "x9gd12tdNrMPZA4nn0ZgAK",
+                  "TravelDateRange": false,
+                  "DayFareInfos": [],
+                  "Solutions": [
+                    {
+                      "AwardType": "DOM",
+                      "CabinType": "Business",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 27700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": false,
+                      "DateValue": "11/03/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    },
+                    {
+                      "AwardType": "DOM Dynamic Saver",
+                      "CabinType": "Economy",
+                      "Prices": [
+                        {
+                          "Currency": "MILES",
+                          "Amount": 9700.0,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Award"
+                        },
+                        {
+                          "Currency": "USD",
+                          "Amount": 5.6,
+                          "AmountAllPax": 0.0,
+                          "AmountBase": 0.0,
+                          "PricingType": "Tax"
+                        }
+                      ],
+                      "Cheapest": true,
+                      "DateValue": "11/03/2021",
+                      "DayNotInThisMonth": false,
+                      "Display": false,
+                      "DisplayFare": 0.0,
+                      "TravelDateRange": false,
+                      "DayFareInfos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Errors": [],
+    "Warnings": [
+      {
+        "MajorCode": "20003.01",
+        "MajorDescription": "FlightShopping/Shop",
+        "MinorCode": "10052",
+        "MinorDescription": "ServiceErrorDepartureFutureTravelDate",
+        "Message": "No flights depart from Chicago O'Hare (ORD) during the specified time. The next flight departs on Friday, December 10, 2021 at 5:00a. ",
+        "CallTime": null,
+        "VendorCode": null
+      }
+    ],
+    "FareWheelGrid": {
+      "Columns": [
+        {
+          "ID": null,
+          "Day": "2021-12-09"
+        }
+      ],
+      "Rows": [
+        {
+          "RowItems": [
+            {
+              "Airfare": 0,
+              "Cheapest": true,
+              "Day": "2021-12-09",
+              "Destination": null,
+              "DestinationDescription": null,
+              "ID": null,
+              "Origin": null,
+              "OriginDescription": null,
+              "PricingItem": {
+                "Currency": "USD",
+                "CurrencyAllPax": null,
+                "Amount": 99,
+                "AmountAllPax": 0,
+                "AmountBase": 0,
+                "PricingType": null,
+                "PricingDetails": null
+              }
+            }
+          ]
+        }
+      ],
+      "LoadedFromCache": true
+    },
+    "ITAQueries": [],
+    "SpecialPricingInfo": {
+      "Description": "",
+      "DisplayName": "",
+      "ItaQueryType": "",
+      "LastValidityMessage": "",
+      "PIN": "",
+      "ProgYear": "",
+      "PromoAndPin": "",
+      "PromoCode": "",
+      "PromoDescription": "",
+      "PromoDisplayText": "",
+      "PromoID": "",
+      "AllowedPointsOfSale": [],
+      "AlternateSuggestions": [],
+      "BlackoutDatesDestination": [],
+      "BlackoutDatesOrigin": [],
+      "Carriers": [],
+      "ClassesOfService": [],
+      "Companions": [],
+      "DateValidationTypes": [],
+      "Discounts": [],
+      "DiversifyAnswers": [],
+      "DiversityStrategies": [],
+      "EffectiveTravelDates": [],
+      "GeoCodeRestrictions": [],
+      "HubRestrictions": [],
+      "PaxListDetails": {
+        "Passengers": []
+      },
+      "PromoFields": [],
+      "PromoTerms": [],
+      "PromoYears": [],
+      "RedeemableDates": [],
+      "RequiredPassengers": [],
+      "SearchMetrics": [],
+      "SearchTypes": [],
+      "ValidationErrors": [],
+      "ValidCardTypes": [],
+      "ValidDaysOfWeekRanges": [],
+      "ValidPartnerCodeTypes": []
+    },
+    "Trips": [
+      {
+        "Destination": "IAH",
+        "Origin": "ORD",
+        "BBXSolutionSetId": "0WkewvfPfZ2LPve6MvYNwj5",
+        "DepartDate": "2022-12-09",
+        "Index": 1,
+        "TripIndex": 1,
+        "ITAQueries": [
+          {
+            "QueryDateTime": "20211123 104204",
+            "TripIndex": 1,
+            "search": {
+              "api": "shop",
+              "dataset": "experimental",
+              "requestTags": {
+                "tag": "33CD074F-99C1-4D9F-891A-F85C65D0E3CF"
+              },
+              "inputs": {
+                "api": null,
+                "bookingCode": null,
+                "bookingSolution": null,
+                "reservationInfo": null,
+                "disableElf": "true",
+                "enumerationControl": null,
+                "fareFamily": "ECONOMY",
+                "fareReduction": null,
+                "fareType": "lowest",
+                "filter": {
+                  "aircraftCodes": null,
+                  "aircraftTypes": null,
+                  "arrivalAirports": null,
+                  "avoidLayoverAirports": null,
+                  "departureAirports": null,
+                  "layoverAirports": null,
+                  "marketingCarriers": null,
+                  "operatingCarrier": null,
+                  "warnings": null,
+                  "fareFamily": "ECONOMY"
+                },
+                "pageNum": "1",
+                "pageSize": "150",
+                "paxArray": [
+                  {
+                    "waiveAcc": null,
+                    "ptc": null,
+                    "ptcOverride": null,
+                    "birthDate": null,
+                    "age": 25,
+                    "paxGroup": "adult",
+                    "gender": null,
+                    "nationality": [
+                      {
+                        "country": null
+                      }
+                    ],
+                    "residency": [
+                      {
+                        "country": null
+                      }
+                    ],
+                    "enumerationControl": null
+                  }
+                ],
+                "permittedBookingCodes": null,
+                "reissue": null,
+                "residency": "US",
+                "slice": [
+                  {
+                    "hash": null,
+                    "origin": "ORD",
+                    "destination": "IAH",
+                    "date": "2022-12-09",
+                    "cabin": null,
+                    "maxStopCount": null,
+                    "stop": null,
+                    "departure": null,
+                    "departureTime": null,
+                    "cell": null,
+                    "ext": null,
+                    "flightCode": null,
+                    "saleTaxTotal": null,
+                    "segment": null,
+                    "tax": null,
+                    "taxes": null,
+                    "index": null,
+                    "stopCount": null,
+                    "daysBefore": null,
+                    "daysAfter": null,
+                    "maxConnectionTime": null
+                  }
+                ],
+                "sliceIndex": "0",
+                "solutionSet": null,
+                "sort": "stopsbycolumn",
+                "test": null,
+                "testCarriers": null,
+                "upgrade": null,
+                "useTestSchedules": null,
+                "useTestAvailability": null,
+                "includeReference": false,
+                "isUnaccompaniedMinor": null,
+                "disableUnaccompaniedMinorLogic": null,
+                "pricing": null,
+                "maxRows": null,
+                "enableDynamicPricing": null,
+                "requireUASegmentOnJourney": false,
+                "pointOfSale": null,
+                "pnr": null
+              },
+              "key": "tYdLJjjzIFwhETwZfhZNyf",
+              "name": "revenueFareFamilies",
+              "qpx": "cloud-test",
+              "requestId": null,
+              "session": null,
+              "version": "8",
+              "qpxTestData": null,
+              "summarizer": [
+                34
+              ]
+            },
+            "result": null,
+            "summarize": null
+          }
+        ],
+        "SearchFiltersIn": {
+          "CabinCountMin": -1,
+          "CabinCountMax": -1,
+          "CarrierDefault": true,
+          "CarrierExpress": true,
+          "CarrierPartners": true,
+          "CarrierStar": true,
+          "DurationMin": -1,
+          "DurationMax": -1,
+          "DurationStopMin": -1,
+          "DurationStopMax": -1,
+          "FareFamily": "ECONOMY",
+          "PriceMin": -1,
+          "PriceMinCurrency": "USD",
+          "PriceMax": -1,
+          "PriceMaxCurrency": "USD",
+          "StopCountExcl": -1,
+          "StopCountMin": -1,
+          "StopCountMax": -1,
+          "AirportsDestinationList": [],
+          "AirportsOriginList": [],
+          "AirportsStopList": [],
+          "AirportsStopToAvoidList": [],
+          "CarriersMarketingList": [],
+          "CarriersOperatingList": [],
+          "EquipmentList": [],
+          "FareFamilyFilters": [],
+          "Warnings": []
+        },
+        "SearchFiltersOut": {
+          "CabinCountMin": -1,
+          "CabinCountMax": -1,
+          "CarrierDefault": true,
+          "CarrierExpress": true,
+          "CarrierPartners": true,
+          "CarrierStar": true,
+          "DurationMin": -1,
+          "DurationMax": -1,
+          "DurationStopMin": -1,
+          "DurationStopMax": -1,
+          "PriceMin": -1,
+          "PriceMinCurrency": "USD",
+          "PriceMax": -1,
+          "PriceMaxCurrency": "USD",
+          "StopCountExcl": -1,
+          "StopCountMin": -1,
+          "StopCountMax": -1,
+          "AirportsDestinationList": [],
+          "AirportsOriginList": [],
+          "AirportsStopList": [],
+          "AirportsStopToAvoidList": [],
+          "CarriersMarketingList": [],
+          "CarriersOperatingList": [],
+          "EquipmentList": [],
+          "FareFamilyFilters": [],
+          "Warnings": []
+        },
+        "Flights": [],
+        "FutureTravelDate": "2021-12-10T05:00",
+        "Cachekey": "FAREWHEEL_ORD_FALSE_IAH_FALSE_DEC092021_0_0-1ADT_ECONOMY_US_TRUE",
+        "ChangeType": 0,
+        "OriginalChangeType": 0,
+        "OriginalMileage": 0,
+        "OriginalMileageTotal": 0,
+        "OriginalTax": 0,
+        "RequestedOrigin": null,
+        "RequestedDestination": null,
+        "FareMatrixResult": null
+      }
+    ],
+    "UpgradeTypes": [],
+    "Upsells": [],
+    "FareWheelDescription": "Economy (lowest)",
+    "LastResultId": "lf3SOoU8Z9VMWqhWp0aX5W"
+  }
+]

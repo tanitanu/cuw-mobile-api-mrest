@@ -1,0 +1,36 @@
+[
+  {
+    "CouponDetails": [
+      {
+        "Product": "BAG"
+      }
+    ],
+    "ProdDescription": "ProdDescription",
+    "ProdDisplayTotalPrice": "24",
+    "TermsAndCondition": {},
+    "ProdDisplayTotalMiles": "ProdDisplayTotalMiles",
+    "ProdOriginalPrice": "30",
+    "Code": "RES"
+  },
+  {
+    "CouponDetails": [
+      {
+        "Product": "BAG"
+      }
+    ],
+    "ProdDescription": "ProdDescription",
+    "ProdDisplayTotalPrice": "24",
+    "TermsAndCondition": {},
+    "ProdDisplayTotalMiles": "ProdDisplayTotalMiles",
+    "ProdOriginalPrice": "30",
+    "Code": "SEATASSIGNMENTS"
+  },
+  {
+    "CouponDetails": [],
+    "ProdDescription": "ProdDescription",
+    "ProdDisplayTotalPrice": "24",
+    "TermsAndCondition": {},
+    "ProdDisplayTotalMiles": "ProdDisplayTotalMiles",
+    "ProdOriginalPrice": "30"
+  }
+]

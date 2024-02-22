@@ -1,0 +1,16 @@
+{
+  "ObjectName": "United.Persist.Definition.Shopping.Session",
+  "isBEChangeEligible": false,
+  "isUnaccompaniedMinor": true,
+  "isCorporateBooking": true,
+  "corporateVendorName": "true",
+  "AgencyName": "true",
+  "requesttype": "CHANGE",
+  "IsCheckinEligible": true,
+  "IsAgencyBooking": true,
+  "isMilesAndMoney": true,
+  "isATREEligible": false,
+  "isIBELite": false,
+  "isIBE": false,
+  "isElf": false
+}

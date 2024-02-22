@@ -1,0 +1,89 @@
+[
+  {
+    "backButtonClick": false,
+    "calendarDateChange": "11/30/2022",
+    "cartId": "",
+    "catalogItems": [
+      {
+        "currentValue": "1",
+        "id": "21388",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "0",
+        "id": "21389",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21428",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21463",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21587",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21502",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21647",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21699",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21643",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21757",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21665",
+        "saveToPersist": false
+      }
+    ],
+    "flightId": "G9e8Yru5nRxTsT4S",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": false,
+    "lengthOfCalendar": 3,
+    "productId": "dOHs7H8sIP9T9RUdHSJU57002",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "77E46C3C9B844EDC9E6313697610EBDD",
+    "tripId": "0NNoqyDrZ3p7VSWPUwpWomV",
+    "useFilters": false,
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "languageCode": "en-US",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|245b72ea-16b5-4382-b94d-5096a32af294"
+  }
+]

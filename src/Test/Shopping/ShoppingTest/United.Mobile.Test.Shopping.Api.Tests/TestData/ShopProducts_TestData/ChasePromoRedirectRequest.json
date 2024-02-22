@@ -1,0 +1,45 @@
+[
+  {
+    "hashPinCode": "1F29BB0F22E0F61C2DCBEF09807691169935BD2A",
+    "mileagePlusNumber": "AW719636",
+    "promoType": "NONPREMIER",
+    "sessionId": "8145517CC14D4F4281856F648512D7A6",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|f9108670-7e11-4dee-b6ec-827c9d1f0861",
+    "bugBountySessionExpiredMsg": "Your session has expired. Please sign in again."
+  },
+  {
+    "hashPinCode": "F5B62C1A8447B5E8248AB34D4A36A48E42DC9CE3",
+    "mileagePlusNumber": "MR722052",
+    "promoType": "PREMIER",
+    "sessionId": "56FF056A12A34B4586C3043400EFCA86",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "f64b02a8-6efb-4d3c-ae7b-1736898c6aec",
+    "languageCode": "en-US",
+    "transactionId": "f64b02a8-6efb-4d3c-ae7b-1736898c6aec|f47fcfc7-0d47-47bd-8ecd-bf0596420db9",
+    "bugBountySessionExpiredMsg": "Your session has expired. Please sign in again."
+
+  }
+
+]
+

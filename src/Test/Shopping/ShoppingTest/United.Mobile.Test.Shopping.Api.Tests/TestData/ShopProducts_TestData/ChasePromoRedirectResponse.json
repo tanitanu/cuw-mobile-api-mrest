@@ -1,0 +1,31 @@
+[
+  {
+    "webSessionShareURL": "https://qa9.united.com/ual/en/us/Booking/SearchInjection/SSOLogin",
+    "redirectURL": "https://united.chase-stage3.archer-group.com/35k250afwic?CELL=TFH&int_source=loyalty&mode=d&int_medium=mob&int_campaign=0480_35k2kafw250sc_020121&alm=493479&int_content=250sc35kbm&partner_category=cc&partner_name=chase_acq&asset_type=shopping_path&asset_position=rti&promo_code=cell_tfh&targeting=lina&launch_date=2021-07-01&rpc=0480&campaign_type=cce&offer_trackingid=null&source_code=null",
+    "returnURL": "https://qa9.united.com/en/us",
+    "returnURLs": [
+      "https://qa9.united.com/en/us",
+      "https://www.united.com/web/en-US/apps/mileageplus/creditcard/chase/chaseInstantCreditAppReturn.aspx",
+      "https://www.united.com/en/us/",
+      "https://beta.united.com/",
+      "https://www.united.com/web/en-us/",
+      "https://www.united.com/es/pr/",
+      "https://www.united.com/es/mx/",
+      "https://www.united.com/en/pr/",
+      "https://www.united.com/ual/en/PR/flight-search/book-a-flight",
+      "https://www.united.com/ual/en/US/flight-search/book-a-flight",
+      "https://www.united.com/en/us/account",
+      "https://www.united.com/en/xx/account",
+      "https://www.united.com/en/us/account/activity",
+      "https://www.united.com/web/en-US/apps/account/profile.aspx",
+      "https://qa9.united.com/services/chase/chaseInstantCreditPostback.aspx%3C/inputElementValue%3E"
+    ],
+    "token": "Bearer AAJITW9iaWxlLUFuZHJvaWRQaG9uZS1jdXN0b21lcnNzb19VQUxfNjQzRTFFNDctMTI0Mi00QjZDLUFCN0UtNjQwMjRFNEJDODRDfBlYxga3PEeRgnQq2M7YY-EUhdS5YUB8PKjDWFdguoGiBnDkCrX25knTn3IMOcZkohi9jMS1F3oDqnQgFIBzDUav9mWss8s8o3XoPaxpigUkPPaFG-nGeq8cfjOH4mHTDZ3-hhR5nTHYZMp4ymlF03XMExOwQsf3dKjcWfRNEQzb4wBD362TwfVBF5MQNth8chb3Pkp4gxMkegsQOJ_k-w",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|f9108670-7e11-4dee-b6ec-827c9d1f0861",
+    "languageCode": "en-US",
+    "machineName": "03",
+    "callDuration": 705,
+    "exception": null,
+    "bugBountySessionExpiredMsg": "Your session has expired. Please sign in again."
+  }
+]

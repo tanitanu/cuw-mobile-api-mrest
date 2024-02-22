@@ -1,0 +1,13 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\bin\Debug\net6.0\United.Common.Helper.PageProduct.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\bin\Debug\net6.0\United.Common.Helper.PageProduct.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\bin\Debug\net6.0\United.Common.Helper.PageProduct.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.csproj.AssemblyReference.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\refint\United.Common.Helper.PageProduct.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\United.Common.Helper.PageProduct.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Core\Common\United.Common.Helper.PageProduct\obj\Debug\net6.0\ref\United.Common.Helper.PageProduct.dll

@@ -1,0 +1,288 @@
+[
+  {
+    "revenueLowestPriceForAwardSearchRequest": {
+      "sessionId": "D0F24857EE5C4F399AD4AB02EA677AFA",
+      "countryCode": "US",
+      "trips": [
+        {
+          "origin": "ORD",
+          "originAllAirports": 0,
+          "destination": "IAH",
+          "destinationAllAirports": 0,
+          "departDate": "12/09/2021",
+          "arrivalDate": null,
+          "cabin": "awardEcon",
+          "useFilters": false,
+          "searchFiltersIn": null,
+          "searchFiltersOut": null,
+          "searchNearbyOriginAirports": false,
+          "searchNearbyDestinationAirports": false,
+          "shareMessage": null,
+          "index": 0,
+          "changeType": "0"
+        }
+      ],
+      "numberOfAdults": 0,
+      "numberOfSeniors": 0,
+      "numberOfChildren2To4": 0,
+      "numberOfChildren5To11": 0,
+      "numberOfChildren12To17": 0,
+      "numberOfInfantOnLap": 0,
+      "numberOfInfantWithSeat": 0,
+      "awardTravel": true,
+      "mileagePlusAccountNumber": "AW719636",
+      "searchType": "OW",
+      "serviceType": "",
+      "maxNumberOfStops": 2,
+      "maxNumberOfTrips": 25,
+      "resultSortType": "R",
+      "fareType": "lf",
+      "classOfServices": null,
+      "pageIndex": 0,
+      "pageSize": 0,
+      "fareClass": "",
+      "promotionCode": null,
+      "showMileageDetails": false,
+      "premierStatusLevel": 0,
+      "employeeDiscountId": "",
+      "isReshopChange": false,
+      "recordLocator": null,
+      "lastName": null,
+      "reshopTravelers": null,
+      "reshopSegments": null,
+      "travelerTypes": [
+        {
+          "count": 1,
+          "travelerType": "Adult"
+        },
+        {
+          "count": 0,
+          "travelerType": "Senior"
+        },
+        {
+          "count": 0,
+          "travelerType": "Child15To17"
+        },
+        {
+          "count": 0,
+          "travelerType": "Child12To14"
+        },
+        {
+          "count": 0,
+          "travelerType": "Child5To11"
+        },
+        {
+          "count": 0,
+          "travelerType": "Child2To4"
+        },
+        {
+          "count": 0,
+          "travelerType": "InfantSeat"
+        },
+        {
+          "count": 0,
+          "travelerType": "InfantLap"
+        }
+      ],
+      "isYoungAdultBooking": false,
+      "pointOfSaleCountryName": "United States",
+      "hashPinCode": "4D1631663D2054BCB691B56804F965DD23F5007B",
+      "experiments": [
+        "NoChangeFee", "FSRRedesignA"
+      ],
+      "isShareTripSearchAgain": false,
+      "columnFareType": null,
+      "isCorporateBooking": false,
+      "mobCPCorporateDetails": {
+        "discountCode": null,
+        "leisureDiscountCode": null,
+        "corporateCompanyName": null,
+        "corporateTravelProvider": null,
+        "fareGroupId": null,
+        "corporateBookingType": null,
+        "noOfTravelers": 0
+      },
+      "customerMetrics": {
+        "ptcCode": "PPR"
+      },
+      "lengthOfCalendar": 3,
+      "getNonStopFlightsOnly": false,
+      "getFlightsWithStops": false,
+      "cameFromFSRHandler": false,
+      "isELFFareDisplayAtFSR": false,
+      "isExpertModeEnabled": false,
+      "isReshop": false,
+      "isRevShopCallFromAwardFSR1": false,
+      "travelType": "RA",
+      "flow": null,
+      "accessCode": "ACCESSCODE",
+      "transactionId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3|390a99cc-d26d-42a7-9643-2cd1d7d3aad2",
+      "languageCode": "en-US",
+      "application": {
+        "id": 2,
+        "name": "Android",
+        "version": {
+          "displayText": null,
+          "major": "4.1.36",
+          "minor": "4.1.36",
+          "build": null
+        },
+        "isProduction": false
+      },
+      "deviceId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3"
+    },
+    "fsrRevenueLowestPriceAlertMessages": [
+      {
+        "headerMsg": "Remember, your miles don't expire",
+        "bodyMsg": "Save them and book your next trip at a low price.Availability and pricing are subject to change.",
+        "buttons": [
+          {
+            "buttonLabel": "Find flights as low as $108",
+            "updatedShopRequest": {
+              "sessionId": "",
+              "countryCode": "US",
+              "trips": [
+                {
+                  "origin": "ORD",
+                  "originAllAirports": 0,
+                  "destination": "IAH",
+                  "destinationAllAirports": 0,
+                  "departDate": "12/09/2021",
+                  "arrivalDate": null,
+                  "cabin": "econ",
+                  "useFilters": false,
+                  "searchFiltersIn": null,
+                  "searchFiltersOut": null,
+                  "searchNearbyOriginAirports": false,
+                  "searchNearbyDestinationAirports": false,
+                  "shareMessage": null,
+                  "index": 0,
+                  "changeType": "0"
+                }
+              ],
+              "numberOfAdults": 0,
+              "numberOfSeniors": 0,
+              "numberOfChildren2To4": 0,
+              "numberOfChildren5To11": 0,
+              "numberOfChildren12To17": 0,
+              "numberOfInfantOnLap": 0,
+              "numberOfInfantWithSeat": 0,
+              "awardTravel": false,
+              "mileagePlusAccountNumber": "AW719636",
+              "searchType": "OW",
+              "serviceType": "",
+              "maxNumberOfStops": 2,
+              "maxNumberOfTrips": 25,
+              "resultSortType": "R",
+              "fareType": "lf",
+              "classOfServices": null,
+              "pageIndex": 0,
+              "pageSize": 0,
+              "fareClass": "",
+              "promotionCode": null,
+              "showMileageDetails": false,
+              "premierStatusLevel": 0,
+              "employeeDiscountId": "",
+              "isReshopChange": false,
+              "recordLocator": null,
+              "lastName": null,
+              "reshopTravelers": null,
+              "reshopSegments": null,
+              "travelerTypes": [
+                {
+                  "count": 1,
+                  "travelerType": "Adult"
+                },
+                {
+                  "count": 0,
+                  "travelerType": "Senior"
+                },
+                {
+                  "count": 0,
+                  "travelerType": "Child15To17"
+                },
+                {
+                  "count": 0,
+                  "travelerType": "Child12To14"
+                },
+                {
+                  "count": 0,
+                  "travelerType": "Child5To11"
+                },
+                {
+                  "count": 0,
+                  "travelerType": "Child2To4"
+                },
+                {
+                  "count": 0,
+                  "travelerType": "InfantSeat"
+                },
+                {
+                  "count": 0,
+                  "travelerType": "InfantLap"
+                }
+              ],
+              "isYoungAdultBooking": false,
+              "pointOfSaleCountryName": "United States",
+              "hashPinCode": "4D1631663D2054BCB691B56804F965DD23F5007B",
+              "experiments": [
+                "NoChangeFee"
+              ],
+              "isShareTripSearchAgain": false,
+              "columnFareType": null,
+              "isCorporateBooking": false,
+              "mobCPCorporateDetails": {
+                "discountCode": null,
+                "leisureDiscountCode": null,
+                "corporateCompanyName": null,
+                "corporateTravelProvider": null,
+                "fareGroupId": null,
+                "corporateBookingType": null,
+                "noOfTravelers": 0
+              },
+              "customerMetrics": null,
+              "lengthOfCalendar": 3,
+              "getNonStopFlightsOnly": true,
+              "getFlightsWithStops": false,
+              "cameFromFSRHandler": false,
+              "isELFFareDisplayAtFSR": false,
+              "isExpertModeEnabled": false,
+              "isReshop": false,
+              "isRevShopCallFromAwardFSR1": true,
+              "travelType": "RA",
+              "flow": null,
+              "accessCode": "ACCESSCODE",
+              "transactionId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3|390a99cc-d26d-42a7-9643-2cd1d7d3aad2",
+              "languageCode": "en-US",
+              "application": {
+                "id": 2,
+                "name": "Android",
+                "version": {
+                  "displayText": null,
+                  "major": "4.1.36",
+                  "minor": "4.1.36",
+                  "build": null
+                },
+                "isProduction": false
+              },
+              "deviceId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3"
+            },
+            "redirectUrl": null
+          }
+        ],
+        "messageTypeDescription": "RevenueLowestPriceForAwardSearch",
+        "messageType": 0,
+        "restHandlerType": null,
+        "alertType": "Information"
+      }
+    ],
+    "sessionId": "D0F24857EE5C4F399AD4AB02EA677AFA",
+    "cartId": "",
+    "noFlightsWithStops": false,
+    "transactionId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3|390a99cc-d26d-42a7-9643-2cd1d7d3aad2",
+    "languageCode": "en-US",
+    "machineName": "03",
+    "callDuration": 0,
+    "exception": null
+  }
+]

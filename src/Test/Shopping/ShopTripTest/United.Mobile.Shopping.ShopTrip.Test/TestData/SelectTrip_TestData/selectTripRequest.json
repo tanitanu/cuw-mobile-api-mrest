@@ -1,0 +1,824 @@
+[
+  {
+    "BackButtonClick": false,
+    "calendarDateChange": "11/23/2021",
+    "cartId": "",
+    "flightId": "GAr4M-f4vnQJEZ73",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": true,
+    "lengthOfCalendar": 6,
+    "productId": "eOi6tVrpqPAQe7pbIfWYNK03K",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "8145517CC14D4F4281856F648512D7A6",
+    "tripId": "0fHbBMUbtokRPHwc0SfEPEA",
+    "UseFilters": true,
+    "Filters": {
+      "AircraftTypes": "1",
+      "AirportsDestination": "AUS",
+      "AirportsDestinationList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsOrigin": "London",
+      "AirportsOriginList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStop": "re",
+      "AirportsStopList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStopToAvoid": "32",
+      "AirportsStopToAvoidList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "BookingCodes": "5466",
+      "CarriersMarketing": "tr",
+      "CarriersMarketingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "CarriersOperating": "65",
+      "CarriersOperatingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentCodes": "765",
+      "EquipmentList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentTypes": "WQ",
+      "FareFamilies": [
+        {
+          "FareFamily": "1",
+          "MaxMileage": 50,
+          "MaxPrice": "500",
+          "MinMileage": 20,
+          "MinPrice": "240",
+          "MinPriceInSummary": true
+        }
+      ],
+      "FareFamily": "hg",
+      "TimeArrivalMax": "5",
+      "TimeArrivalMin": "2",
+      "TimeDepartMax": "8",
+      "TimeDepartMin": "3",
+      "WarningsFilter": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ]
+    },
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 17,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|ad9d849d-cbba-483c-b6d0-92bd189052a7"
+  },
+  {
+    "BackButtonClick": true,
+    "calendarDateChange": "11/23/2021",
+    "cartId": "",
+    "flightId": "GAr4M-f4vnQJEZ73",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": false,
+    "lengthOfCalendar": 6,
+    "productId": "eOi6tVrpqPAQe7pbIfWYNK03K",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "8145517CC14D4F4281856F648512D7A6",
+    "tripId": "0fHbBMUbtokRPHwc0SfEPEA",
+    "UseFilters": true,
+    "Filters": {
+      "AircraftTypes": "1",
+      "AirportsDestination": "AUS",
+      "AirportsDestinationList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsOrigin": "London",
+      "AirportsOriginList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStop": "re",
+      "AirportsStopList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStopToAvoid": "32",
+      "AirportsStopToAvoidList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "BookingCodes": "5466",
+      "CarriersMarketing": "tr",
+      "CarriersMarketingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "CarriersOperating": "65",
+      "CarriersOperatingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentCodes": "765",
+      "EquipmentList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentTypes": "WQ",
+      "FareFamilies": [
+        {
+          "FareFamily": "1",
+          "MaxMileage": 50,
+          "MaxPrice": "500",
+          "MinMileage": 20,
+          "MinPrice": "240",
+          "MinPriceInSummary": true
+        }
+      ],
+      "FareFamily": "hg",
+      "TimeArrivalMax": "5",
+      "TimeArrivalMin": "2",
+      "TimeDepartMax": "8",
+      "TimeDepartMin": "3",
+      "WarningsFilter": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ]
+    },
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|ad9d849d-cbba-483c-b6d0-92bd189052a7"
+  },
+  {
+    "BackButtonClick": true,
+    "calendarDateChange": "11/23/2021",
+    "cartId": "",
+    "flightId": "GAr4M-f4vnQJEZ73",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": false,
+    "lengthOfCalendar": 6,
+    "productId": "eOi6tVrpqPAQe7pbIfWYNK03K",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "8145517CC14D4F4281856F648512D7A6",
+    "tripId": "0fHbBMUbtokRPHwc0SfEPEA",
+    "UseFilters": true,
+    "Filters": {
+      "AircraftTypes": "1",
+      "AirportsDestination": "AUS",
+      "AirportsDestinationList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsOrigin": "London",
+      "AirportsOriginList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStop": "re",
+      "AirportsStopList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStopToAvoid": "32",
+      "AirportsStopToAvoidList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "BookingCodes": "5466",
+      "CarriersMarketing": "tr",
+      "CarriersMarketingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "CarriersOperating": "65",
+      "CarriersOperatingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentCodes": "765",
+      "EquipmentList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentTypes": "WQ",
+      "FareFamilies": [
+        {
+          "FareFamily": "1",
+          "MaxMileage": 50,
+          "MaxPrice": "500",
+          "MinMileage": 20,
+          "MinPrice": "240",
+          "MinPriceInSummary": true
+        }
+      ],
+      "FareFamily": "hg",
+      "TimeArrivalMax": "5",
+      "TimeArrivalMin": "2",
+      "TimeDepartMax": "8",
+      "TimeDepartMin": "3",
+      "WarningsFilter": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ]
+    },
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "2.1.9I",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|ad9d849d-cbba-483c-b6d0-92bd189052a7"
+  },
+  {
+    "BackButtonClick": false,
+    "calendarDateChange": "11/23/2021",
+    "cartId": "",
+    "flightId": "GAr4M-f4vnQJEZ73",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": true,
+    "lengthOfCalendar": 6,
+    "productId": "eOi6tVrpqPAQe7pbIfWYNK03K",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "8145517CC14D4F4281856F648512D7A6",
+    "tripId": "00hTQcvLkTTNUneBrIMUshJ",
+    "UseFilters": true,
+    "Filters": {
+      "AircraftTypes": "1",
+      "AirportsDestination": "AUS",
+      "AirportsDestinationList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsOrigin": "London",
+      "AirportsOriginList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStop": "re",
+      "AirportsStopList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStopToAvoid": "32",
+      "AirportsStopToAvoidList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "BookingCodes": "5466",
+      "CarriersMarketing": "tr",
+      "CarriersMarketingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "CarriersOperating": "65",
+      "CarriersOperatingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentCodes": "765",
+      "EquipmentList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentTypes": "WQ",
+      "FareFamilies": [
+        {
+          "FareFamily": "1",
+          "MaxMileage": 50,
+          "MaxPrice": "500",
+          "MinMileage": 20,
+          "MinPrice": "240",
+          "MinPriceInSummary": true
+        }
+      ],
+      "FareFamily": "hg",
+      "TimeArrivalMax": "5",
+      "TimeArrivalMin": "2",
+      "TimeDepartMax": "8",
+      "TimeDepartMin": "3",
+      "WarningsFilter": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ]
+    },
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "2.1.9I",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|ad9d849d-cbba-483c-b6d0-92bd189052a7"
+  },
+  {
+    "BackButtonClick": false,
+    "calendarDateChange": "11/23/2021",
+    "cartId": "",
+    "flightId": "GAr4M-f4vnQJEZ73",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": true,
+    "lengthOfCalendar": 6,
+    "productId": "eOi6tVrpqPAQe7pbIfWYNK03K",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "8145517CC14D4F4281856F648512D7A6",
+    "tripId": "00hTQcvLkTTNUneBrIMUshJ",
+    "UseFilters": true,
+    "Filters": {
+      "AircraftTypes": "1",
+      "AirportsDestination": "AUS",
+      "AirportsDestinationList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsOrigin": "London",
+      "AirportsOriginList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStop": "re",
+      "AirportsStopList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStopToAvoid": "32",
+      "AirportsStopToAvoidList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "BookingCodes": "5466",
+      "CarriersMarketing": "tr",
+      "CarriersMarketingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "CarriersOperating": "65",
+      "CarriersOperatingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentCodes": "765",
+      "EquipmentList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentTypes": "WQ",
+      "FareFamilies": [
+        {
+          "FareFamily": "1",
+          "MaxMileage": 50,
+          "MaxPrice": "500",
+          "MinMileage": 20,
+          "MinPrice": "240",
+          "MinPriceInSummary": true
+        }
+      ],
+      "FareFamily": "hg",
+      "TimeArrivalMax": "5",
+      "TimeArrivalMin": "2",
+      "TimeDepartMax": "8",
+      "TimeDepartMin": "3",
+      "WarningsFilter": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ]
+    },
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 17,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|ad9d849d-cbba-483c-b6d0-92bd189052a7"
+  },
+  {
+    "BackButtonClick": false,
+    "calendarDateChange": "11/23/2021",
+    "cartId": "",
+    "flightId": "GAr4M-f4vnQJEZ73",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "isProductSelected": true,
+    "lengthOfCalendar": 6,
+    "productId": "eOi6tVrpqPAQe7pbIfWYNK03K",
+    "resultSortType": "",
+    "rewardId": "-1",
+    "sessionId": "8145517CC14D4F4281856F648512D7A6",
+    "tripId": "0fHbBMUbtokRPHwc0SfEPEA",
+    "UseFilters": true,
+    "Filters": {
+      "AircraftTypes": "1",
+      "AirportsDestination": "AUS",
+      "AirportsDestinationList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsOrigin": "London",
+      "AirportsOriginList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStop": "re",
+      "AirportsStopList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "AirportsStopToAvoid": "32",
+      "AirportsStopToAvoidList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "BookingCodes": "5466",
+      "CarriersMarketing": "tr",
+      "CarriersMarketingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "CarriersOperating": "65",
+      "CarriersOperatingList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentCodes": "765",
+      "EquipmentList": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ],
+      "EquipmentTypes": "WQ",
+      "FareFamilies": [
+        {
+          "FareFamily": "1",
+          "MaxMileage": 50,
+          "MaxPrice": "500",
+          "MinMileage": 20,
+          "MinPrice": "240",
+          "MinPriceInSummary": true
+        }
+      ],
+      "FareFamily": "hg",
+      "TimeArrivalMax": "5",
+      "TimeArrivalMin": "2",
+      "TimeDepartMax": "8",
+      "TimeDepartMin": "3",
+      "WarningsFilter": [
+        {
+          "Key": "1",
+          "Value": "2",
+          "DisplayValue": "3",
+          "Amount": "2333",
+          "Currency": "Dollar",
+          "IsSelected": true
+        }
+      ]
+    },
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|ad9d849d-cbba-483c-b6d0-92bd189052a7"
+  }
+]

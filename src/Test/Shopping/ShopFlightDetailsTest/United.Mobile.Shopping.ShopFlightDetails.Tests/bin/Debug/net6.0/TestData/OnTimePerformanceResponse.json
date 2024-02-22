@@ -1,0 +1,67 @@
+[
+  {
+    "DepartureDateTime": "11/17/2021",
+    "Destination": "ORD",
+    "Errors": [],
+    "FlightNumber": "2653",
+    "MarketingCarrier": "UA",
+    "OnTimePerformanceInformation": {
+      "MarketingCarrierCode": "UA",
+      "FlightNumber": 2653,
+      "OriginAirportCode": "IAH",
+      "DestinationAirportCode": "ORD",
+      "Source": "DOT",
+      "ArrivalOnTimeRate": "090",
+      "ArrivalLateRate": "006",
+      "IsArrivalOnTimeLessThan50Percent": "False",
+      "Month": "Sep",
+      "Year": "2021",
+      "ScheduledFrequency": "2021-11-17"
+    },
+    "Origin": "IAH"
+  },
+  {
+    "DepartureDateTime": "11/17/2021",
+    "Destination": "ORD",
+    "Errors": [],
+    "FlightNumber": "2653",
+    "MarketingCarrier": "UA",
+    "OnTimePerformanceInformation": {
+      "MarketingCarrierCode": "UA",
+      "FlightNumber": 2653,
+      "OriginAirportCode": "IAH",
+      "DestinationAirportCode": "ORD",
+      "Source": "BR",
+      "ArrivalOnTimeRate": "090",
+      "ArrivalLateRate": null,
+      "IsArrivalOnTimeLessThan50Percent": "False",
+      "Month": "Sep",
+      "Year": "2021",
+      "ScheduledFrequency": "2021-11-17"
+    },
+    "Origin": "IAH"
+  },
+  {
+    "DepartureDateTime": "11/17/2021",
+    "Destination": "ORD",
+    "Errors": [],
+    "FlightNumber": "2653",
+    "MarketingCarrier": "UA",
+    "OnTimePerformanceInformation": {
+      "MarketingCarrierCode": "UA",
+      "FlightNumber": 2653,
+      "OriginAirportCode": "IAH",
+      "DestinationAirportCode": "ORD",
+      "Source": "BR",
+      "ArrivalOnTimeRate": null,
+      "ArrivalLateRate": null,
+      "IsArrivalOnTimeLessThan50Percent": "False",
+      "Month": "Sep",
+      "Year": "2021",
+      "ScheduledFrequency": "2021-11-17"
+    },
+    "Origin": "IAH"
+  }
+]
+
+

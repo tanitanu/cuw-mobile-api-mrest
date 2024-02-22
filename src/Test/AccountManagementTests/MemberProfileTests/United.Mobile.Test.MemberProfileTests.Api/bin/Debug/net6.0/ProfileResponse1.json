@@ -1,0 +1,1722 @@
+﻿[
+
+  {
+    "SessionId": "1",
+    "CartId": "2",
+    "Request": {},
+    "Response": {
+      "Profiles": [
+        {
+          "airportCode": "",
+          "airportNameLong": "",
+          "airportNameShort": "",
+          "corporateData": {},
+          "description": "",
+          "profileMembers": [],
+          "travelers": [
+            {
+              "title": "Mr.",
+              "firstName": "test",
+              "middleName": "sam",
+              "lastName": "jeste",
+              "suffix": "",
+              "genderCode": "M",
+              "birthDate": "08/31/1988",
+              "isProfileOwner": true,
+              "isDeceased": false,
+              "isExecutive": false,
+              "key": "sE5JbxhocURpfXLkVvx6wTQpIVYs8eE2giEtR9ddb4c=",
+              "customerId": 123901727,
+              "customerMetrics": {
+                "ptcCode": ""
+              },
+              "profileId": 59925026,
+              "profileOwnerId": 123901727,
+              "currentEliteLevel": 0,
+              "mileagePlus": {
+                "accountBalance": 862359,
+                "activeStatusCode": "A",
+                "activeStatusDescription": "ACTIVE",
+                "allianceEliteLevel": 0,
+                "closedStatusCode": "O",
+                "closedStatusDescription": "OPEN",
+                "currentEliteLevel": 0,
+                "currentEliteLevelDescription": "General member",
+                "currentYearMoneySpent": 0.0,
+                "eliteMileageBalance": 0,
+                "eliteSegmentBalance": 0,
+                "eliteSegmentDecimalPlaceValue": 0,
+                "encryptedPin": "",
+                "enrollDate": "01/28/2015",
+                "enrollSourceCode": "IN15",
+                "enrollSourceDescription": "2002 CO.COM NEW BOOKING SITE",
+                "flexPqmBalance": 0,
+                "futureEliteLevel": 0,
+                "futureEliteDescription": "Non-Elite",
+                "instantEliteExpirationDate": "Non-Elite",
+                "isCEO": false,
+                "isClosedPermanently": false,
+                "isClosedTemporarily": false,
+                "isCurrentTrialEliteMember": false,
+                "isFlexPqm": false,
+                "isInfiniteElite": false,
+                "isLifetimeCompanion": false,
+                "isLockedOut": false,
+                "isMergePending": false,
+                "isUnitedClubMember": false,
+                "isPresidentialPlus": false,
+                "key": "O4ZSED6I6kFdsf/y6dZpdw==",
+                "lastActivityDate": "10/26/2021 12:00:00 AM",
+                "lastExpiredMile": 0,
+                "lastFlightDate": "",
+                "lastStatementBalance": 0,
+                "lastStatementDate": "01/01/0001",
+                "lifetimeEliteLevel": 0,
+                "lifetimeEliteMileageBalance": 0,
+                "mileageExpirationDate": "4/30/2023 12:00:00 AM",
+                "nextYearEliteLevel": 0,
+                "nextYearEliteLevelDescription": "",
+                "mileagePlusId": "AW719636",
+                "mileagePlusPin": "",
+                "priorUnitedAccountNumber": "",
+                "starAllianceEliteLevel": 0,
+                "mpCustomerId": 123901727,
+                "vendorCode": null,
+                "premierLevelExpirationDate": "",
+                "instantElite": null,
+                "travelBankAccountNumber": null,
+                "travelBankBalance": 0.0,
+                "travelBankCurrencyCode": null,
+                "travelBankExpirationDate": null
+              },
+              "emailAddresses": [
+                {
+                  "key": "88xkIbt1RCHYfRo6DfVK7WLUY9c46CcXlQYmmE/TbyM69wXrmv+dDnvmcdShxkb8",
+                  "channel": {
+                    "channelCode": "E",
+                    "channelDescription": "Email",
+                    "channelTypeCode": "O",
+                    "channelTypeDescription": "Other"
+                  },
+                  "emailAddress": "test@united.com",
+                  "isPrivate": false,
+                  "isDefault": true,
+                  "isPrimary": true,
+                  "isDayOfTravel": false
+                }
+              ],
+              "phones": [
+                {
+                  "areaNumber": "713",
+                  "attention": "",
+                  "channelCode": "P",
+                  "channelCodeDescription": "Phone",
+                  "channelTypeCode": "H",
+                  "channelTypeDescription": "Home",
+                  "channelTypeSeqNumber": 1,
+                  "countryCode": "US",
+                  "countryNumber": "",
+                  "countryPhoneNumber": "",
+                  "customerId": 123901727,
+                  "description": "",
+                  "discontinuedDate": "1/1/3001 9:00:00 AM",
+                  "effectiveDate": "1/29/2015 1:13:15 AM",
+                  "extensionNumber": "",
+                  "isPrimary": true,
+                  "isPrivate": false,
+                  "isProfileOwner": true,
+                  "key": "J2z2I8DhkQ5SHhLNQlD6AvbNY7KzOBdWxBKZ8zje+Y2EG2htMThQkpK+s+1KJRX1",
+                  "languageCode": "EN",
+                  "mileagePlusId": "",
+                  "pagerPinNumber": "",
+                  "phoneNumber": "3241234",
+                  "sharesCountryCode": "",
+                  "wrongPhoneDate": "",
+                  "deviceTypeCode": "PH",
+                  "deviceTypeDescription": "Phone",
+                  "isDayOfTravel": false,
+                  "isSMSEnabled": false
+                }
+              ],
+              "addresses": [
+                {
+                  "key": "XhBH7SFc4dvuP2yeA+G2BZqv1ikJHqPS1ztvtTwRHLQ0RgA3f8XdwkhU8TosOAbC",
+                  "channel": {
+                    "channelCode": "A",
+                    "channelDescription": "Address",
+                    "channelTypeCode": "H",
+                    "channelTypeDescription": "Home"
+                  },
+                  "companyName": "",
+                  "jobTitle": "",
+                  "line1": "1600 smith st",
+                  "line2": "",
+                  "line3": "",
+                  "apartmentNumber": "",
+                  "city": "houston",
+                  "state": {
+                    "code": "TX",
+                    "name": ""
+                  },
+                  "country": {
+                    "code": "US",
+                    "name": "United States",
+                    "phoneCode": ""
+                  },
+                  "isPrivate": false,
+                  "isDefault": false,
+                  "isPrimary": true,
+                  "isCorporate": false,
+                  "postalCode": "77002-7362",
+                  "isValidForTPIPurchase": true
+                }
+              ],
+              "airPreferences": [],
+              "creditCards": [
+                {
+                  "key": "9zVRv0gUYxs8bQTUueqOAQx1lpn3oShanU4QtaYdCUtr9EszNFP2RZY1XcezDqpvmF2d9Zniynn6Nf7kuOAQOiQcpfFikgPoXmce544E+Vg=",
+                  "cardType": "VI",
+                  "cardTypeDescription": "Visa",
+                  "description": "",
+                  "expireMonth": "5",
+                  "expireYear": "2022",
+                  "isPrimary": true,
+                  "unencryptedCardNumber": "XXXXXXXXXXXX5678",
+                  "encryptedCardNumber": "",
+                  "displayCardNumber": "XXXXXXXXXXXX5678",
+                  "cIDCVV2": "",
+                  "cCName": "test",
+                  "addressKey": "XhBH7SFc4dvuP2yeA+G2BZqv1ikJHqPS1ztvtTwRHLQ0RgA3f8XdwkhU8TosOAbC",
+                  "phoneKey": "",
+                  "message": "",
+                  "accountNumberToken": "26bbc573-f2fe-477f-9261-475e8c7079f6",
+                  "persistentToken": "9808016830015678",
+                  "securityCodeToken": "",
+                  "barCode": "",
+                  "isCorporate": false,
+                  "isMandatory": false,
+                  "billedSeperateText": null,
+                  "isValidForTPIPurchase": true,
+                  "isOAEPPaddingCatalogEnabled": false
+                },
+                {
+                  "key": "9zVRv0gUYxs8bQTUueqOATcs+OHpfzIgoQXf3Ot5+ertRH0TsoAIE2tZDL/Q+/AitA6sM5NUhku1JJPY5bDXwxKzRMOt6DxSYu1o+P7U9vA=",
+                  "cardType": "TP",
+                  "cardTypeDescription": "UATP",
+                  "description": "",
+                  "expireMonth": "2",
+                  "expireYear": "2022",
+                  "isPrimary": false,
+                  "unencryptedCardNumber": "XXXXXXXXXXXX0014",
+                  "encryptedCardNumber": "",
+                  "displayCardNumber": "XXXXXXXXXXXX0014",
+                  "cIDCVV2": "",
+                  "cCName": "test tester",
+                  "addressKey": "XhBH7SFc4dvuP2yeA+G2BZqv1ikJHqPS1ztvtTwRHLQ0RgA3f8XdwkhU8TosOAbC",
+                  "phoneKey": "",
+                  "message": "",
+                  "accountNumberToken": "6dd7b98d-6f04-4aa6-9c79-339f1b5b0672",
+                  "persistentToken": "862605146640014",
+                  "securityCodeToken": "",
+                  "barCode": "",
+                  "isCorporate": false,
+                  "isMandatory": false,
+                  "billedSeperateText": null,
+                  "isValidForTPIPurchase": false,
+                  "isOAEPPaddingCatalogEnabled": false
+                },
+                {
+                  "key": "9zVRv0gUYxs8bQTUueqOAZVoli0I55lFhuO2NSQoRD4EOnxsnRG07l6UJX4rgN/MHgAbvzrPm/o31rC/MFPZ3E3qesOELHzxVIlGwbKIOE8=",
+                  "cardType": "VI",
+                  "cardTypeDescription": "Visa",
+                  "description": "",
+                  "expireMonth": "2",
+                  "expireYear": "2025",
+                  "isPrimary": false,
+                  "unencryptedCardNumber": "XXXXXXXXXXXX1111",
+                  "encryptedCardNumber": "",
+                  "displayCardNumber": "XXXXXXXXXXXX1111",
+                  "cIDCVV2": "",
+                  "cCName": "test",
+                  "addressKey": "XhBH7SFc4dvuP2yeA+G2BZqv1ikJHqPS1ztvtTwRHLQ0RgA3f8XdwkhU8TosOAbC",
+                  "phoneKey": "",
+                  "message": "",
+                  "accountNumberToken": "756eb081-b9a0-4e0e-8ee6-b1ea4d094c65",
+                  "persistentToken": "3600783564051111",
+                  "securityCodeToken": "",
+                  "barCode": "",
+                  "isCorporate": false,
+                  "isMandatory": false,
+                  "billedSeperateText": null,
+                  "isValidForTPIPurchase": true,
+                  "isOAEPPaddingCatalogEnabled": false
+                },
+                {
+                  "key": "9zVRv0gUYxs8bQTUueqOAZVoli0I55lFhuO2NSQoRD4EOnxsnRG07l6UJX4rgN/MHgAbvzrPm/o31rC/MFPZ3E3qesOELHzxVIlGwbKIOE8=",
+                  "cardType": "VI",
+                  "cardTypeDescription": "uatp (formerly air travel card)",
+                  "description": "",
+                  "expireMonth": "2",
+                  "expireYear": "2025",
+                  "isPrimary": false,
+                  "unencryptedCardNumber": "XXXXXXXXXXXX1111",
+                  "encryptedCardNumber": "",
+                  "displayCardNumber": "XXXXXXXXXXXX1111",
+                  "cIDCVV2": "",
+                  "cCName": "test",
+                  "addressKey": "XhBH7SFc4dvuP2yeA+G2BZqv1ikJHqPS1ztvtTwRHLQ0RgA3f8XdwkhU8TosOAbC",
+                  "phoneKey": "",
+                  "message": "",
+                  "accountNumberToken": "756eb081-b9a0-4e0e-8ee6-b1ea4d094c65",
+                  "persistentToken": "3600783564051111",
+                  "securityCodeToken": "",
+                  "barCode": "",
+                  "isCorporate": false,
+                  "isMandatory": false,
+                  "billedSeperateText": null,
+                  "isValidForTPIPurchase": true,
+                  "isOAEPPaddingCatalogEnabled": false
+                },
+                {
+                  "key": "9zVRv0gUYxs8bQTUueqOAZVoli0I55lFhuO2NSQoRD4EOnxsnRG07l6UJX4rgN/MHgAbvzrPm/o31rC/MFPZ3E3qesOELHzxVIlGwbKIOE8=",
+                  "cardType": "VI",
+                  "cardTypeDescription": "diners club",
+                  "description": "",
+                  "expireMonth": "2",
+                  "expireYear": "2025",
+                  "isPrimary": false,
+                  "unencryptedCardNumber": "XXXXXXXXXXXX1111",
+                  "encryptedCardNumber": "",
+                  "displayCardNumber": "XXXXXXXXXXXX1111",
+                  "cIDCVV2": "",
+                  "cCName": "test",
+                  "addressKey": "XhBH7SFc4dvuP2yeA+G2BZqv1ikJHqPS1ztvtTwRHLQ0RgA3f8XdwkhU8TosOAbC",
+                  "phoneKey": "",
+                  "message": "",
+                  "accountNumberToken": "756eb081-b9a0-4e0e-8ee6-b1ea4d094c65",
+                  "persistentToken": "3600783564051111",
+                  "securityCodeToken": "",
+                  "barCode": "",
+                  "isCorporate": false,
+                  "isMandatory": false,
+                  "billedSeperateText": null,
+                  "isValidForTPIPurchase": true,
+                  "isOAEPPaddingCatalogEnabled": false
+                }
+              ],
+              "secureTravelers": null,
+              "airRewardPrograms": [],
+              "travelerTypeCode": "ADT",
+              "travelerTypeDescription": "Adults (age 18 to 64)",
+              "travelProgramMemberId": "",
+              "knownTravelerNumber": "",
+              "redressNumber": "",
+              "ownerFirstName": "test",
+              "ownerLastName": "jeste",
+              "ownerMiddleName": "sam",
+              "ownerSuffix": "",
+              "ownerTitle": "Mr.",
+              "paxIndex": 0,
+              "seats": null,
+              "subscriptions": null,
+              "travelerNameIndex": null,
+              "isTSAFlagON": false,
+              "message": "",
+              "mpNameNotMatchMessage": "",
+              "isMPNameMisMatch": false,
+              "reservationEmailAddresses": [
+                {
+                  "key": "88xkIbt1RCHYfRo6DfVK7WLUY9c46CcXlQYmmE/TbyM69wXrmv+dDnvmcdShxkb8",
+                  "channel": {
+                    "channelCode": "E",
+                    "channelDescription": "Email",
+                    "channelTypeCode": "O",
+                    "channelTypeDescription": "Other"
+                  },
+                  "emailAddress": "test@united.com",
+                  "isPrivate": false,
+                  "isDefault": true,
+                  "isPrimary": true,
+                  "isDayOfTravel": false
+                }
+              ],
+              "reservationPhones": [
+                {
+                  "areaNumber": "713",
+                  "attention": "",
+                  "channelCode": "P",
+                  "channelCodeDescription": "Phone",
+                  "channelTypeCode": "H",
+                  "channelTypeDescription": "Home",
+                  "channelTypeSeqNumber": 1,
+                  "countryCode": "US",
+                  "countryNumber": "",
+                  "countryPhoneNumber": "",
+                  "customerId": 123901727,
+                  "description": "",
+                  "discontinuedDate": "1/1/3001 9:00:00 AM",
+                  "effectiveDate": "1/29/2015 1:13:15 AM",
+                  "extensionNumber": "",
+                  "isPrimary": true,
+                  "isPrivate": false,
+                  "isProfileOwner": true,
+                  "key": "J2z2I8DhkQ5SHhLNQlD6AvbNY7KzOBdWxBKZ8zje+Y2EG2htMThQkpK+s+1KJRX1",
+                  "languageCode": "EN",
+                  "mileagePlusId": "",
+                  "pagerPinNumber": "",
+                  "phoneNumber": "3241234",
+                  "sharesCountryCode": "",
+                  "wrongPhoneDate": "",
+                  "deviceTypeCode": "PH",
+                  "deviceTypeDescription": "Phone",
+                  "isDayOfTravel": false,
+                  "isSMSEnabled": false
+                }
+              ],
+              "mpSecurityUpdate": null,
+              "cubaTravelReason": null,
+              "_employeeId": "",
+              "paxID": 0,
+              "isPaxSelected": false,
+              "nationality": null,
+              "countryOfResidence": null,
+              "selectedSpecialNeeds": null,
+              "selectedSpecialNeedMessages": null,
+              "isEligibleForSeatSelection": true,
+              "ptcDescription": "",
+              "individualTotalAmount": 0.0,
+              "cslReservationPaxTypeCode": null,
+              "pnrCustomerID": null,
+              "totalFFCNewValueAfterRedeem": "",
+              "futureFlightCredits": null,
+              "isMustRideTraveler": false
+            }
+          ]
+        }
+      ],
+      "reservation": {
+        "sessionId": "14C376ACB8AF457F9E7E124461A42D07",
+        "metaSessionId": null,
+        "recordLocator": "",
+        "searchType": "OW",
+        "cartId": "14C376AC-B8AF-457F-9E7E-124461A42D07",
+        "isSignedInWithMP": false,
+        "trips": [
+          {
+            "tripId": "0PNBiTrFw1dILezgRgHhpOL",
+            "originDecoded": "New York/Newark, NJ (EWR)",
+            "destinationDecoded": "Denver, CO (DEN)",
+            "flightCount": 1,
+            "totalFlightCount": 0,
+            "flattenedFlights": [
+              {
+                "tripId": "0PNBiTrFw1dILezgRgHhpOL",
+                "flightId": "GPyDGUoYYl3Wd8Z3",
+                "productId": "",
+                "tripDays": "",
+                "cabinMessage": "",
+                "flights": [
+                  {
+                    "tripId": "0PNBiTrFw1dILezgRgHhpOL",
+                    "flightId": "GPyDGUoYYl3Wd8Z3",
+                    "productId": "",
+                    "airfare": 248.0,
+                    "airfareDisplayValue": "$248",
+                    "seatsRemaining": 0,
+                    "cabin": "Coach",
+                    "changeOfGauge": false,
+                    "gaugeChanges": [],
+                    "connections": [],
+                    "connectTimeMinutes": "",
+                    "departDate": "Fri., Jul. 15, 2022",
+                    "departTime": "6:05am",
+                    "destination": "DEN",
+                    "destinationDate": "Fri., Jul. 15, 2022",
+                    "destinationTime": "8:20am",
+                    "destinationDescription": "Denver, CO (DEN)",
+                    "destinationCountryCode": "US",
+                    "equipmentDisclosures": {
+                      "equipmentDescription": "Boeing 737-900",
+                      "equipmentType": "739",
+                      "isSingleCabin": false,
+                      "noBoardingAssistance": false,
+                      "nonJetEquipment": false,
+                      "wheelchairsNotAllowed": false
+                    },
+                    "fareBasisCode": "WAA3PHEN",
+                    "flightNumber": "318",
+                    "groundTime": "0",
+                    "internationalCity": "",
+                    "isCheapestAirfare": false,
+                    "isConnection": false,
+                    "marketingCarrier": "UA",
+                    "marketingCarrierDescription": "United Airlines",
+                    "miles": "1600",
+                    "onTimePerformance": null,
+                    "operatingCarrier": "UA",
+                    "operatingCarrierDescription": "",
+                    "origin": "EWR",
+                    "originDescription": "New York/Newark, NJ (EWR)",
+                    "originCountryCode": "US",
+                    "rewards": [],
+                    "rewardPriceSummaries": [],
+                    "selected": false,
+                    "stopDestination": "",
+                    "stopInfos": [],
+                    "stops": 0,
+                    "travelTime": "4h 15m",
+                    "totalTravelTime": "4h 15m",
+                    "messages": [
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "United Economy (W)",
+                        "messageParameters": []
+                      },
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "Meals for purchase",
+                        "messageParameters": []
+                      }
+                    ],
+                    "meal": "Meals for purchase",
+                    "fpwSAir": false,
+                    "serviceClass": "W",
+                    "serviceClassDescription": "United Economy",
+                    "epaMessageTitle": "",
+                    "epaMessage": "",
+                    "showEPAMessage": false,
+                    "isCheckInWindow": false,
+                    "checkInWindowText": "",
+                    "departureDateTime": "07/15/2022 06:05 AM",
+                    "arrivalDateTime": "07/15/2022 08:20 AM",
+                    "departureDateTimeGMT": "07/15/2022 10:05 AM",
+                    "arrivalDateTimeGMT": "07/15/2022 02:20 PM",
+                    "matchServiceClassRequested": false,
+                    "hasWifi": false,
+                    "hasInSeatPower": false,
+                    "hasDirecTV": false,
+                    "hasAVOnDemand": false,
+                    "hasBeverageService": false,
+                    "hasEconomyLieFlatSeating": false,
+                    "hasEconomyMeal": false,
+                    "hasFirstClassMeal": false,
+                    "hasFirstClassLieFlatSeating": false,
+                    "shoppingProducts": [
+                      {
+                        "productId": "LMI3kGyqI6TUxXbzdO2z1O001",
+                        "type": "ECONOMY",
+                        "subType": "",
+                        "longCabin": "",
+                        "reshopFees": "",
+                        "isReshopCredit": false,
+                        "reshopCreditColor": "NONE",
+                        "cabin": "",
+                        "description": "",
+                        "price": "$248",
+                        "milesDisplayValue": "",
+                        "priceAmount": 248.0,
+                        "milesDisplayAmount": 0.0,
+                        "meal": "Meals for purchase",
+                        "productDetail": {
+                          "title": "",
+                          "header": "",
+                          "body": "",
+                          "productDetails": [],
+                          "pqdText": "",
+                          "pqmText": "",
+                          "rdmText": "",
+                          "productCabinMessages": []
+                        },
+                        "isMixedCabin": false,
+                        "mixedCabinSegmentMessages": [],
+                        "awardType": "",
+                        "allCabinButtonText": "",
+                        "isSelectedCabin": false,
+                        "mileageButton": -1,
+                        "seatsRemaining": 0,
+                        "pqdText": "",
+                        "pqmText": "",
+                        "rdmText": "",
+                        "isPremierCabinSaver": false,
+                        "isUADiscount": false,
+                        "isELF": false,
+                        "cabinType": "Coach",
+                        "priceFromText": "for",
+                        "isIBELite": false,
+                        "isIBE": false,
+                        "shortProductName": null,
+                        "productCode": "",
+                        "productBadges": [],
+                        "fareContentDescription": null,
+                        "columnID": null,
+                        "priceApplyLabelText": null,
+                        "cabinDescription": "United Economy",
+                        "bookingCode": "W",
+                        "isNGRPPricing": false,
+                        "generalMemberMilesDisplayValue": null
+                      }
+                    ],
+                    "segID": "",
+                    "segNumber": 0,
+                    "flightDepartureDays": "",
+                    "flightArrivalDays": "",
+                    "corporateFareIndicator": "",
+                    "isAddCollectWaived": false,
+                    "addCollectProductId": null,
+                    "flightHash": "196-318-UA",
+                    "yaDiscount": "",
+                    "originStateCode": "NJ",
+                    "destinationStateCode": "CO",
+                    "originDecodedWithCountry": "New York/Newark, NJ, US (EWR)",
+                    "destinationDecodedWithCountry": "Denver, CO, US (DEN)",
+                    "isCovidTestFlight": false,
+                    "isChangeFeeWaiver": false,
+                    "reshopFees": "",
+                    "isReshopCredit": false,
+                    "reshopCreditColor": "NONE",
+                    "flightSegmentAlerts": [],
+                    "departureDateFormated": null,
+                    "milesDisplayValue": "",
+                    "cabinDisclaimer": "",
+                    "availSeatsDisclaimer": "",
+                    "preferredCabinName": "",
+                    "preferredCabinMessage": "",
+                    "overnightConnection": "",
+                    "airportChange": "",
+                    "showSeatMap": false,
+                    "isStopOver": false,
+                    "pqdText": "",
+                    "pqmText": "",
+                    "rdmText": "",
+                    "yqyrMessage": "",
+                    "govtMessage": "",
+                    "isAwardSaver": false,
+                    "redEyeFlightDepDate": "",
+                    "nextDayFlightArrDate": "",
+                    "flightDateChanged": false,
+                    "bookingClassAvailability": null,
+                    "tripIndex": 1,
+                    "operatingCarrierFlightNumber": "318",
+                    "lineOfFlightMessage": "United Economy (W) / Meals for purchase",
+                    "selectedAncillaries": [],
+                    "changeOfPlane": false,
+                    "isThroughFlight": false
+                  }
+                ],
+                "isUADiscount": false,
+                "isAddCollectWaived": false,
+                "addCollectProductId": null,
+                "flightHash": "196-318-UA",
+                "isIBELite": false,
+                "isIBE": false,
+                "isElf": false,
+                "isCovidTestFlight": false,
+                "isChangeFeeWaiver": false,
+                "flightLabelTextList": [],
+                "msgFlightCarrier": null,
+                "airportChange": "",
+                "flightBadges": []
+              }
+            ],
+            "flightSections": [],
+            "lastTripIndexRequested": 0,
+            "columns": [],
+            "yqyrMessage": "",
+            "pageCount": 0,
+            "originDecodedWithCountry": "New York/Newark, NJ, US (EWR)",
+            "destinationDecodedWithCountry": "Denver, CO, US (DEN)",
+            "showOriginDestinationForFlights": false,
+            "disableEplus": false,
+            "callDurationText": "",
+            "flightDateChangeMessage": "Please note this flight involves a date change",
+            "tripHasNonStopflightsOnly": false,
+            "origin": "EWR",
+            "originAllAirports": -1,
+            "destination": "DEN",
+            "destinationAllAirports": -1,
+            "departDate": "07/15/2022",
+            "arrivalDate": "07/15/2022",
+            "cabin": "",
+            "useFilters": false,
+            "searchFiltersIn": null,
+            "searchFiltersOut": null,
+            "searchNearbyOriginAirports": false,
+            "searchNearbyDestinationAirports": false,
+            "shareMessage": "",
+            "index": 0,
+            "changeType": "0"
+          }
+        ],
+        "prices": [
+          {
+            "priceIndex": "",
+            "currencyCode": "USD",
+            "priceType": "",
+            "displayType": "TRAVELERPRICE",
+            "displayValue": "216.74",
+            "value": 216.74,
+            "totalBaseFare": "",
+            "totalOtherTaxes": "",
+            "formattedDisplayValue": "$216.74",
+            "status": "",
+            "waived": false,
+            "billedSeperateText": null,
+            "productId": "",
+            "paxTypeCode": "ADT",
+            "priceTypeDescription": "Fare Oneway (1 adult)",
+            "promoDetails": null,
+            "paxTypeDescription": "1 adult (18-64)"
+          },
+          {
+            "priceIndex": "",
+            "currencyCode": "USD",
+            "priceType": "",
+            "displayType": "TOTAL",
+            "displayValue": "247.60",
+            "value": 247.6,
+            "totalBaseFare": "",
+            "totalOtherTaxes": "",
+            "formattedDisplayValue": "$247.60",
+            "status": "",
+            "waived": false,
+            "billedSeperateText": null,
+            "productId": "",
+            "paxTypeCode": null,
+            "priceTypeDescription": "total",
+            "promoDetails": null,
+            "paxTypeDescription": "0 total"
+          },
+          {
+            "priceIndex": "",
+            "currencyCode": "USD",
+            "priceType": "GRAND TOTAL",
+            "displayType": "GRAND TOTAL",
+            "displayValue": "247.60",
+            "value": 247.6,
+            "totalBaseFare": "",
+            "totalOtherTaxes": "",
+            "formattedDisplayValue": "$247.60",
+            "status": "",
+            "waived": false,
+            "billedSeperateText": null,
+            "productId": "",
+            "paxTypeCode": null,
+            "priceTypeDescription": null,
+            "promoDetails": null,
+            "paxTypeDescription": null
+          },
+          {
+            "priceIndex": "",
+            "currencyCode": "USD",
+            "priceType": "",
+            "displayType": "TOTALPRICEFORUPLIFT",
+            "displayValue": "247.60",
+            "value": 247.6,
+            "totalBaseFare": "",
+            "totalOtherTaxes": "",
+            "formattedDisplayValue": "$247.60",
+            "status": "",
+            "waived": false,
+            "billedSeperateText": null,
+            "productId": "",
+            "paxTypeCode": null,
+            "priceTypeDescription": null,
+            "promoDetails": null,
+            "paxTypeDescription": null
+          }
+        ],
+        "taxes": [],
+        "numberOfTravelers": 1,
+        "travelers": null,
+        "travelersCSL": null,
+        "seatPrices": [],
+        "creditCards": [],
+        "reservationPhone": null,
+        "reservationEmail": null,
+        "warning": null,
+        "travelOptions": [],
+        "clubPassPurchaseRequest": null,
+        "seatMessage": "",
+        "travelOptionMessage": "",
+        "travelersRegistered": false,
+        "rewardPrograms": [
+          {
+            "programID": "7",
+            "type": "UA",
+            "description": "United MileagePlus"
+          },
+          {
+            "programID": "113",
+            "type": "A3",
+            "description": "Aegean Mile+Bonus"
+          },
+          {
+            "programID": "120",
+            "type": "EI",
+            "description": "Aer Lingus AerClub"
+          },
+          {
+            "programID": "8",
+            "type": "AC",
+            "description": "Air Canada Aeroplan"
+          },
+          {
+            "programID": "9",
+            "type": "CA",
+            "description": "Air China PhoenixMiles"
+          },
+          {
+            "programID": "134",
+            "type": "AI",
+            "description": "Air India Flying Returns"
+          },
+          {
+            "programID": "103",
+            "type": "NZ",
+            "description": "Air New Zealand Airpoints"
+          },
+          {
+            "programID": "29",
+            "type": "NH",
+            "description": "ANA Mileage Club"
+          },
+          {
+            "programID": "104",
+            "type": "OZ",
+            "description": "Asiana Club"
+          },
+          {
+            "programID": "105",
+            "type": "OS",
+            "description": "Austrian Miles & More"
+          },
+          {
+            "programID": "115",
+            "type": "AV",
+            "description": "Avianca LifeMiles"
+          },
+          {
+            "programID": "133",
+            "type": "AD",
+            "description": "Azul TudoAzul"
+          },
+          {
+            "programID": "123",
+            "type": "SN",
+            "description": "Brussels Airlines Miles & More"
+          },
+          {
+            "programID": "135",
+            "type": "CM",
+            "description": "Copa Airlines ConnectMiles"
+          },
+          {
+            "programID": "124",
+            "type": "OU",
+            "description": "Croatian Miles & More"
+          },
+          {
+            "programID": "106",
+            "type": "MS",
+            "description": "EGYPTAIR Plus"
+          },
+          {
+            "programID": "130",
+            "type": "ET",
+            "description": "Ethiopian Airlines ShebaMiles"
+          },
+          {
+            "programID": "3",
+            "type": "BR",
+            "description": "EVA Air Infinity MileageLands"
+          },
+          {
+            "programID": "137",
+            "type": "HO",
+            "description": "Juneyao Air Club"
+          },
+          {
+            "programID": "107",
+            "type": "LO",
+            "description": "LOT Polish Airlines Miles & More"
+          },
+          {
+            "programID": "26",
+            "type": "LH",
+            "description": "Lufthansa Miles & More"
+          },
+          {
+            "programID": "33",
+            "type": "SK",
+            "description": "SAS EuroBonus"
+          },
+          {
+            "programID": "131",
+            "type": "ZH",
+            "description": "Shenzhen PhoenixMiles"
+          },
+          {
+            "programID": "109",
+            "type": "SQ",
+            "description": "Singapore Airlines KrisFlyer"
+          },
+          {
+            "programID": "110",
+            "type": "SA",
+            "description": "South African Airways Voyager"
+          },
+          {
+            "programID": "126",
+            "type": "SR",
+            "description": "SWISS Miles & More"
+          },
+          {
+            "programID": "34",
+            "type": "TP",
+            "description": "TAP Miles & Go"
+          },
+          {
+            "programID": "35",
+            "type": "TG",
+            "description": "THAI Royal Orchid Plus"
+          },
+          {
+            "programID": "111",
+            "type": "TK",
+            "description": "Turkish Airlines Miles&Smiles"
+          },
+          {
+            "programID": "138",
+            "type": "UK",
+            "description": "Vistara Club Vistara"
+          },
+          {
+            "programID": "139",
+            "type": "VA",
+            "description": "Virgin Australia Velocity"
+          }
+        ],
+        "creditCardsAddress": [],
+        "messages": [],
+        "fareRules": [
+          {
+            "origin": "EWR",
+            "destination": "DEN",
+            "fareBasisCode": "WAA3PHEN",
+            "serviceClass": "W",
+            "fareRuleTextList": [
+              {
+                "textType": "Header",
+                "ruleText": "RESERVATION AND TICKETING"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "RESERVATIONS FOR ALL SECTORS ARE REQUIRED AT LEAST 3 DAYS\n  BEFORE DEPARTURE OF EACH TRIP.\n  TICKETING FOR DEPARTURE OF EACH TRIP MUST BE COMPLETED\n  WITHIN 1 DAY AFTER RESERVATIONS ARE MADE OR AT LEAST 3\n  DAYS BEFORE DEPARTURE WHICHEVER IS EARLIER.\n         NOTE -\n          THE FLIGHT NUMBER AND DATE MUST BE INDICATED\n          ON THE TICKET."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "STOPOVERS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO STOPOVERS PERMITTED.\n     NO STOPOVER OCCURS IF PASSENGER TAKES NEXT AVAILABLE\n      FLIGHT WITHIN 4 HOURS."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "TRANSFERS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "2 TRANSFERS PERMITTED IN EACH DIRECTION\n    FARE BREAK SURFACE SECTORS NOT PERMITTED AND EMBEDDED\n     SURFACE SECTORS PERMITTED ON THE FARE COMPONENT.\n         NOTE -\n          FARE BREAK SURFACE SECTORS ARE NOT PERMITTED."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "CONSTRUCTIONS AND COMBINATIONS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DOUBLE OPEN JAWS NOT PERMITTED.\n   APPLICABLE ADD-ON CONSTRUCTION IS ADDRESSED IN\n   MISCELLANEOUS PROVISIONS - CATEGORY 23.\n  END-ON-END\n    END-ON-END COMBINATIONS NOT PERMITTED WITH DOMESTIC/\n    INTERNATIONAL FARES FROM/TO VENEZUELA. VALIDATE ALL FARE\n    COMPONENTS. SIDE TRIPS PERMITTED.\n  END-ON-END\n    END-ON-END COMBINATIONS NOT PERMITTED WITH DOMESTIC/\n    INTERNATIONAL FARES FROM/TO BELARUS. VALIDATE ALL FARE\n    COMPONENTS. SIDE TRIPS PERMITTED.\n  END-ON-END\n    END-ON-END COMBINATIONS PERMITTED. VALIDATE ALL FARE\n    COMPONENTS. SIDE TRIPS PERMITTED.\n   PROVIDED -\n     COMBINATIONS ARE WITH ANY 4TH LEVEL ECONOMY\n     UNRESTRICTED-TYPE FARES FOR CARRIER UA.\n     COMBINATIONS ARE FOR CARRIER UA/AC IN ANY RULE IN\n      TARIFF\n      CDR     - WITHIN CANADA\n      CPR     - BETWEEN THE UNITED STATES-CANADA\n      DFR     - WITHIN THE UNITED STATES.\n  END-ON-END\n    END-ON-END COMBINATIONS NOT PERMITTED WITH DOMESTIC\n    FARES. VALIDATE ALL FARE COMPONENTS. SIDE TRIPS\n    PERMITTED.\n   PROVIDED -\n     COMBINATIONS ARE FOR CARRIER 4B BETWEEN DEN/MCK\n     OR FOR CARRIER 4B BETWEEN CEZ/DEN\n     OR FOR CARRIER 4B BETWEEN PDT/PDX IN ANY RULE IN TARIFF\n      DFR     - WITHIN THE UNITED STATES.\n  END-ON-END\n    END-ON-END COMBINATIONS PERMITTED. VALIDATE ALL FARE\n    COMPONENTS. SIDE TRIPS PERMITTED.\n   PROVIDED -\n     COMBINATIONS ARE FOR CARRIER 9K/4B/9X/KG IN ANY RULE IN\n      TARIFF\n      DFR     - WITHIN THE UNITED STATES.\n     COMBINATIONS ARE FOR CARRIER UA/AC/3M IN ANY RULE IN\n      TARIFF\n      FBRINPV - BETWEEN USA/CA-AREA 1/2/3\n      FBRNAPV - WITHIN NORTH AMERICA EXCEPT MEXICO\n      IPRW    - BETWEEN THE USA/CANADA-AREA 1\n      VPCR    - BETWEEN PUERTO RICO/VIRGIN ISLANDS-CANADA\n      VPDR    - BETWEEN PUERTO RICO/VIRGIN ISLANDS-THE USA.\n     COMBINATIONS ARE FOR CARRIER UA/LH/AC/LX/VO/SN/OS\n      PUBLISHED FOR TRAVEL VIA THE ATLANTIC.\n     COMBINATIONS ARE FOR CARRIER UA/NH PUBLISHED FOR TRAVEL\n      VIA THE PACIFIC.\n  OPEN JAWS\n    FARES MAY BE COMBINED ON A HALF ROUND TRIP BASIS\n    -TO FORM SINGLE OPEN JAWS.\n     A MAXIMUM OF 2 FARE COMPONENTS PERMITTED.\n     MILEAGE OF THE OPEN SEGMENT MUST BE EQUAL/LESS THAN\n     MILEAGE OF THE SHORTEST FLOWN FARE COMPONENT.\n   PROVIDED -\n     THE OPEN SEGMENT MUST BE\n     -BETWEEN THE UNITED STATES AND CANADA/BETWEEN THE\n      UNITED STATES AND PUERTO RICO/BETWEEN CANADA AND\n      PUERTO RICO/BETWEEN THE UNITED STATES AND US VIRGIN\n      ISLANDS/BETWEEN CANADA AND US VIRGIN ISLANDS/BETWEEN\n      PUERTO RICO AND US VIRGIN ISLANDS\n      -WITHIN THE UNITED STATES OR WITHIN PUERTO RICO OR\n       WITHIN US VIRGIN ISLANDS\n       COMBINATIONS ARE WITH ANY FARE FOR CARRIER UA/AC IN\n     ANY RULE AND TARIFF.\n  2-COMPONENT CIRCLE TRIPS/MULTI-COMPONENT CIRCLE TRIPS\n    FARES MAY BE COMBINED ON A HALF ROUND TRIP BASIS\n    -TO FORM 2-COMPONENT CIRCLE TRIPS/MULTI-COMPONENT CIRCLE\n    TRIPS.\n   PROVIDED -\n     COMBINATIONS ARE WITH ANY FARE FOR CARRIER UA/AC IN ANY\n      RULE IN ANY TARIFF.\n NOTE - THE CITY PAIRS BELOW ARE CONSIDERED THE SAME POINT-\n        BWI-WAS  FLL-MIA  FLL-PBI  MIA-PBI  BUR-LAX  BUR-ONT\n        BUR-SNA  LAX-ONT  LAX-SNA  ONT-SNA  OAK-SFO  OAK-SJC\n        SFO-SJC  EWR-HVN  EWR-ISP  EWR-NYC  EWR-HPN  HVN-ISP\n        HVN-NYC  HVN-HPN  ISP-NYC  ISP-HPN  NYC-HPN  EFD-HOU\n        EFD-IAH  IAD-DCA  MDW-ORD  LGA-JFK"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "SURCHARGES"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "IF INFANT 0-1 WITHOUT A SEAT.\n  OR - EMF 0-1.\n  OR - PIF 0-1.\n  OR - CONTRACT BULK INFANT WITHOUT A SEAT 0-1.\n  OR - CBI 0-1.\n  OR - INCLUSIVE TOUR INFANT WITHOUT A SEAT 0-1.\n  OR - SEAMAN INFANT WITHOUT A SEAT 0-1.\n    THERE IS NO CHARGE FOR TRAVEL PER FARE COMPONENT.\n  THE PROVISIONS BELOW APPLY ONLY AS FOLLOWS -\n  TICKETS MUST BE ISSUED ON UA.\n    THERE IS NO CHARGE FOR TRAVEL PER FARE COMPONENT.\n  OTHERWISE\n    A SURCHARGE OF USD 93.02 PER FARE COMPONENT WILL BE\n    ADDED TO THE APPLICABLE FARE FOR TRAVEL."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "TRAVEL RESTRICTIONS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "VALID FOR TRAVEL COMMENCING ON EACH TRIP ON/AFTER\n  28MAR 22."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "SALES RESTRICTIONS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "TICKETS MAY BE ISSUED BY PTA. PTA CONSTITUTES TICKETING.\n  TICKETS MAY NOT BE SOLD IN NIGERIA/VENEZUELA/LEBANON/\n  BELARUS/ANGOLA/SOUTH SUDAN/SUDAN/IRAN,ISLAMIC REPUBLIC OF.\n  TICKETS MAY ONLY BE SOLD IN AREA 1/AREA 2/AREA 3.\n         NOTE -\n          FOR ITINERARIES SOLD OUTSIDE OF VE - CREDIT\n          CARDS ISSUED IN VE ARE NOT ACCEPTED.\n          ----------------------\n          EXTENSION OF TICKET VALIDITY PERMITTED UNDER\n          GUIDELINES SET FORTH BY CARRIER.  CONTACT\n          CARRIER FOR DETAILS."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "PENALTIES"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "CANCELLATIONS\n    TICKET IS NON-REFUNDABLE IN CASE OF NO-SHOW/REFUND.\n         NOTE -\n          --\n               TICKET IS NON-REFUNDABLE\n          --\n               TAX - US/ZP/XF - WILL NOT BE REFUNDED\n          --\n            THE NON-REFUNDABLE CANCELLATION AMOUNT OF THE\n            TICKET BEING EXCHANGED REMAINS NON-REFUNDABLE\n            AND CARRIED FORWARD IN THE ENDORSEMENT BOX OF\n            THE NEW TICKET\n  CHANGES\n    BEFORE DEPARTURE\n      CHANGES PERMITTED FOR REISSUE.\n         NOTE -\n          --\n          --\n                 ////  CHANGE FREE OF CHARGE   ////\n          --\n          --\n          BEFORE DEPARTURE OPTIONS -\n          --\n            BEFORE DEPARTURE OF JOURNEY AND WITHIN TICKET\n            VALIDITY CANCEL OF TICKETED RESERVATIONS OF A\n            WHOLLY UNUSED TICKET -\n            TRAVEL MUST BEGIN WITHIN ONE YEAR OF THE\n            ORIGINAL TICKET ISSUE DATE\n              EXCEPTION - FOR TICKETS ISSUED ON/BEFORE\n              12/31/22 TRAVEL MUST COMMENCE BY 12/31/23\n          --\n            THE NON-REFUNDABLE AMOUNT OF THE TICKET\n            BEING EXCHANGED REMAINS NON-REFUNDABLE AND\n            CARRIED FORWARD IN THE ENDORSEMENT BOX OF THE\n            NEW TICKET\n          --\n               QUALIFYING CURRENT DAY FARE\n               CANCEL OF TICKETED RESERVATIONS OF A\n               WHOLLY UNUSED TICKET / CHANGE TO 1ST\n                   TICKETED FLIGHT COUPON\n          --\n            REPRICE USING --CURRENT FARES-- IN EFFECT TODAY\n          --\n          PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n          1.  UA FARES ARE USED EXCEPT EOU/ERU\n          2.  FARE BREAK POINT CHANGES ARE PERMITTED\n          3.  VALIDATE ADVANCE RESERVATION REQUIREMENTS\n          4.  ADVANCE RESERVATION/TKG IS MEASURED FROM\n              REISSUE DATE TO DEPARTURE OF PRICING UNIT\n          --\n          --\n          RESIDUAL VALUE WILL BE IGNORED/FORFEITED ON\n          NON-REFUNDABLE FARE TICKETS\n          --\n          COLLECT FARE DIFFERENCE IF APPLICABLE\n          --\n          --\n          CHANGES DOWNLINE -\n          --\n          RESERVATION CHANGES TO TICKETED DOWNLINE DATE /\n          FLIGHT  //  SAME BOOKING CODE //\n          SAME FARE BASIS CODE / SAME FARE CLASS //\n                        KEEP THE FARE\n          --\n          REPRICE USING CURRENTLY TICKETED/HISTORICAL FARE\n          PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET -\n          --\n          1. NO CHANGE 1ST FLIGHT COUPON / NO CHANGE TO\n             FARE BREAKS\n          2. ALL TRAVEL REMAINS DOMESTIC\n          3. SAME UA FARE USED EXCEPT EOU/ERU\n          4. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n             INCLUDING RES/TKG\n          5. VALIDATE ADVANCE RES/TICKETING FROM ORIGINAL\n             TICKET DATE TO DEPARTURE OF PRICING UNIT\n          --\n          --\n             REFUND NOT APPLICABLE\n             EVEN REISSUE\n          --\n                 RESERVATION CHANGES TO TICKETED\n            FARE BREAK POINT CHANGE PERMITTED /\n            OR REMAIN THE SAME / BOOKING CODE CHANGE\n          --\n            A.  CHANGED FARE COMPONENTS - USE FARE IN\n                EFFECT TODAY - CURRENT - DAY TARIFF\n            B.  ALL OTHER FARE COMPONENTS - USE TICKETED\n                FARE.\n          PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET\n          --\n          1. NO CHANGE TO FARE BREAKS UP TO THE FIRST\n             CHANGED FARE COMPONENET\n          2. WHEN NO INTL COUPONS REMAIN - ALL NEW TRAVEL\n             MUST BE DOMESTIC\n          3. UA FARES ARE USED EXCEPT EOU/ERU\n          4. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n          5. ADV RES IS MEASURED FROM NEW TKT ISSUE DATE IF\n             CURRENT FARES / FROM PREVIOUS TKT ISSUE DATE IF\n             HISTORICAL FARES TO DEPARTURE OF PRICING UNIT\n          --\n            RESIDUAL VALUE TO BE IGNORED / FORFEITED\n          --\n          COLLECT FARE DIFFERENCE IF APPLICABLE\n          --\n    AFTER DEPARTURE\n      CHANGES PERMITTED FOR REISSUE.\n         NOTE -\n          --\n          --\n              ////  CHANGE FREE OF CHARGE  ////\n          --\n          --\n            AFTER DEPARTURE CHANGE OPTIONS -\n          --\n          --\n            AFTER DEPARTURE OF JOURNEY AND WITHIN TICKET\n            VALIDITY OF A PARTIALLY USED TICKET -\n            TRAVEL WILL BE VALID FOR TRANSPORTATION FOR\n            ONE YEAR FROM THE DATE ON WHICH TRANSPORTATION\n            COMMENCES AT THE POINT OF ORIGIN AS DESIGNATED\n            ON THE ORIGINAL TICKET\n          --\n            THE NON-REFUNDABLE AMOUNT OF THE TICKET BEING\n            EXCHANGED REMAINS NON-REFUNDABLE AND CARRIED\n            FORWARD IN THE ENDORSEMENT BOX OF THE NEW TICKET\n          --\n          REPRICE USING CURRENLTY TICKETED/HISTORICAL FARES\n          --\n          PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n          --\n            TICKETED DOWNLINE DATE CHANGE /\n            FLIGHT CHANGE  // SAME BOOKING CODE //\n            SAME FARE BASIS CODE / KEEP THE FARE\n          --\n          1. NO CHANGE TO FARE BREAKS\n          2. ALL TRAVEL REMAINS DOMESTIC\n          3. FULLY FLOWN FARE NOT REPRICED TO FURTHER POINT\n          4. UA FARES ARE USED EXCEPT EOU/ERU\n          5. ALL RULE AND BOOKING CODE PROVISIONS ARE\n             INCLUDING ADVANCE RESERVATION/TICKETING\n          6. ADV RES IS MEASURED FROM ORIGINAL TKT DATE TO\n             DEPARTURE OF PRICING UNIT\n          --\n             REFUND NOT APPLICABLE\n             EVEN REISSUE\n          --\n          --\n             FARE BREAK POINT CHANGE PERMITTED /\n             OR REMAIN THE SAME / BOOKING CODE CHANGE\n          --\n            REPRICE AS FOLLOWS -\n          --\n            A.  FULLY FLOWN FARE COMPONENTS - USE FARES IN\n                EFFECT WHEN TICKET WAS ISSUED\n            B.  CHANGED FARE COMPONENTS - USE CURRENT\n                FARES IN EFFECT TODAY EXCEPT EOU/ERU\n            C.  UNCHANGED FARE COMPONENTS  - USE CURRENTLY\n                TICKETED FARES\n          --\n          1. ALL TRAVEL REMAINS DOMESTIC\n          2. UA FARES ARE USED\n          3. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n          4. ADV RES IS MEASURED FROM NEW TKT ISSUE DATE IF\n             CURRENT FARES\n          5. FROM PREVIOUS TICKET ISSUE DATE IF HISTORICAL\n             FARES TO DEPARTURE OF PRICING UNIT\n          --\n          --\n          RESIDUAL VALUE TO BE IGNORED / FORFEITED ON\n          NON-REFUNDABLE FARE TICKETS\n          --\n          --\n          COLLECT FARE DIFFERENCE IF APPLICABLE\n          --"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "TICKET ENDORSEMENTS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "THE ORIGINAL AND THE REISSUED TICKET MUST BE ANNOTATED -\n  NONREF/0VALUAFTDPT - IN THE ENDORSEMENT BOX."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "CHILDREN AND INFANT DISCOUNTS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "ACCOMPANIED CHILD 2-11 - CHARGE 100 PERCENT OF THE FARE.\n        TICKET DESIGNATOR - CH.\n    MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME COMPARTMENT\n      AT THIS RULE BY ADULT 18 OR OLDER\n  OR - CBC 2-11 - CHARGE 100 PERCENT OF THE FARE.\n             TICKET DESIGNATOR - CH.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY PFA 18 OR OLDER\n  OR - HNN 2-11 - CHARGE 100 PERCENT OF THE FARE.\n             TICKET DESIGNATOR - CH.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY PFA 18 OR OLDER\n  OR - CONTRACT BULK CHILD 2-11 - CHARGE 100 PERCENT OF THE\n         FARE.\n             TICKET DESIGNATOR - CH.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY CONTRACT BULK ADULT\n           18 OR OLDER\n  OR - 1ST INFANT UNDER 2 WITHOUT A SEAT - NO CHARGE\n             TICKET DESIGNATOR - IN.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY ADULT 18 OR OLDER\n  OR - 1ST CONTRACT BULK INFANT WITHOUT A SEAT UNDER 2 - NO\n         CHARGE\n             TICKET DESIGNATOR - IN.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY CONTRACT BULK ADULT\n           18 OR OLDER\n  OR - 1ST CBI UNDER 2 - NO CHARGE\n             TICKET DESIGNATOR - IN.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY PFA 18 OR OLDER\n  OR - 1ST PIF UNDER 2 - NO CHARGE\n             TICKET DESIGNATOR - IN.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY PFA 18 OR OLDER\n  OR - INFANT UNDER 2 WITH A SEAT - CHARGE 100 PERCENT OF\n         THE FARE.\n             TICKET DESIGNATOR - CH.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY ADULT 18 OR OLDER\n  OR - CONTRACT BULK INFANT WITH A SEAT UNDER 2 - CHARGE 100\n         PERCENT OF THE FARE.\n             TICKET DESIGNATOR - CH.\n         MUST BE ACCOMPANIED ON ALL FLIGHTS IN SAME\n           COMPARTMENT AT THIS RULE BY CONTRACT BULK ADULT\n           18 OR OLDER\n  OR - UNACCOMPANIED CHILD 5-14 - CHARGE 100 PERCENT OF THE\n         FARE."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "MISCELLANEOUS DATA"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "THIS FARE MUST NOT BE USED AS THE HIGH OR THE LOW FARE\n  WHEN CALCULATING A DIFFERENTIAL. THIS FARE MUST NOT BE\n  USED AS THE THROUGH FARE WHEN PRICING A FARE COMPONENT\n  WITH A DIFFERENTIAL."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "VOLUNTARY CHANGES"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "IN THE EVENT OF CHANGES TO TICKETED FLIGHTS\n   BEFORE DEPARTURE OF JOURNEY\n    CERTAIN DOMESTIC REISSUE PROVISIONS MAY BE OVERRIDDEN BY\n    THOSE OF UA INTERNATIONAL FARES\n     NO CHARGE FOR REISSUE OR HIGHEST FEE OF ALL CHANGED\n     FARE COMPONENTS - DISCOUNTS APPLY - NO FEE FOR INFANTS\n     W/O SEAT AND\n      REPRICE USING FARES IN EFFECT TODAY\n       PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n       1. UA ANY FARE TYPE EXCEPT EOU/ERU ARE USED\n       2. ADV RES IS MEASURED FROM REISSUE DATE TO DEPARTURE\n       OF PRICING UNIT\n   WHEN CHANGE RESULTS IN LOWER FARE IGNORE RESIDUAL THEN\n   ADD-COLLECT - REFUND VIA EMD\n   ENDORSEMENT BOX- HIGHER NON-REF AMT AND NEW ENDORSEMENTS.\n  OR -\n   BEFORE DEPARTURE OF JOURNEY\n    CERTAIN DOMESTIC REISSUE PROVISIONS MAY BE OVERRIDDEN BY\n    THOSE OF UA INTERNATIONAL FARES\n     NO CHARGE FOR REISSUE OR HIGHEST FEE OF ALL CHANGED\n     FARE COMPONENTS - DISCOUNTS APPLY - NO FEE FOR INFANTS\n     W/O SEAT AND\n      REPRICE USING CURRENTLY TKTD FARE\n       PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n       1. NO CHANGE TO 1ST FLIGHT COUPON/FARE BREAKS\n       2. WHEN NO INTL COUPONS REMAIN - ALL NEW TRAVEL MUST\n       BE DOMESTIC\n       3. UA ANY FARE TYPE EXCEPT EOU/ERU SAME FARE CLASS\n       ARE USED\n       4. PUBLIC FARES ARE USED IF TICKETED FARE IS IN\n       PUBLIC TARIFF. PRIVATE FARES ARE USED IF TICKETED\n       FARE IS IN PRIVATE TARIFF\n       5. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n       6. ADV RES IS MEASURED FROM ORIGINAL TKT DATE TO\n       DEPARTURE OF PRICING UNIT\n   WHEN CHANGE RESULTS IN LOWER FARE IGNORE RESIDUAL THEN\n   ADD-COLLECT - REFUND VIA EMD\n   ENDORSEMENT BOX- HIGHER NON-REF AMT AND NEW ENDORSEMENTS.\n  OR -\n   BEFORE DEPARTURE OF JOURNEY\n    CERTAIN DOMESTIC REISSUE PROVISIONS MAY BE OVERRIDDEN BY\n    THOSE OF UA INTERNATIONAL FARES\n     NO CHARGE FOR REISSUE OR HIGHEST FEE OF ALL CHANGED\n     FARE COMPONENTS - DISCOUNTS APPLY - NO FEE FOR INFANTS\n     W/O SEAT AND\n      REPRICE\n      A. CHANGED FARE COMPONENTS USE FARES IN EFFECT TODAY\n      B. ALL OTHERS USE CURRENTLY TKTD FARE\n       PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n       1. NO CHANGE TO FARE BREAKS UP TO THE FIRST CHANGED\n       FARE COMPONENT\n       2. WHEN NO INTL COUPONS REMAIN - ALL NEW TRAVEL MUST\n       BE DOMESTIC\n       3. UA ANY FARE TYPE EXCEPT EOU/ERU ARE USED\n       4. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n       5. ADV RES IS MEASURED FROM NEW TKT ISSUE DATE IF\n       CURRENT FARES/FROM PREVIOUS TKT ISSUE DATE IF\n       HISTORICAL FARES TO DEPARTURE OF PRICING UNIT\n   WHEN CHANGE RESULTS IN LOWER FARE IGNORE RESIDUAL THEN\n   ADD-COLLECT - REFUND VIA EMD\n   ENDORSEMENT BOX- HIGHER NON-REF AMT AND NEW ENDORSEMENTS.\n  OR -\n   AFTER DEPARTURE OF JOURNEY - APPLIES WITHIN TKT VALIDITY\n    CERTAIN DOMESTIC REISSUE PROVISIONS MAY BE OVERRIDDEN BY\n    THOSE OF UA INTERNATIONAL FARES\n     NO CHARGE FOR REISSUE OR HIGHEST FEE OF ALL CHANGED\n     FARE COMPONENTS - DISCOUNTS APPLY - NO FEE FOR INFANTS\n     W/O SEAT AND\n      REPRICE USING CURRENTLY TKTD FARE\n       PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n       1. NO CHANGE TO 1ST FLIGHT COUPON/FARE BREAKS\n       2. WHEN NO INTL COUPONS REMAIN - ALL NEW TRAVEL MUST\n       BE DOMESTIC\n       3. FULLY FLOWN FARE NOT REPRICED TO FURTHER POINT\n       4. UA ANY FARE TYPE EXCEPT EOU/ERU SAME FARE CLASS\n       ARE USED\n       5. PUBLIC FARES ARE USED IF TICKETED FARE IS IN\n       PUBLIC TARIFF. PRIVATE FARES ARE USED IF TICKETED\n       FARE IS IN PRIVATE TARIFF\n       6. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n       7. ADV RES IS MEASURED FROM ORIGINAL TKT DATE TO\n       DEPARTURE OF PRICING UNIT\n   WHEN CHANGE RESULTS IN LOWER FARE IGNORE RESIDUAL THEN\n   ADD-COLLECT - REFUND VIA EMD\n   ENDORSEMENT BOX- HIGHER NON-REF AMT AND NEW ENDORSEMENTS.\n  OR -\n   AFTER DEPARTURE OF JOURNEY - APPLIES WITHIN TKT VALIDITY\n    CERTAIN DOMESTIC REISSUE PROVISIONS MAY BE OVERRIDDEN BY\n    THOSE OF UA INTERNATIONAL FARES\n     NO CHARGE FOR REISSUE OR HIGHEST FEE OF ALL CHANGED\n     FARE COMPONENTS - DISCOUNTS APPLY - NO FEE FOR INFANTS\n     W/O SEAT AND\n      REPRICE\n      A. FULLY FLOWN FARE COMPONENTS USE FARES IN EFFECT\n      WHEN TKT WAS ISSUED\n      B. ALL OTHERS USE FARES IN EFFECT TODAY\n       PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n       1. NO CHANGE TO FARE BREAKS OF FULLY FLOWN FARE\n       COMPONENTS\n       2. WHEN NO INTL COUPONS REMAIN - ALL NEW TRAVEL MUST\n       BE DOMESTIC\n       3. FULLY FLOWN FARE NOT REPRICED TO FURTHER POINT\n       4. UA ANY FARE TYPE EXCEPT EOU/ERU ARE USED\n       5. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n       6. ADV RES IS MEASURED FROM NEW TKT ISSUE DATE IF\n       CURRENT FARES/FROM PREVIOUS TKT ISSUE DATE IF\n       HISTORICAL FARES TO DEPARTURE OF PRICING UNIT\n      OR -\n      REPRICE\n      A. CHANGED FARE COMPONENTS USE FARES IN EFFECT TODAY\n      B. ALL OTHERS USE CURRENTLY TKTD FARE\n       PROVIDED ALL OF THE FOLLOWING CONDITIONS ARE MET-\n       1. NO CHANGE TO FARE BREAKS UP TO THE FIRST CHANGED\n       FARE COMPONENT\n       2. WHEN NO INTL COUPONS REMAIN - ALL NEW TRAVEL MUST\n       BE DOMESTIC\n       3. FULLY FLOWN FARE NOT REPRICED TO FURTHER POINT\n       4. UA ANY FARE TYPE EXCEPT EOU/ERU ARE USED\n       5. ALL RULE AND BOOKING CODE PROVISIONS ARE MET\n       6. ADV RES IS MEASURED FROM NEW TKT ISSUE DATE IF\n       CURRENT FARES/FROM PREVIOUS TKT ISSUE DATE IF\n       HISTORICAL FARES TO DEPARTURE OF PRICING UNIT\n   WHEN CHANGE RESULTS IN LOWER FARE IGNORE RESIDUAL THEN\n   ADD-COLLECT - REFUND VIA EMD\n   ENDORSEMENT BOX- HIGHER NON-REF AMT AND NEW ENDORSEMENTS."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "VOLUNTARY REFUNDS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "FARE AND TAXES ARE NONREFUNDABLE BEFORE DEPARTURE OF\n   JOURNEY.\n  IF MIX OF PER FARE COMPONENT AND PER PRICING UNIT\n   CALCULATE EACH AS PER PRICING UNIT AND COLLECT HIGHEST.\n  REFUND REQUEST MUST BE LESS THAN ONE YEAR AFTER TICKET\n   ISSUANCE.\n  REPRICE USING EQUAL OR HIGHER RBD.\n  OR -\n  FARE AND TAXES ARE NONREFUNDABLE AFTER DEPARTURE OF\n   JOURNEY.\n  IF MIX OF PER FARE COMPONENT AND PER PRICING UNIT\n   CALCULATE EACH AS PER PRICING UNIT AND COLLECT HIGHEST.\n  REFUND REQUEST MUST BE LESS THAN ONE YEAR AFTER TRAVEL\n   COMMENCEMENT DATE IF PARTIALLY USED OR ONE YEAR AFTER\n   TICKET ISSUANCE IF TICKET UNUSED.\n  REPRICE USING EQUAL OR HIGHER RBD.\n  OR -\n  APPLIES FOR FARE COMPONENTS THAT ARE FULLY FLOWN. REFUND\n   MUST BE REQUESTED AFTER DEPARTURE OF JOURNEY.\n  NO CHARGE. IF ALL PENALTIES IN PRICING UNIT ARE PER\n   PRICING UNIT COLLECT HIGHEST. IF MIX OF PER FARE\n   COMPONENT AND PER PRICING UNIT CALCULATE EACH AS PER\n   PRICING UNIT AND COLLECT HIGHEST.\n  REFUND REQUEST MUST BE LESS THAN ONE YEAR AFTER TRAVEL\n   COMMENCEMENT DATE IF PARTIALLY USED OR ONE YEAR AFTER\n   TICKET ISSUANCE IF TICKET UNUSED. FORM OF REFUND -\n   ORIGINAL FORM OF PAYMENT. ONLY VALIDATING CARRIER MAY\n   REFUND TICKET.\n  REPRICE FLOWN PORTION USING FARES IN EFFECT ON TICKET\n   ISSUANCE DATE. FOR FULLY FLOWN FARE COMPONENTS FARE BREAK\n   POINTS MAY NOT BE CHANGED. FOR PARTIALLY FLOWN FARE\n   COMPONENTS ONLY DESTINATION FARE BREAK POINTS MAY BE\n   CHANGED. REPRICE USING NORMAL/SPECIAL ONE WAY/ROUND TRIP\n   FARES/ANY RULE/FARE CLASS/EQUAL OR HIGHER RBD. PUBLIC\n   FARES ARE USED IF TICKETED FARE IS IN PUBLIC TARIFF.\n   QUALIFIED PRIVATE FARES OR PUBLIC FARES ARE USED IF\n   TICKETED FARE IS IN PRIVATE TARIFF. NEW FARE FOR FULLY\n   FLOWN FARE COMPONENTS MUST BE EQUAL TO OR HIGHER THAN\n   TICKETED FARE."
+              },
+              {
+                "textType": "Header",
+                "ruleText": "RULE APPLICATION"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "APPLICATION\n   CLASS OF SERVICE\n     THESE FARES APPLY FOR FIRST/BUSINESS/PREMIUM ECONOMY/\n     ECONOMY/OFF-PEAK ECONOMY CLASS SERVICE.\n   TYPES OF TRANSPORTATION\n     THIS RULE GOVERNS ONE-WAY AND ROUND-TRIP FARES.\n     FARES GOVERNED BY THIS RULE CAN BE USED TO CREATE\n     ONE-WAY/ROUND-TRIP/CIRCLE-TRIP/OPEN-JAW JOURNEYS.\n CAPACITY LIMITATIONS\n   SEATS ARE LIMITED"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "ELIGIBILITY"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO RESTRICTIONS"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "DAY/TIME"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO RESTRICTIONS"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "SEASONS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "APPLIES ALL YEAR"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "FLIGHT APPLICATION"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO RESTRICTIONS"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "MINIMUM STAY"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO RESTRICTIONS"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "MAXIMUM STAY"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO RESTRICTIONS"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "BLACKOUT DATES"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NONE"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "ACCOMPANIED TRAVEL"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO RESTRICTIONS"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "HIGHER INTERMEDIATE POINT AND MILEAGE EXCEPTIONS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO EXCEPTIONS FILED"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "TOUR CONDUCTOR DISCOUNTS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DISCOUNT DOES NOT APPLY"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "AGENT DISCOUNTS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DISCOUNT DOES NOT APPLY"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "OTHER DISCOUNTS/SECONDARY FARE APPLICATIONS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DISCOUNT DOES NOT APPLY"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "FARE BY RULE"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "NO RESTRICTIONS"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "GROUPS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DOES NOT APPLY"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "TOURS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DOES NOT APPLY"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "VISIT ANOTHER COUNTRY"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DOES NOT APPLY"
+              },
+              {
+                "textType": "Header",
+                "ruleText": "DEPOSITS"
+              },
+              {
+                "textType": "Text",
+                "ruleText": "DOES NOT APPLY"
+              }
+            ]
+          }
+        ],
+        "unregisterFareLock": false,
+        "tcdAdvisoryMessages": [
+          {
+            "id": "PhoneEmail",
+            "currentValue": "Providing a traveler’s mobile number and/or email address indicates that he or she consents to receive SMS and/or email messages via the contact information provided concerning flight status updates or notifications, and as otherwise permitted by our privacy policy. Standard messaging and data rates may apply. Messaging frequency varies based on customer preferences and the status of flight operations.",
+            "saveToPersist": false
+          },
+          {
+            "id": "PurchaseTnC",
+            "currentValue": "Purchase of this ticket means you understand and agree to all fare rules associated with this ticket, all terms and conditions associated with any additional offer/product purchases made, United’s dangerous goods policy, and the terms and conditions in United’s Contract of Carriage.",
+            "saveToPersist": false
+          },
+          {
+            "id": "TCDmessage",
+            "currentValue": "View text messaging terms and conditions. U.S. supported carriers are AT&T, U.S. Cellular®, Verizon Wireless, Sprint, Cricket, Boost, Virgin Mobile USA , T-Mobile® and MetroPCS. Canadian supported carriers are Aliant Mobility, Bell Mobility, Eastlink, Fido, Mobilicity, MTS, NorthernTel Mobility, Public Mobile, Rogers Wireless, SaskTel Mobility, Télébec Mobilité, TELUS Mobility, Vidéotron, Virgin Mobile Canada, WIND Mobile. The wireless carriers are not liable for delayed or undelivered messages. U.S. and Canadian customers may opt out at any time by texting STOP to 26266 from their mobile device. For more information, text HELP to 26266 or call 1-800-UNITED-1 (1-800-864-8331).",
+            "saveToPersist": false
+          }
+        ],
+        "flightShareMessage": "United itinerary: Jul 15, 1 traveler, one way, Economy. Flight 318 from EWR to DEN .",
+        "ineligibleToEarnCreditMessage": "This itinerary includes one or more flights that are ineligible to earn mileage or Premier qualifying credit.",
+        "oaIneligibleToEarnCreditMessage": "Ineligible to accrue mileage or Premier qualifying credit.",
+        "lmxFlights": [],
+        "lmxtravelers": null,
+        "overMileageLimitMessage": "You can earn up to 75,000 award miles per ticket. The 75,000 award miles cap may be applied to your posted flight activity in an order different than shown.",
+        "overMileageLimitAmount": "75000",
+        "isEmp20": false,
+        "isELF": false,
+        "isMetaSearch": false,
+        "isUpgradedFromEntryLevelFare": false,
+        "isCubaTravel": false,
+        "formOfPaymentType": "CreditCard",
+        "payPal": null,
+        "isReshopChange": false,
+        "checkedbagChargebutton": "View checked bag charges",
+        "isBookingCommonFOPEnabled": false,
+        "isReshopCommonFOPEnabled": false,
+        "isPostBookingCommonFOPEnabled": false,
+        "onScreenAlert": null,
+        "reshopTrips": null,
+        "reshop": null,
+        "payPalPayor": null,
+        "cubaTravelInfo": null,
+        "awardTravel": false,
+        "pointOfSale": "US",
+        "pkDispenserPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiS5xQZAwPM5WEdqcuOnwDLap9GWCD6+sthlWDpwTs4W9zpkc/esXfRAD9hq6KP6QcLm1Xg0Qc2CYMOpmqQAC8CdGxsn4RC+eRzr9UvdGsRyGWOADcIdtPXaUMyhue3MfWguifVHFeuMdFsK10BtAsBTIEnTeqpJHLUxfAdcmHgMo6LEDGKYQxp1aeN0TtrlvFg2qeeV7YrkRdL85P1ghgGc6yGoO+WzmID2NwxHMVgrJJl2ICkyNyXqnyu+UAk70NmvVu8MJwSfCWgVB7caGxQaPRfVb7dv4OQpnlSl6vFe60A8lzXZPThP96168Xc7tZB2q4otoFuzJxQp39S5uMwIDAQAB",
+        "isRefundable": false,
+        "isInternational": false,
+        "isFlexibleSegmentExist": false,
+        "fareLock": {
+          "fareLockHoldButtonText": "Hold fare",
+          "fareLockTextTop": "United’s FareLock service lets you hold your fare and complete the purchase of your itinerary at a later time.",
+          "fareLockTextBottom": "FareLock fees are nonrefundable and not applied toward the price of the ticket.",
+          "fareLockPurchaseButtonText": "Purchase now",
+          "fareLockPurchaseButtonAmount": 247.6,
+          "fareLockPurchaseButtonAmountDisplayText": "$247.60",
+          "fareLockMinAmount": 5.99,
+          "fareLockDisplayMinAmount": "$6",
+          "fareLockTitleText": "Hold fare with FareLock℠",
+          "fareLockDescriptionText": "Hold Reservation Using FareLock",
+          "fareLockDisclaimerText": "",
+          "fareLockTermsAndConditions": [],
+          "fareLockProducts": [
+            {
+              "fareLockProductTitle": "3 days",
+              "fareLockProductAmountDisplayText": "$5.99",
+              "fareLockProductAmount": 5.99,
+              "productCode": "FLK",
+              "productId": "SOL1OD1S10",
+              "fareLockProductCode": "0AA"
+            },
+            {
+              "fareLockProductTitle": "7 days",
+              "fareLockProductAmountDisplayText": "$8.99",
+              "fareLockProductAmount": 8.99,
+              "productCode": "FLK",
+              "productId": "SOL1OD1S10",
+              "fareLockProductCode": "0AB"
+            },
+            {
+              "fareLockProductTitle": "14 days",
+              "fareLockProductAmountDisplayText": "$12.99",
+              "fareLockProductAmount": 12.99,
+              "productCode": "FLK",
+              "productId": "SOL1OD1S10",
+              "fareLockProductCode": "0AC"
+            }
+          ]
+        },
+        "getALLSavedTravelers": false,
+        "shopPriceBreakDown": null,
+        "priceBreakDown": null,
+        "elfMessagesForRTI": [],
+        "elfMessagesForVendorQuery": [],
+        "fopOptions": [
+          {
+            "key": "ApplePay",
+            "value": "Apple Pay"
+          },
+          {
+            "key": "PayPal",
+            "value": "PayPal"
+          },
+          {
+            "key": "PayPalCredit",
+            "value": "PayPal Credit"
+          },
+          {
+            "key": "Masterpass",
+            "value": "Masterpass"
+          }
+        ],
+        "masterpassSessionDetails": null,
+        "masterpass": null,
+        "elfUpgradeMessagesForMetaSearch": null,
+        "isSSA": true,
+        "seatAssignmentMessage": [],
+        "shopReservationInfo": null,
+        "shopReservationInfo2": {
+          "isForceSeatMap": false,
+          "isPaxRegistered": false,
+          "nextViewName": "",
+          "isForceSeatMapInRTI": false,
+          "isShowBookingBundles": true,
+          "shouldHideBackButton": false,
+          "priorityBoarding": null,
+          "isUnfinihedBookingPath": false,
+          "isIBELite": false,
+          "isIBE": false,
+          "fareRestrictionsMessage": null,
+          "specialNeeds": {
+            "specialMeals": [],
+            "specialRequests": [
+              {
+                "value": "19",
+                "displayDescription": "Bassinet/cot",
+                "type": "SpecialRequest",
+                "code": "BSCT",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Bassinet/cot",
+                "subOptionHeader": null
+              },
+              {
+                "value": "6",
+                "displayDescription": "Blind",
+                "type": "SpecialRequest",
+                "code": "BLND",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Blind",
+                "subOptionHeader": null
+              },
+              {
+                "value": "7",
+                "displayDescription": "Deaf",
+                "type": "SpecialRequest",
+                "code": "DEAF",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Deaf",
+                "subOptionHeader": null
+              },
+              {
+                "value": "20",
+                "displayDescription": "Cognitive disability",
+                "type": "SpecialRequest",
+                "code": "DPNA_1",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [
+                  {
+                    "id": "",
+                    "currentValue": "After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.",
+                    "saveToPersist": false
+                  }
+                ],
+                "registerServiceDescription": "Cognitive disability",
+                "subOptionHeader": null
+              },
+              {
+                "value": "21",
+                "displayDescription": "Other disability requiring assistance",
+                "type": "SpecialRequest",
+                "code": "DPNA_2",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [
+                  {
+                    "id": "",
+                    "currentValue": "After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.",
+                    "saveToPersist": false
+                  }
+                ],
+                "registerServiceDescription": "Other disability requiring assistance",
+                "subOptionHeader": null
+              },
+              {
+                "value": "",
+                "displayDescription": "Bringing a wheelchair",
+                "type": "SpecialRequest",
+                "code": "Bringing a wheelchair",
+                "displaySequence": null,
+                "subOptions": [
+                  {
+                    "value": "16",
+                    "displayDescription": "Dry cell battery",
+                    "type": "SpecialRequest",
+                    "code": "WCBD",
+                    "displaySequence": null,
+                    "subOptions": [],
+                    "messages": [],
+                    "registerServiceDescription": "Dry cell battery",
+                    "subOptionHeader": null
+                  },
+                  {
+                    "value": "17",
+                    "displayDescription": "Wet cell battery",
+                    "type": "SpecialRequest",
+                    "code": "WCBW",
+                    "displaySequence": null,
+                    "subOptions": [],
+                    "messages": [],
+                    "registerServiceDescription": "Wet cell battery",
+                    "subOptionHeader": null
+                  },
+                  {
+                    "value": "22",
+                    "displayDescription": "Lithium-ion battery",
+                    "type": "SpecialRequest",
+                    "code": "WCLB",
+                    "displaySequence": null,
+                    "subOptions": [],
+                    "messages": [],
+                    "registerServiceDescription": "Lithium-ion battery",
+                    "subOptionHeader": null
+                  },
+                  {
+                    "value": "18",
+                    "displayDescription": "Manual power",
+                    "type": "SpecialRequest",
+                    "code": "WCMP",
+                    "displaySequence": null,
+                    "subOptions": [],
+                    "messages": [],
+                    "registerServiceDescription": "Manual power",
+                    "subOptionHeader": null
+                  }
+                ],
+                "messages": [],
+                "registerServiceDescription": "Bringing a wheelchair",
+                "subOptionHeader": "Select power type"
+              },
+              {
+                "value": "4",
+                "displayDescription": "Cannot walk long distance",
+                "type": "SpecialRequest",
+                "code": "WCHR",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Cannot walk long distance",
+                "subOptionHeader": null
+              },
+              {
+                "value": "3",
+                "displayDescription": "Cannot ascend or descend stairs",
+                "type": "SpecialRequest",
+                "code": "WCHS",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Cannot ascend or descend stairs",
+                "subOptionHeader": null
+              },
+              {
+                "value": "14",
+                "displayDescription": "Cannot walk",
+                "type": "SpecialRequest",
+                "code": "WCHC",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Cannot walk",
+                "subOptionHeader": null
+              },
+              {
+                "value": "23",
+                "displayDescription": "Service Animal",
+                "type": "SpecialRequest",
+                "code": "OTHS",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Service Animal",
+                "subOptionHeader": null
+              }
+            ],
+            "serviceAnimals": [
+              {
+                "value": "9",
+                "displayDescription": "Balance-assistance dog",
+                "type": "ServiceAnimalType",
+                "code": "SVAN",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Balance-assistance dog",
+                "subOptionHeader": null
+              },
+              {
+                "value": "3",
+                "displayDescription": "Guide dog",
+                "type": "ServiceAnimalType",
+                "code": "SVAN",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Guide dog",
+                "subOptionHeader": null
+              },
+              {
+                "value": "2",
+                "displayDescription": "Hearing dog",
+                "type": "ServiceAnimalType",
+                "code": "SVAN",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Hearing dog",
+                "subOptionHeader": null
+              },
+              {
+                "value": "10",
+                "displayDescription": "Psychiatric assistance dog",
+                "type": "ServiceAnimalType",
+                "code": "SVAN",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [],
+                "registerServiceDescription": "Psychiatric assistance dog",
+                "subOptionHeader": null
+              },
+              {
+                "value": "99",
+                "displayDescription": "",
+                "type": "TravelSpecialNeedInfo",
+                "code": "ESAN",
+                "displaySequence": null,
+                "subOptions": [],
+                "messages": [
+                  {
+                    "id": "",
+                    "currentValue": "United requires the <a href=\"https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Health-Behavior-Training-Form.pdf\">Training and Behavior Form</a> and, if applicable, the <a href=\"https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Relief-Formmm.pdf\">Relief Form</a> to be completed, printed, and carried with you during your trip.\n<br /><br />\nWe no longer accept emotional support animals due to new Department of Transportation regulations.\n<br /><br /><a href=\"https://www.united.com/ual/en/US/fly/travel/special-needs/disabilities/assistance-animals.html\">Review our service animal policy</a>",
+                    "saveToPersist": false
+                  }
+                ],
+                "registerServiceDescription": null,
+                "subOptionHeader": null
+              }
+            ],
+            "specialMealsMessages": [
+              {
+                "id": "",
+                "currentValue": "We're unable to book a  meal on this route.",
+                "saveToPersist": false
+              }
+            ],
+            "specialRequestsMessages": [],
+            "serviceAnimalsMessages": [],
+            "highTouchItems": [],
+            "mealUnavailable": null,
+            "accommodationsUnavailable": null
+          },
+          "purchaseToTravelTimeIsWithinSevenDays": false,
+          "infoNationalityAndResidence": {
+            "isRequireNationalityAndResidence": false,
+            "nationalityErrMsg": null,
+            "residenceErrMsg": null,
+            "nationalityAndResidenceErrMsg": null,
+            "nationalityAndResidenceHeaderMsg": null,
+            "complianceTaxes": [
+              [
+                {
+                  "amount": 30.86,
+                  "displayAmount": "$30.86",
+                  "currencyCode": "USD",
+                  "newAmount": 0.0,
+                  "displayNewAmount": "",
+                  "taxCode": "PERPERSONTAX",
+                  "taxCodeDescription": "1 adult (18-64): $30.86/person"
+                },
+                {
+                  "amount": 16.26,
+                  "displayAmount": "$16.26",
+                  "currencyCode": "USD",
+                  "newAmount": 0.0,
+                  "displayNewAmount": "",
+                  "taxCode": "US",
+                  "taxCodeDescription": "U.S. Transportation Tax"
+                },
+                {
+                  "amount": 4.5,
+                  "displayAmount": "$4.50",
+                  "currencyCode": "USD",
+                  "newAmount": 0.0,
+                  "displayNewAmount": "",
+                  "taxCode": "XF",
+                  "taxCodeDescription": "U.S. Passenger Facility Charge"
+                },
+                {
+                  "amount": 4.5,
+                  "displayAmount": "$4.50",
+                  "currencyCode": "USD",
+                  "newAmount": 0.0,
+                  "displayNewAmount": "",
+                  "taxCode": "ZP",
+                  "taxCodeDescription": "U.S. Flight Segment Tax"
+                },
+                {
+                  "amount": 5.6,
+                  "displayAmount": "$5.60",
+                  "currencyCode": "USD",
+                  "newAmount": 0.0,
+                  "displayNewAmount": "",
+                  "taxCode": "AY",
+                  "taxCodeDescription": "September 11th Security Fee"
+                }
+              ],
+              [
+                {
+                  "amount": 30.86,
+                  "displayAmount": "$30.86",
+                  "currencyCode": "USD",
+                  "newAmount": 0.0,
+                  "displayNewAmount": "",
+                  "taxCode": "TOTALTAX",
+                  "taxCodeDescription": "Taxes and fees total"
+                }
+              ]
+            ]
+          },
+          "visaCheckOutDetails": null,
+          "placePass": null,
+          "chaseCreditStatement": null,
+          "travelerTypes": [
+            {
+              "count": 1,
+              "travelerType": "Adult"
+            },
+            {
+              "count": 0,
+              "travelerType": "Senior"
+            },
+            {
+              "count": 0,
+              "travelerType": "Child15To17"
+            },
+            {
+              "count": 0,
+              "travelerType": "Child12To14"
+            },
+            {
+              "count": 0,
+              "travelerType": "Child5To11"
+            },
+            {
+              "count": 0,
+              "travelerType": "Child2To4"
+            },
+            {
+              "count": 0,
+              "travelerType": "InfantSeat"
+            },
+            {
+              "count": 0,
+              "travelerType": "InfantLap"
+            }
+          ],
+          "displayTravelTypes": [
+            {
+              "paxID": 1,
+              "paxType": "ADT",
+              "travelerDescription": "Adult (18-64)",
+              "travelerType": "Adult"
+            }
+          ],
+          "characteristics": [
+            {
+              "id": "Refundable",
+              "currentValue": "False",
+              "saveToPersist": false
+            },
+            {
+              "id": "ContentLookupID",
+              "currentValue": "Messages:63",
+              "saveToPersist": false
+            },
+            {
+              "id": "BBXID",
+              "currentValue": "ZBWrgme2EOSNOjn000bkzs",
+              "saveToPersist": false
+            },
+            {
+              "id": "TRIP_TYPE",
+              "currentValue": "OW",
+              "saveToPersist": false
+            },
+            {
+              "id": "StationCode",
+              "currentValue": "HOU",
+              "saveToPersist": false
+            }
+          ],
+          "selectTravelersHeaderText": null,
+          "travelOptionEligibleTravelersCount": 0,
+          "isYATravel": false,
+          "bundleCartID": null,
+          "hideTravelOptionsOnRTI": false,
+          "hideSelectSeatsOnRTI": false,
+          "uplift": null,
+          "isMultipleTravelerEtcFeatureClientToggleEnabled": false,
+          "isArrangerBooking": false,
+          "showSelectDifferentFOPAtRTI": false,
+          "confirmationPageAlertMessages": [],
+          "alertMessages": [],
+          "bookingCutOffMinutes": null,
+          "isCovidTestFlight": false,
+          "isDisplayCart": true,
+          "isNonRefundableNonChangable": false,
+          "enableFinalBookingAgreenPurchaseButton": true,
+          "infoWarningMessages": [],
+          "infoWarningMessagesPayment": [],
+          "allEligibleTravelersCSL": [],
+          "rtiMandateContentsToDisplayByMarket": [],
+          "reservationAgeBoundInfo": {
+            "minimumAge": 14,
+            "upBoundAge": 18,
+            "errorMessage": "Children under the age of 5 cannot travel unless they’re accompanied by a parent, legal guardian or someone who is at least 18 years old. Children ages 5-14 who are traveling unaccompanied must use our unaccompanied minor service, which cannot be booked with the United app. Please go to united.com to book."
+          },
+          "travelType": "RA",
+          "confirmationScreenAlertMessages": null,
+          "seatRemoveCouponPopupCount": 0,
+          "isSelectSeatsFromRTI": false,
+          "isOmniCartSavedTrip": false,
+          "isOmniCartSavedTripFlow": false,
+          "hideBackButtonOnSelectTraveler": false
+        },
+        "tripInsuranceInfo": null,
+        "tripInsuranceInfoBookingPath": null,
+        "alertMessages": [],
+        "isRedirectToSecondaryPayment": false
+      }
+    }
+  }
+]

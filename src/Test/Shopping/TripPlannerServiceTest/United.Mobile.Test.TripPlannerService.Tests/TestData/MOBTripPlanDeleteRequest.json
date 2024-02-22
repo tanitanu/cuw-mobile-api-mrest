@@ -1,0 +1,19 @@
+{
+  "hashPinCode": "F758491B89F84A9A4DF3B4110A77919128EC0D19",
+  "mileagePlusId": "AW713019",
+  "sessionId": "79F19E1C9B814AB0BF14567AE85FAD25",
+  "tripPlanId": "25bc3fa6-8979-458b-98a1-602acd7a6357",
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.55",
+      "minor": "4.1.55"
+    }
+  },
+  "deviceId": "00c87c77-f976-482d-a9a7-c504cc08ab59",
+  "languageCode": "en-US",
+  "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|970d29a9-98a6-4386-97e3-21061f8b4925"
+}

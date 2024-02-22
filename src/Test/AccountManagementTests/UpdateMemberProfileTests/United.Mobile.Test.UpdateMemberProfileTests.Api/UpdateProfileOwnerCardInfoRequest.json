@@ -1,0 +1,247 @@
+[
+  {
+    "amount": "309.39",
+    "cartId": "E0CE9B92-410C-4B80-9D1B-7EFCB36A9910",
+    "customerId": 123901727,
+    "flow": "VIEWRES",
+    "hashPinCode": "6C4FE48F52365B89F853AFD10FE5D38F1469675C",
+    "isCCSelectedForContactless": true,
+    "isSavedToProfile": true,
+    "mileagePlusNumber": "AW719636",
+    "sessionId": "E0CE9B92410C4B809D1B7EFCB36A9910",
+    "traveler": {
+      "FirstName": "first",
+      "LastName": "Last",
+      "addresses": [
+        {
+          "CompanyName": "Company",
+          "channel": {
+            "channelCode": "A",
+            "channelDescription": "Address",
+            "channelTypeCode": "H",
+            "channelTypeDescription": "Home"
+          },
+          "city": "texas",
+          "country": {
+            "code": "US",
+            "name": "United States",
+            "phoneCode": "+1"
+          },
+          "isCorporate": false,
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "line1": "pp",
+          "line2": "pp",
+          "line3": "pp",
+          "postalCode": "6006",
+          "state": {
+            "code": "CO",
+            "name": "Colorado"
+          }
+        }
+      ],
+      "creditCards": [
+        {
+          "cCName": "nn",
+          "cIDCVV2": "123",
+          "cardDescription": 0,
+          "cardType": "VI",
+          "cardTypeDescription": "diners club",
+          "creditCardTypeCode": 0,
+          "displayCardNumber": "XXXXXXXXXXXX5678",
+          "encryptedCardNumber": "Ndp92gYFNaOSPv3809vTk6Jk7iIJlRqHucLUJlultwIba3xz73NPWkiseyL/fdRfR/tT56KkORmk\nmIT9CK4XFzgIYHAELVZxkpzbg70y11Ra3Dfwxesn7m3WMTt4pKZdkajHCZTwq2JRuCzUkzpwu64K\ncWGod5WLqcaNF3Q9m7b2qig9aLpGZ6p/iczI4qS8M57gws5CkcUWJiEZDZULxmkBRmrPcLI9DUhy\nSy1K3YjJwCgp+I7VKnjJd7WRmR6YNNrXb8xl93mBV044WN3M4GXcehR2NCkoPerLrllDZv0OjNLy\n8GtWUIsN84ICyD/wLcOiSJCN7Hp4tSzZoNHKGQ==\n",
+          "expireMonth": "05",
+          "expireYear": "22",
+          "groupPaymentType": 0,
+          "inputCapability": 0,
+          "isCorporate": false,
+          "isMandatory": false,
+          "isOAEPPaddingCatalogEnabled": true,
+          "isPrimary": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "pinEntryCapability": 0,
+          "terminalAttended": 0,
+          "terminalCardholderActivated": 0,
+          "unencryptedCardNumber": "XXXXXXXXXXXX5678",
+          "walletCategory": 0
+        }
+      ],
+      "currentEliteLevel": 0,
+      "customerId": 0,
+      "emailAddresses": [
+        {
+          "emailAddress": "test@united.com",
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false
+        }
+      ],
+      "isDeceased": false,
+      "isEligibleForSeatSelection": false,
+      "isExecutive": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": false,
+      "isProfileOwner": false,
+      "isTSAFlagON": false,
+      "paxID": 0,
+      "paxIndex": 0,
+      "phones": [
+        {
+          "areaNumber": "713",
+          "channelTypeSeqNumber": 0,
+          "countryCode": "US",
+          "customerId": 0,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isProfileOwner": false,
+          "phoneNumber": "3241234"
+        }
+      ],
+      "profileId": 0,
+      "profileOwnerId": 0
+    },
+    "updateInsertCreditCardInfo": true,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.33",
+        "minor": "4.1.33"
+      }
+    },
+    "deviceId": "93744afb-bcb2-4f48-a0f6-dd7ca0b30d34",
+    "languageCode": "en-US",
+    "transactionId": "93744afb-bcb2-4f48-a0f6-dd7ca0b30d34|9a2b7e32-9680-42e8-ba48-663190588c47",
+    "TransactionPath": "CHECKINPATH"
+  },
+  {
+    "amount": "309.39",
+    "cartId": "E0CE9B92-410C-4B80-9D1B-7EFCB36A9910",
+    "customerId": 123901727,
+    "flow": "BOOKING",
+    "hashPinCode": "6C4FE48F52365B89F853AFD10FE5D38F1469675C",
+    "isCCSelectedForContactless": true,
+    "isSavedToProfile": false,
+    "mileagePlusNumber": "AW719636",
+    "sessionId": "E0CE9B92410C4B809D1B7EFCB36A9910",
+    "traveler": {
+      "FirstName": "first",
+      "LastName": "Last",
+      "addresses": [
+        {
+          "CompanyName": "Company",
+          "channel": {
+            "channelCode": "A",
+            "channelDescription": "Address",
+            "channelTypeCode": "H",
+            "channelTypeDescription": "Home"
+          },
+          "city": "texas",
+          "country": {
+            "code": "US",
+            "name": "United States",
+            "phoneCode": "+1"
+          },
+          "isCorporate": false,
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "line1": "pp",
+          "line2": "pp",
+          "line3": "pp",
+          "postalCode": "6006",
+          "state": {
+            "code": "CO",
+            "name": "Colorado"
+          }
+        }
+      ],
+      "creditCards": [
+        {
+          "cCName": "nn",
+          "cIDCVV2": "123",
+          "cardDescription": 0,
+          "cardType": "VI",
+          "cardTypeDescription": "uatp (formerly air travel card)",
+          "creditCardTypeCode": 0,
+          "displayCardNumber": "XXXXXXXXXXXX5678",
+          "encryptedCardNumber": "Ndp92gYFNaOSPv3809vTk6Jk7iIJlRqHucLUJlultwIba3xz73NPWkiseyL/fdRfR/tT56KkORmk\nmIT9CK4XFzgIYHAELVZxkpzbg70y11Ra3Dfwxesn7m3WMTt4pKZdkajHCZTwq2JRuCzUkzpwu64K\ncWGod5WLqcaNF3Q9m7b2qig9aLpGZ6p/iczI4qS8M57gws5CkcUWJiEZDZULxmkBRmrPcLI9DUhy\nSy1K3YjJwCgp+I7VKnjJd7WRmR6YNNrXb8xl93mBV044WN3M4GXcehR2NCkoPerLrllDZv0OjNLy\n8GtWUIsN84ICyD/wLcOiSJCN7Hp4tSzZoNHKGQ==\n",
+          "expireMonth": "05",
+          "expireYear": "22",
+          "groupPaymentType": 0,
+          "inputCapability": 0,
+          "isCorporate": false,
+          "isMandatory": false,
+          "isOAEPPaddingCatalogEnabled": true,
+          "isPrimary": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "pinEntryCapability": 0,
+          "terminalAttended": 0,
+          "terminalCardholderActivated": 0,
+          "unencryptedCardNumber": "XXXXXXXXXXXX5678",
+          "walletCategory": 0,
+          "sessionToken" :  "token"
+        }
+      ],
+      "currentEliteLevel": 0,
+      "customerId": 0,
+      "emailAddresses": [
+        {
+          "emailAddress": "test@united.com",
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false
+        }
+      ],
+      "isDeceased": false,
+      "isEligibleForSeatSelection": false,
+      "isExecutive": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": false,
+      "isProfileOwner": false,
+      "isTSAFlagON": false,
+      "paxID": 0,
+      "paxIndex": 0,
+      "phones": [
+        {
+          "areaNumber": "713",
+          "channelTypeSeqNumber": 0,
+          "countryCode": "US",
+          "customerId": 0,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isProfileOwner": false,
+          "phoneNumber": "3241234"
+        }
+      ],
+      "profileId": 0,
+      "profileOwnerId": 0
+    },
+    "updateInsertCreditCardInfo": true,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.33",
+        "minor": "4.1.33"
+      }
+    },
+    "deviceId": "93744afb-bcb2-4f48-a0f6-dd7ca0b30d34",
+    "languageCode": "en-US",
+    "transactionId": "93744afb-bcb2-4f48-a0f6-dd7ca0b30d34|9a2b7e32-9680-42e8-ba48-663190588c47",
+    "TransactionPath": "VIEWRESPATH"
+  }
+]

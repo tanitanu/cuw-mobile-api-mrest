@@ -1,0 +1,39 @@
+[
+  {
+    "_accessCode": "ACCESSCODE",
+    "_application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "_deviceId": "f64b02a8-6efb-4d3c-ae7b-1736898c6aec",
+    "_languageCode": "en-US",
+    "_transactionId": "f64b02a8-6efb-4d3c-ae7b-1736898c6aec|38960d89-66d1-4a5b-9e0e-138e7ee83469",
+    "cartId": "",
+    "destination": "ORD",
+    "flow": "BOOKING",
+    "nextDestination": "ORD",
+    "nextOrigin": "DEN",
+    "origin": "DEN",
+    "paxIndex": "0",
+    "seatAssignment": "",
+    "sessionId": "8744F6B767F74C15863D8F6426C2D35A",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "f64b02a8-6efb-4d3c-ae7b-1736898c6aec",
+    "languageCode": "en-US",
+    "transactionId": "f64b02a8-6efb-4d3c-ae7b-1736898c6aec|38960d89-66d1-4a5b-9e0e-138e7ee83469"
+  }
+]

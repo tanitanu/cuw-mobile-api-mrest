@@ -1,0 +1,1 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\DataAccess\Shopping\United.Mobile.DataAccess.TripPlannerService\United.Mobile.DataAccess.TripPlannerService\obj\Debug\net6.0\United.Mobile.DataAccess.TripPlannerService.GeneratedMSBuildEditorConfig.editorconfig

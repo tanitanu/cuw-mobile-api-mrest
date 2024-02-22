@@ -1,0 +1,1911 @@
+[
+  {
+    "CartId": "67945321-097C-4CF5-8FFC-7DF9565CB276",
+    "LastCallDateTime": "20211027 172650",
+    "ServerName": "IN-PF2N9RMP",
+    "Status": 1,
+    "DisplayCart": {
+      "CartId": "67945321-097C-4CF5-8FFC-7DF9565CB276",
+      "CountryCode": "US",
+      "LangCode": "en-US",
+      "BookingCutOffMinutes": 60,
+      "BookingCutOffWarningMinutes": 30,
+      "GrandTotal": 118.4,
+      "SearchType": 1,
+      "PetTravel": {
+        "PetCount": 0,
+        "PetsAreTraveling": false
+      },
+      "MilitaryTravel": 0,
+      "DisplaySeats": [],
+      "DisplayTravelers": [
+        {
+          "DateOfBirth": "10/27/1996",
+          "LoyaltyId": null,
+          "PaxType": 1,
+          "PaxTypeCode": "ADT",
+          "PricingPaxType": "ADT",
+          "PaxTypeDescription": "Adult (18-64)",
+          "TravelerCount": 1,
+          "UMNROptIn": false,
+          "Age": 0,
+          "Key": null
+        }
+      ],
+      "DisplayTrips": [
+        {
+          "ColumnInformation": {
+            "Columns": [
+              {
+                "DataSourceLabel": "Economy ",
+                "Description": "",
+                "Type": "ECONOMY",
+                "SubType": "Revenue",
+                "FareContentDescription": "<p>Our standard Economy fare:</p><ul class=\"fare-details-list\"><li>Seat selection at booking, if available</li><li>Enjoy other options for customizing your travel</li></ul>",
+                "MarketingText": "<span class=bundles-content>Book with our <br>Low Fare Guarantee</span>Find the lowest United fare online at united.com.<br><a target=_blank href=\"http://www.united.com/CMS/en-US/products/travelproducts/Pages/Lowfareguarantee.aspx\">Learn more</a>",
+                "DataSourceLabelStyle": "Economy",
+                "FareFamilies": [ "ECONOMY", "MIN-ECONOMY-SURP-OR-DISP", "ECONOMY" ],
+                "Value": "0-3",
+                "FareFamily": "ECONOMY",
+                "DescriptionId": "3",
+                "MatrixId": 209,
+                "SortIndex": 10
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Economy Plus",
+                "Type": "B01",
+                "FareContentDescription": "Economy Plus",
+                "DataSourceLabelStyle": "EPB",
+                "FareFamilies": null
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Economy Plus, Standard checked bag",
+                "Type": "B14",
+                "FareContentDescription": "Economy Plus, Standard checked bag",
+                "DataSourceLabelStyle": "EPB",
+                "FareFamilies": null
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Economy Plus and Premier Access",
+                "Type": "B09",
+                "FareContentDescription": "Economy Plus and Premier Access",
+                "DataSourceLabelStyle": "EPB",
+                "FareFamilies": null
+              },
+              {
+                "DataSourceLabel": "EPB",
+                "Description": "Wi-Fi Day Pass",
+                "Type": "B27",
+                "FareContentDescription": "Wi-Fi Day Pass",
+                "DataSourceLabelStyle": "EPB",
+                "FareFamilies": null
+              }
+            ]
+          },
+          "BBXSession": "EY70aMtHokNOK8UNmHVxEdnyg",
+          "BBXSolutionSetId": "06bMUx1Cz1KNOPkfS66kscU",
+          "Origin": "ORD",
+          "Destination": "IAH",
+          "DepartDate": "2021-10-31 06:00",
+          "InternationalCitiesExist": false,
+          "Flights": [
+            {
+              "DepartDateTime": "2021-10-31 06:00",
+              "BBXHash": "GHKnDlO6za5ehxeo",
+              "BBXSolutionSetId": "06bMUx1Cz1KNOPkfS66kscU",
+              "BookingClassAvailability": "J4|JN4|C3|D2|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W9|S6|T3|L1|K0|G0|N9|XN4|X0",
+              "CabinCount": 2,
+              "CabinType": "Coach",
+              "Destination": "IAH",
+              "DestinationCountryCode": "US",
+              "DestinationDateTime": "2021-10-31 08:55",
+              "DestinationDescription": "Houston, TX, US (IAH)",
+              "DestinationStateCode": "TX",
+              "DestinationTimezoneOffset": -5,
+              "DestTimezoneOffset": -5.0,
+              "FareBasisCode": "LAA3AWEN",
+              "FlightNumber": "2675",
+              "MarketingCarrier": "UA",
+              "MarketingCarrierDescription": "United Airlines",
+              "MileageActual": 925,
+              "OperatingCarrier": "UA",
+              "OperatingCarrierDescription": "United Airlines",
+              "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+              "Origin": "ORD",
+              "OriginCountryCode": "US",
+              "OriginDescription": "Chicago, IL, US (ORD)",
+              "OriginStateCode": "IL",
+              "OriginTimezoneOffset": -5,
+              "OrgTimezoneOffset": -5.0,
+              "OriginalFlightNumber": "2675",
+              "PageIndex": 1,
+              "ParentFlightNumber": "",
+              "Selected": true,
+              "ServiceClass": "L",
+              "ServiceClassCount": 1,
+              "ServiceClassCountLowest": -1,
+              "ServiceClassAlternate": "L",
+              "TravelMinutesTotal": 175,
+              "TravelMinutes": 175,
+              "TripIndex": 1,
+              "Connections": [],
+              "Messages": [],
+              "Products": [
+                {
+                  "BookingCode": "L",
+                  "BookingClassAvailability": "J4|JN4|C3|D2|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W9|S6|T3|L1|K0|G0|N9|XN4|X0",
+                  "BookingCount": 1,
+                  "CabinTypeText": "",
+                  "CabinType": "Coach",
+                  "Description": "United Economy",
+                  "MerchIndex": "O1|1|1",
+                  "Mileage": 925,
+                  "ProductId": "4nH8e3OvMaMQaCy881JiDO002",
+                  "Fares": [
+                    {
+                      "FareBasisCode": "LAA3AWEN",
+                      "SegmentRefs": [ "2675" ],
+                      "Amount": 96.74,
+                      "Currency": "USD",
+                      "Ptc": "ADT"
+                    }
+                  ],
+                  "ProductPath": "Revenue",
+                  "ProductSubtype": "BASE",
+                  "ProductCode": "",
+                  "ProductType": "ECONOMY",
+                  "SolutionId": "4nH8e3OvMaMQaCy881JiDO002",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": "USD",
+                      "Amount": 119.0,
+                      "AmountAllPax": 119.0,
+                      "AmountBase": 118.4,
+                      "PricingType": "Fare",
+                      "PricingDetails": null,
+                      "AmountBySlice": 119.0,
+                      "AmountBySliceAllPax": 119.0
+                    },
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": null,
+                      "Amount": 22.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 21.66,
+                      "PricingType": "Taxes",
+                      "PricingDetails": null
+                    }
+                  ],
+                  "MealDescription": "Snacks for Purchase",
+                  "NoChangeFeeIndicator": true,
+                  "NonRefundableIndicator": true,
+                  "LmxLoyaltyTiers": [
+                    {
+                      "Level": 0,
+                      "Descr": "Member",
+                      "Key": "1.1",
+                      "LmxQuotes": [
+                        {
+                          "Type": "RDM",
+                          "Descr": "Accruable Miles",
+                          "Amount": "485",
+                          "Currency": "Miles"
+                        },
+                        {
+                          "Type": "LTM",
+                          "Descr": "Life Time Miles",
+                          "Amount": "925",
+                          "Currency": "Miles"
+                        },
+                        {
+                          "Type": "PQF",
+                          "Descr": "Premier Qualifying Flights",
+                          "Amount": "1",
+                          "Currency": "Segment"
+                        },
+                        {
+                          "Type": "PQP",
+                          "Descr": "Premier Qualifying Points",
+                          "Amount": "97",
+                          "Currency": "Points"
+                        },
+                        {
+                          "Type": "MQS",
+                          "Descr": "Minimum Qualifying Segments",
+                          "Amount": "1",
+                          "Currency": "Segment"
+                        }
+                      ],
+                      "Index": "0"
+                    }
+                  ],
+                  "CabinTypeCode": "UE",
+                  "DisplayOrder": 0,
+                  "ColumnId": 3,
+                  "NumberOfPassengers": 0,
+                  "TripIndex": 0,
+                  "SegmentNumber": 0,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "UserSelection": "ECONOMY",
+                  "FareFamily": "ECONOMY",
+                  "IsDynamicallyPriced": 0,
+                  "SortIndex": 10
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Economy Plus",
+                  "MerchIndex": "1",
+                  "ProductId": "B1-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B1",
+                  "ProductType": "B01",
+                  "PromoDescription": "ORD - IAH",
+                  "SolutionId": "06bMUx1Cz1KNOPkfS66kscU",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": null,
+                      "Amount": 63.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 63.0,
+                      "PricingType": "Money",
+                      "PricingDetails": null,
+                      "ID": "B1-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "L",
+                  "SubProducts": [
+                    {
+                      "Code": "EPU",
+                      "Description": "Economy Plus® seating",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "ORD",
+                          "Destination": "IAH",
+                          "FlightHash": "304-2675-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 70.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 70.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 63.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 63.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "EddCode": "EP1",
+                      "DisplayOrder": 1,
+                      "SubDescription": "Choose any available Economy Plus seat",
+                      "AlternateDescription": "Economy Plus®"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 1,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-67945321-097C-4CF5-8FFC-7DF9565CB276",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Economy Plus, Standard checked bag",
+                  "MerchIndex": "6",
+                  "ProductId": "B14-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B14",
+                  "ProductType": "B14",
+                  "PromoDescription": "ORD - IAH",
+                  "SolutionId": "06bMUx1Cz1KNOPkfS66kscU",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": null,
+                      "Amount": 80.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 80.0,
+                      "PricingType": "Money",
+                      "PricingDetails": null,
+                      "ID": "B14-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "L",
+                  "SubProducts": [
+                    {
+                      "Code": "EPU",
+                      "Description": "Economy Plus® seating",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "ORD",
+                          "Destination": "IAH",
+                          "FlightHash": "304-2675-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 70.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 70.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 56.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 56.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "EddCode": "EP1",
+                      "DisplayOrder": 1,
+                      "SubDescription": "Choose any available Economy Plus seat",
+                      "AlternateDescription": "Economy Plus®"
+                    },
+                    {
+                      "Code": "EXB",
+                      "Description": "Standard checked bag",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "ORD",
+                          "Destination": "IAH",
+                          "FlightHash": "304-2675-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 30.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 30.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 24.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 24.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "EddCode": "XB1",
+                      "DisplayOrder": 2,
+                      "SubDescription": "One checked bag in addition to the baggage allowance that you otherwise qualify for",
+                      "AlternateDescription": "Standard checked bag"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 2,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-67945321-097C-4CF5-8FFC-7DF9565CB276",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Economy Plus and Premier Access",
+                  "MerchIndex": "17",
+                  "ProductId": "B9-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B9",
+                  "ProductType": "B09",
+                  "PromoDescription": "ORD - IAH",
+                  "SolutionId": "06bMUx1Cz1KNOPkfS66kscU",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": null,
+                      "Amount": 103.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 103.0,
+                      "PricingType": "Money",
+                      "PricingDetails": null,
+                      "ID": "B9-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "L",
+                  "SubProducts": [
+                    {
+                      "Code": "EPU",
+                      "Description": "Economy Plus® seating",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "ORD",
+                          "Destination": "IAH",
+                          "FlightHash": "304-2675-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 70.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 70.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 53.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 53.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "EddCode": "EP1",
+                      "DisplayOrder": 1,
+                      "SubDescription": "Choose any available Economy Plus seat",
+                      "AlternateDescription": "Economy Plus®"
+                    },
+                    {
+                      "Code": "PAS",
+                      "Description": "Premier Access®",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "ORD",
+                          "Destination": "IAH",
+                          "FlightHash": "304-2675-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 66.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 66.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 50.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 50.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "EddCode": "PA1",
+                      "DisplayOrder": 2,
+                      "SubDescription": "Enjoy dedicated check-in, exclusive security lanes (where available) and priority boarding",
+                      "AlternateDescription": "Premier Access®"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 3,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-67945321-097C-4CF5-8FFC-7DF9565CB276",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                },
+                {
+                  "BookingCode": "",
+                  "CabinTypeText": "Travel Options bundle",
+                  "CabinType": "Coach",
+                  "Description": "Wi-Fi Day Pass",
+                  "MerchIndex": "8",
+                  "ProductId": "B27-SOL1_OD1_S1_0",
+                  "ProductPath": "BE",
+                  "ProductSubtype": "B27",
+                  "ProductType": "B27",
+                  "PromoDescription": "ORD - IAH",
+                  "SolutionId": "06bMUx1Cz1KNOPkfS66kscU",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": null,
+                      "Amount": 7.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 7.0,
+                      "PricingType": "Money",
+                      "PricingDetails": null,
+                      "ID": "B27-SOL1_OD1_S1_0"
+                    }
+                  ],
+                  "LmxLoyaltyTiers": [],
+                  "CabinTypeCode": "L",
+                  "SubProducts": [
+                    {
+                      "Code": "WIFI",
+                      "Description": "Wi-Fi Day Pass",
+                      "ReferencedSegments": [
+                        {
+                          "Origin": "ORD",
+                          "Destination": "IAH",
+                          "FlightHash": "304-2675-UA",
+                          "IsEligible": true
+                        }
+                      ],
+                      "ActualPrice": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 7.99,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 7.99,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "Price": {
+                        "Currency": "USD",
+                        "CurrencyAllPax": null,
+                        "Amount": 7.0,
+                        "AmountAllPax": 0.0,
+                        "AmountBase": 7.0,
+                        "PricingType": "Money",
+                        "PricingDetails": null
+                      },
+                      "EddCode": "WD1",
+                      "DisplayOrder": 5,
+                      "SubDescription": "Enjoy internet access onboard and unlock your ability to message, email, browse the web, or connect to VPN from 30,000 feet",
+                      "AlternateDescription": "Wi-Fi Day Pass"
+                    }
+                  ],
+                  "IsBundleProduct": true,
+                  "DisplayOrder": 4,
+                  "NumberOfPassengers": 1,
+                  "MerchandisingSessionSaveName": "ProductBundles",
+                  "MerchandisingSessionKeyName": "_POS_US-67945321-097C-4CF5-8FFC-7DF9565CB276",
+                  "TripIndex": 1,
+                  "SegmentNumber": 1,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "IsDynamicallyPriced": 0
+                }
+              ],
+              "StopInfos": [],
+              "ProductsNotSelected": [
+                {
+                  "BookingCode": "D",
+                  "BookingClassAvailability": "J4|JN4|C3|D2|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W9|S6|T3|L1|K0|G0|N9|XN4|X0",
+                  "BookingCount": 2,
+                  "CabinTypeText": "(2-cabin)",
+                  "CabinType": "First",
+                  "Description": "United First",
+                  "Mileage": 925,
+                  "ProductId": "4nH8e3OvMaMQaCy881JiDO00N",
+                  "Fares": [
+                    {
+                      "FareBasisCode": "QAA0OKFN",
+                      "SegmentRefs": [ "2675" ],
+                      "Amount": 440.0,
+                      "Currency": "USD",
+                      "Ptc": "ADT"
+                    }
+                  ],
+                  "ProductPath": "Revenue",
+                  "ProductSubtype": "BASE",
+                  "ProductType": "MIN-BUSINESS-OR-FIRST",
+                  "SolutionId": "4nH8e3OvMaMQaCy881JiDO00N",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": "USD",
+                      "Amount": 488.0,
+                      "AmountAllPax": 488.0,
+                      "AmountBase": 487.4,
+                      "PricingType": "Fare",
+                      "PricingDetails": null,
+                      "AmountBySlice": 488.0,
+                      "AmountBySliceAllPax": 488.0
+                    },
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": null,
+                      "Amount": 48.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 47.4,
+                      "PricingType": "Taxes",
+                      "PricingDetails": null
+                    }
+                  ],
+                  "MealDescription": "Breakfast",
+                  "NoChangeFeeIndicator": true,
+                  "NonRefundableIndicator": true,
+                  "CabinTypeCode": "UF",
+                  "DisplayOrder": 0,
+                  "ColumnId": 79,
+                  "NumberOfPassengers": 0,
+                  "TripIndex": 0,
+                  "SegmentNumber": 0,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                  "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                  "IsDynamicallyPriced": 0,
+                  "SortIndex": 77
+                },
+                {
+                  "BookingCode": "L",
+                  "BookingClassAvailability": "J4|JN4|C3|D2|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W9|S6|T3|L1|K0|G0|N9|XN4|X0",
+                  "BookingCount": 1,
+                  "CabinTypeText": "(fully refundable)",
+                  "CabinType": "Coach",
+                  "Description": "United Economy",
+                  "Mileage": 925,
+                  "ProductId": "4nH8e3OvMaMQaCy881JiDO00B",
+                  "Fares": [
+                    {
+                      "FareBasisCode": "LAA3AWEM",
+                      "SegmentRefs": [ "2675" ],
+                      "Amount": 143.26,
+                      "Currency": "USD",
+                      "Ptc": "ADT"
+                    }
+                  ],
+                  "ProductPath": "Revenue",
+                  "ProductSubtype": "BASE",
+                  "ProductType": "ECONOMY-UNRESTRICTED",
+                  "SolutionId": "4nH8e3OvMaMQaCy881JiDO00B",
+                  "Prices": [
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": "USD",
+                      "Amount": 169.0,
+                      "AmountAllPax": 169.0,
+                      "AmountBase": 168.4,
+                      "PricingType": "Fare",
+                      "PricingDetails": null,
+                      "AmountBySlice": 169.0,
+                      "AmountBySliceAllPax": 169.0
+                    },
+                    {
+                      "Currency": "USD",
+                      "CurrencyAllPax": null,
+                      "Amount": 26.0,
+                      "AmountAllPax": 0.0,
+                      "AmountBase": 25.14,
+                      "PricingType": "Taxes",
+                      "PricingDetails": null
+                    }
+                  ],
+                  "MealDescription": "Snacks for Purchase",
+                  "NoChangeFeeIndicator": true,
+                  "CabinTypeCode": "UE",
+                  "DisplayOrder": 0,
+                  "ColumnId": 9,
+                  "NumberOfPassengers": 0,
+                  "TripIndex": 0,
+                  "SegmentNumber": 0,
+                  "IsOverBooked": 0,
+                  "MarriedSegmentIndex": 0,
+                  "IsProductUpdatedForOverBooking": false,
+                  "UserSelection": "ECONOMY-UNRESTRICTED",
+                  "FareFamily": "ECONOMY-UNRESTRICTED",
+                  "IsDynamicallyPriced": 0,
+                  "SortIndex": 16
+                }
+              ],
+              "Warnings": [],
+              "EquipmentDisclosures": {
+                "EquipmentType": "320",
+                "EquipmentDescription": "Airbus A320",
+                "IsSingleCabin": false,
+                "NoBoardingAssistance": false,
+                "NonJetEquipment": false,
+                "WheelchairsNotAllowed": false
+              },
+              "FlightInfo": {
+                "ActualArrivalDateTime": null,
+                "ActualDepartureDateTime": null,
+                "EstimatedArrivalDateTime": "2021-10-31 08:55",
+                "EstimatedDepartureDateTime": "2021-10-31 06:00",
+                "MinutesDelayed": null,
+                "ScheduledArrivalDateTime": "2021-10-31 08:55",
+                "ScheduledDepartureDateTime": "2021-10-31 06:00",
+                "StatusCode": null,
+                "StatusMessage": null
+              },
+              "Aircraft": {
+                "Capacity": null,
+                "CruiseSpeed": null,
+                "Model": null,
+                "Propulsion": null,
+                "Wingspan": null
+              },
+              "Amenities": [],
+              "Hash": "304-2675-UA",
+              "MerchIndex": "S1",
+              "MerchTripIndex": "O11",
+              "TicketStock": null,
+              "Index": 1
+            }
+          ],
+          "PetCount": 0,
+          "SelectedSegmentInfo": null,
+          "Index": 1,
+          "OriginalMileage": 0,
+          "OriginalMileageTotal": 0,
+          "OriginalTax": 0.0,
+          "ChangeType": 0,
+          "OriginalChangeType": 0
+        }
+      ],
+      "DisplayPrices": [
+        {
+          "Amount": 96.74,
+          "Count": 1,
+          "Currency": "USD",
+          "Description": "Adult (18-64)",
+          "Type": "TravelerPrice",
+          "SubItems": [
+            {
+              "Type": "US",
+              "Amount": 7.26,
+              "Currency": "USD",
+              "Description": "U.S. Transportation Tax",
+              "Key": "0",
+              "Value": "Tax",
+              "Product": null,
+              "TripIndex": null,
+              "TravelerRefID": null,
+              "TravelerRefIDColl": null,
+              "Status": null,
+              "Reason": null,
+              "SegmentNumber": null,
+              "QuoteType": null,
+              "Count": 0,
+              "PaxTypeCode": null,
+              "OriginalPrice": 0.0
+            },
+            {
+              "Type": "XF",
+              "Amount": 4.5,
+              "Currency": "USD",
+              "Description": "U.S. Passenger Facility Charge",
+              "Key": "1",
+              "Value": "Tax",
+              "Product": null,
+              "TripIndex": null,
+              "TravelerRefID": null,
+              "TravelerRefIDColl": null,
+              "Status": null,
+              "Reason": null,
+              "SegmentNumber": null,
+              "QuoteType": null,
+              "Count": 0,
+              "PaxTypeCode": null,
+              "OriginalPrice": 0.0
+            },
+            {
+              "Type": "ZP",
+              "Amount": 4.3,
+              "Currency": "USD",
+              "Description": "U.S. Flight Segment Tax",
+              "Key": "2",
+              "Value": "Tax",
+              "Product": null,
+              "TripIndex": null,
+              "TravelerRefID": null,
+              "TravelerRefIDColl": null,
+              "Status": null,
+              "Reason": null,
+              "SegmentNumber": null,
+              "QuoteType": null,
+              "Count": 0,
+              "PaxTypeCode": null,
+              "OriginalPrice": 0.0
+            },
+            {
+              "Type": "AY",
+              "Amount": 5.6,
+              "Currency": "USD",
+              "Description": "September 11th Security Fee",
+              "Key": "3",
+              "Value": "Tax",
+              "Product": null,
+              "TripIndex": null,
+              "TravelerRefID": null,
+              "TravelerRefIDColl": null,
+              "Status": null,
+              "Reason": null,
+              "SegmentNumber": null,
+              "QuoteType": null,
+              "Count": 0,
+              "PaxTypeCode": null,
+              "OriginalPrice": 0.0
+            }
+          ],
+          "ProductId": null,
+          "PaxTypeCode": "ADT",
+          "CertApplied": null,
+          "Waived": false,
+          "Status": null,
+          "PricingPaxType": "ADT",
+          "ResidualAmount": 0.0
+        },
+        {
+          "Amount": 118.4,
+          "Count": 0,
+          "Currency": "USD",
+          "Description": "Total",
+          "Type": "Total",
+          "SubItems": null,
+          "ProductId": null,
+          "PaxTypeCode": null,
+          "CertApplied": null,
+          "Waived": false,
+          "Status": null,
+          "PricingPaxType": null,
+          "ResidualAmount": 0.0
+        }
+      ],
+      "DisplayPricesSummary": null,
+      "DisplayDetails": [],
+      "bookingDetails": {
+        "solution": [
+          {
+            "ext": {
+              "bookingCodeCount": 0,
+              "fareFamily": "bookingDetails",
+              "fareFlavor": "vanilla",
+              "basePrice": null,
+              "price": null,
+              "taxTotalNoYQYR": null,
+              "referencePrice": null,
+              "allPassengerPrice": null,
+              "fareCalcPrice": null,
+              "rewardSaleTaxTotal": null,
+              "reissue": null,
+              "businessMeal": null,
+              "economyMeal": null,
+              "premiumEconomyMeal": null,
+              "endorsements": null,
+              "warnings": null,
+              "taxRollup": null,
+              "tag": null,
+              "pax": null,
+              "taxTotal": null,
+              "tax": null,
+              "yqTaxTotal": null,
+              "isOverbooked": 0,
+              "userSelection": null,
+              "mostRestrictiveRuleSummary": null
+            },
+            "itinerary": null,
+            "passenger": [
+              {
+                "ptc": [ "ADT", "AUTOAC", "AUTOSP" ],
+                "id": "0",
+                "age": "25",
+                "profile": null
+              }
+            ],
+            "pricing": [
+              {
+                "bookingInfo": null,
+                "tax": [
+                  {
+                    "price": null,
+                    "salePrice": {
+                      "amount": 7.26,
+                      "currency": "USD"
+                    },
+                    "calculationMethod": null,
+                    "code": "US",
+                    "country": null,
+                    "destination": null,
+                    "id": null,
+                    "origin": null,
+                    "subcode": null,
+                    "status": "APPLIED",
+                    "nettingResult": null,
+                    "displayPrice": null,
+                    "previousPrice": null,
+                    "previousSalePrice": null,
+                    "priceDifference": null,
+                    "salePriceDifference": null
+                  },
+                  {
+                    "price": null,
+                    "salePrice": {
+                      "amount": 4.5,
+                      "currency": "USD"
+                    },
+                    "calculationMethod": null,
+                    "code": "XF",
+                    "country": null,
+                    "destination": null,
+                    "id": null,
+                    "origin": null,
+                    "subcode": null,
+                    "status": "APPLIED",
+                    "nettingResult": null,
+                    "displayPrice": null,
+                    "previousPrice": null,
+                    "previousSalePrice": null,
+                    "priceDifference": null,
+                    "salePriceDifference": null
+                  },
+                  {
+                    "price": null,
+                    "salePrice": {
+                      "amount": 4.3,
+                      "currency": "USD"
+                    },
+                    "calculationMethod": null,
+                    "code": "ZP",
+                    "country": null,
+                    "destination": null,
+                    "id": null,
+                    "origin": null,
+                    "subcode": null,
+                    "status": "APPLIED",
+                    "nettingResult": null,
+                    "displayPrice": null,
+                    "previousPrice": null,
+                    "previousSalePrice": null,
+                    "priceDifference": null,
+                    "salePriceDifference": null
+                  },
+                  {
+                    "price": null,
+                    "salePrice": {
+                      "amount": 5.6,
+                      "currency": "USD"
+                    },
+                    "calculationMethod": null,
+                    "code": "AY",
+                    "country": null,
+                    "destination": null,
+                    "id": null,
+                    "origin": null,
+                    "subcode": null,
+                    "status": "APPLIED",
+                    "nettingResult": null,
+                    "displayPrice": null,
+                    "previousPrice": null,
+                    "previousSalePrice": null,
+                    "priceDifference": null,
+                    "salePriceDifference": null
+                  }
+                ],
+                "optionalService": null,
+                "PaxPricingIndex": 0,
+                "ext": {
+                  "bookingCodeCount": 0,
+                  "fareFamily": null,
+                  "fareFlavor": null,
+                  "basePrice": null,
+                  "price": {
+                    "amount": 96.74,
+                    "currency": "USD"
+                  },
+                  "taxTotalNoYQYR": {
+                    "totalSalePrice": {
+                      "amount": 21.66,
+                      "currency": "USD"
+                    }
+                  },
+                  "referencePrice": {
+                    "amount": 96.74,
+                    "currency": "USD"
+                  },
+                  "allPassengerPrice": {
+                    "amount": 118.4,
+                    "currency": "USD"
+                  },
+                  "fareCalcPrice": null,
+                  "rewardSaleTaxTotal": null,
+                  "reissue": null,
+                  "businessMeal": null,
+                  "economyMeal": null,
+                  "premiumEconomyMeal": null,
+                  "miles": "97",
+                  "endorsements": [ "NONREF/0VALUAFTDPT" ],
+                  "warnings": null,
+                  "taxRollup": null,
+                  "tag": null,
+                  "pax": null,
+                  "taxTotal": {
+                    "totalSalePrice": {
+                      "amount": 21.66,
+                      "currency": "USD"
+                    }
+                  },
+                  "tax": null,
+                  "yqTaxTotal": null,
+                  "isOverbooked": 0,
+                  "userSelection": null,
+                  "mostRestrictiveRuleSummary": null
+                },
+                "saleFareTotal": {
+                  "amount": 96.74,
+                  "currency": "USD"
+                },
+                "surcharge": null,
+                "salePrice": {
+                  "amount": 118.4,
+                  "currency": "USD"
+                },
+                "saleTaxTotal": {
+                  "amount": 21.66,
+                  "currency": "USD"
+                },
+                "allianceCost": null,
+                "cocFareDifference": null,
+                "cocFareTotal": {
+                  "amount": 96.74,
+                  "currency": "USD"
+                },
+                "addCollectPrice": null,
+                "additionalCollectionAwardPoints": 0,
+                "previousAwardPointsFareTotal": 0,
+                "previousCocFareTotal": null,
+                "refundAwardPoints": 0,
+                "fareCalculation": [
+                  {
+                    "boxedTax": null,
+                    "line": [ "CHI UA HOU 96.74LAA3AWEN USD 96.74 END ZP ORD XT 7.26US 4.30ZP 5.60AY 4.50XF ORD4.5" ]
+                  }
+                ],
+                "fare": [
+                  {
+                    "negotiatedFare": null,
+                    "adjustment": null,
+                    "city1": null,
+                    "city2": null,
+                    "code": null,
+                    "destinationCity": "HOU",
+                    "globalIndicator": null,
+                    "displayAdjustedPrice": null,
+                    "originCity": "CHI",
+                    "tag": "ONE-WAY",
+                    "extendedFareCode": "LAA3AWEN",
+                    "ticketDesignator": null,
+                    "travelDirection": null,
+                    "carrier": "UA",
+                    "endorsement": "NONREF/0VALUAFTDPT",
+                    "ptc": "ADT",
+                    "adjustedPrice": null,
+                    "saleAdjustedPrice": null,
+                    "dynamicCode": null,
+                    "isMerchEnginePriced": false,
+                    "rkey": "AaaHu8C9IwYmvzhW2rnG5IaQYWzzBdMxLPTT2iDWICNo",
+                    "basePrice": "USD96.74",
+                    "bookingInfo": [
+                      {
+                        "fare": null,
+                        "segment": {
+                          "duration": 0,
+                          "flight": null,
+                          "hash": null,
+                          "subjectToGovernmentApproval": null,
+                          "bookingCode": null,
+                          "leg": null,
+                          "arrival": null,
+                          "connection": null,
+                          "departure": null,
+                          "ext": null,
+                          "availability": null,
+                          "bookingInfo": [
+                            {
+                              "fare": null,
+                              "segment": null,
+                              "cocFareTotal": null,
+                              "bookingCode": "L",
+                              "bookingCodeCount": null,
+                              "bookingCodePriceAdjustment": null,
+                              "PaxPriceIndex": 0,
+                              "marriedSegmentIndex": 0
+                            }
+                          ],
+                          "destination": null,
+                          "origin": null,
+                          "departureDate": null,
+                          "flightCode": null,
+                          "isConnection": false,
+                          "departureTime": null,
+                          "fareCode": null,
+                          "pricing": null,
+                          "distance": null
+                        },
+                        "cocFareTotal": null,
+                        "bookingCode": null,
+                        "bookingCodeCount": null,
+                        "bookingCodePriceAdjustment": null,
+                        "PaxPriceIndex": 0,
+                        "marriedSegmentIndex": 0
+                      }
+                    ],
+                    "ruleSummary": {},
+                    "characteristics": []
+                  }
+                ],
+                "note": [ {} ],
+                "paxCount": 1,
+                "paxIds": null,
+                "slice": null,
+                "preUpgradeBookingInfo": null,
+                "passenger": [
+                  {
+                    "ptc": [ "ADT", "AUTOAC", "AUTOSP" ],
+                    "id": "0",
+                    "age": "25",
+                    "profile": null
+                  }
+                ],
+                "availabilityStatus": null,
+                "refundPrice": null,
+                "saleFareDifference": null,
+                "saleTaxTotalDifference": null,
+                "secondaryBookingInfo": null
+              }
+            ],
+            "id": "dQ6fIVUfRbJNHGcyCtJOzC001",
+            "slice": [
+              {
+                "hash": null,
+                "cabin": null,
+                "duration": "175",
+                "maxStopCount": null,
+                "stop": null,
+                "departure": null,
+                "departureTime": null,
+                "cell": null,
+                "ext": null,
+                "flightCode": null,
+                "saleTaxTotal": null,
+                "segment": [
+                  {
+                    "duration": 0,
+                    "flight": null,
+                    "hash": "GHKnDlO6za5ehxeo",
+                    "subjectToGovernmentApproval": null,
+                    "bookingCode": null,
+                    "leg": [
+                      {
+                        "arrival": "2021-10-31T08:55-05:00",
+                        "departure": "2021-10-31T06:00-05:00",
+                        "destination": "IAH",
+                        "origin": "ORD",
+                        "connection": null,
+                        "destinationTerminal": "C",
+                        "originTerminal": "1",
+                        "operationalDisclosure": null,
+                        "operationalFlight": null,
+                        "ext": null,
+                        "flight": "UA2675",
+                        "hash": "Ld703MidA-i+vK9q",
+                        "cabinCount": 2,
+                        "aircraftConfiguration": null
+                      }
+                    ],
+                    "arrival": null,
+                    "connection": null,
+                    "departure": null,
+                    "ext": null,
+                    "availability": {
+                      "bookingCodeCount": [
+                        {
+                          "code": "J",
+                          "count": "4"
+                        },
+                        {
+                          "code": "JN",
+                          "count": "4"
+                        },
+                        {
+                          "code": "C",
+                          "count": "3"
+                        },
+                        {
+                          "code": "D",
+                          "count": "2"
+                        },
+                        {
+                          "code": "Z",
+                          "count": "0"
+                        },
+                        {
+                          "code": "ZN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "P",
+                          "count": "0"
+                        },
+                        {
+                          "code": "PN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "PZ",
+                          "count": "0"
+                        },
+                        {
+                          "code": "IN",
+                          "count": "0"
+                        },
+                        {
+                          "code": "I",
+                          "count": "0"
+                        },
+                        {
+                          "code": "Y",
+                          "count": "9"
+                        },
+                        {
+                          "code": "YN",
+                          "count": "9"
+                        },
+                        {
+                          "code": "B",
+                          "count": "9"
+                        },
+                        {
+                          "code": "M",
+                          "count": "9"
+                        },
+                        {
+                          "code": "E",
+                          "count": "9"
+                        },
+                        {
+                          "code": "U",
+                          "count": "9"
+                        },
+                        {
+                          "code": "H",
+                          "count": "9"
+                        },
+                        {
+                          "code": "HN",
+                          "count": "9"
+                        },
+                        {
+                          "code": "Q",
+                          "count": "9"
+                        },
+                        {
+                          "code": "V",
+                          "count": "9"
+                        },
+                        {
+                          "code": "W",
+                          "count": "9"
+                        },
+                        {
+                          "code": "S",
+                          "count": "6"
+                        },
+                        {
+                          "code": "T",
+                          "count": "3"
+                        },
+                        {
+                          "code": "L",
+                          "count": "1"
+                        },
+                        {
+                          "code": "K",
+                          "count": "0"
+                        },
+                        {
+                          "code": "G",
+                          "count": "0"
+                        },
+                        {
+                          "code": "N",
+                          "count": "9"
+                        },
+                        {
+                          "code": "XN",
+                          "count": "4"
+                        },
+                        {
+                          "code": "X",
+                          "count": "0"
+                        }
+                      ]
+                    },
+                    "destination": null,
+                    "origin": null,
+                    "departureDate": null,
+                    "flightCode": null,
+                    "isConnection": false,
+                    "departureTime": null,
+                    "fareCode": null,
+                    "pricing": null,
+                    "distance": null
+                  }
+                ],
+                "tax": null,
+                "taxes": null,
+                "index": "0",
+                "stopCount": null,
+                "daysBefore": null,
+                "daysAfter": null,
+                "maxConnectionTime": null
+              }
+            ],
+            "saleTotal": null,
+            "saleTaxTotal": null,
+            "valueFunctionTag": null,
+            "dynamicallyPriced": null
+          }
+        ]
+      },
+      "TravelOptions": [],
+      "DisplayFees": [],
+      "ProductsDirty": true,
+      "ProductCode": "",
+      "Characteristics": [
+        {
+          "Code": "SHOPREQPETTRAVEL",
+          "Value": "False"
+        },
+        {
+          "Code": "SHOPREQPETCOUNT",
+          "Value": "0"
+        },
+        {
+          "Code": "RECENTSEARCHKEY",
+          "Value": "ORDIAH10/31/2021"
+        },
+        {
+          "Code": "DEVICEID",
+          "Value": "225110e2-58b1-4c9e-b1e9-e489a6cbfc35"
+        },
+        {
+          "Code": "IS_FROM_FSCLOUD",
+          "Value": "true"
+        }
+      ],
+      "IsFareExpire": true,
+      "ProductCodeBeforeUpgrade": "",
+      "BookingDetailsRespSolutionSetId": "05wTBxlC2KDSV08W4Bbc4q8",
+      "FareEndorsements": [ "NONREF/0VALUAFTDPT" ]
+    },
+    "Errors": [],
+    "Reservation": {
+      "Travelers": [
+        {
+          "Person": {
+            "Key": "1.1",
+            "Surname": "jeste",
+            "GivenName": "test",
+            "MiddleName": "sam",
+            "Suffix": "",
+            "DateOfBirth": "08/31/1988",
+            "Sex": "M",
+            "Documents": [
+              {
+                "DateOfBirth": "08/31/1988",
+                "GivenName": "test",
+                "Surname": "jeste",
+                "Suffix": "",
+                "Sex": "M",
+                "Type": 0,
+                "KnownTravelerNumber": "",
+                "RedressNumber": "",
+                "MiddleName": "sam"
+              }
+            ],
+            "Type": "ADT",
+            "InfantIndicator": "false",
+            "ReservationIndex": "0",
+            "Contact": {
+              "Emails": [],
+              "PhoneNumbers": []
+            },
+            "PricingPaxType": "ADT"
+          },
+          "LoyaltyProgramProfile": {
+            "LoyaltyProgramCarrierCode": "UA",
+            "LoyaltyProgramMemberID": "AW719636",
+            "LoyaltyProgramMemberTierLevel": "0",
+            "LoyaltyProgramMemberTierDescription": 0,
+            "MilesBalance": 862359
+          },
+          "Tickets": [ { "TicketingCarrierCode": "UA" } ]
+        }
+      ],
+      "TelephoneNumbers": [],
+      "FlightSegments": [
+        {
+          "FlightSegment": {
+            "DepartureAirport": {
+              "IATACode": "ORD",
+              "Name": "Chicago, IL, US (ORD)",
+              "IATACountryCode": { "CountryCode": "US" },
+              "StateProvince": { "StateProvinceCode": "IL" }
+            },
+            "ArrivalAirport": {
+              "IATACode": "IAH",
+              "Name": "Houston, TX, US (IAH)",
+              "IATACountryCode": { "CountryCode": "US" },
+              "StateProvince": { "StateProvinceCode": "TX" }
+            },
+            "DepartureDateTime": "2021-10-31 06:00",
+            "ArrivalDateTime": "2021-10-31 08:55",
+            "FlightNumber": "2675",
+            "OperatingAirlineCode": "UA",
+            "Equipment": {
+              "Model": {
+                "Description": "Airbus A320",
+                "Fleet": "320"
+              },
+              "CabinCount": 2,
+              "SeatmapLegendList": null
+            },
+            "MarketedFlightSegment": [
+              {
+                "MarketingAirlineCode": "UA",
+                "FlightNumber": "2675"
+              }
+            ],
+            "MarriageGroup": "N",
+            "Distance": 925,
+            "SegmentNumber": 1,
+            "BookingClasses": [
+              {
+                "Code": "L",
+                "Cabin": {
+                  "Key": "UE",
+                  "Name": "United Economy",
+                  "Layout": "2"
+                }
+              }
+            ],
+            "FlightSegmentType": "NN",
+            "TravelerCounts": [ { "Counts": [ { "Value": "1" } ] } ],
+            "Message": [
+              { "Code": "ARRDAYDIFF" },
+              {
+                "Text": "LAA3AWEN",
+                "Code": "BASIS_CODE"
+              },
+              {
+                "Text": "False",
+                "Code": "PETS_DISALLOWED"
+              },
+              {
+                "Text": "United Airlines",
+                "Code": "OPERATINGCARRIERDESC"
+              },
+              {
+                "Text": "OBY",
+                "Code": "OB"
+              }
+            ],
+            "Characteristic": [
+              {
+                "Code": "PET_COUNT",
+                "Value": "0"
+              }
+            ],
+            "IsInternational": "False",
+            "AvailBookingClasses": [
+              {
+                "Code": "J",
+                "Counts": { "Value": "4" }
+              },
+              {
+                "Code": "JN",
+                "Counts": { "Value": "4" }
+              },
+              {
+                "Code": "C",
+                "Counts": { "Value": "3" }
+              },
+              {
+                "Code": "D",
+                "Counts": { "Value": "2" }
+              },
+              {
+                "Code": "Z",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "ZN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "P",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "PN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "PZ",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "IN",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "I",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "Y",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "YN",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "B",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "M",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "E",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "U",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "H",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "HN",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "Q",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "V",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "W",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "S",
+                "Counts": { "Value": "6" }
+              },
+              {
+                "Code": "T",
+                "Counts": { "Value": "3" }
+              },
+              {
+                "Code": "L",
+                "Counts": { "Value": "1" }
+              },
+              {
+                "Code": "K",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "G",
+                "Counts": { "Value": "0" }
+              },
+              {
+                "Code": "N",
+                "Counts": { "Value": "9" }
+              },
+              {
+                "Code": "XN",
+                "Counts": { "Value": "4" }
+              },
+              {
+                "Code": "X",
+                "Counts": { "Value": "0" }
+              }
+            ],
+            "UpgradeEligibilityStatus": 0,
+            "UpgradeVisibilityType": 0,
+            "InstantUpgradable": false
+          },
+          "IsConnection": "False",
+          "Characteristic": [
+            {
+              "Code": "SELECTED_FARE_TYPE",
+              "Value": "ECONOMY"
+            }
+          ],
+          "SegmentNumber": 1,
+          "TripNumber": "1"
+        }
+      ],
+      "Prices": [
+        {
+          "BasePrice": [
+            {
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 96.74
+            }
+          ],
+          "Taxes": [
+            {
+              "Code": "US",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 7.26,
+              "Description": "U.S. Transportation Tax",
+              "Status": "APPLIED"
+            },
+            {
+              "Code": "XF",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 4.5,
+              "Description": "U.S. Passenger Facility Charge",
+              "Status": "APPLIED"
+            },
+            {
+              "Code": "ZP",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 4.3,
+              "Description": "U.S. Flight Segment Tax",
+              "Status": "APPLIED"
+            },
+            {
+              "Code": "AY",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 5.6,
+              "Description": "September 11th Security Fee",
+              "Status": "APPLIED"
+            }
+          ],
+          "Surcharges": [],
+          "Fees": [],
+          "Totals": [
+            {
+              "Name": "TaxTotal",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 21.66
+            },
+            {
+              "Name": "GrandTotalForMileage",
+              "Currency": { "Code": "MIL" },
+              "Amount": 0.0
+            },
+            {
+              "Name": "GrandTotalForCurrency",
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": 2
+              },
+              "Amount": 118.4
+            }
+          ],
+          "BasePriceEquivalent": {
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 96.74
+          },
+          "Type": {
+            "Key": "Revenue",
+            "Description": "fareFlavor",
+            "Value": "ADT"
+          },
+          "Rules": [ { "Description": "NONREF/0VALUAFTDPT" } ],
+          "FareCalculation": "CHI UA HOU 96.74LAA3AWEN USD 96.74 END ZP ORD XT 7.26US 4.30ZP 5.60AY 4.50XF ORD4.5",
+          "FareComponents": [
+            {
+              "AirlineCode": "UA",
+              "OriginCity": "CHI",
+              "DestinationCity": "HOU",
+              "BasisCodes": [ "LAA3AWEN" ],
+              "TripType": "ONE-WAY",
+              "BasePrice": [
+                {
+                  "Currency": { "Code": "USD" },
+                  "Amount": 96.74
+                }
+              ],
+              "DestinationAirportCode": "HOU",
+              "OriginAirportCode": "CHI",
+              "SequenceNumber": 1,
+              "PassengerTypeCode": "ADT",
+              "Characteristic": []
+            }
+          ],
+          "Count": {
+            "CountType": "Pax Count",
+            "Value": "1"
+          },
+          "FareType": 0,
+          "PriceFlightSegments": [
+            {
+              "FareBasisCode": "LAA3AWEN",
+              "TicketDesignator": "",
+              "LOFNumber": 1,
+              "FareComponentSequenceNumber": 1,
+              "GlobalIndicator": "",
+              "DepartureAirport": {
+                "IATACode": "ORD",
+                "ShortName": "ORD"
+              },
+              "ArrivalAirport": {
+                "IATACode": "IAH",
+                "ShortName": "IAH"
+              },
+              "DepartureDateTime": "2021-10-31 06:00",
+              "ArrivalDateTime": "2021-10-31 08:55",
+              "FlightNumber": "2675",
+              "MarketedFlightSegment": [ { "MarketingAirlineCode": "UA" } ],
+              "MarriageGroup": "N",
+              "SegmentNumber": 1,
+              "BookingClasses": [ { "Code": "L" } ],
+              "Legs": [
+                {
+                  "Equipment": {
+                    "Model": { "Fleet": "320" },
+                    "SeatmapLegendList": null
+                  },
+                  "CabinCount": 2
+                }
+              ],
+              "UpgradeEligibilityStatus": 0,
+              "UpgradeVisibilityType": 0,
+              "InstantUpgradable": false,
+              "AuxillaryText": "False"
+            }
+          ],
+          "PassengerTypeCode": "ADT",
+          "Characteristics": [],
+          "PassengerIDs": {
+            "Key": "1.1",
+            "Description": "ADT"
+          }
+        }
+      ],
+      "Type": [
+        { "Key": "NEW" },
+        { "Key": "REVENUE" }
+      ],
+      "Characteristic": [
+        {
+          "Code": "Refundable",
+          "Value": "False"
+        },
+        {
+          "Code": "ContentLookupID",
+          "Value": "Messages:63"
+        },
+        {
+          "Code": "BBXID",
+          "Value": "ksZHvLggRoZ8DcwWP0aMtH"
+        },
+        {
+          "Code": "TRIP_TYPE",
+          "Value": "OW",
+          "Description": "TRIP_TYPE"
+        },
+        {
+          "Code": "StationCode",
+          "Value": "HOU"
+        }
+      ],
+      "NumberInParty": 1,
+      "Pets": [],
+      "AncillaryProducts": [
+        {
+          "Code": "EPU",
+          "SubProducts": [
+            {
+              "Prices": [
+                {
+                  "PaymentOptions": [
+                    {
+                      "PriceComponents": [
+                        {
+                          "Price": {
+                            "Totals": [
+                              {
+                                "Code": "USD",
+                                "Currency": { "Code": "USD" },
+                                "Amount": 63.0
+                              }
+                            ],
+                            "FareType": 0
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "Association": { "TravelerRefIDs": [ "1.1" ] }
+            }
+          ],
+          "Association": { "TravelerRefIDs": [ "1.1" ] }
+        }
+      ],
+      "Sponsor": {
+        "LoyaltyProgramMemberID": "AW719636",
+        "LoyaltyProgramCarrierCode": "UA",
+        "AccountBalances": [ { "Balance": 862359 } ],
+        "Surname": "jeste",
+        "GivenName": "test",
+        "MiddleName": "sam"
+      },
+      "GUID": {
+        "ID": "67945321-097C-4CF5-8FFC-7DF9565CB276",
+        "LanguageCode": null
+      },
+      "PointOfSale": {
+        "Country": { "CountryCode": "US" },
+        "CurrencyCode": "USD"
+      },
+      "CartId": "67945321-097C-4CF5-8FFC-7DF9565CB276"
+    },
+    "Timings": [],
+    "Warnings": []
+  }
+]

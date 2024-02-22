@@ -1,0 +1,101 @@
+[
+  {
+    "Status": "Success",
+    "ColumnInformation": {
+      "Columns": [
+        {
+          "dataSourceLabel": "Economy",
+          "description": "",
+          "teaserTexts": [
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": true,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 1,
+              "text": "NOTAPPLICABLE"
+            },
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": false,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 2,
+              "text": "NOTAPPLICABLE"
+            },
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": false,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 3,
+              "text": "NOTAPPLICABLE"
+            }
+          ]
+        },
+        {
+          "dataSourceLabel": "Premium Economy",
+          "description": "",
+          "teaserTexts": [
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": true,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 1,
+              "text": "NOTAPPLICABLE"
+            },
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": false,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 2,
+              "text": "NOTAPPLICABLE"
+            },
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": false,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 3,
+              "text": "NOTAPPLICABLE"
+            }
+          ]
+        },
+        {
+          "dataSourceLabel": "Business",
+          "description": "(lowest)",
+          "teaserTexts": [
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": true,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 1,
+              "text": "NOTAPPLICABLE"
+            },
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": false,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 2,
+              "text": "NOTAPPLICABLE"
+            },
+            {
+              "icon": "https://smartphone-qa.united.com/REST22HQA/Images/rule-checkmark.png",
+              "isPrimary": false,
+              "itemType": "",
+              "langCode": "en-US",
+              "sortIndex": 3,
+              "text": "NOTAPPLICABLE"
+            }
+          ]
+        }
+      ]
+
+    },
+    "Errors": null
+  }
+]

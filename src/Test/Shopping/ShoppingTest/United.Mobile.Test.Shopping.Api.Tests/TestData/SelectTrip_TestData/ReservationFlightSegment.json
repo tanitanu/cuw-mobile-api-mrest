@@ -1,0 +1,54 @@
+[
+  {
+    "FlightSegment": {
+      "DepartureAirport": { "IATACode": "EWR" },
+      "ArrivalAirport": { "IATACode": "MSY" },
+      "DepartureDateTime": "2021-09-23 07:57",
+      "FlightNumber": "3661",
+      "OperatingAirlineCode": "UA",
+      "BookingClasses": [
+        {
+          "Code": "E",
+          "Cabin": { "Name": "United Economy" }
+        }
+      ],
+      "Characteristic": [
+        {
+          "Code": "",
+          "Value": "",
+          "Description": "Special Meals Not Available to Offer"
+        }
+      ],
+      "IsInternational": "False",
+      "UpgradeEligibilityStatus": 0,
+      "UpgradeVisibilityType": 0,
+      "InstantUpgradable": false
+    }
+  },
+  {
+    "FlightSegment": {
+      "DepartureAirport": { "IATACode": "MSY" },
+      "ArrivalAirport": { "IATACode": "EWR" },
+      "DepartureDateTime": "2021-10-01 10:50",
+      "FlightNumber": "3711",
+      "OperatingAirlineCode": "UA",
+      "BookingClasses": [
+        {
+          "Code": "T",
+          "Cabin": { "Name": "United Economy" }
+        }
+      ],
+      "Characteristic": [
+        {
+          "Code": "SPML",
+          "Value": "HNML|GFML",
+          "Description": "Special Meals Not Available to Offer"
+        }
+      ],
+      "IsInternational": "False",
+      "UpgradeEligibilityStatus": 0,
+      "UpgradeVisibilityType": 0,
+      "InstantUpgradable": false
+    }
+  }
+]

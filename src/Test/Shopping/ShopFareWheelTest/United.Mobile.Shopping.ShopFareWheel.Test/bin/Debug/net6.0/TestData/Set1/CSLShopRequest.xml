@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CSLShopRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ObjectName>United.Persist.Definition.Shopping.CSLShopRequest</ObjectName>
+  <ShopRequest AccessCode="262F7565-3485-4DC5-A51B-F4392C1D7B21" AwardTravel="false" BookingCodesSpecified="" BundleProductCode="None" CabinPreferenceMain="" CalendarLengthOfStay="-1" CalendarEconomyCallback="false" CalendarOnly="false" ChannelType="MOBILE" cool="false" CountryCode="US" CustomerId="0" DecodesRequested="true" DecodesOnTimePerfRequested="false" DepartDateTime="11/16/2021" Destination="LHR" DisableMostRestrictive="true" DisablePricingBySlice="true" EditSearch="false" EliteLevel="0" FareCalendar="false" FareMerchCalendar="false" FareWheelOnly="false" FlexibleDaysAfter="3" FlexibleDaysBefore="3" InclAltTransportation="false" IncludeAmenities="false" InclCancelledFlights="true" IncludeLmx="false" InclOAMain="true" InclStarMain="true" InclUACodeshares="true" InclUAMain="true" InclUARegionals="true" InclZeroAvailability="false" InitialShop="true" InvokeAuxiliaryData="false" IsSearchInjection="false" LangCode="en-US" LastTripIndex="0" LoyaltyId="AW719636" MaxConnectTimeMinutes="0" MinConnectTimeMinutes="0" Origin="ORD" OxygenCarrierProvided="false" OxygenCustomerProvided="false" NGRP="true" PageIndex="1" PageSize="150" PetCount="0" PetTravel="false" PromoDiscountLowerBound="0" PromoDiscountValue="0" RecentSearchKey="ORDLHR11/16/2021" RememberedLoyaltyId="AW719636" RequeryForPassengerChange="false" RequeryForPOSChange="false" RequeryForUpsell="false" RequestMileageDistance="false" SearchFailoverDays="0" SessionId="03FB4C91A5AE46889D822123147CB9C8" SimpleSearch="true" SortType="R" SortTypeDescending="false" StartIndex="0" Stops="2" StopsInclusive="true" TrueAvailability="true" UnaccompaniedMinor="false" UpgradeComplimentaryRequested="true" IsPreferredBankCardHolder="false" InvokeShopAsynch="false" FareMatrixOnly="false" RequeryForSession="false" IsReprice="false" CacheOnly="false">
+    <ApproxTimeOfDay>ValueNotSet</ApproxTimeOfDay>
+    <Bereavement>NoneSelected</Bereavement>
+    <MaxTrips>150</MaxTrips>
+    <MilitaryTravelType>NotSet</MilitaryTravelType>
+    <SearchType>ValueNotSet</SearchType>
+    <SearchTypeSelection>OneWay</SearchTypeSelection>
+    <ServiceType>Boombox</ServiceType>
+    <VendorQuery>false</VendorQuery>
+    <PaxInfoList>
+      <PaxInfo>
+        <PaxType>Adult</PaxType>
+        <DateOfBirth>11/14/1996</DateOfBirth>
+        <UMNROptIn>false</UMNROptIn>
+        <Age>0</Age>
+      </PaxInfo>
+    </PaxInfoList>
+    <Trips>
+      <Trip Destination="LHR" DestinationAllAirports="false" InternationalCitiesExist="false" Origin="ORD" OriginAllAirports="false" DepartDate="11/16/2021" DepartTimeApprox="ValueNotSet" FlexibleDaysAfter="0" FlexibleDaysBefore="0" Index="0" NonStopMarket="false" PassPlusFaresFound="false" PetCount="0" PetIsTraveling="false" OriginRecommendedAirportUsed="false" DestinationRecommendedAirportUsed="false" OriginTriggeredAirport="false" DestinationTriggeredAirport="false" RewardUpgradeSearch="false" SearchRadiusMilesDestination="0" SearchRadiusMilesOrigin="0" Selected="false" TripIndex="1" UnaccompaniedMinor="false" UseFilters="false" Used="false" ChangeType="0" OriginalChangeType="0" OriginalMileage="0" OriginalMileageTotal="0" OriginalTax="0">
+        <CabinType>Coach</CabinType>
+        <ITAQueries />
+        <SearchFiltersIn CabinCountMin="-1" CabinCountMax="-1" CarrierDefault="true" CarrierExpress="true" CarrierPartners="true" CarrierStar="true" DurationMin="-1" DurationMax="-1" DurationStopMin="-1" DurationStopMax="-1" FareFamily="ECONOMY" PriceMin="-1" PriceMinCurrency="USD" PriceMax="-1" PriceMaxCurrency="USD" StopCountExcl="-1" StopCountMin="-1" StopCountMax="-1" MaxConnectTimeMinutes="0" MinConnectTimeMinutes="0">
+          <AirportsDestinationList />
+          <AirportsOriginList />
+          <AirportsStopList />
+          <AirportsStopToAvoidList />
+          <CarriersMarketingList />
+          <CarriersOperatingList />
+          <EquipmentList />
+          <FareFamilyFilters />
+          <Warnings />
+        </SearchFiltersIn>
+        <SearchFiltersOut CabinCountMin="-1" CabinCountMax="-1" CarrierDefault="true" CarrierExpress="true" CarrierPartners="true" CarrierStar="true" DurationMin="-1" DurationMax="-1" DurationStopMin="-1" DurationStopMax="-1" PriceMin="-1" PriceMinCurrency="USD" PriceMax="-1" PriceMaxCurrency="USD" StopCountExcl="-1" StopCountMin="-1" StopCountMax="-1" MaxConnectTimeMinutes="0" MinConnectTimeMinutes="0">
+          <AirportsDestinationList />
+          <AirportsOriginList />
+          <AirportsStopList />
+          <AirportsStopToAvoidList />
+          <CarriersMarketingList />
+          <CarriersOperatingList />
+          <EquipmentList />
+          <FareFamilyFilters />
+          <Warnings />
+        </SearchFiltersOut>
+        <Flights />
+        <FlightCount>0</FlightCount>
+      </Trip>
+    </Trips>
+    <QueryWithPinDown>false</QueryWithPinDown>
+  </ShopRequest>
+</CSLShopRequest>

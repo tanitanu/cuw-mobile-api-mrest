@@ -1,0 +1,580 @@
+[
+  {
+    "amount": "199.00",
+    "cartId": "7EECBBDA-1AAD-4CCF-8935-506FEFDEF14F",
+    "checkInSessionId": "D0733C877E694D6A8C3F33F495C73965",
+    "customerId": 123723799,
+    "flow": "VIEWRES",
+    "hashPinCode": "BB244D17595B4FA4F76B95BE498FF733B4346413",
+    "isCCSelectedForContactless": true,
+    "isSavedToProfile": true,
+    "mileagePlusNumber": "CF221035",
+    "sessionId": "D0733C877E694D6A8C3F33F495C73965",
+    "traveler": {
+      "addresses": [
+        {
+          "channel": {
+            "channelCode": "A",
+            "channelDescription": "Address",
+            "channelTypeCode": "H",
+            "channelTypeDescription": "Home"
+          },
+          "city": "chicago",
+          "country": {
+            "code": "US",
+            "name": "",
+            "phoneCode": ""
+          },
+          "isCorporate": false,
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "key": "zMdudmoY8/FuZzQ13baV7usIBD8P87BwUOoSnNdW4nOeXHcU2sRJP1i3L8XcZEzg",
+          "line1": "223 lane111",
+          "line2": "",
+          "line3": "",
+          "postalCode": "60606",
+          "state": {
+            "code": "IL",
+            "name": "Illinois"
+          }
+        }
+      ],
+      "creditCards": [
+        {
+          "accountNumberToken": "d559c295-8703-409d-9ce4-dff0808c7773",
+          "addressKey": "zMdudmoY8/FuZzQ13baV7usIBD8P87BwUOoSnNdW4nOeXHcU2sRJP1i3L8XcZEzg",
+          "cCName": "test",
+          "cIDCVV2": "",
+          "cardDescription": 0,
+          "cardType": "AX",
+          "cardTypeDescription": "American Express",
+          "creditCardTypeCode": 0,
+          "description": "",
+          "displayCardNumber": "XXXXXXXXXXXX4564",
+          "encryptedCardNumber": "",
+          "expireMonth": "1",
+          "expireYear": "2039",
+          "groupPaymentType": 0,
+          "inputCapability": 0,
+          "isCorporate": false,
+          "isMandatory": false,
+          "isOAEPPaddingCatalogEnabled": false,
+          "isPrimary": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": true,
+          "key": "wbre4agJwULaf2OtVekNQm0S60UD7LJv845tflza7CClMIRZ/vrlWm4EtFJW+Ze6jGIexHcMtT7ax47780QWqvMJ0aWWAiP8Qlv74qjglRQ=",
+          "message": "",
+          "persistentToken": "127671317644564",
+          "phoneKey": "",
+          "pinEntryCapability": 0,
+          "terminalAttended": 0,
+          "terminalCardholderActivated": 0,
+          "unencryptedCardNumber": "XXXXXXXXXXXX4564",
+          "walletCategory": 0
+        }
+      ],
+      "currentEliteLevel": 0,
+      "customerId": 0,
+      "emailAddresses": [
+        {
+          "channel": {
+            "channelCode": "E",
+            "channelDescription": "Email",
+            "channelTypeCode": "O",
+            "channelTypeDescription": ""
+          },
+          "emailAddress": "maqbool.sheik@united.com",
+          "isDefault": true,
+          "isPrimary": true,
+          "isPrivate": false,
+          "key": "1FV5Y7A072ki2ArItY1zdTPjJhVnjHqOLuzbK26r65vUX/kSUeGv4B4EqeVGtVVm"
+        }
+      ],
+      "isDeceased": false,
+      "isEligibleForExtraSeatSelection": false,
+      "isEligibleForSeatSelection": false,
+      "isExecutive": false,
+      "isExtraSeat": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": false,
+      "isProfileOwner": false,
+      "isTSAFlagON": false,
+      "paxID": 0,
+      "paxIndex": 0,
+      "phones": [
+        {
+          "areaNumber": "872",
+          "attention": "",
+          "channelCode": "P",
+          "channelCodeDescription": "Phone",
+          "channelTypeCode": "H",
+          "channelTypeDescription": "",
+          "channelTypeSeqNumber": 13,
+          "countryCode": "US",
+          "countryNumber": "",
+          "countryPhoneNumber": "1",
+          "customerId": 123723799,
+          "description": "",
+          "deviceTypeCode": "WP",
+          "discontinuedDate": "1/1/3001 12:00:00 AM",
+          "effectiveDate": "8/22/2022 12:50:22 PM",
+          "extensionNumber": "",
+          "isPrimary": true,
+          "isPrivate": false,
+          "isProfileOwner": true,
+          "key": "5xE33cb6BWvX5SUMCdg9xmDKOu8utpdSHsjXhFxTMW6DHTwfNpKkmDGo5hEKLchr",
+          "languageCode": "",
+          "mileagePlusId": "",
+          "pagerPinNumber": "",
+          "phoneNumber": "8721102",
+          "sharesCountryCode": "",
+          "wrongPhoneDate": ""
+        }
+      ],
+      "profileId": 0,
+      "profileOwnerId": 0
+    },
+    "updateInsertCreditCardInfo": false,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.67",
+        "minor": "4.1.67"
+      }
+    },
+    "deviceId": "40583896-8899-4c30-81bd-5730602689fb",
+    "languageCode": "en-US",
+    "transactionId": "40583896-8899-4c30-81bd-5730602689fb|300d8aa2-cc15-4b35-8e7a-d38f91296604"
+  },
+  {
+    "amount": "149",
+    "cartId": "54637BD0-102B-4F51-8E90-CE91EB153184",
+    "checkInSessionId": "7C9A40D83DE64364A05DFDD534F4D4A0",
+    "customerId": 123723799,
+    "flow": "RESHOP",
+    "hashPinCode": "DC26FA7830E629CE6089C8AA8488E49B1BD0B06D",
+    "isCCSelectedForContactless": true,
+    "isSavedToProfile": true,
+    "mileagePlusNumber": "CF221035",
+    "sessionId": "7C9A40D83DE64364A05DFDD534F4D4A0",
+    "traveler": {
+      "addresses": [
+        {
+          "channel": {
+            "channelCode": "A",
+            "channelDescription": "Address",
+            "channelTypeCode": "H",
+            "channelTypeDescription": "Home"
+          },
+          "city": "chicago",
+          "country": {
+            "code": "US",
+            "name": "",
+            "phoneCode": ""
+          },
+          "isCorporate": false,
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "key": "zMdudmoY8/FuZzQ13baV7usIBD8P87BwUOoSnNdW4nOeXHcU2sRJP1i3L8XcZEzg",
+          "line1": "223 lane11111",
+          "line2": "",
+          "line3": "",
+          "postalCode": "60606",
+          "state": {
+            "code": "IL",
+            "name": "Illinois"
+          }
+        }
+      ],
+      "creditCards": [
+        {
+          "addressKey": "zMdudmoY8/FuZzQ13baV7usIBD8P87BwUOoSnNdW4nOeXHcU2sRJP1i3L8XcZEzg",
+          "cCName": "test",
+          "cIDCVV2": "1000",
+          "cardDescription": 0,
+          "cardType": "AX",
+          "cardTypeDescription": "American Express",
+          "creditCardTypeCode": 0,
+          "displayCardNumber": "XXXXXXXXXXXX4564",
+          "encryptedCardNumber": "f/XHKmeWXZ8gOxg5iH+h8KlI48FvGW8on5Z3N5/jI5ZutKTZQMlfSUKpc2QY0gVIATdDhfMzxM5G\n29Ka7zVQ3nX3/lMPj+MvbKFGD9GIL0vJEOiBbVUINAYIhSoTTKtImiSiKZ9VCbQzyjijjmNrNXi9\nUgaGp2cWs30PM/BZH3MehCz4B3NtpNr0hb2IpOmQrXkePJe1DmVMeJMbVAs3ZrunrPFuPR/VgR/F\njbSD0rvRba0mZyV90kJlmIvX88HsBoJs7Fn/4eCtyHY1AXcP5MYD/Flyj5JZK8jLEacsg4PIw7g/\nnqzQPsbDZCBfl7UFXpBvYV8iFYPnO/Mlsbj9rQ==\n",
+          "expireMonth": "01",
+          "expireYear": "39",
+          "groupPaymentType": 0,
+          "inputCapability": 0,
+          "isCorporate": false,
+          "isMandatory": false,
+          "isOAEPPaddingCatalogEnabled": true,
+          "isPrimary": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "pinEntryCapability": 0,
+          "terminalAttended": 0,
+          "terminalCardholderActivated": 0,
+          "unencryptedCardNumber": "XXXXXXXXXXXX4564",
+          "walletCategory": 0
+        }
+      ],
+      "currentEliteLevel": 0,
+      "customerId": 0,
+      "emailAddresses": [
+        {
+          "emailAddress": "maqbool.sheik@united.com",
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false
+        }
+      ],
+      "isDeceased": false,
+      "isEligibleForExtraSeatSelection": false,
+      "isEligibleForSeatSelection": false,
+      "isExecutive": false,
+      "isExtraSeat": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": false,
+      "isProfileOwner": false,
+      "isTSAFlagON": false,
+      "paxID": 0,
+      "paxIndex": 0,
+      "phones": [
+        {
+          "areaNumber": "872",
+          "channelTypeSeqNumber": 0,
+          "countryCode": "US",
+          "customerId": 0,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isProfileOwner": false,
+          "phoneNumber": "8721102"
+        }
+      ],
+      "profileId": 0,
+      "profileOwnerId": 0
+    },
+    "updateInsertCreditCardInfo": false,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.67",
+        "minor": "4.1.67"
+      }
+    },
+    "deviceId": "7ab7a04c-acb0-471d-a766-ccf9c91f6ecc",
+    "languageCode": "en-US",
+    "transactionId": "7ab7a04c-acb0-471d-a766-ccf9c91f6ecc|c36ee37a-929f-476c-bfd2-d2f2297df656"
+  },
+  {
+    "customerId": 123737026,
+    "hashPinCode": "06C83698DA3BC6B6B1892C03FF127E3B59CC7B5C",
+    "isCCSelectedForContactless": true,
+    "isSavedToProfile": true,
+    "mileagePlusNumber": "CF404185",
+    "sessionId": "BD5E6DCC5EE847A1925537B51FAEE414",
+    "transactionPath": "AwardCancelPath",
+    "traveler": {
+      "addresses": [
+        {
+          "channel": {
+            "channelCode": "A",
+            "channelDescription": "Address",
+            "channelTypeCode": "H",
+            "channelTypeDescription": "Home"
+          },
+          "city": "houston",
+          "country": {
+            "code": "US",
+            "name": "",
+            "phoneCode": ""
+          },
+          "isCorporate": false,
+          "isDefault": false,
+          "isPrimary": false,
+          "isPrivate": false,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "key": "7KpnBKR4VV1YD59d+a82gKMqROqFOieP6zhHaE4NE0psA2fwsd/m+BGEJ7+phtAY",
+          "line1": "1600 smith st1",
+          "line2": "",
+          "line3": "",
+          "postalCode": "77002-7362",
+          "state": {
+            "code": "TX",
+            "name": "Texas"
+          }
+        }
+      ],
+      "airPreferences": [
+        {
+          "airPreferenceId": 63231803,
+          "airRewardPrograms": [
+            {
+              "customerId": 123737026,
+              "isNew": false,
+              "isSelected": false,
+              "isValidNumber": false,
+              "key": "",
+              "preferenceId": 0,
+              "profileId": 59820364,
+              "programCode": "",
+              "programDescription": "",
+              "programId": 0,
+              "programMemberId": "CF404185",
+              "programType": "",
+              "sourceCode": "",
+              "sourceDescription": "",
+              "vendorCode": "UA",
+              "vendorDescription": "United"
+            }
+          ],
+          "airportCode": "",
+          "airportNameLong": "",
+          "airportNameShort": "",
+          "classDescription": "No Preference",
+          "classId": 1,
+          "customerId": 123737026,
+          "equipmentCode": "NONE",
+          "equipmentDesc": "No Preference",
+          "equipmentId": 1,
+          "isActive": true,
+          "isNew": false,
+          "isSelected": true,
+          "key": "nsoui2lfBFvdwT9zdEDRnu7ksQrdm155aPCl/tzrz40=",
+          "languageCode": "",
+          "mealCode": "--",
+          "mealDescription": "No Preference",
+          "mealId": 1,
+          "numOfFlightsDisplay": 0,
+          "profileId": 59820364,
+          "searchPreferenceDescription": "Price",
+          "searchPreferenceId": 1,
+          "seatFrontBack": 0,
+          "seatSide": 0,
+          "seatSideDescription": "No Preference",
+          "vendorCode": "UA",
+          "vendorDescription": "United",
+          "vendorId": 1106
+        }
+      ],
+      "airRewardPrograms": [
+        {
+          "carrierCode": "UA",
+          "memberId": "CF404185",
+          "memberTierDescription": "",
+          "memberTierLevel": "",
+          "mpEliteLevel": "0",
+          "programId": "7",
+          "programName": "United MileagePlus",
+          "rewardProgramKey": "ESGqQyCe1utILolc+mJGfQ==",
+          "starEliteLevel": ""
+        }
+      ],
+      "birthDate": "08/31/1988",
+      "creditCards": [
+        {
+          "accountNumberToken": "40164b94-8900-4716-b9b0-766c7df2dc5f",
+          "addressKey": "7KpnBKR4VV1YD59d+a82gKMqROqFOieP6zhHaE4NE0psA2fwsd/m+BGEJ7+phtAY",
+          "cCName": "test",
+          "cIDCVV2": "123",
+          "cardDescription": 0,
+          "cardType": "MC",
+          "cardTypeDescription": "MasterCard",
+          "creditCardTypeCode": 0,
+          "displayCardNumber": "XXXXXXXXXXXX0007",
+          "encryptedCardNumber": "",
+          "expireMonth": "11",
+          "expireYear": "22",
+          "groupPaymentType": 0,
+          "inputCapability": 0,
+          "isCorporate": false,
+          "isMandatory": false,
+          "isOAEPPaddingCatalogEnabled": true,
+          "isPrimary": true,
+          "isTemparory": false,
+          "isValidForTPIPurchase": false,
+          "key": "XRJBw+a8pVTnGe/6f10IAn5o3vxwzX2cLoPI8H6wbcxTyLkGHLF1KLGHvQMOmQrtNkXtjr6U2zg0iGAYRyuzJfaV1BrTTGPE79l1fYGngos=",
+          "persistentToken": "0925133110730007",
+          "pinEntryCapability": 0,
+          "terminalAttended": 0,
+          "terminalCardholderActivated": 0,
+          "unencryptedCardNumber": "XXXXXXXXXXXX0007",
+          "walletCategory": 0
+        }
+      ],
+      "currentEliteLevel": 0,
+      "customerId": 123737026,
+      //"emailAddresses": [
+      //  {
+      //    "channel": {
+      //      "channelCode": "E",
+      //      "channelDescription": "Email",
+      //      "channelTypeCode": "O",
+      //      "channelTypeDescription": ""
+      //    },
+      //    "emailAddress": "test@united.com",
+      //    "isDefault": true,
+      //    "isPrimary": true,
+      //    "isPrivate": false,
+      //    "key": "RZt6COw5dCYOhKHKU5VQEwKzMMdK3V5Brwhfs1ZgxP9PHv+ZZGFw6I/SCN+T0vXR"
+      //  }
+      //],
+      "emailAddresses": null,
+      "firstName": "test",
+      "genderCode": "M",
+      "isDeceased": false,
+      "isEligibleForExtraSeatSelection": true,
+      "isEligibleForSeatSelection": true,
+      "isExecutive": false,
+      "isExtraSeat": false,
+      "isMPNameMisMatch": false,
+      "isMustRideTraveler": false,
+      "isPaxSelected": false,
+      "isProfileOwner": true,
+      "isTSAFlagON": false,
+      "key": "nsoui2lfBFvdwT9zdEDRnkUHGCV+8q2jn6vUWiCL6l0=",
+      "knownTravelerNumber": "",
+      "lastName": "jeste",
+      "message": "",
+      "middleName": "sam",
+      "mileagePlus": {
+        "accountBalance": 450828260,
+        "activeStatusCode": "A",
+        "activeStatusDescription": "ACTIVE",
+        "allianceEliteLevel": 0,
+        "closedStatusCode": "O",
+        "closedStatusDescription": "OPEN",
+        "currentEliteLevel": 0,
+        "currentEliteLevelDescription": "Member",
+        "currentYearMoneySpent": 0.0,
+        "eliteMileageBalance": 0,
+        "eliteSegmentBalance": 0,
+        "eliteSegmentDecimalPlaceValue": 0,
+        "encryptedPin": "",
+        "enrollDate": "01/17/2015",
+        "enrollSourceCode": "IN15",
+        "enrollSourceDescription": "2002 CO.COM NEW BOOKING SITE",
+        "flexPqmBalance": 0,
+        "futureEliteDescription": "Premier Silver",
+        "futureEliteLevel": 1,
+        "instantEliteExpirationDate": "Premier Silver",
+        "isCEO": false,
+        "isClosedPermanently": false,
+        "isClosedTemporarily": false,
+        "isCurrentTrialEliteMember": false,
+        "isFlexPqm": false,
+        "isInfiniteElite": false,
+        "isLifetimeCompanion": false,
+        "isLockedOut": false,
+        "isMergePending": false,
+        "isPresidentialPlus": false,
+        "isUnitedClubMember": true,
+        "key": "",
+        "lastActivityDate": "11/14/2022",
+        "lastExpiredMile": 0,
+        "lastFlightDate": "11/06/2022",
+        "lastStatementBalance": 0,
+        "lastStatementDate": "01/01/0001",
+        "lifetimeEliteLevel": 0,
+        "lifetimeEliteMileageBalance": 0,
+        "mileageExpirationDate": "",
+        "mileagePlusId": "CF404185",
+        "mileagePlusPin": "",
+        "nextYearEliteLevel": 0,
+        "nextYearEliteLevelDescription": "",
+        "priorUnitedAccountNumber": "",
+        "skyTeamEliteLevel": 0,
+        "starAllianceEliteLevel": 0
+      },
+      "mpNameNotMatchMessage": "",
+      "ownerFirstName": "",
+      "ownerLastName": "",
+      "ownerMiddleName": "",
+      "ownerSuffix": "",
+      "ownerTitle": "",
+      "paxID": 0,
+      "paxIndex": 0,
+      //"phones": [
+      //  {
+      //    "areaNumber": "713",
+      //    "attention": "",
+      //    "channelCode": "P",
+      //    "channelCodeDescription": "Phone",
+      //    "channelTypeCode": "H",
+      //    "channelTypeDescription": "",
+      //    "channelTypeSeqNumber": 1,
+      //    "countryCode": "US",
+      //    "countryNumber": "",
+      //    "countryPhoneNumber": "",
+      //    "customerId": 123737026,
+      //    "description": "",
+      //    "deviceTypeCode": "PH",
+      //    "discontinuedDate": "1/1/3001 9:00:00 AM",
+      //    "effectiveDate": "1/18/2015 9:23:08 AM",
+      //    "extensionNumber": "",
+      //    "isPrimary": true,
+      //    "isPrivate": false,
+      //    "isProfileOwner": true,
+      //    "key": "EwbGfN8fXy7ARh1mLphvA6T/beHWjMvC6PhQer9yKpmXLXlCYJwjTET3I31q5Z0G",
+      //    "languageCode": "",
+      //    "mileagePlusId": "",
+      //    "pagerPinNumber": "",
+      //    "phoneNumber": "3241234",
+      //    "sharesCountryCode": "",
+      //    "wrongPhoneDate": ""
+      //  }
+      //],
+      "phones": null,
+      "profileId": 59820364,
+      "profileOwnerId": 123737026,
+      "ptcDescription": "",
+      "redressNumber": "",
+      "reservationEmailAddresses": [
+        {
+          "channel": {
+            "channelCode": "E",
+            "channelDescription": "Email",
+            "channelTypeCode": "O",
+            "channelTypeDescription": ""
+          },
+          "emailAddress": "test@united.com",
+          "isDefault": true,
+          "isPrimary": true,
+          "isPrivate": false,
+          "key": "RZt6COw5dCYOhKHKU5VQEwKzMMdK3V5Brwhfs1ZgxP9PHv+ZZGFw6I/SCN+T0vXR"
+        }
+      ],
+      "suffix": "",
+      "title": "Mr.",
+      "totalFFCNewValueAfterRedeem": "",
+      "travelProgramMemberId": "",
+      "travelerTypeCode": "ADT",
+      "travelerTypeDescription": "Adults (age 18 to 64)"
+    },
+    "updateInsertCreditCardInfo": false,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "70c45d67-210d-4357-91e5-1f7e59e5bf95",
+    "languageCode": "en-US",
+    "transactionId": "70c45d67-210d-4357-91e5-1f7e59e5bf95|bcd05e56-1e75-4d9c-acc8-0533f50d3b44"
+  }
+]

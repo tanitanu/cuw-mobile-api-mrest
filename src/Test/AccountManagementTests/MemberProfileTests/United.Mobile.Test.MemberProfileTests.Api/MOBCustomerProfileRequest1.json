@@ -1,0 +1,51 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.67",
+        "minor": "4.1.67"
+      }
+    },
+    "cartId": "",
+    "chaseAdType": "NONPREMIER",
+    "customerId": 206137239,
+    "deviceId": "d820f3d9-b6d7-4b20-82a5-256d68b57fe8",
+    "flow": "RESHOP",
+    "hashPinCode": "6B88D976F70B223C039D7BAB459DD0FB40C793D0",
+    "includeAddresses": true,
+    "includeAirPreferences": true,
+    "includeAllTravelerData": true,
+    "includeCarPreferences": false,
+    "includeContacts": false,
+    "includeCreditCards": true,
+    "includeCustomerProfitScore": false,
+    "includeDisplayPreferences": true,
+    "includeEmailAddresses": true,
+    "includeFlexEQM": false,
+    "includeHotelPreferences": false,
+    "includePassports": false,
+    "includePets": false,
+    "includePhones": true,
+    "includePosCountyCode": false,
+    "includeSecureTravelers": false,
+    "includeServiceAnimals": false,
+    "includeSpecialRequests": false,
+    "includeSubscriptions": false,
+    "includeTravelMarkets": false,
+    "IsRequirePKDispenserPublicKey": true,
+    "languageCode": "en-US",
+    "mileagePlusNumber": "FEI54315",
+    "profileOwnerOnly": false,
+    "redirectViewName": "",
+    "returnAllSavedTravelers": true,
+    "sessionId": "FC55CBFFB01B416891A811F7B92501B4",
+    "token": "",
+    "transactionId": "d820f3d9-b6d7-4b20-82a5-256d68b57fe8|d0abd61c-2d27-4fb4-8a78-47c0c37af0a1",
+    "transactionPath": ""
+  }
+
+]

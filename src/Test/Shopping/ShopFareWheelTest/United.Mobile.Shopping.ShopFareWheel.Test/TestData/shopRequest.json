@@ -1,0 +1,476 @@
+[
+  {
+    "awardTravel": true,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "",
+    "isCorporateBooking": true,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": true,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719636",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 1,
+    "numberOfChildren12To17": 1,
+    "numberOfChildren2To4": 1,
+    "numberOfChildren5To11": 1,
+    "numberOfInfantOnLap": 1,
+    "numberOfInfantWithSeat": 1,
+    "numberOfSeniors": 1,
+    "pointOfSaleCountryName": "United States",
+    "premierStatusLevel": 0,
+    "resultSortType": "R",
+    "searchType": "OW",
+    "serviceType": "",
+    "sessionId": "C7FD4ED9EA8D4247A8ACBF8B1A0151E2",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "travelerTypes": [],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "SearchFiltersIn": null,
+        "useFilters": false
+      },
+      {
+        "cabin": "business",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "businessfirst",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "first",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardecon",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardbusiness",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|a2441646-a3ec-4d7d-a466-7245ffc2ce94"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719636",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 1,
+    "numberOfChildren12To17": 1,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 1,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 1,
+    "pointOfSaleCountryName": "United States",
+    "premierStatusLevel": 0,
+    "resultSortType": "R",
+    "searchType": "RT",
+    "serviceType": "",
+    "sessionId": "C7FD4ED9EA8D4247A8ACBF8B1A0151E2",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 1,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 1,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 1,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardfirst",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|a2441646-a3ec-4d7d-a466-7245ffc2ce94"
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": true,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719636",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "ReshopTravelers": [
+      {
+        "BirthDate": "12/03/2001"
+      }
+    ],
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 1,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "United States",
+    "premierStatusLevel": 0,
+    "resultSortType": "R",
+    "searchType": "MD",
+    "serviceType": "",
+    "sessionId": "C7FD4ED9EA8D4247A8ACBF8B1A0151E2",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 1,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 1,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 1,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 1,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "11/25/2021",
+        "destination": "LHR",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.34",
+        "minor": "4.1.34"
+      }
+    },
+    "deviceId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d",
+    "languageCode": "en-US",
+    "transactionId": "1476a4fa-b20a-492b-a8ca-87e2dcf0193d|a2441646-a3ec-4d7d-a466-7245ffc2ce94"
+  }
+]

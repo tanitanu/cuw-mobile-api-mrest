@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ShopAmenitiesRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ObjectName>United.Persist.Definition.Shopping.ShopAmenitiesRequest</ObjectName>
+  <SessionId>CD74D339DBEA4F748766870BAB39DBCF</SessionId>
+  <CartId>CD74D339-DBEA-4F74-8766-870BAB39DBCF</CartId>
+  <TripIndexKeys>
+    <string>1</string>
+  </TripIndexKeys>
+  <AmenitiesIndicatorsRequest>
+    <item>
+      <key>
+        <string>1</string>
+      </key>
+      <value>
+        <UpdateAmenitiesIndicatorsRequest>
+          <CartId>CD74D339-DBEA-4F74-8766-870BAB39DBCF</CartId>
+          <CollectionType>FlightNumbers</CollectionType>
+          <FlightNumbers>
+            <string>2653</string>
+            <string>469</string>
+            <string>503</string>
+            <string>321</string>
+            <string>1899</string>
+            <string>718</string>
+            <string>1105</string>
+            <string>1920</string>
+            <string>2420</string>
+          </FlightNumbers>
+        </UpdateAmenitiesIndicatorsRequest>
+      </value>
+    </item>
+  </AmenitiesIndicatorsRequest>
+</ShopAmenitiesRequest>

@@ -1,0 +1,42 @@
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM artifactorycloud.ual.com/l-docker-releases/datadog/dotnet/aspnet:6.0.5-2.10.0 AS base
+
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+FROM artifactorycloud.ual.com/l-docker/ms/dotnet/core/sdk:6.0 AS build
+WORKDIR /
+
+COPY ["src/Services/Shopping/TripPlannerService/United.Mobile.Services.TripPlannerService.Api/United.Mobile.Services.TripPlannerService.Api.csproj", "src/Services/Shopping/TripPlannerService/United.Mobile.Services.TripPlannerService.Api/"]
+
+ARG Username
+ARG PAT
+RUN echo '<?xml version="1.0" encoding="utf-8"?> \
+<configuration> \
+  <packageSources> \
+    <clear /> \
+    <add key="nuget.org" value="https://api.nuget.org/v3/index.json" /> \
+    <add key="ArtifactoryNuGetV3" value="https://artifactory.ual.com/artifactory/api/nuget/v3/nuget" protocolVersion="3" /> \
+    <add key="EresNuget" value="http://vcld36gdersas01.global.ual.com/EresNuget/nuget" /> \
+  </packageSources> \
+  <activePackageSource> \
+    <add key="All" value="(Aggregate source)" /> \
+  </activePackageSource> \
+</configuration>' > nuget.config && \
+if [ -n "$Username" ] && [ -n "$PAT" ]; then \
+sed -i "s|</configuration>|<packageSourceCredentials><Products><add key=\"Username\" value=\"PAT\" /><add key=\"ClearTextPassword\" value=\"${PAT}\" /></Products><DemoFeed><add key=\"Username\" value=\"${Username}\" /><add key=\"ClearTextPassword\" value=\"${PAT}\" /></DemoFeed></packageSourceCredentials></configuration>|" nuget.config; \
+fi && \
+cat ./nuget.config
+
+COPY . .
+WORKDIR "/src/Services/Shopping/TripPlannerService/United.Mobile.Services.TripPlannerService.Api"
+
+FROM build AS publish
+RUN dotnet publish "United.Mobile.Services.TripPlannerService.Api.csproj" -c Release --self-contained -r linux-x64 -o /app/publish
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "United.Mobile.Services.TripPlannerService.Api.dll"]

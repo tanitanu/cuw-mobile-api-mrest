@@ -1,0 +1,87 @@
+{
+  "backButtonClick": false,
+  "calendarDateChange": "11/30/2022",
+  "cartId": "",
+  "catalogItems": [
+    {
+      "currentValue": "1",
+      "id": "21388",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "0",
+      "id": "21389",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21428",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21463",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21587",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21502",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21647",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21699",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21643",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21757",
+      "saveToPersist": false
+    },
+    {
+      "currentValue": "1",
+      "id": "21665",
+      "saveToPersist": false
+    }
+  ],
+  "flightId": "G9e8Yru5nRxTsT4S",
+  "getFlightsWithStops": false,
+  "getNonStopFlightsOnly": false,
+  "isProductSelected": false,
+  "lengthOfCalendar": 6,
+  "productId": "HBvdGzHNxGEPlR8UgPlRV906U",
+  "resultSortType": "",
+  "rewardId": "-1",
+  "sessionId": "F3A1806B78E34D369D2CF0A087DA4D3B",
+  "tripId": "0CbFRA7fVlC0QEGttjENRVF",
+  "useFilters": false,
+  "booking": "",
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.68",
+      "minor": "4.1.68"
+    }
+  },
+  "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+  "languageCode": "en-US",
+  "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|a9965e3b-ab8e-42c8-b60a-e40bb0d92687"
+}

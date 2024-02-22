@@ -1,0 +1,38 @@
+[
+  //{
+  //  "cartId": "D58E298C-3527-4F6F-873A-133386A42916",
+  //  "loyaltyLevel": "",
+  //  "sessionId": "D58E298C35274F6F873A133386A42916",
+  //  "accessCode": "ACCESSCODE",
+  //  "application": {
+  //    "id": 2,
+  //    "isProduction": false,
+  //    "name": "Android",
+  //    "version": {
+  //      "major": "4.1.24",
+  //      "minor": "4.1.24"
+  //    }
+  //  },
+  //  "deviceId": "1b28a4e8-e5a6-4142-847b-0d097c4a0dd4",
+  //  "languageCode": "en-US",
+  //  "transactionId": "1b28a4e8-e5a6-4142-847b-0d097c4a0dd4|b9387b67-b4d3-4596-b07f-b4cf7e41aa1d"
+  //}
+  {
+    "cartId": "8E6B4D0C-2B84-46C6-AADA-2B0CC17F0964",
+    "loyaltyLevel": "",
+    "sessionId": "17C979E184CC495EA083D45F4DD9D19D",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.29",
+        "minor": "4.1.29"
+      }
+    },
+    "deviceId": "589d7852-14e7-44a9-b23b-a6db36657579",
+    "languageCode": "en-US",
+    "transactionId": "589d7852-14e7-44a9-b23b-a6db36657579|8f46e040-a200-495c-83ca-4fca2d7175fb"
+  }
+]

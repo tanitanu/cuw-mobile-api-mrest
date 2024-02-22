@@ -1,0 +1,41 @@
+[
+  {
+    "cartId": "",
+    "catalogItems": [
+      {
+        "currentValue": "1",
+        "id": "21388",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "0",
+        "id": "21389",
+        "saveToPersist": false
+      }
+    ],
+    "customerId": 123901727,
+    "isCatalogOnForTavelerTypes": true,
+    "medaSessionId": "",
+    "mileagePlusAccountNumber": "AW719636",
+    "platform": "",
+    "premierStatusLevel": 0,
+    "requeryForUpsell": false,
+    "sharedTripId": "e1152828-e291-484b-bd58-ea21af993d6c",
+    "source": "m",
+    "typeOfDeeplink": "TRIPSHARE",
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.50",
+        "minor": "4.1.50"
+      }
+    },
+    "deviceId": "865d1c0f-e22e-4040-877a-5711dfbb28be",
+    "languageCode": "en-US",
+    "transactionId": "865d1c0f-e22e-4040-877a-5711dfbb28be|12f8d4f3-3a1a-4196-9772-b407957426f4"
+  }
+]

@@ -1,0 +1,19 @@
+[
+
+  {
+    "sessionId": "F5AC5341B6EF43D797CC20597B697C95",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3",
+    "languageCode": "en-US",
+    "transactionId": "a94e99d9-25ab-4a08-9b88-14662ca08aa3|865d7cc1-68ab-4d87-98b5-079906fa0245"
+  }
+]

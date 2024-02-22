@@ -1,0 +1,16 @@
+{
+  "sessionId": "17C979E184CC495EA083D45F4DD9D19D",
+  "AwardTravel": true,
+  "PathEligible": true,
+  "Exception": {
+    "Code": "123",
+    "Message": "ABCD",
+    "ErrMessage": "XYZ"
+  },
+  "FailedRule": "true",
+  "RedirectURL": " http ",
+  "SameDayChangeEligible": true,
+  "isSameDayChangeVersion": false,
+  "ExceptionPolicyEligible": true,
+  "SponsorMileagePlus": "ABCD"
+}

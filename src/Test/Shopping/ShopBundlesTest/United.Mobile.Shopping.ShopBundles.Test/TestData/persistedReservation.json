@@ -1,0 +1,434 @@
+[
+  {
+    "Characteristic": [
+      {
+        "Code": "SELECTED_FARE_TYPE",
+        "Value": "ECONOMY"
+      }
+    ],
+    "SegmentNumber": 1,
+    "TripNumber": "1",
+    "FlightSegment": {
+      "ArrivalAirport": {
+        "IATACode": "IAH",
+        "IATACountryCode": { "CountryCode": "US" },
+        "Name": "Houston, TX, US (IAH)",
+        "StateProvince": { "StateProvinceCode": "TX" }
+      },
+      "ArrivalDateTime": "2021-10-31 08:55",
+      "AvailBookingClasses": [
+        {
+          "Code": "J",
+          "Counts": { "Value": "4" }
+        },
+        {
+          "Code": "JN",
+          "Counts": { "Value": "4" }
+        },
+        {
+          "Code": "C",
+          "Counts": { "Value": "3" }
+        },
+        {
+          "Code": "D",
+          "Counts": { "Value": "2" }
+        },
+        {
+          "Code": "Z",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "ZN",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "P",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "PN",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "PZ",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "IN",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "I",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "Y",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "YN",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "B",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "M",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "E",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "U",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "H",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "HN",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "Q",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "V",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "W",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "S",
+          "Counts": { "Value": "6" }
+        },
+        {
+          "Code": "T",
+          "Counts": { "Value": "3" }
+        },
+        {
+          "Code": "L",
+          "Counts": { "Value": "1" }
+        },
+        {
+          "Code": "K",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "G",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "N",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "XN",
+          "Counts": { "Value": "4" }
+        },
+        {
+          "Code": "X",
+          "Counts": { "Value": "0" }
+        }
+      ],
+      "BookingClasses": [
+        {
+          "Cabin": {
+            "Key": "UE",
+            "Layout": "2",
+            "Name": "United Economy"
+          },
+          "Code": "L"
+        }
+      ],
+      "Characteristic": [
+        {
+          "Code": "PET_COUNT",
+          "Value": "0"
+        }
+      ],
+      "DepartureAirport": {
+        "IATACode": "ORD",
+        "IATACountryCode": { "CountryCode": "US" },
+        "Name": "Chicago, IL, US (ORD)",
+        "StateProvince": { "StateProvinceCode": "IL" }
+      },
+      "DepartureDateTime": "2021-10-31 06:00",
+      "Distance": 925,
+      "Equipment": {
+        "CabinCount": 2,
+        "Model": {
+          "Description": "Airbus A320",
+          "Fleet": "320"
+        },
+        "SeatmapLegendList": null
+      },
+      "FlightNumber": "2675",
+      "FlightSegmentType": "NN",
+      "InstantUpgradable": false,
+      "IsInternational": "False",
+      "MarketedFlightSegment": [
+        {
+          "FlightNumber": "2675",
+          "MarketingAirlineCode": "UA"
+        }
+      ],
+      "MarriageGroup": "N",
+      "Message": [
+        { "Code": "ARRDAYDIFF" },
+        {
+          "Code": "BASIS_CODE",
+          "Text": "LAA3AWEN"
+        },
+        {
+          "Code": "PETS_DISALLOWED",
+          "Text": "False"
+        },
+        {
+          "Code": "OPERATINGCARRIERDESC",
+          "Text": "United Airlines"
+        },
+        {
+          "Code": "OB",
+          "Text": "OBY"
+        }
+      ],
+      "OperatingAirlineCode": "UA",
+      "SegmentNumber": 1,
+      "UpgradeEligibilityStatus": 0,
+      "UpgradeVisibilityType": 0
+    },
+    "IsConnection": "False",
+    "ShopReservationInfo2": {
+      "NextViewName": "RTI",
+      "IsUnfinihedBookingPath": 1
+    },
+    "TravelOptions": [
+      {},
+      {}
+    ]
+  },
+  {
+    "Characteristic": [
+      {
+        "Code": "SELECTED_FARE_TYPE",
+        "Value": "ECONOMY"
+      }
+    ],
+    "SegmentNumber": 1,
+    "TripNumber": "1",
+    "FlightSegment": {
+      "ArrivalAirport": {
+        "IATACode": "IAH",
+        "IATACountryCode": { "CountryCode": "US" },
+        "Name": "Houston, TX, US (IAH)",
+        "StateProvince": { "StateProvinceCode": "TX" }
+      },
+      "ArrivalDateTime": "2021-10-31 08:55",
+      "AvailBookingClasses": [
+        {
+          "Code": "J",
+          "Counts": { "Value": "4" }
+        },
+        {
+          "Code": "JN",
+          "Counts": { "Value": "4" }
+        },
+        {
+          "Code": "C",
+          "Counts": { "Value": "3" }
+        },
+        {
+          "Code": "D",
+          "Counts": { "Value": "2" }
+        },
+        {
+          "Code": "Z",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "ZN",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "P",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "PN",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "PZ",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "IN",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "I",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "Y",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "YN",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "B",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "M",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "E",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "U",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "H",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "HN",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "Q",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "V",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "W",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "S",
+          "Counts": { "Value": "6" }
+        },
+        {
+          "Code": "T",
+          "Counts": { "Value": "3" }
+        },
+        {
+          "Code": "L",
+          "Counts": { "Value": "1" }
+        },
+        {
+          "Code": "K",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "G",
+          "Counts": { "Value": "0" }
+        },
+        {
+          "Code": "N",
+          "Counts": { "Value": "9" }
+        },
+        {
+          "Code": "XN",
+          "Counts": { "Value": "4" }
+        },
+        {
+          "Code": "X",
+          "Counts": { "Value": "0" }
+        }
+      ],
+      "BookingClasses": [
+        {
+          "Cabin": {
+            "Key": "UE",
+            "Layout": "2",
+            "Name": "United Economy"
+          },
+          "Code": "L"
+        }
+      ],
+      "Characteristic": [
+        {
+          "Code": "PET_COUNT",
+          "Value": "0"
+        }
+      ],
+      "DepartureAirport": {
+        "IATACode": "ORD",
+        "IATACountryCode": { "CountryCode": "US" },
+        "Name": "Chicago, IL, US (ORD)",
+        "StateProvince": { "StateProvinceCode": "IL" }
+      },
+      "DepartureDateTime": "2021-10-31 06:00",
+      "Distance": 925,
+      "Equipment": {
+        "CabinCount": 2,
+        "Model": {
+          "Description": "Airbus A320",
+          "Fleet": "320"
+        },
+        "SeatmapLegendList": null
+      },
+      "FlightNumber": "2675",
+      "FlightSegmentType": "NN",
+      "InstantUpgradable": false,
+      "IsInternational": "False",
+      "MarketedFlightSegment": [
+        {
+          "FlightNumber": "2675",
+          "MarketingAirlineCode": "UA"
+        }
+      ],
+      "MarriageGroup": "N",
+      "Message": [
+        { "Code": "ARRDAYDIFF" },
+        {
+          "Code": "BASIS_CODE",
+          "Text": "LAA3AWEN"
+        },
+        {
+          "Code": "PETS_DISALLOWED",
+          "Text": "False"
+        },
+        {
+          "Code": "OPERATINGCARRIERDESC",
+          "Text": "United Airlines"
+        },
+        {
+          "Code": "OB",
+          "Text": "OBY"
+        }
+      ],
+      "OperatingAirlineCode": "UA",
+      "SegmentNumber": 1,
+      "UpgradeEligibilityStatus": 0,
+      "UpgradeVisibilityType": 0
+    },
+    "IsConnection": "False",
+    "ShopReservationInfo2": {
+      "NextViewName": "rrr",
+      "IsUnfinihedBookingPath": 1
+    },
+    "TravelOptions": [
+      {},
+      {}
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+{
+  "rewardProgramList": [
+    {
+      "type": "UA",
+      "programID": "7",
+      "description": "United MileagePlus"
+    },
+    {
+      "type": "A3",
+      "programID": "113",
+      "description": "Aegean Mile+Bonus"
+    },
+    {
+      "type": "EI",
+      "programID": "120",
+      "description": "Aer Lingus AerClub"
+    },
+    {
+      "type": "AC",
+      "programID": "8",
+      "description": "Air Canada Aeroplan"
+    },
+    {
+      "type": "CA",
+      "programID": "9",
+      "description": "Air China PhoenixMiles"
+    },
+    {
+      "type": "AI",
+      "programID": "134",
+      "description": "Air India Flying Returns"
+    },
+    {
+      "type": "NZ",
+      "programID": "103",
+      "description": "Air New Zealand Airpoints"
+    },
+    {
+      "type": "NH",
+      "programID": "29",
+      "description": "ANA Mileage Club"
+    },
+    {
+      "type": "OZ",
+      "programID": "104",
+      "description": "Asiana Club"
+    },
+    {
+      "type": "OS",
+      "programID": "105",
+      "description": "Austrian Miles & More"
+    },
+    {
+      "type": "AV",
+      "programID": "115",
+      "description": "Avianca LifeMiles"
+    },
+    {
+      "type": "AD",
+      "programID": "133",
+      "description": "Azul TudoAzul"
+    },
+    {
+      "type": "SN",
+      "programID": "123",
+      "description": "Brussels Airlines Miles & More"
+    },
+    {
+      "type": "CM",
+      "programID": "135",
+      "description": "Copa Airlines ConnectMiles"
+    },
+    {
+      "type": "OU",
+      "programID": "124",
+      "description": "Croatian Miles & More"
+    },
+    {
+      "type": "MS",
+      "programID": "106",
+      "description": "EGYPTAIR Plus"
+    },
+    {
+      "type": "ET",
+      "programID": "130",
+      "description": "Ethiopian Airlines ShebaMiles"
+    },
+    {
+      "type": "BR",
+      "programID": "3",
+      "description": "EVA Air Infinity MileageLands"
+    },
+    {
+      "type": "HO",
+      "programID": "137",
+      "description": "Juneyao Air Club"
+    },
+    {
+      "type": "LO",
+      "programID": "107",
+      "description": "LOT Polish Airlines Miles & More"
+    },
+    {
+      "type": "LH",
+      "programID": "26",
+      "description": "Lufthansa Miles & More"
+    },
+    {
+      "type": "SK",
+      "programID": "33",
+      "description": "SAS EuroBonus"
+    },
+    {
+      "type": "ZH",
+      "programID": "131",
+      "description": "Shenzhen PhoenixMiles"
+    },
+    {
+      "type": "SQ",
+      "programID": "109",
+      "description": "Singapore Airlines KrisFlyer"
+    },
+    {
+      "type": "SA",
+      "programID": "110",
+      "description": "South African Airways Voyager"
+    },
+    {
+      "type": "SR",
+      "programID": "126",
+      "description": "SWISS Miles & More"
+    },
+    {
+      "type": "TP",
+      "programID": "34",
+      "description": "TAP Miles & Go"
+    },
+    {
+      "type": "TG",
+      "programID": "35",
+      "description": "THAI Royal Orchid Plus"
+    },
+    {
+      "type": "TK",
+      "programID": "111",
+      "description": "Turkish Airlines Miles&Smiles"
+    },
+    {
+      "type": "UK",
+      "programID": "138",
+      "description": "Vistara Club Vistara"
+    },
+    {
+      "type": "VA",
+      "programID": "139",
+      "description": "Virgin Australia Velocity"
+    }
+  ],
+  "transactionId": "605b2552-9609-407b-bf32-99246cb13343|2b6f0fef-5c9d-4175-a8b1-62859af35a94",
+  "languageCode": "en-US HTTP/1.1",
+  "machineName": "IN-5CG1042JV2",
+  "callDuration": 0,
+  "exception": {
+    "code": "SUCCESS",
+    "message": "Successfully returned Frequest Flyer Reward Program List.",
+    "errMessage": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Errors": [
+    {
+      "MajorCode": "20003.02",
+      "MajorDescription": "FlightShopping/ShopBookingDetails",
+      "MinorCode": "10036",
+      "MinorDescription": "Service Error – Processing error",
+      "Message": "Get ShopBookingDetails Strategy: ShopRequest not found in session",
+      "CallTime": "20210705 184545"
+    }
+  ],
+  "Profiles": [
+    {
+      "Amenities": [
+        {
+          "Key": "3775",
+          "Description": "Amenty"
+        }
+      ],
+      "Key": "3735"
+    }
+  ]
+}

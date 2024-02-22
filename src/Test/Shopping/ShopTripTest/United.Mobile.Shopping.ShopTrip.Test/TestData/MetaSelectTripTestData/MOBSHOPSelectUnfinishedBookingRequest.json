@@ -1,0 +1,107 @@
+[
+  {
+    "SelectedUnfinishBooking": {
+      "TravelerTypes": [
+        {
+          "Count": 1,
+          "TravelerType": "Adult"
+        }
+      ],
+      "CartId": "",
+      "IsELF": false,
+      "IsIBE": false,
+      "DisplayPrice": null,
+      "CountryCode": "US",
+      "SearchType": "OW",
+      "NumberOfAdults": 0,
+      "NumberOfSeniors": 0,
+      "NumberOfChildren2To4": 0,
+      "NumberOfChildren5To11": 0,
+      "NumberOfChildren12To17": 0,
+      "NumberOfInfantOnLap": 0,
+      "NumberOfInfantWithSeat": 0,
+      "Trips": [
+        {
+          "DepartDate": "Tue., Jun. 28, 2022",
+          "DepartTime": "6:37am",
+          "Destination": "ORD",
+          "ArrivalTime": null,
+          "ArrivalDate": null,
+          "Origin": "IAH",
+          "Flights": [
+            {
+              "BookingCode": "W",
+              "DepartDateTime": "06/28/2022 06:37 AM",
+              "Origin": "IAH",
+              "Destination": "ORD",
+              "FlightNumber": "469",
+              "MarketingCarrier": "UA",
+              "ProductType": "ECONOMY",
+              "Connections": null,
+              "Products": [
+                {
+                  "TripIndex": 0,
+                  "ProductType": null,
+                  "BookingCode": null,
+                  "Prices": [
+                    {
+                      "Selected": false,
+                      "PricingType": null,
+                      "OfferID": null,
+                      "CurrencyAllPax": null,
+                      "Currency": null,
+                      "AmountBase": 0.0,
+                      "AmountAllPax": 0.0,
+                      "Amount": 205.60,
+                      "MerchPriceDetail": null,
+                      "SegmentMappings": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "DepartDateTimeGMT": null
+        }
+      ],
+      "SearchExecutionDate": "5/23/2022 3:19:18 AM",
+      "Id": "e1152828-e291-484b-bd58-ea21af993d6c",
+      "ChannelType": "MOBILE",
+      "IsSharedFlightRequest": false,
+      "CatalogItems": [
+        {
+          "Id": "21388",
+          "CurrentValue": "1",
+          "SaveToPersist": false
+        },
+        {
+          "Id": "21389",
+          "CurrentValue": "0",
+          "SaveToPersist": false
+        }
+      ]
+    },
+    "IsOmniCartSavedTrip": false,
+    "MileagePlusAccountNumber": "AW719636",
+    "PasswordHash": "",
+    "CustomerId": 123901727,
+    "PremierStatusLevel": 0,
+    "CartId": null,
+    "SessionId": null,
+    "AccessCode": "",
+    "TransactionId": "",
+    "LanguageCode": "",
+    "Application": {
+      "Id": 2,
+      "Name": "Android",
+      "Version": {
+        "DisplayText": null,
+        "Major": "4.1.50",
+        "Minor": "4.1.50",
+        "Build": null
+      },
+      "IsProduction": false
+    },
+    "DeviceId": "865d1c0f-e22e-4040-877a-5711dfbb28be"
+  }
+]

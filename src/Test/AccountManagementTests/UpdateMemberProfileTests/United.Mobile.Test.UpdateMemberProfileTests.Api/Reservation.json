@@ -1,0 +1,8 @@
+{
+  "recLocField": "recloc",
+  "recLocCrtDtField": "recloccrt",
+  "nickNameField": "nickName",
+  "RecLoc": "recloc",
+  "isCancelledField": true,
+  "isFarelockPNRField": true
+}

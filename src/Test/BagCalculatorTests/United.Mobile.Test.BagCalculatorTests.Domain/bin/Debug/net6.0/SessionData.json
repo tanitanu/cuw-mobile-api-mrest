@@ -1,0 +1,8 @@
+{
+  "succeed": true,
+  "sessionId": "9D4BA31963DD4DD4BC0C0E984C4BB6D6",
+  "data": "{  \"getShopTnc\": false,    \"groupName\": \"Mobile:Baggage\",    \"listNames\": [        \"baggage\"    ],    \"mileagePlusNumber\": \"SLK09992\",    \"sessionId\": \"\",    \"accessCode\": \"ACCESSCODE\",    \"application\": {        \"id\": 2,        \"isProduction\": false,        \"name\": \"Android\",        \"version\": {            \"major\": \"4.1.24\",            \"minor\": \"4.1.24\"        }    },    \"DeviceId\": \"1b28a4e8-e5a6-4142-847b-0d097c4a0dd4\",    \"languageCode\": \"en-US\",    \"TransactionId\": \"1b28a4e8-e5a6-4142-847b-0d097c4a0dd4|9029325e-9bcf-4ead-a523-bc9b09fcbf2a\"}",
+  "dateTimeUtc": "5/4/2020 3:16:37 PM",
+  "machineName": "VNDCDFZDCHYWB03",
+  "duration": 2
+}

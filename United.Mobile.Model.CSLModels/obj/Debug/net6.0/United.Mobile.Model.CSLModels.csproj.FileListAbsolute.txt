@@ -1,0 +1,13 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\bin\Debug\net6.0\United.Mobile.Model.CSLModels.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\bin\Debug\net6.0\United.Mobile.Model.CSLModels.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\bin\Debug\net6.0\United.Mobile.Model.CSLModels.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.csproj.AssemblyReference.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\refint\United.Mobile.Model.CSLModels.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\United.Mobile.Model.CSLModels.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\United.Mobile.Model.CSLModels\obj\Debug\net6.0\ref\United.Mobile.Model.CSLModels.dll

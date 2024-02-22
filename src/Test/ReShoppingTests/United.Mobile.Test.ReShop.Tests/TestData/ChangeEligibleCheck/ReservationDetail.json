@@ -1,0 +1,488 @@
+[
+  {
+    "Detail": {
+      "Travelers": [
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "INS"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ],
+          "Tickets": [
+            {
+              "Payments": [
+                {
+                  "Authorization": "wxyz",
+                  "Date": "12-10-22",
+                  "AccountNumber": "12345",
+                  "BillingAddress": {
+                    "Name": "john",
+                    "City": "italy",
+                    "PostalCode": "12345",
+                    "DisplaySequence": 1,
+                    "Description": "abc",
+                    "DefaultIndicator": "12345",
+                    "Key": "5",
+                    "Country": {
+                      "Name": "john",
+                      "ShortName": "le",
+                      "PhoneCountryCode": "1234",
+                      "StateCount": 1234,
+                      "IsEUCountry": true
+                    },
+                    "Status": {
+                      "DefaultIndicator": "xyz",
+                      "Description": "abc",
+                      "DisplaySequence": 1,
+                      "Key": "5",
+                      "Code": "12345"
+                    }
+                  }
+                },
+                {
+                  "Authorization": "wxyz",
+                  "Date": "12-10-22",
+                  "AccountNumber": "12345",
+                  "BillingAddress": {
+                    "Name": "john",
+                    "AddressLines": [
+                      "1600 SMITH ST",
+                      "1600 SMITH ST",
+                      "1600 SMITH ST"
+                    ],
+                    "City": "italy",
+                    "StateProvince": {
+                      "StateProvinceCode": "TX"
+                    },
+                    "PostalCode": "12345",
+                    "DisplaySequence": 1,
+                    "Description": "abc",
+                    "DefaultIndicator": "12345",
+                    "Key": "5",
+                    "Country": {
+                      "Name": "john",
+                      "ShortName": "le",
+                      "PhoneCountryCode": "1234",
+                      "StateCount": 1234,
+                      "IsEUCountry": true,
+                      "CountryCode": "12345"
+                    },
+                    "Status": {
+                      "DefaultIndicator": "xyz",
+                      "Description": "abc",
+                      "DisplaySequence": 1,
+                      "Key": "5",
+                      "Code": "12345"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C05"
+          },
+          "LoyaltyProgramProfile": {}
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C08"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C12"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C15"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C17"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "SNR"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "INF"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "ADT"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        }
+      ],
+      "Payments": [
+        {
+          "Authorization": "wxyz",
+          "Date": "12-10-22",
+          "AccountNumber": "12345",
+          "BillingAddress": {
+            "Name": "john",
+            "City": "italy",
+            "PostalCode": "12345",
+            "DisplaySequence": 1,
+            "Description": "abc",
+            "DefaultIndicator": "12345",
+            "Key": "5",
+            "Country": {
+              "Name": "john",
+              "ShortName": "le",
+              "PhoneCountryCode": "1234",
+              "StateCount": 1234,
+              "IsEUCountry": true
+            },
+            "Status": {
+              "DefaultIndicator": "xyz",
+              "Description": "abc",
+              "DisplaySequence": 1,
+              "Key": "5",
+              "Code": "12345"
+            }
+          }
+        }
+      ],
+      "TelephoneNumbers": [
+        {
+          "Description": "",
+          "CountryAccessCode": "",
+          "PhoneNumber": "76436483"
+        }
+      ],
+      "EmailAddress": [
+        {
+          "DefaultIndicator": "",
+          "Address": "xyz@gmail.com"
+        }
+      ],
+      "FlightSegments": [
+        {
+          "HistoryClass": "ASDC",
+          "EstimatedDepartureUTCTime": "XYZ",
+          "EstimatedDepartureTime": "432ws",
+          "EstimatedDepartureDelayMinutes": "12345",
+          "CurrentSeats": [
+            {
+              "ValueDocumentID": "",
+              "ReservationNameIndex": "5",
+              "Status": "pass"
+            }
+          ],
+          "TripNumber": "2",
+          "BookingClass": {
+            "Code": "1234",
+            "Cabin": {
+              "Key": "5",
+              "Name": "Italy",
+              "Description": "abc",
+              "Status": "progress",
+              "Layout": "12345",
+              "IsUpperDeck": "543",
+              "RowCount": 1,
+              "ColumnCount": 2,
+              "TotalSeats": 3
+            },
+            "Counts": {
+              "DisplaySequence": 123,
+              "Status": "progress",
+              "CountType": "en-US",
+              "Value": "12345",
+              "Key": "5",
+              "Description": "abc"
+            },
+            "Status": {
+              "DefaultIndicator": "xyz",
+              "Description": "abc",
+              "DisplaySequence": 1,
+              "Key": "5",
+              "Code": "12345"
+            }
+          },
+          "FlightSegment": {
+            "DepartureDateTime": "ABCD",
+            "ArrivalDateTime": "XYZ",
+            "MarketedFlightSegment": [
+              {
+                "MarketingAirlineCode": "UA",
+                "FlightNumber": "2076",
+                "Description": "United Airlines"
+              }
+            ],
+            "ArrivalUTCDateTime": "2021-08-20T02:10:00",
+            "DepartureUTCDateTime": "2021-08-19T15:25:00",
+            "FlightNumber": "4321",
+            "SegmentNumber": 1123,
+            "DepartureAirport": {
+              "IATACode": "12354",
+              "ICAOCode": "67854",
+              "Name": "john"
+            },
+            "BookingClasses": [
+              {
+                "Code": "T",
+                "Cabin": {
+                  "Key": "UE",
+                  "Name": "john",
+                  "Layout": "2"
+                },
+                "Counts": {
+                  "DisplaySequence": 1,
+                  "Status": "pass",
+                  "CountType": "12",
+                  "Value": "123",
+                  "Key": "5",
+                  "Description": "abc"
+                },
+                "Status": {
+                  "DefaultIndicator": "123",
+                  "Description": "abc",
+                  "DisplaySequence": 1,
+                  "Key": "5",
+                  "Code": "123"
+                }
+              }
+            ],
+            "ArrivalAirport": {
+              "IATACode": "12354",
+              "Name": "john"
+            },
+            "FlightStatuses": [
+            ],
+            "BookingClass": {
+              "Code": "1234",
+              "Cabin": {
+                "Key": "5",
+                "Name": "john",
+                "Description": "abc",
+                "Status": "1234"
+              },
+              "Counts": {
+                "DisplaySequence": 1,
+                "Status": "1234",
+                "CountType": "xyz",
+                "Value": "",
+                "Key": "5",
+                "Description": "abc"
+              },
+              "Status": {
+                "DefaultIndicator": "",
+                "Description": "abc",
+                "DisplaySequence": 1,
+                "Key": "5",
+                "Code": "1234"
+              }
+            }
+          },
+          "Characteristic": [
+            {
+              "Code": "123",
+              "Value": "ABC",
+              "Description": "abc",
+              "Status": {
+                "DefaultIndicator": "123",
+                "Description": "abc",
+                "DisplaySequence": 1,
+                "Key": "5",
+                "Code": "123"
+              }
+            }
+          ]
+        }
+      ],
+      "Sponsor": {
+        "LoyaltyProgramID": "123",
+        "LoyaltyProgramMemberID": "ABC",
+        "LoyaltyProgramCarrierCode": "xyz"
+      }
+    },
+    "PNRChangeEligibility": {
+      "IsATREEligible": "WSDC",
+      "IsChangeEligible": "XYZ",
+      "IsPolicyEligible": "CDB"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "cartId": "EEB23142-DAFF-44B0-8FC9-72A9D185EED0",
+    "customerID": "123907195",
+    "flow": "BOOKING",
+    "mpNumber": "AW794407",
+    "screenSize": "1080 2148",
+    "sessionId": "EEB23142DAFF44B08FC972A9D185EED0",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.20",
+        "minor": "4.1.20"
+      }
+    },
+    "deviceId": "225110e2-58b1-4c9e-b1e9-e489a6cbfc35",
+    "languageCode": "en-US",
+    "transactionId": "225110e2-58b1-4c9e-b1e9-e489a6cbfc35|e291870e-50e8-47a6-8ac3-75714a1476bd"
+  },
+  {
+    "cartId": "EEB23142-DAFF-44B0-8FC9-72A9D185EED0",
+    "customerID": "123907195",
+    "flow": "BOOKING",
+    "mpNumber": "AW794407",
+    "screenSize": "1080 2148",
+    "sessionId": "EEB23142DAFF44B08FC972A9D185EED0",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.20",
+        "minor": "4.1.20"
+      }
+    },
+    "deviceId": "225110e2-58b1-4c9e-b1e9-e489a6cbfc35",
+    "languageCode": "en-US",
+    "transactionId": "225110e2-58b1-4c9e-b1e9-e489a6cbfc35|e291870e-50e8-47a6-8ac3-75714a1476bd"
+  }
+]

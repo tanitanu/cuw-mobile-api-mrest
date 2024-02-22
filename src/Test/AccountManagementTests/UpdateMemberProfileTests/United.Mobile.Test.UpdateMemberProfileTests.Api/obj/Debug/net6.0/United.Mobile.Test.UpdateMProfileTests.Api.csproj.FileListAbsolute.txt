@@ -1,0 +1,2 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Test\AccountManagementTests\UpdateMemberProfileTests\United.Mobile.Test.UpdateMemberProfileTests.Api\obj\Debug\net6.0\United.Mobile.Test.UpdateMProfileTests.Api.csproj.AssemblyReference.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Test\AccountManagementTests\UpdateMemberProfileTests\United.Mobile.Test.UpdateMemberProfileTests.Api\obj\Debug\net6.0\United.Mobile.Test.UpdateMProfileTests.Api.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="United.Foundations.Practices.Framework.Security.DataPower" Version="3.1.18" />
+    <PackageReference Include="United.OmniChannelCart.Model4.6" Version="1.0.6" />
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.372" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.FOP\United.Common.Helper.FOP.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Traveler\United.Common.Helper.Traveler.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Common.Helper\United.Common.Helper.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.ShopBundles\United.Mobile.DataAccess.ShopBundles\United.Mobile.DataAccess.ShopBundles.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.UnfinishedBooking\United.Mobile.DataAccess.UnfinishedBooking\United.Mobile.DataAccess.UnfinishedBooking.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Shopping\United.Mobile.Model.Shopping\United.Mobile.Model.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Shopping\United.Mobile.Model.TripPlannerGetService\United.Mobile.Model.TripPlannerGetService.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Shopping\United.Mobile.Model.UnfinishedBooking\United.Mobile.Model.UnfinishedBooking.csproj" />
+  </ItemGroup>
+
+</Project>

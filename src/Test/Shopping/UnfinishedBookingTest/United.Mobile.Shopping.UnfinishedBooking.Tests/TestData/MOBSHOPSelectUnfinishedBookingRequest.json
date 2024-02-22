@@ -1,0 +1,175 @@
+[
+  {
+    "selectedUnfinishBooking": {
+      "cartId": "",
+      "channelType": "MOBILE",
+      "countryCode": "US",
+      "displayPrice": "$173",
+      "id": "496D258A-88D3-4EAA-BE9C-1A0848A737FB",
+      "isELF": false,
+      "isIBE": false,
+      "isSharedFlightRequest": false,
+      "numberOfAdults": 1,
+      "numberOfChildren12To17": 0,
+      "numberOfChildren2To4": 0,
+      "numberOfChildren5To11": 0,
+      "numberOfInfantOnLap": 0,
+      "numberOfInfantWithSeat": 0,
+      "numberOfSeniors": 0,
+      "searchExecutionDate": "04/21/2022 08:12:30 AM",
+      "searchType": "OW",
+      "travelerTypes": [
+        {
+          "count": 1,
+          "travelerType": "Adult"
+        }
+      ],
+      "trips": [
+        {
+          "departDate": "5/9/2022",
+          "departTime": "6:00 AM",
+          "destination": "IAH",
+          "flights": [
+            {
+              "bookingCode": "S",
+              "connections": [],
+              "departDateTime": "2022-05-09 06:00",
+              "destination": "IAH",
+              "flightNumber": "2246",
+              "marketingCarrier": "UA",
+              "origin": "ORD",
+              "productType": "ECONOMY",
+              "products": [
+                {
+                  "bookingCode": "S",
+                  "prices": [],
+                  "productType": "ECONOMY",
+                  "tripIndex": 0
+                }
+              ]
+            }
+          ],
+          "origin": "ORD"
+        }
+      ]
+    },
+    "cartId": "",
+    "customerId": 123527575,
+    "flow": "",
+    "isOmniCartSavedTrip": false,
+    "isRemoveAll": false,
+    "mileagePlusAccountNumber": "MR722052",
+    "passwordHash": "A5D3AFDAE0BF0E6543650D7B928EB77C94A4AD56",
+    "premierStatusLevel": 1,
+    "sessionId": "",
+    "showOmniCartIndicator": false,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.48",
+        "minor": "4.1.48"
+      }
+    },
+    "deviceId": "346ac443-40f2-4799-9cb6-f38a04a7e85c",
+    "languageCode": "en-US",
+    "transactionId": "346ac443-40f2-4799-9cb6-f38a04a7e85c|50a9f4f4-7b99-44c3-81e2-6ca0f9fa0e02",
+    "CatalogItems": [
+      {
+        "id": "1",
+        "currentValue": "65436",
+        "saveToPersist": false
+      }
+    ]
+  },
+
+  {
+    "selectedUnfinishBooking": {
+      "cartId": "",
+      "channelType": "MOBILE",
+      "countryCode": "US",
+      "displayPrice": "$173",
+      "id": "496D258A-88D3-4EAA-BE9C-1A0848A737FB",
+      "isELF": false,
+      "isIBE": false,
+      "isSharedFlightRequest": false,
+      "numberOfAdults": 1,
+      "numberOfChildren12To17": 0,
+      "numberOfChildren2To4": 0,
+      "numberOfChildren5To11": 0,
+      "numberOfInfantOnLap": 0,
+      "numberOfInfantWithSeat": 0,
+      "numberOfSeniors": 0,
+      "searchExecutionDate": "04/21/2022 08:12:30 AM",
+      "searchType": "OW",
+      "travelerTypes": [
+        {
+          "count": 1,
+          "travelerType": "Adult"
+        }
+      ],
+      "trips": [
+        {
+          "departDate": "5/9/2022",
+          "departTime": "6:00 AM",
+          "destination": "IAH",
+          "flights": [
+            {
+              "bookingCode": "S",
+              "connections": [],
+              "departDateTime": "2022-05-09 06:00",
+              "destination": "IAH",
+              "flightNumber": "2246",
+              "marketingCarrier": "UA",
+              "origin": "ORD",
+              "productType": "ECONOMY",
+              "products": [
+                {
+                  "bookingCode": "S",
+                  "prices": [],
+                  "productType": "ECONOMY",
+                  "tripIndex": 0
+                }
+              ]
+            }
+          ],
+          "origin": "ORD"
+        }
+      ]
+    },
+    "cartId": "",
+    "customerId": 123527575,
+    "flow": "",
+    "isOmniCartSavedTrip": true,
+    "isRemoveAll": false,
+    "mileagePlusAccountNumber": "MR722052",
+    "passwordHash": "A5D3AFDAE0BF0E6543650D7B928EB77C94A4AD56",
+    "premierStatusLevel": 1,
+    "sessionId": "",
+    "showOmniCartIndicator": false,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.48",
+        "minor": "4.1.48"
+      }
+    },
+    "deviceId": "346ac443-40f2-4799-9cb6-f38a04a7e85c",
+    "languageCode": "en-US",
+    "transactionId": "346ac443-40f2-4799-9cb6-f38a04a7e85c|50a9f4f4-7b99-44c3-81e2-6ca0f9fa0e02",
+    "CatalogItems": [
+      {
+        "id": "1",
+        "currentValue": "65436",
+        "saveToPersist": false
+      }
+    ]
+  }
+
+
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Session xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ObjectName>United.Persist.Definition.Shopping.Session</ObjectName>
+  <Token>Bearer rlWuoTpvBvWFHmV1AvVfVzgcMPV6VzH5BQpmAmEuYGH3AwxgATAyZl1vLzLjYJR3LGx1LzEwZJV0ZvW9.NNV8GJ9vnJkyYHShMUWinJEDnT9hMI9IDHksAwDmEGSSAQpgZGV0Zv00DwMQYHSPA0HgAwDjZwESARWQBQEQhiPK7AJAThCkkQPezYXPadW5CSyx4ljqtxlAJTQjlZUTJ56nFTmDHO6fM0IcZYC0E0GVBJusaiDBLngmjgjfnmyvJwwIGXXotHtX7GiDERPyPTXMkgr3lZ_mkOOXaisnTrR5Uj-hmA4WpszS2Dkut4-YEX4Qj0q7VL25I8u0sXVJAGV4tCE4xIeO_ZADd_kl.UvcJ8U6G9Z7Jc5fHU5oZisRlmaaI3cPdQylqw4uLck_L3tGqIMfdpIgKuOk3GAQdVoVLEBE3IJKEvaEtOZPT3oUGZ5JksLxUztx2eriHdH1yc4J7E65Bb-tndbcTUE292SJd9PRu3TeyGVDASl6os4myLiJxzGYtaT-NBXhy0PaqGGBGe0VRClaHR12H8Ex2JFh8OobirqBLaF3SaN9qq_10MG0ftY0fVQoK39M8PKLbfe11voWdLkpbHeyyfA-CGgCicgO1d5DiJz9xIl8EwIrD1uVSqnzmSLFs3TCC8YmJv2etWWQtrhv3M0fYmML_cXzFc8vLvLXy4KodxI2abD.rlW2MKVvBvVkYwNvYPWdqTxvBvWzMJLjAJR0LF1xATLjYGDkLwHgBQIzLF1xBJD2AQtlZmt4LGRvYPWmqJVvBvWzMJLjAJR0LF1xATLjYGDkLwHgBQIzLF1xBJD2AQtlZmt4LGRvYPWcp3ZvBvWbqUEjpmbiY2AmoJZhqJS0YzS1qTthqJ5cqTIxYzAioF9iLKI0nQViqwRvYPWuqJDvBvWAo2WcoTHgDJ5xpz9cMSObo25yK1IOGS82AQASZHH0Al0kZwDlYGEPAxZgDHV3EF02AQNlARH0DxZ4ARZvYPWcLKDvBwR2ZmL0ZmH3BQZfVzI4pPV6ZGLmAwD0Zwx4ZljvLJ1lVwcoVaO3MPWqYPWuqKEbK3EcoJHvBwR2ZmL0ZmH3BQZfVz5iozAyVwbvGHIkn0gZoQEaqzueVvjvLKEsnTSmnPV6Vau0nFgYpzMRqSyiDyW6G0E0oaO0qIR9CFVfVaIjMTS0MJEsLKDvBwR2ZmL0ZmH3BQZfVzAfnJIhqS9upUOfnJAuqTyioy9cMPV6Vx1iLzyfMF1OozElo2yxHTuiozIsIHSZKmL0Z0HkEGD3YGRlAQVgARV2Dl1ODwqSYGL0ZQV0EGEPDmt0DlVfVaImMKWHrKOyVwbvM3Iyp3DvYPWwoTyyoaEsnJDvBvWAo2WcoTHgDJ5xpz9cMSObo25yK1IOGS82AQASZHH0Al0kZwDlYGEPAxZgDHV3EF02AQNlARH0DxZ4ARZvYPWyozEIp2IlDJqyoaEWEPV6VwuyBJH2AmL3YJHkMwLgATL2BF1uAwZ0YGywL2H3AwRkAGZ2LvVfVzIhMSImMKWOM2IhqRyDVwbvZGV3YwNhZP4kVa0</Token>
+  <IsTokenAuthenticated>true</IsTokenAuthenticated>
+  <TokenExpireDateTime>2021-11-09T01:29:43</TokenExpireDateTime>
+  <TokenExpirationValueInSeconds>7200</TokenExpirationValueInSeconds>
+  <IsTokenExpired>false</IsTokenExpired>
+  <SessionId>B7973708C18A4E9CA60741D43D1DC206</SessionId>
+  <CartId>B7973708-C18A-4E9C-A607-41D43D1DC206</CartId>
+  <CreationTime>2021-11-08T23:30:40.1489935-06:00</CreationTime>
+  <LastSavedTime>2021-11-08T23:31:20.4023918-06:00</LastSavedTime>
+  <LastSelectTripKey>0MXMDfs9RBg8SuFRi44ev6R</LastSelectTripKey>
+  <CustomerID>123906207</CustomerID>
+  <MileagPlusNumber>AW791957</MileagPlusNumber>
+  <SupressLMXForAppID>true</SupressLMXForAppID>
+  <EmployeeId />
+  <DeviceID>8e9e6767-e1f6-4f69-a634-9cce7611536b</DeviceID>
+  <AppID>2</AppID>
+  <IsMeta>false</IsMeta>
+  <ShopSearchTripCount>1</ShopSearchTripCount>
+  <IsReshopChange>false</IsReshopChange>
+  <IsAward>false</IsAward>
+  <IsExpertModeEnabled>false</IsExpertModeEnabled>
+  <IsYoungAdult>false</IsYoungAdult>
+  <IsFSRRedesign>true</IsFSRRedesign>
+  <ShopHasNonStop>-1</ShopHasNonStop>
+  <SelectTripHasNonStop>-1</SelectTripHasNonStop>
+  <IsCorporateBooking>false</IsCorporateBooking>
+  <IsArrangerBooking>false</IsArrangerBooking>
+  <TravelType>RA</TravelType>
+</Session>

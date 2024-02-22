@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AirportDetailsList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AirportsList>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>EWR</AirportCode>
+      <AirportInfo>New York/Newark, NJ (EWR)</AirportInfo>
+      <AirportCityName>Newark</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>FRA</AirportCode>
+      <AirportInfo>Frankfurt, DE (FRA)</AirportInfo>
+      <AirportCityName>Frankfurt</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>IAD</AirportCode>
+      <AirportInfo>Washington, DC (IAD)</AirportInfo>
+      <AirportCityName>Washington</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>IAH</AirportCode>
+      <AirportInfo>Houston, TX (IAH)</AirportInfo>
+      <AirportCityName>Houston</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>LHR</AirportCode>
+      <AirportInfo>London, GB (LHR)</AirportInfo>
+      <AirportCityName>London</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>MUC</AirportCode>
+      <AirportInfo>Munich, DE (MUC)</AirportInfo>
+      <AirportCityName>Munich</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>ORD</AirportCode>
+      <AirportInfo>Chicago, IL (ORD)</AirportInfo>
+      <AirportCityName>Chicago</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>SFO</AirportCode>
+      <AirportInfo>San Francisco, CA (SFO)</AirportInfo>
+      <AirportCityName>San Francisco</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>YUL</AirportCode>
+      <AirportInfo>Montreal, CA (YUL)</AirportInfo>
+      <AirportCityName>Montreal</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>YYZ</AirportCode>
+      <AirportInfo>Toronto, CA (YYZ)</AirportInfo>
+      <AirportCityName>Toronto</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+    <MOBDisplayBagTrackAirportDetails>
+      <AirportCode>ZRH</AirportCode>
+      <AirportInfo>Zurich, CH (ZRH)</AirportInfo>
+      <AirportCityName>Zurich</AirportCityName>
+    </MOBDisplayBagTrackAirportDetails>
+  </AirportsList>
+</AirportDetailsList>

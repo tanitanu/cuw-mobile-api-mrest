@@ -1,0 +1,18 @@
+[
+
+  {
+    "MPAccountNumber": "AW457",
+    "SubscriptionTypes": [
+      {
+        "Items": [
+          {
+            "Id": "1",
+            "CurrentValue": "2",
+            "SaveToPersist": "false"
+
+          }
+        ]
+      }
+    ]
+  }
+]

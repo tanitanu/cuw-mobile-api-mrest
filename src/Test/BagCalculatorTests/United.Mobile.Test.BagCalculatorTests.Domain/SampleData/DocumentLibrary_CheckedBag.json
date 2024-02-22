@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "PageTitle",
+    "LegalDocument": "View Checked Bag Charges"
+  },
+  {
+    "Title": "PageHeader",
+    "LegalDocument": "Checked bag charges per traveler"
+  },
+  {
+    "Title": "StatusOrMembershipHeader",
+    "LegalDocument": "Select status or membership"
+  },
+  {
+    "Title": "PremierMessage",
+    "LegalDocument": "Checked bag charges shown reflect your {0} status"
+  },
+  {
+    "Title": "Message",
+    "LegalDocument": "Charges may vary by traveler, depending on status or memberships. Charges presented are for informational purposes only and are collected when bags are checked."
+  },
+  {
+    "Title": "FullBagRulesButton",
+    "LegalDocument": "View full bag rules"
+  },
+  {
+    "Title": "PrePaidBagInfoLabel",
+    "LegalDocument": "Savings may apply when you buy checked bags online at least 24 hours before departure."
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "PromoCodeDetails": {
+      "PromoCodes": [
+        {
+          "promoCode": "RELAX123",
+          "isRemove": true,
+          "alertMessage": "Try again",
+          "isSuccess": true
+        }
+      ],
+      "IsDisablePromoOption": "false",
+      "IsHidePromoOption": "false"
+    },
+    "ConfirmationPageAlertMessages": "",
+    "ProfileTravelerCertificates": "",
+    "CertificateTravelers": [
+      {
+        "MOBFOPCertificateTraveler": {
+          "PaxId": "1",
+          "IndividualTotalAmount": "138.4",
+          "IsCertificateApplied": "false",
+          "Name": "nn n",
+          "TravelerNameIndex": "1.1"
+        }
+      }
+    ],
+    "IsCouponEligibleProduct": "false",
+    "IsCouponApplied": "false",
+    "DisableCouponEditOption": "false",
+    "CartId": "5393ACE6-879C-4E13-A51B-4ACCF864C74E",
+    "Flow": "BOOKING",
+    "Products": [
+      {
+          "CouponDetails": [
+            {
+              "Description": "hello",
+              "Product": "phone",
+              "PromoCode": "RELAX20",
+              "IsCouponEligible": "YES",
+            }
+          ],
+          "ProdDescription": "Reservation",
+          "Code": "RES",
+          "ProdTotalPrice": "138.40",
+          "ProdDisplayTotalPrice": "$138.40",
+          "ProdOtherPrice": "",
+          "ProdDisplayOtherPrice": "",
+          "ProdDisplaySubTotal": "",
+          "ProdDisplayTaxesAndFees": "",
+          "Segments": "",
+          "ProdTotalMiles": "0",
+          "LineItems": ""
+      }
+    ],
+    "TotalPrice": "138.40",
+    "DisplayTotalPrice": "$138.40",
+    "DisplaySubTotalPrice": "",
+    "DisplayTaxesAndFees": "",
+    "FormofPaymentDetails": {
+      "TravelCreditDetails": {
+        "NameWaiverMatchMessage": "Flexible credits during COVID-19. Normally, future flight credits must be used by the same traveler the credit was issued to. However, because this credit was issued for a ticket purchased on or before 8/31/2021, it can be used by anyone.",
+        "LookUpMessages": [
+          {
+            "MOBMobileCMSContentMessages": [
+              {
+                "ContentFull": "Confirmation number or PIN",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.PinPNR.Label"
+              },
+              {
+                "ContentFull": "Please enter a valid 6-character confirmation number or a 10-character PIN.",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.PinPNR.InvalidMsg"
+              },
+              {
+                "ContentFull": "Please enter a valid [Confirmation/PIN] number.",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.PinPNR.RequiredMsg"
+              },
+              {
+                "ContentFull": "Last name",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.LstNm.Label"
+              },
+              {
+                "ContentFull": "Please use only the 26 English letters (A-Z), hyphens (-), and spaces.",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "New KeywordRTI.TravelCertificate.LookUpTravelCredits.LstNm.InvalidMsg"
+              },
+              {
+                "ContentFull": "Please enter a valid last name.",
+                "ContentShort": "Continue",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.LstNm.RequiredMsg"
+              },
+              {
+                "ContentFull": "Apply",
+                "ContentShort": "",
+                "HeadLine": "Look up credits",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.PageContent"
+              },
+              {
+                "ContentFull": "Book by",
+                "ContentShort": "Travel by",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.TravelBookDate"
+              },
+              {
+                "ContentFull": "Please note, future flight credits can’t be combined with travel certificates. To use multiple credits, select either all flight credits or all travel certificates to pay for your booking.",
+                "ContentShort": "Select credits to apply in cart",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.PageSubContent"
+              },
+              {
+                "ContentFull": "Show details",
+                "ContentShort": "Hide details",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.ShowHide"
+              },
+              {
+                "ContentFull": "We're not able to apply this credit here. Select “Book with credit” below to restart your booking.",
+                "ContentShort": "Book with credit",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage1"
+              },
+              {
+                "ContentFull": "This credit is for a trip originally booked by a travel agency. Please contact the agency directly to use this credit.",
+                "ContentShort": "",
+                "HeadLine": "",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage4"
+              },
+              {
+                "ContentFull": "This future flight credit can't be used on our website or app. Please contact Customer Support to book a flight using this credit.",
+                "ContentShort": "https://www.united.com/en/us/fly/customer-support/contact-directory.html",
+                "HeadLine": "Customer Support",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage5"
+              },
+              {
+                "ContentFull": "This future flight credit can't be used for the selected travel dates. To use this credit, your travel must begin by {0}.",
+                "ContentShort": "",
+                "HeadLine": "",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage3"
+              },
+              {
+                "ContentFull": "This credit can only be used by the traveler it was issued to, so the names on the credit and booking must match.",
+                "ContentShort": "https://www.united.com/en/us/fly/travel/credit.html",
+                "HeadLine": "Learn more",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage2"
+              },
+              {
+                "ContentFull": "Travel booked with future flight credits must begin before the “Travel by” date.",
+                "ContentShort": "Close",
+                "HeadLine": "Future flight credits",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Travelby"
+              },
+              {
+                "ContentFull": "We can’t find this future flight credit. We couldn’t find any future flight credits that match the confirmation number and name you entered. Please double-check the information you entered to make sure it’s correct, or you can continue this booking without using credit.",
+                "ContentShort": "Continue",
+                "HeadLine": "Future flight credits",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.FFCR.NoData"
+              },
+              {
+                "ContentFull": "The electronic travel certificate you entered is invalid. Please try again.",
+                "ContentShort": "Continue",
+                "HeadLine": "Travel certificates",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ETC.NoData"
+              },
+              {
+                "ContentFull": "Travel certificates must be used to purchase a ticket by the “Book by” date.",
+                "ContentShort": "Close",
+                "HeadLine": "Travel certificates",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Bookby"
+              },
+              {
+                "ContentFull": "You've already selected travel certificate. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the travel certificate in your cart to use this future flight credit instead.",
+                "ContentShort": "Lookup travel credit",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.ETCAlreadySelected"
+              },
+              {
+                "ContentFull": "You've already selected future flight credit. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the future flight credit in your cart to use this travel certificate instead.",
+                "ContentShort": "Lookup travel credit",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.FFCRAlreadySelected"
+              }
+            ]
+          }
+        ],
+        "ReviewMessages": [
+          {
+            "MOBMobileCMSContentMessages": [
+              {
+                "ContentFull": "Select credits to apply",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.SelectCredits"
+              },
+              {
+                "ContentFull": "Please note, future flight credits can’t be combined with travel certificates. To use multiple credits, select either all flight credits or all travel certificates to pay for your booking.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.SelectCreditsMsg"
+              },
+              {
+                "ContentFull": "Dynamic message to bring transparency for the users.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.DynamicMsg"
+              },
+              {
+                "ContentFull": "Contact original ticket agency to use this credit.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.ContactMsg"
+              },
+              {
+                "ContentFull": "Includes taxes and fees",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.IncTax"
+              },
+              {
+                "ContentFull": "Total price",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.TotalPrice"
+              },
+              {
+                "ContentFull": "Once your purchase is complete, we'll email you a new combined future flight credit for the credit remaining balance for {0}, travel-by date {1}. Please note that when future flight credits given for residual value are combined, the new future flight credit will adopt the earliest travel-by date of all the credits for that traveler.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.InfoMsg"
+              },
+              {
+                "ContentFull": "Last name",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.LastName"
+              },
+              {
+                "ContentFull": "Find travel credits",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.FindTravelCredits"
+              },
+              {
+                "ContentFull": "Confirmation number or PIN",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.ConfirmationNum"
+              },
+              {
+                "ContentFull": "Look up credits",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.Lookup"
+              },
+              {
+                "ContentFull": "Choose the credits you wish to find, then enter your email address below and we'll send you an email with the travel credits that are linked to your account.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.FindTravelCreditsMsg"
+              },
+              {
+                "ContentFull": "What are travel credits?",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.WhatTravelCredit"
+              },
+              {
+                "ContentFull": "Future flight credits and travel certificates can be used to book travel on United, United Express® and partner-operated flights. <a href=\"https://www.united.com/en/us/fly/travel/credit.html\" target=\"\\\\'_blank\\\\'\">Learn more</a><br /><br />\nTravel booked with future flight credits must begin before the “Travel by” date, while travel certificates must be used to purchase a ticket by the “Book by” date.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.TravelCreditMsg"
+              },
+              {
+                "ContentFull": "Travel by",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.TravelBy"
+              },
+              {
+                "ContentFull": "Travel booked with future flight credits must begin before the “Travel by” date.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.FFCDesc"
+              },
+              {
+                "ContentFull": "Book by",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.BookBy"
+              },
+              {
+                "ContentFull": "Travel certificate",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.TravelCertificates"
+              },
+              {
+                "ContentFull": "Travel certificates must be used to purchase a ticket by the “Book by” date.",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.TravelCertificatesDesc"
+              },
+              {
+                "ContentFull": "Future flight credit",
+                "ContentShort": "Review travel credits",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.ReviewTravelCredits",
+                "Title": "RTI.TravelCertificate.ReviewTravelCredits.FutureFlightCredit"
+              },
+              {
+                "ContentFull": "You've already applied a future flight credit and promo code to your booking. If you edit or add travelers, both will be removed. You may re-apply the travel credit and promo code once all traveler information is updated.",
+                "ContentShort": "Continue",
+                "HeadLine": "United Airlines",
+                "LocationCode": "RTI.TravelCertificate.AlertTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.AppliedFFCNPromo"
+              },
+              {
+                "ContentFull": "You've already applied a future flight credit to your booking. If you edit or add travelers, the credit will be removed. You may re-apply your travel credit once all traveler information is updated.",
+                "ContentShort": "Continue",
+                "HeadLine": "United Airlines",
+                "LocationCode": "RTI.TravelCertificate.AlertTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.AlreadyAppliedFFC"
+              },
+              {
+                "ContentFull": "You've already selected [future flight credit/travel certificates]. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the [future flight credit] in your cart to use this [travel certificate] instead.",
+                "ContentShort": "Continue",
+                "HeadLine": "United Airlines",
+                "LocationCode": "RTI.TravelCertificate.AlertTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.AlreadySelected"
+              },
+              {
+                "ContentFull": "You've already applied enough credits. The total cost of this itinerary is covered by the credits you've already selected. If you'd like to use this one instead, please deselect the credits you've already applied.",
+                "ContentShort": "Continue",
+                "HeadLine": "United Airlines",
+                "LocationCode": "RTI.TravelCertificate.AlertTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.AlreadyApplied"
+              },
+              {
+                "ContentFull": "Confirmation number or PIN",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.PinPNR.Label"
+              },
+              {
+                "ContentFull": "Please enter a valid 6-character confirmation number or a 10-character PIN.",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.PinPNR.InvalidMsg"
+              },
+              {
+                "ContentFull": "Please enter a valid [Confirmation/PIN] number.",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.PinPNR.RequiredMsg"
+              },
+              {
+                "ContentFull": "Last name",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.LstNm.Label"
+              },
+              {
+                "ContentFull": "Please use only the 26 English letters (A-Z), hyphens (-), and spaces.",
+                "ContentShort": "",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "New KeywordRTI.TravelCertificate.LookUpTravelCredits.LstNm.InvalidMsg"
+              },
+              {
+                "ContentFull": "Please enter a valid last name.",
+                "ContentShort": "Continue",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.LstNm.RequiredMsg"
+              },
+              {
+                "ContentFull": "Apply",
+                "ContentShort": "",
+                "HeadLine": "Look up credits",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.PageContent"
+              },
+              {
+                "ContentFull": "Book by",
+                "ContentShort": "Travel by",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.TravelBookDate"
+              },
+              {
+                "ContentFull": "Please note, future flight credits can’t be combined with travel certificates. To use multiple credits, select either all flight credits or all travel certificates to pay for your booking.",
+                "ContentShort": "Select credits to apply in cart",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.PageSubContent"
+              },
+              {
+                "ContentFull": "Show details",
+                "ContentShort": "Hide details",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Apply.ShowHide"
+              },
+              {
+                "ContentFull": "We're not able to apply this credit here. Select “Book with credit” below to restart your booking.",
+                "ContentShort": "Book with credit",
+                "HeadLine": "What are travel credits?",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage1"
+              },
+              {
+                "ContentFull": "This credit is for a trip originally booked by a travel agency. Please contact the agency directly to use this credit.",
+                "ContentShort": "",
+                "HeadLine": "",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage4"
+              },
+              {
+                "ContentFull": "This future flight credit can't be used on our website or app. Please contact Customer Support to book a flight using this credit.",
+                "ContentShort": "https://www.united.com/en/us/fly/customer-support/contact-directory.html",
+                "HeadLine": "Customer Support",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage5"
+              },
+              {
+                "ContentFull": "This future flight credit can't be used for the selected travel dates. To use this credit, your travel must begin by {0}.",
+                "ContentShort": "",
+                "HeadLine": "",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage3"
+              },
+              {
+                "ContentFull": "This credit can only be used by the traveler it was issued to, so the names on the credit and booking must match.",
+                "ContentShort": "https://www.united.com/en/us/fly/travel/credit.html",
+                "HeadLine": "Learn more",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ErrorMessage2"
+              },
+              {
+                "ContentFull": "Travel booked with future flight credits must begin before the “Travel by” date.",
+                "ContentShort": "Close",
+                "HeadLine": "Future flight credits",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Travelby"
+              },
+              {
+                "ContentFull": "We can’t find this future flight credit. We couldn’t find any future flight credits that match the confirmation number and name you entered. Please double-check the information you entered to make sure it’s correct, or you can continue this booking without using credit.",
+                "ContentShort": "Continue",
+                "HeadLine": "Future flight credits",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.FFCR.NoData"
+              },
+              {
+                "ContentFull": "The electronic travel certificate you entered is invalid. Please try again.",
+                "ContentShort": "Continue",
+                "HeadLine": "Travel certificates",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ETC.NoData"
+              },
+              {
+                "ContentFull": "Travel certificates must be used to purchase a ticket by the “Book by” date.",
+                "ContentShort": "Close",
+                "HeadLine": "Travel certificates",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.ToolTip.Bookby"
+              },
+              {
+                "ContentFull": "You've already selected travel certificate. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the travel certificate in your cart to use this future flight credit instead.",
+                "ContentShort": "Lookup travel credit",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.ETCAlreadySelected"
+              },
+              {
+                "ContentFull": "You've already selected future flight credit. Travel certificates and future flight credits can't be used together for the same booking. You can continue with your current selection, or deselect the future flight credit in your cart to use this travel certificate instead.",
+                "ContentShort": "Lookup travel credit",
+                "HeadLine": "Travel Credit",
+                "LocationCode": "RTI.TravelCertificate.LookUpTravelCredits",
+                "Title": "RTI.TravelCertificate.LookUpTravelCredits.Alert.FFCRAlreadySelected"
+              }
+            ]
+          }
+        ],
+        "TravelCredits": ""
+      },
+      "TravelFutureFlightCredit": {
+        "EmailConfirmationFFCMessages": "",
+        "FutureFlightCredits": "",
+        "FindFFCMessages": [
+          {
+            "MOBMobileCMSContentMessages": [
+              {
+                "ContentFull": "To retrieve your future flight credits, please enter your email address below. If any future flight credits are linked to that email, you should receive them within a few minutes.",
+                "ContentShort": "“”",
+                "HeadLine": "Find future flight credit",
+                "LocationCode": "",
+                "Title": "RTI.FutureFlightCredits.FindFFC"
+              },
+              {
+                "ContentFull": "Find",
+                "ContentShort": "Find",
+                "HeadLine": "Find future flight credits",
+                "LocationCode": "",
+                "Title": "RTI.FutureFlightCredits.FindFFC.BtnText"
+              }
+            ]
+          }
+        ],
+        "LookUpFFCMessages": [
+          {
+            "MOBMobileCMSContentMessages": [
+              {
+                "ContentFull": "Your future flight credit will be applied to the ticket price. If you're purchasing non-ticket items such as preferred seating, you’ll need to pay for those with a debit or credit card. <a href=\"https://www.united.com/en/us/fly/travel/credit.html\" target=\"\\\\'_blank '\">Learn more</a>",
+                "ContentShort": "Find a future flight credit",
+                "HeadLine": "Look up a future flight credit",
+                "LocationCode": "",
+                "Title": "RTI.FutureFlightCredits.LookupFFC"
+              },
+              {
+                "ContentFull": "Apply",
+                "ContentShort": "Apply",
+                "HeadLine": "Look up a future flight credit",
+                "LocationCode": "",
+                "Title": "RTI.FutureFlightCredits.LookupFFC.BtnText"
+              }
+            ]
+          }
+        ],
+        "ReviewFFCMessages": "",
+        "LearnmoreTermsandConditions": "",
+        "AllowedFFCAmount": "0",
+        "AllowedAncillaryAmount": "0"
+      },
+      "IsOtherFOPRequired": "true",
+      "TravelCertificate": {
+        "SavedETCMessages": [
+          {
+            "MOBMobileCMSContentMessages": {
+              "ContentFull": "The maximum value of your available travel certificates has been applied.If you're also purchasing non-ticket items,a debit or credit card will be needed for the remaining balance.",
+              "ContentShort": "",
+              "HeadLine": "Attention",
+              "LocationCode": "",
+              "Title": ""
+            }
+
+          }
+        ],
+        "ReviewETCMessages": [
+          {
+            "MOBMobileCMSContentMessages": [
+              {
+                "ContentFull": "A credit card,debit card or additional travel certificate(s) will be needed for the remaining balances.<a href=\"https://www.united.com/ual/en/us/fly/booking/flight/travel-credits.html\" target=\"_blank\">Learn more about travel certificates</a>.",
+                "ContentShort": "",
+                "HeadLine": "TravelCertificate_Combinability_ReviewETCAlertMsgs_OtherFopRequiredMessage",
+                "LocationCode": "",
+                "Title": ""
+              },
+              {
+                "ContentFull": "You'll have a remaining balance of <b>${0}</b>. This will be combined into a new travel certificate that you'll receive via email once you complete your purchase. The latest expiration date will become your new travel certificate's expiration date",
+                "ContentShort": "",
+                "HeadLine": "TravelCertificate_Combinability_ReviewETCAlertMsgs_ETCBalanceAttentionmessage",
+                "LocationCode": "",
+                "Title": ""
+              }
+            ]
+          }
+        ],
+        "MaxAmountOfETCsAllowed": "1000000",
+        "MaxNumberOfETCsAllowed": "100",
+        "NotAllowedETCAmount": "0",
+        "AllowedETCAmount": "138.4",
+        "RemoveAllCertificateAlertMessage": {
+          "Text1": "",
+          "Text2": "Cancel",
+          "Text3": "Continue",
+          "IsDefaultOpen": "true"
+        }
+      },
+      "FormOfPaymentType": "CreditCard",
+      "ClientCardType": "false"
+    },
+    "SCTravelers": [
+      {
+        "MOBCPTraveler": {
+          "TotalFFCNewValueAfterRedeem": "",
+          "FutureFlightCredits": "",
+          "CslReservationPaxTypeCode": "ADT",
+          "IndividualTotalAmount": "138.4",
+          "PTCDescription": "Adult (18-64)",
+          "IsEligibleForSeatSelection": "true",
+          "EmployeeId": "",
+          "Title": "",
+          "FirstName": "nn",
+          "MiddleName": "nn",
+          "LastName": "n",
+          "Suffix": "",
+          "GenderCode": "M",
+          "BirthDate": "01/01/1999",
+          "IsProfileOwner": "false",
+          "IsDeceased": "false",
+          "IsExecutive": "false",
+          "CurrentEliteLevel": "0",
+          "Key": "",
+          "CustomerId": "0",
+          "ProfileId": "0",
+          "ProfileOwnerId": "0",
+          "SecureTravelers": "",
+          "AirRewardPrograms": "",
+          "Phones": {
+            "MOBCPPhone": {
+              "AreaNumber": "999",
+              "Attention": "",
+              "ChannelCode": "",
+              "ChannelCodeDescription": "",
+              "ChannelTypeCode": "",
+              "ChannelTypeDescription": "",
+              "ChannelTypeSeqNumber": "0",
+              "CountryCode": "US",
+              "CountryNumber": "",
+              "CountryPhoneNumber": "+1",
+              "CustomerId": "0",
+              "Description": "",
+              "DiscontinuedDate": "",
+              "EffectiveDate": "",
+              "ExtensionNumber": "",
+              "IsPrimary": "false",
+              "IsPrivate": "false",
+              "IsProfileOwner": "false",
+              "Key": "",
+              "LanguageCode": "",
+              "MileagePlusId": "",
+              "PagerPinNumber": "",
+              "PhoneNumber": "9999999",
+              "SharesCountryCode": "",
+              "WrongPhoneDate": "",
+              "DeviceTypeCode": "",
+              "DeviceTypeDescription": "",
+              "IsDayOfTravel": "false",
+              "IsSMSEnabled": "false"
+            }
+          },
+          "Addresses": "",
+          "AirPreferences": "",
+          "EmailAddresses": {
+            "MOBEmail": {
+              "Key": "",
+              "EmailAddress": "nn@nn.com",
+              "IsPrivate": "false",
+              "IsDefault": "false",
+              "IsPrimary": "false",
+              "IsDayOfTravel": "false"
+            }
+          },
+          "CreditCards": "",
+          "TravelerTypeCode": "ADT",
+          "TravelerTypeDescription": "Adult (18-64)",
+          "TravelProgramMemberId": "",
+          "KnownTravelerNumber": "",
+          "RedressNumber": "",
+          "OwnerFirstName": "",
+          "OwnerLastName": "",
+          "OwnerMiddleName": "",
+          "OwnerSuffix": "",
+          "OwnerTitle": "",
+          "PaxIndex": "0",
+          "Seats": "",
+          "TravelerNameIndex": "1.1",
+          "IsTSAFlagON": "false",
+          "Message": "",
+          "MPNameNotMatchMessage": "",
+          "ISMPNameMisMatch": "false",
+          "ReservationEmailAddresses": "",
+          "ReservationPhones": "",
+          "PaxID": "1",
+          "IsPaxSelected": "true",
+          "SelectedSpecialNeeds": "",
+          "SelectedSpecialNeedMessages": "",
+          "IsMustRideTraveler": "false"
+        }
+      }
+    ],
+    "PointofSale": "US",
+    "CurrencyCode": "",
+    "AlertMessages": "",
+    "TermsAndConditions": "",
+    "PaymentTarget": "RES",
+    "Trips": "",
+    "Prices": "",
+    "Taxes": "",
+    "Captions": "",
+    "ELFLimitations": "",
+    "FlightShareMessage": "",
+    "PaymentAlerts": "",
+    "IsMultipleTravelerEtcFeatureClientToggleEnabled": "true",
+    "IsHidePaymentMethod": "false",
+    "OmniCart": {
+      "CartItemsCount": "1",
+      "TotalPrice": {
+        "Id": "Total due",
+        "CurrentValue": "$138.40",
+        "SaveToPersist": "false"
+      },
+      "IsCallRegisterOffers": "false"
+    },
+    "_xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+
+  }
+]

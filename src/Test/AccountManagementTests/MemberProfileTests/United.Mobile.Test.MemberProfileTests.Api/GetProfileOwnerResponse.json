@@ -1,0 +1,10 @@
+{
+  "transactionPath": "",
+  "redirectViewName": "",
+  "pKDispenserPublicKey": "",
+  "selectedCreditCard": {
+    "cardType": "",
+    "cardTypeDescription": ""
+
+  }
+}

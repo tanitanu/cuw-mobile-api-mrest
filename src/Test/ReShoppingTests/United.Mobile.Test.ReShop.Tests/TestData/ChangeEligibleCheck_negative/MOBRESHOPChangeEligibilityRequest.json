@@ -1,0 +1,58 @@
+{
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.25",
+      "minor": "4.1.25"
+    }
+
+  },
+  "SessionId": "17C979E184CC495EA083D45F4DD9D19D",
+  "HashPinCode": "7C7D6DE3BB0A56DD424303E20EA996E1AF7DE6BF",
+  "MileagePlusNumber": "MR722052",
+  "OverrideATREEligible": false,
+  "Override24HrFlex": true,
+  "LastName": "woods",
+  "CheckinSessionKey": "12345",
+  "FsrTitle": "678",
+  "FsrChangeFeeTxt": "45678",
+  "ChangeFlightHeaderText": "345",
+  "DeviceId": "81b794ab-7a07-437a-8431-ee1b9537086f",
+  "ShuttleOffer": [
+    {
+      "OfferCode": "1234",
+      "OfferText1": "1234",
+      "OfferText2": "1234",
+      "FormattedPrice": "1234",
+      "OfferText3": "1234",
+      "OfferTileImageName": "pics",
+      "EligibleAirport": "",
+      "ShuttleStation": "stu",
+      "ShuttleStationDescription": "wxyz",
+      "displayOfferMiles": "pqr",
+      "ChildWarningMessage": "456",
+      "ChildCutoffAge": "123",
+      "IsSelected": true
+    }
+  ],
+  "ReshopRequest": {
+    "IsShareTripSearchAgain": true,
+    "Experiments": [
+    ],
+    "HashPinCode": "7C7D6DE3BB0A56DD424303E20EA996E1AF7DE6BF",
+    "PointOfSaleCountryName": "abcde",
+    "IsYoungAdultBooking": true,
+    "TravelerTypes": [
+      {
+        "Count": 1,
+        "TravelerType": "ABCD"
+      }
+    ],
+    "IsCorporateBooking": true,
+    "MOBCPCorporateDetails": {
+      "DiscountCode": "1234"
+    }
+  }
+}

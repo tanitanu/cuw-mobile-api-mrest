@@ -1,0 +1,85 @@
+﻿{
+  "sessionId": "47AF18BF37AF406085E4E1525695F7F6",
+  "cartId": "C7F6AB10-129B-444B-9FF8-63C1984D0D4C",
+  "flow": "RESHOP",
+  "offerSource": {
+    "offerHeaderDescription": "Would you like to add extras to your trip?",
+    "clubDayPassOffer": {
+      "offerDescriptionHeader": "United Club<sup><small>SM</small></sup> pass",
+      "offerDescription": "Relax and recharge in a peaceful hideaway.",
+      "productCode": "OTP",
+      "productName": "United Club pass",
+      "prices": [
+        {
+          "priceIndex": "",
+          "currencyCode": "USD",
+          "priceType": "REGULAR",
+          "displayType": "",
+          "displayValue": "39.00",
+          "value": 0.0,
+          "totalBaseFare": "39.00",
+          "totalOtherTaxes": "",
+          "formattedDisplayValue": "",
+          "status": "",
+          "waived": false,
+          "billedSeperateText": null,
+          "productId": "1",
+          "paxTypeCode": null,
+          "strikeThroughDescription": "",
+          "strikeThroughDisplayValue": "",
+          "priceTypeDescription": null,
+          "promoDetails": null,
+          "paxTypeDescription": null
+        },
+        {
+          "priceIndex": "",
+          "currencyCode": "USD",
+          "priceType": "DISCOUNTED",
+          "displayType": "",
+          "displayValue": "39.00",
+          "value": 0.0,
+          "totalBaseFare": "39.00",
+          "totalOtherTaxes": "",
+          "formattedDisplayValue": "",
+          "status": "",
+          "waived": false,
+          "billedSeperateText": null,
+          "productId": "8072b408-dbd8-4da1-939c-cc88c47bf660",
+          "paxTypeCode": null,
+          "strikeThroughDescription": "",
+          "strikeThroughDisplayValue": "",
+          "priceTypeDescription": null,
+          "promoDetails": null,
+          "paxTypeDescription": null
+        }
+      ],
+      "descriptions": [
+        "Receive access to any United Club location and enjoy complimentary amenities such as:",
+        "",
+        "- Personalized travel assistance",
+        "- Wi-Fi",
+        "- Beverage including select beer, wine and spirits",
+        "- Breakfast and afternoon snacks",
+        "",
+        "Each pass allows one person one-time access"
+      ],
+      "termsAndConditions": [
+        "- One-time passes are valid for one year from the date purchased when purchased through the app",
+        "- One-time passes purchased at a United Club location must be used at time of purchase",
+        "- United Club pass grants one person one-time access to a United Club℠ location",
+        "- Access is subject to space availability; see which United Club locations are open here <a href='https://www.united.com/en/us/fly/travel/airport/united-club-and-lounges/locations.html'>united.com/UnitedClubLocations</a>",
+        "- Same-day boarding pass on United, Star Alliance™ or a contracted partner operated flight is required for entry into all United Club locations",
+        "- Passes may not be sold, bartered, traded, exchanged or purchased",
+        "- Offer subject to change or cancellation without notice",
+        "- All United Club Terms and Conditions apply <a href='https://www.united.com/ual/en/us/fly/travel/airport/united-club-and-lounges/rules.html'>united.com/UnitedClubRules</a>"
+      ]
+    },
+    "productOffer": null
+  },
+  "bundleProducts": null,
+  "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|af0d9bdd-341a-4f42-a70b-757414ec0bbc",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 964,
+  "exception": null
+}

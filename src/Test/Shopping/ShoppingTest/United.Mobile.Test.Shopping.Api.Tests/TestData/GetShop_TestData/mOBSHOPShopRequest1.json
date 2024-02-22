@@ -1,0 +1,222 @@
+[
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "columnFareType": "Refundable",
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": true,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "B2298479698447E63716067604910CE4D9D438A4",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": true,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719636",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "United States",
+    "premierStatusLevel": 0,
+    "promotionCode": "AGDJH",
+    "resultSortType": "R",
+    "searchType": "OW",
+    "serviceType": "",
+    "SessionId": "67945321097C4CF58FFC7DF9565CB276",
+    "showMileageDetails": false,
+    "travelType": "CLB",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 2,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 0,
+        "departDate": "04/28/2022",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "IAH",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 1,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.48",
+        "minor": "4.1.48"
+      }
+    },
+    "deviceId": "446e943d-d749-4f2d-8bf2-e0ba5d6da685",
+    "languageCode": "en-US",
+    "transactionId": "446e943d-d749-4f2d-8bf2-e0ba5d6da685|a43aa991-9d57-40f0-9b83-79f34d880e7c",
+    "BWCSessionId": "CD74D339DBEA4F748766870BAB39DBCF",
+    "catalogItems": [
+      {
+        "id": "2",
+        "currentValue": "1",
+        "saveToPersist": false
+      }
+    ],
+    "EmployeeDiscountId": "2",
+    "IsEditSearchEnabledOnBookingFSR": true,
+    "IsEnableEditSearchOnFSRHeaderBooking": true
+  },
+  {
+    "awardTravel": false,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": { "ptcCode": "PPR" },
+    "employeeDiscountId": "",
+    "experiments": [ "NoChangeFee", "FSRRedesignA" ],
+    "fareClass": "",
+    "fareType": "urf",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "845C2B234D7FF018885E4E664615BB7F253C54F2",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": true,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719644",
+    "mobCPCorporateDetails": { "noOfTravelers": 0 },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "",
+    "premierStatusLevel": 0,
+    "promotionCode": "",
+    "resultSortType": "R",
+    "searchType": "OW",
+    "serviceType": "",
+    "sessionId": "D4106F22B1F941288F5D0E441720E80C",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "econ",
+        "changeType": 3,
+        "departDate": "2022/01/25",
+        "destination": "DEN",
+        "destinationAllAirports": 0,
+        "origin": "SFO",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e",
+    "languageCode": "en-US",
+    "transactionId": "57ba82d9-2ee6-4c21-a5d4-13833c2c570e|f517f488-702d-42aa-965a-c38fbcc8e0a0"
+  }
+]
+
+
+
+

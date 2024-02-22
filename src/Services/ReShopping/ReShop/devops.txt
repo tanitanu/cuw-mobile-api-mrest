@@ -1,0 +1,1 @@
+trigger Reshopping service after updating new shopsessionservice : ACM-2377

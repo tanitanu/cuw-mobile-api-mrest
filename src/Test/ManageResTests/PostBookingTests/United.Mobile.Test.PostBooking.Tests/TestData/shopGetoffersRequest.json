@@ -1,0 +1,20 @@
+[
+  {
+    "sessionId": "E341792045AF4BD5A6C71B4CEE6F7F64",
+    "productCodes": "PCU,PBS",
+    "application": {
+      "id": 1,
+      "name": "iOS",
+      "isProduction": false,
+      "version": {
+        "minor": "4.1.44",
+        "major": "4.1.44",
+        "displayText": "",
+        "build": ""
+      }
+    },
+    "languageCode": "en-US",
+    "accessCode": "ACCESSCODE",
+    "transactionId": "5524F792-AAB4-4170-98BC-290B72AE1B16|32D4712B-B938-4914-B97D-426CF5B2645A"
+  }
+]

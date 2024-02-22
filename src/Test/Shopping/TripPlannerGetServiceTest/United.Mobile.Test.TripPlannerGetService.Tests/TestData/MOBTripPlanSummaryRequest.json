@@ -1,0 +1,92 @@
+[
+  {
+    "hashPinCode": "F758491B89F84A9A4DF3B4110A77919128EC0D19",
+    "isTravelCountChanged": false,
+    "listTripPlanSelectTrip": [
+      {
+        "cartId": "79F19E1C-9B81-4AB0-BF14-567AE85FAD25",
+        "flightId": "G6jHAKoHXdhhBKhv",
+        "productId": "ay2QZ9BakxJTwTmJdso2Y3007",
+        "tripId": "0H1SgQIaZZ3PSrHfkxh6FkR"
+      }
+    ],
+    "sessionId": "79F19E1C9B814AB0BF14567AE85FAD25",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.55",
+        "minor": "4.1.55"
+      }
+    },
+    "deviceId": "00c87c77-f976-482d-a9a7-c504cc08ab59",
+    "languageCode": "en-US",
+    "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|37c8b3a0-5ce3-49a6-885f-a5a4898604d1",
+    "TravelType": "TPTripDelete",
+    "TripPlanId": "1"
+  },
+  {
+    "hashPinCode": "F758491B89F84A9A4DF3B4110A77919128EC0D19",
+    "isTravelCountChanged": false,
+    "listTripPlanSelectTrip": [
+      {
+        "cartId": "79F19E1C-9B81-4AB0-BF14-567AE85FAD25",
+        "flightId": "G6jHAKoHXdhhBKhv",
+        "productId": "ay2QZ9BakxJTwTmJdso2Y3007",
+        "tripId": "0H1SgQIaZZ3PSrHfkxh6FkR"
+      }
+    ],
+    "sessionId": null,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.55",
+        "minor": "4.1.55"
+      }
+    },
+    "deviceId": "00c87c77-f976-482d-a9a7-c504cc08ab59",
+    "languageCode": "en-US",
+    "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|37c8b3a0-5ce3-49a6-885f-a5a4898604d1",
+    "TravelType": "TPDeepLink",
+    "TripPlanId": "2"
+  },
+  {
+    "hashPinCode": "F758491B89F84A9A4DF3B4110A77919128EC0D19",
+    "isTravelCountChanged": false,
+    "listTripPlanSelectTrip": [
+      {
+        "cartId": "79F19E1C-9B81-4AB0-BF14-567AE85FAD25",
+        "flightId": "G6jHAKoHXdhhBKhv",
+        "productId": "ay2QZ9BakxJTwTmJdso2Y3007",
+        "tripId": "0H1SgQIaZZ3PSrHfkxh6FkR"
+      },
+      {
+        "cartId": "79F19E1C-9B81-4AB0-BF14-567AE85FAD25",
+        "flightId": "G6jHAKoHXdhhBKhv",
+        "productId": "ay2QZ9BakxJTwTmJdso2Y3007",
+        "tripId": "0H1SgQIaZZ3PSrHfkxh6FkR"
+      }
+    ],
+    "sessionId": null,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.55",
+        "minor": "4.1.55"
+      }
+    },
+    "deviceId": "00c87c77-f976-482d-a9a7-c504cc08ab59",
+    "languageCode": "en-US",
+    "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|37c8b3a0-5ce3-49a6-885f-a5a4898604d1",
+    "TravelType": "TPSearch",
+    "TripPlanId": "2"
+  }
+]

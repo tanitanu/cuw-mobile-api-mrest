@@ -1,0 +1,40 @@
+[
+  {
+    "_accessCode": "ACCESSCODE",
+    "_application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "_deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "_languageCode": "en-US",
+    "_transactionId": "283321ce-9f14-474d-82f5-504847823bd0|5c7a1c20-ff06-4526-be4e-3b5bce6268af",
+    "cartId": "",
+    "destination": "DEN",
+    "flow": "RESHOP",
+    "isBackNavigationFromRTI": false,
+    "nextDestination": "DEN",
+    "nextOrigin": "ORD",
+    "origin": "ORD",
+    "paxIndex": "0",
+    "seatAssignment": "",
+    "sessionId": "80E0AB167F054A629E04B1B4DE92242E",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "languageCode": "en-US",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|5c7a1c20-ff06-4526-be4e-3b5bce6268af"
+  }
+]

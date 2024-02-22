@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EnterpriseLibrary.Common" Version="6.0.1304" />
+    <PackageReference Include="EnterpriseLibrary.Data" Version="6.0.1304" />
+    <PackageReference Include="HtmlSanitizationLibrary" Version="1.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.FOP\United.Common.Helper.FOP.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Merchandize\United.Common.Helper.Merchandize.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Profile\United.Common.Helper.Profile.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Traveler\United.Common.Helper.Traveler.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Common.Helper\United.Common.Helper.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\AccountManagement\United.Mobile.DataAccess.Loyalty\United.Mobile.DataAccess.Loyalty.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.ShopBundles\United.Mobile.DataAccess.ShopBundles\United.Mobile.DataAccess.ShopBundles.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\AccountManagement\United.Mobile.Model.MemberProfile\United.Mobile.Model.MemberProfile.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Travelers\United.Mobile.Model.Travelers\United.Mobile.Model.Travelers.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\bin\Debug\net6.0\United.Mobile.Model.SeatEngine.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\bin\Debug\net6.0\United.Mobile.Model.SeatEngine.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\bin\Debug\net6.0\United.Mobile.Model.SeatEngine.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\United.Mobile.Model.SeatEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\United.Mobile.Model.SeatEngine.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\United.Mobile.Model.SeatEngine.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\United.Mobile.Model.SeatEngine.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\United.Mobile.Model.SeatEngine.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\United.Mobile.Model.SeatEngine.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\refint\United.Mobile.Model.SeatEngine.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\United.Mobile.Model.SeatEngine.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\SeatEngine\United.Mobile.Model.SeatEngine\obj\Debug\net6.0\ref\United.Mobile.Model.SeatEngine.dll

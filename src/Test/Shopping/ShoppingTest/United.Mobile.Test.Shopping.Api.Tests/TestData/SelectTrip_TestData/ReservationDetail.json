@@ -1,0 +1,73 @@
+{
+  "Detail": {
+    "Travelers": [
+      {
+        "FirstNamePosition": "",
+        "NumberOfFirstName": "",
+        "CardHolderName": "",
+        "PayerIndicator": "",
+        "PurchaserIndicator": "",
+        "TravellerIndicator": "",
+        "Person": {
+          "Age": 18,
+          "Key": 5
+        },
+        "LoyaltyProgramProfile": {},
+        "TelephoneNumbers": [
+          {
+            "Description": "",
+            "CountryAccessCode": "",
+            "PhoneNumber": "76436483"
+          }
+        ],
+        "EmailAddress": [
+          {
+            "DefaultIndicator": ""
+          }
+        ]
+      },
+      {
+        "FirstNamePosition": "",
+        "NumberOfFirstName": "",
+        "CardHolderName": "",
+        "PayerIndicator": "",
+        "PurchaserIndicator": "",
+        "TravellerIndicator": "",
+        "Person": {
+          "Age": 18,
+          "Key": 5
+        },
+        "LoyaltyProgramProfile": {}
+      }
+    ],
+    "TelephoneNumbers": [
+      {
+        "Description": "",
+        "CountryAccessCode": "",
+        "PhoneNumber": "76436483"
+      }
+    ],
+    "EmailAddress": [
+      {
+        "DefaultIndicator": "",
+        "Address": "xyz@gmail.com"
+      }
+    ],
+    "FlightSegments": [
+      {
+        "HistoryClass": "",
+        "EstimatedDepartureUTCTime": "",
+        "EstimatedDepartureTime": "",
+        "EstimatedDepartureDelayMinutes": "",
+        "CurrentSeats": [
+          {
+            "ValueDocumentID": "",
+            "ReservationNameIndex": "5",
+            "Status": "pass"
+          }
+        ],
+        "TripNumber": "1"
+      }
+    ]
+  }
+}

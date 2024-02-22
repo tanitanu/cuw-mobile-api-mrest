@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MOBBookingBundlesResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TransactionId />
+  <LanguageCode>en-US</LanguageCode>
+  <MachineName>03</MachineName>
+  <CallDuration>0</CallDuration>
+  <Products>
+    <MOBBundleProduct>
+      <BundleProductCodes>
+        <string>EPU</string>
+      </BundleProductCodes>
+      <ProductID>B1-SOL1_OD1_S1_0</ProductID>
+      <ProductIDs>
+        <string>B1-SOL1_OD1_S1_0</string>
+      </ProductIDs>
+      <ProductCode>B01</ProductCode>
+      <Tile>
+        <OfferTitle>Bundle offer 1</OfferTitle>
+        <OfferDescription>
+          <string>Economy Plus® seating</string>
+        </OfferDescription>
+        <PriceText>+$67/person</PriceText>
+        <IsSelected>false</IsSelected>
+        <TileIndex>0</TileIndex>
+        <OfferPrice>$67</OfferPrice>
+      </Tile>
+      <Detail>
+        <OfferTitle>Bundle offer 1 includes the following additions to your trip:</OfferTitle>
+        <OfferWarningMessage />
+        <OfferDetails>
+          <MOBBundleOfferDetail>
+            <offerDetailHeader>Economy Plus® seating</offerDetailHeader>
+            <offerDetailDescription>Choose any available Economy Plus seat.</offerDetailDescription>
+            <offerDetailWarningMessage />
+            <OfferDetailHeader>Economy Plus® seating</OfferDetailHeader>
+            <OfferDetailDescription>Choose any available Economy Plus seat.</OfferDetailDescription>
+            <OfferDetailWarningMessage />
+          </MOBBundleOfferDetail>
+        </OfferDetails>
+        <OfferTrips>
+          <MOBBundleOfferTrip>
+            <OriginDestination>IAH - ORD | $67/person</OriginDestination>
+            <TripId>1</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>67</Price>
+            <TripProductID>B1-SOL1_OD1_S1_0</TripProductID>
+            <TripProductIDs>
+              <string>B1-SOL1_OD1_S1_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+          <MOBBundleOfferTrip>
+            <OriginDestination>ORD - IAH | $67/person</OriginDestination>
+            <TripId>2</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>67</Price>
+            <TripProductID>B1-SOL1_OD2_S2_0</TripProductID>
+            <TripProductIDs>
+              <string>B1-SOL1_OD2_S2_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+        </OfferTrips>
+      </Detail>
+      <Amount>0</Amount>
+      <ProductIndex>0</ProductIndex>
+    </MOBBundleProduct>
+    <MOBBundleProduct>
+      <BundleProductCodes>
+        <string>EPU</string>
+        <string>EXB</string>
+      </BundleProductCodes>
+      <ProductID>B14-SOL1_OD1_S1_0</ProductID>
+      <ProductIDs>
+        <string>B14-SOL1_OD1_S1_0</string>
+      </ProductIDs>
+      <ProductCode>B14</ProductCode>
+      <Tile>
+        <OfferTitle>Bundle offer 2</OfferTitle>
+        <OfferDescription>
+          <string>Economy Plus® seating</string>
+          <string>Standard checked bag</string>
+        </OfferDescription>
+        <PriceText>+$84/person</PriceText>
+        <IsSelected>false</IsSelected>
+        <TileIndex>1</TileIndex>
+        <OfferPrice>$84</OfferPrice>
+      </Tile>
+      <Detail>
+        <OfferTitle>Bundle offer 2 includes the following additions to your trip:</OfferTitle>
+        <OfferWarningMessage />
+        <OfferDetails>
+          <MOBBundleOfferDetail>
+            <offerDetailHeader>Economy Plus® seating</offerDetailHeader>
+            <offerDetailDescription>Choose any available Economy Plus seat.</offerDetailDescription>
+            <offerDetailWarningMessage />
+            <OfferDetailHeader>Economy Plus® seating</OfferDetailHeader>
+            <OfferDetailDescription>Choose any available Economy Plus seat.</OfferDetailDescription>
+            <OfferDetailWarningMessage />
+          </MOBBundleOfferDetail>
+          <MOBBundleOfferDetail>
+            <offerDetailHeader>Standard checked bag</offerDetailHeader>
+            <offerDetailDescription>Travel with an extra standard checked bag.</offerDetailDescription>
+            <offerDetailWarningMessage />
+            <OfferDetailHeader>Standard checked bag</OfferDetailHeader>
+            <OfferDetailDescription>Travel with an extra standard checked bag.</OfferDetailDescription>
+            <OfferDetailWarningMessage />
+          </MOBBundleOfferDetail>
+        </OfferDetails>
+        <OfferTrips>
+          <MOBBundleOfferTrip>
+            <OriginDestination>IAH - ORD | $84/person</OriginDestination>
+            <TripId>1</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>84</Price>
+            <TripProductID>B14-SOL1_OD1_S1_0</TripProductID>
+            <TripProductIDs>
+              <string>B14-SOL1_OD1_S1_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+          <MOBBundleOfferTrip>
+            <OriginDestination>ORD - IAH | $84/person</OriginDestination>
+            <TripId>2</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>84</Price>
+            <TripProductID>B14-SOL1_OD2_S2_0</TripProductID>
+            <TripProductIDs>
+              <string>B14-SOL1_OD2_S2_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+        </OfferTrips>
+      </Detail>
+      <Amount>0</Amount>
+      <ProductIndex>1</ProductIndex>
+    </MOBBundleProduct>
+    <MOBBundleProduct>
+      <BundleProductCodes>
+        <string>EPU</string>
+        <string>PBS</string>
+      </BundleProductCodes>
+      <ProductID>B18-SOL1_OD1_S1_0</ProductID>
+      <ProductIDs>
+        <string>B18-SOL1_OD1_S1_0</string>
+      </ProductIDs>
+      <ProductCode>B18</ProductCode>
+      <Tile>
+        <OfferTitle>Bundle offer 3</OfferTitle>
+        <OfferDescription>
+          <string>Economy Plus® seating</string>
+          <string>Priority Boarding</string>
+        </OfferDescription>
+        <PriceText>+$71/person</PriceText>
+        <IsSelected>false</IsSelected>
+        <TileIndex>2</TileIndex>
+        <OfferPrice>$71</OfferPrice>
+      </Tile>
+      <Detail>
+        <OfferTitle>Bundle offer 3 includes the following additions to your trip:</OfferTitle>
+        <OfferWarningMessage />
+        <OfferDetails>
+          <MOBBundleOfferDetail>
+            <offerDetailHeader>Economy Plus® seating</offerDetailHeader>
+            <offerDetailDescription>Choose any available Economy Plus seat.</offerDetailDescription>
+            <offerDetailWarningMessage />
+            <OfferDetailHeader>Economy Plus® seating</OfferDetailHeader>
+            <OfferDetailDescription>Choose any available Economy Plus seat.</OfferDetailDescription>
+            <OfferDetailWarningMessage />
+          </MOBBundleOfferDetail>
+          <MOBBundleOfferDetail>
+            <offerDetailHeader>Priority Boarding</offerDetailHeader>
+            <offerDetailDescription>Priority Boarding.</offerDetailDescription>
+            <offerDetailWarningMessage />
+            <OfferDetailHeader>Priority Boarding</OfferDetailHeader>
+            <OfferDetailDescription>Priority Boarding.</OfferDetailDescription>
+            <OfferDetailWarningMessage />
+          </MOBBundleOfferDetail>
+        </OfferDetails>
+        <OfferTrips>
+          <MOBBundleOfferTrip>
+            <OriginDestination>IAH - ORD | $71/person</OriginDestination>
+            <TripId>1</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>71</Price>
+            <TripProductID>B18-SOL1_OD1_S1_0</TripProductID>
+            <TripProductIDs>
+              <string>B18-SOL1_OD1_S1_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+          <MOBBundleOfferTrip>
+            <OriginDestination>ORD - IAH | $71/person</OriginDestination>
+            <TripId>2</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>71</Price>
+            <TripProductID>B18-SOL1_OD2_S2_0</TripProductID>
+            <TripProductIDs>
+              <string>B18-SOL1_OD2_S2_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+        </OfferTrips>
+      </Detail>
+      <Amount>0</Amount>
+      <ProductIndex>2</ProductIndex>
+    </MOBBundleProduct>
+    <MOBBundleProduct>
+      <BundleProductCodes>
+        <string>WIFI</string>
+      </BundleProductCodes>
+      <ProductID>B27-SOL1_OD1_S1_0</ProductID>
+      <ProductIDs>
+        <string>B27-SOL1_OD1_S1_0</string>
+      </ProductIDs>
+      <ProductCode>B27</ProductCode>
+      <Tile>
+        <OfferTitle>Bundle offer 4</OfferTitle>
+        <OfferDescription>
+          <string>Wi-Fi Day Pass</string>
+        </OfferDescription>
+        <PriceText>+$7/person</PriceText>
+        <IsSelected>false</IsSelected>
+        <TileIndex>3</TileIndex>
+        <OfferPrice>$7</OfferPrice>
+      </Tile>
+      <Detail>
+        <OfferTitle>Bundle offer 4 includes the following additions to your trip:</OfferTitle>
+        <OfferWarningMessage />
+        <OfferDetails>
+          <MOBBundleOfferDetail>
+            <offerDetailHeader>Wi-Fi Day Pass</offerDetailHeader>
+            <offerDetailDescription>Wi-Fi Day Pass.</offerDetailDescription>
+            <offerDetailWarningMessage />
+            <OfferDetailHeader>Wi-Fi Day Pass</OfferDetailHeader>
+            <OfferDetailDescription>Wi-Fi Day Pass.</OfferDetailDescription>
+            <OfferDetailWarningMessage />
+          </MOBBundleOfferDetail>
+        </OfferDetails>
+        <OfferTrips>
+          <MOBBundleOfferTrip>
+            <OriginDestination>IAH - ORD | $7/person</OriginDestination>
+            <TripId>1</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>7</Price>
+            <TripProductID>B27-SOL1_OD1_S1_0</TripProductID>
+            <TripProductIDs>
+              <string>B27-SOL1_OD1_S1_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+          <MOBBundleOfferTrip>
+            <OriginDestination>ORD - IAH | $7/person</OriginDestination>
+            <TripId>2</TripId>
+            <IsChecked>false</IsChecked>
+            <Price>7</Price>
+            <TripProductID>B27-SOL1_OD2_S2_0</TripProductID>
+            <TripProductIDs>
+              <string>B27-SOL1_OD2_S2_0</string>
+            </TripProductIDs>
+          </MOBBundleOfferTrip>
+        </OfferTrips>
+      </Detail>
+      <Amount>0</Amount>
+      <ProductIndex>3</ProductIndex>
+    </MOBBundleProduct>
+  </Products>
+  <BookingBundlesTitle>Customize Your Itinerary</BookingBundlesTitle>
+  <TermsAndCondition>
+    <ContentFull>&lt;ul&gt;&lt;li&gt;Travel Options bundles are nonrefundable on a standalone basis in whole or part. Certain changes to the travel covered by the associated air ticket may result in a full or partial refund of the Travel Options bundle.&lt;/li&gt; &lt;li&gt;Travel Options bundles may, depending on the package purchased, include Economy Plus® seating, one standard checked bag, extra award miles (except on award tickets), Premier Access®, and a United Club℠ trip pass.&lt;/li&gt;&lt;li&gt;Travel Options bundles are sold per directional trip (either outbound or return travel) and apply to all travelers on the reservation. Bundle benefits only apply to purchased flights.&lt;/li&gt;&lt;li&gt;Travel Options bundles are only available on trips with all flights wholly marketed and operated by United and United Express®.&lt;/li&gt;&lt;li&gt;Due to limited availability of certain components, it is possible your bundle will not include all components on all flights. The bundle price only includes components available at purchase.&lt;/li&gt;&lt;li&gt;Your receipt will show the value of the bundle components.&lt;/li&gt;&lt;li&gt;The standard checked bag allowance will grant one extra, standard checked bag beyond their original allowance for the trip purchased. The standard checked bag allowance is in addition to any baggage benefits due to MileagePlus® Premier® status, baggage subscriptions, or purchasing a ticket with certain credit cards. The standard checked bag allowance does not cover any additional charges due to overweight or oversize baggage.&lt;/li&gt;&lt;li&gt;If included in bundle, extra award miles will be deposited in traveler’s MileagePlus account within 48 hours after departure of the first flight included in their Travel Options bundle.&lt;/li&gt;&lt;li&gt;Travelers must enter their MileagePlus number in their reservation before departure of the first flight in order to receive any extra award miles included in bundle. Extra award miles are subject to all MileagePlus terms and conditions.&lt;/li&gt;&lt;li&gt;Travelers purchasing a bundle that includes extra award miles will receive the number of award miles indicated at the time the bundle is purchased.&lt;/li&gt;&lt;li&gt;Priority baggage handling is not included with Premier Access®, whether purchased on its own or as part of a Travel Options bundle.&lt;/li&gt;&lt;li&gt;United Club trip pass grants travelers access to all available United Club locations (excluding Global First and Arrivals lounges) for the trip purchased.&lt;/li&gt;&lt;li&gt;United Club trip passes are good only for the person named on the boarding pass – no guests.&lt;/li&gt;&lt;li&gt;United Club trip passes are good only for the trip purchased; trip passes expire within 2 hours after completion of the trip.&lt;/li&gt;&lt;li&gt;United Club trip passes are available to anyone 18 years of age or older. Enjoyment of clubroom amenities and facilities is subject to the terms and conditions of United Club and applicable law.&lt;/li&gt;&lt;/ul&gt;</ContentFull>
+    <ContentShort />
+    <HeadLine>Travel Options bundle terms and conditions</HeadLine>
+    <LocationCode />
+    <Title>Terms and Conditions</Title>
+  </TermsAndCondition>
+  <TotalAmount>0</TotalAmount>
+</MOBBookingBundlesResponse>

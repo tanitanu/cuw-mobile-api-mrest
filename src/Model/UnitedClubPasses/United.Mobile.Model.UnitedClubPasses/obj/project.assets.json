@@ -1,0 +1,1006 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Autofac/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Autofac.Extensions.DependencyInjection/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "5.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "BouncyCastle-Ext/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/BouncyCastle.CryptoExt.dll": {}
+        },
+        "runtime": {
+          "lib/net20/BouncyCastle.CryptoExt.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Presentation.CslModels/4.6.121": {
+        "type": "package",
+        "compile": {
+          "lib/net462/United.Service.Presentation.AirportResourceModel.dll": {},
+          "lib/net462/United.Service.Presentation.AirportResourceRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.AirportResourceResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.BagRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.BagResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.BaggageModel.dll": {},
+          "lib/net462/United.Service.Presentation.CarRentalModel.dll": {},
+          "lib/net462/United.Service.Presentation.CommonEnumModel.dll": {},
+          "lib/net462/United.Service.Presentation.CommonModel.dll": {},
+          "lib/net462/United.Service.Presentation.CustomerModel.dll": {},
+          "lib/net462/United.Service.Presentation.CustomerRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.CustomerResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.EServiceCheckInModel.dll": {},
+          "lib/net462/United.Service.Presentation.FlightRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.FlightResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.HostManagementModel.dll": {},
+          "lib/net462/United.Service.Presentation.HostManagementRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.HostManagementResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.HotelModel.dll": {},
+          "lib/net462/United.Service.Presentation.InteractionModel.dll": {},
+          "lib/net462/United.Service.Presentation.InteractionRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.InteractionResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.LoyaltyModel.dll": {},
+          "lib/net462/United.Service.Presentation.LoyaltyRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.LoyaltyResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.OptimizationModel.dll": {},
+          "lib/net462/United.Service.Presentation.OptimizationRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.OptimizationResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.PaymentModel.dll": {},
+          "lib/net462/United.Service.Presentation.PaymentRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.PaymentResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonalizationModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonalizationRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonalizationResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.PriceModel.dll": {},
+          "lib/net462/United.Service.Presentation.PriceRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.PriceResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ProductModel.dll": {},
+          "lib/net462/United.Service.Presentation.ProductRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ProductResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReceiptModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReceiptRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReceiptResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReferenceDataModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReferenceDataRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReferenceDataResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.RefundModel.dll": {},
+          "lib/net462/United.Service.Presentation.RefundRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.RefundResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReservationModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReservationRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReservationResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.SalesModel.dll": {},
+          "lib/net462/United.Service.Presentation.SalesRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.SalesResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.SecurityModel.dll": {},
+          "lib/net462/United.Service.Presentation.SecurityRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.SecurityResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.SegmentModel.dll": {},
+          "lib/net462/United.Service.Presentation.ShoppingModel.dll": {},
+          "lib/net462/United.Service.Presentation.TicketRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.TicketResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.TravelExceptionModel.dll": {},
+          "lib/net462/United.Service.Presentation.TravelMgmtModel.dll": {},
+          "lib/net462/United.Service.Presentation.UnitedCargoModel.dll": {},
+          "lib/net462/United.Service.Presentation.UnitedCargoRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.UnitedCargoResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ValueDocumentModel.dll": {},
+          "lib/net462/United.Service.Presentation.WorkspaceModel.dll": {}
+        },
+        "runtime": {
+          "lib/net462/United.Service.Presentation.AirportResourceModel.dll": {},
+          "lib/net462/United.Service.Presentation.AirportResourceRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.AirportResourceResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.BagRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.BagResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.BaggageModel.dll": {},
+          "lib/net462/United.Service.Presentation.CarRentalModel.dll": {},
+          "lib/net462/United.Service.Presentation.CommonEnumModel.dll": {},
+          "lib/net462/United.Service.Presentation.CommonModel.dll": {},
+          "lib/net462/United.Service.Presentation.CustomerModel.dll": {},
+          "lib/net462/United.Service.Presentation.CustomerRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.CustomerResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.EServiceCheckInModel.dll": {},
+          "lib/net462/United.Service.Presentation.FlightRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.FlightResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.HostManagementModel.dll": {},
+          "lib/net462/United.Service.Presentation.HostManagementRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.HostManagementResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.HotelModel.dll": {},
+          "lib/net462/United.Service.Presentation.InteractionModel.dll": {},
+          "lib/net462/United.Service.Presentation.InteractionRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.InteractionResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.LoyaltyModel.dll": {},
+          "lib/net462/United.Service.Presentation.LoyaltyRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.LoyaltyResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.OptimizationModel.dll": {},
+          "lib/net462/United.Service.Presentation.OptimizationRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.OptimizationResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.PaymentModel.dll": {},
+          "lib/net462/United.Service.Presentation.PaymentRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.PaymentResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonalizationModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonalizationRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.PersonalizationResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.PriceModel.dll": {},
+          "lib/net462/United.Service.Presentation.PriceRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.PriceResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ProductModel.dll": {},
+          "lib/net462/United.Service.Presentation.ProductRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ProductResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReceiptModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReceiptRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReceiptResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReferenceDataModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReferenceDataRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReferenceDataResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.RefundModel.dll": {},
+          "lib/net462/United.Service.Presentation.RefundRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.RefundResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReservationModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReservationRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.ReservationResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.SalesModel.dll": {},
+          "lib/net462/United.Service.Presentation.SalesRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.SalesResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.SecurityModel.dll": {},
+          "lib/net462/United.Service.Presentation.SecurityRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.SecurityResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.SegmentModel.dll": {},
+          "lib/net462/United.Service.Presentation.ShoppingModel.dll": {},
+          "lib/net462/United.Service.Presentation.TicketRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.TicketResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.TravelExceptionModel.dll": {},
+          "lib/net462/United.Service.Presentation.TravelMgmtModel.dll": {},
+          "lib/net462/United.Service.Presentation.UnitedCargoModel.dll": {},
+          "lib/net462/United.Service.Presentation.UnitedCargoRequestModel.dll": {},
+          "lib/net462/United.Service.Presentation.UnitedCargoResponseModel.dll": {},
+          "lib/net462/United.Service.Presentation.ValueDocumentModel.dll": {},
+          "lib/net462/United.Service.Presentation.WorkspaceModel.dll": {}
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.1/System.ComponentModel.Annotations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/System.ComponentModel.Annotations.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "System.Text.Encodings.Web/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll": {
+            "assetType": "runtime",
+            "rid": "browser"
+          }
+        }
+      },
+      "System.Text.Json/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "United.Mobile.Model.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Autofac": "5.0.0",
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
+          "Microsoft.Extensions.Configuration": "6.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "6.0.0",
+          "Newtonsoft.Json": "13.0.3",
+          "Presentation.CslModels": "4.6.121",
+          "System.ComponentModel.Annotations": "5.0.0",
+          "System.Text.Json": "6.0.1",
+          "United.Mobile.Model.Internal.Exception": "1.0.0",
+          "United.Mobile.Model.SeatEngine": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/United.Mobile.Model.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/United.Mobile.Model.Common.dll": {}
+        }
+      },
+      "United.Mobile.Model.Internal.Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/United.Mobile.Model.Internal.Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/United.Mobile.Model.Internal.Exception.dll": {}
+        }
+      },
+      "United.Mobile.Model.SeatEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/United.Mobile.Model.SeatEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/United.Mobile.Model.SeatEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autofac/5.0.0": {
+      "sha512": "U1aCHUMXuG7DDJ5JmTXF2kInXpad3Fuow+voSXEVunDHW4OkD8GDWJjleHpJPanpP+3dUQYLAM9R2lftGiQSbA==",
+      "type": "package",
+      "path": "autofac/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.0.0.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "Autofac.Extensions.DependencyInjection/6.0.0": {
+      "sha512": "+1WNYENm4s/bSBrmTy2sD0zs6MCiCAlUaEbHJ+y7fKpXKqnFl4oTkIkUoDKlp05dl1VoAASBUJocaKKJa1KPCw==",
+      "type": "package",
+      "path": "autofac.extensions.dependencyinjection/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+        "autofac.extensions.dependencyinjection.nuspec",
+        "lib/netstandard2.0/Autofac.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Autofac.Extensions.DependencyInjection.pdb",
+        "lib/netstandard2.0/Autofac.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.pdb",
+        "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.xml"
+      ]
+    },
+    "BouncyCastle-Ext/1.7.0": {
+      "sha512": "TgBOeGtecGYe2reeAlKEHnjdGgOaG2d6NwU2TaKCjbEnMNx8RSgf6a9R9gpaZoQn8L2EnUUQOkl8nGyyl9BByA==",
+      "type": "package",
+      "path": "bouncycastle-ext/1.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bouncycastle-ext.1.7.0.nupkg.sha512",
+        "bouncycastle-ext.nuspec",
+        "lib/net20/BouncyCastle.CryptoExt.dll"
+      ]
+    },
+    "Microsoft.Extensions.Configuration/6.0.0": {
+      "sha512": "tq2wXyh3fL17EMF2bXgRhU7JrbO3on93MRKYxzz4JzzvuGSA1l0W3GI9/tl8EO89TH+KWEymP7bcFway6z9fXg==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
+        "microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+      "sha512": "qWzV9o+ZRWq+pGm+1dF+R7qTgTYoXvbyowRoBxQJGfqTpqDun2eteerjRQhq5PQ/14S+lqto3Ft4gYaRyl4rdQ==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+      "sha512": "b3ErKzND8LIC7o08QAVlKfaEIYEvLJbtmVbFZVBRXeu9YkKfSSzLZfR1SUfQPBIy9mKLhEtJgGYImkcMNaKE0A==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.binder/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.binder.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+      "sha512": "8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Primitives/6.0.0": {
+      "sha512": "9+PnzmQFfEFNR9J2aDTfJGGupShHjOuGw4VUv+JB044biSHrnmCIMD+mJHmb2H7YryrfBEXDurxQ47gJZdCKNQ==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Primitives.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.Primitives.dll",
+        "lib/net461/Microsoft.Extensions.Primitives.xml",
+        "lib/net6.0/Microsoft.Extensions.Primitives.dll",
+        "lib/net6.0/Microsoft.Extensions.Primitives.xml",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Presentation.CslModels/4.6.121": {
+      "sha512": "bZaXVFj8XbFviRaZRrBhL6TOd6QaV4zcpuL5DAeR4tdHk4GPSWXwdOyjpWjOhCop61xlI1r+Ba9+fZsNCntnmw==",
+      "type": "package",
+      "path": "presentation.cslmodels/4.6.121",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net462/United.Service.Presentation.AirportResourceModel.dll",
+        "lib/net462/United.Service.Presentation.AirportResourceRequestModel.dll",
+        "lib/net462/United.Service.Presentation.AirportResourceResponseModel.dll",
+        "lib/net462/United.Service.Presentation.BagRequestModel.dll",
+        "lib/net462/United.Service.Presentation.BagResponseModel.dll",
+        "lib/net462/United.Service.Presentation.BaggageModel.dll",
+        "lib/net462/United.Service.Presentation.CarRentalModel.dll",
+        "lib/net462/United.Service.Presentation.CommonEnumModel.dll",
+        "lib/net462/United.Service.Presentation.CommonModel.dll",
+        "lib/net462/United.Service.Presentation.CustomerModel.dll",
+        "lib/net462/United.Service.Presentation.CustomerRequestModel.dll",
+        "lib/net462/United.Service.Presentation.CustomerResponseModel.dll",
+        "lib/net462/United.Service.Presentation.EServiceCheckInModel.dll",
+        "lib/net462/United.Service.Presentation.FlightRequestModel.dll",
+        "lib/net462/United.Service.Presentation.FlightResponseModel.dll",
+        "lib/net462/United.Service.Presentation.HostManagementModel.dll",
+        "lib/net462/United.Service.Presentation.HostManagementRequestModel.dll",
+        "lib/net462/United.Service.Presentation.HostManagementResponseModel.dll",
+        "lib/net462/United.Service.Presentation.HotelModel.dll",
+        "lib/net462/United.Service.Presentation.InteractionModel.dll",
+        "lib/net462/United.Service.Presentation.InteractionRequestModel.dll",
+        "lib/net462/United.Service.Presentation.InteractionResponseModel.dll",
+        "lib/net462/United.Service.Presentation.LoyaltyModel.dll",
+        "lib/net462/United.Service.Presentation.LoyaltyRequestModel.dll",
+        "lib/net462/United.Service.Presentation.LoyaltyResponseModel.dll",
+        "lib/net462/United.Service.Presentation.OptimizationModel.dll",
+        "lib/net462/United.Service.Presentation.OptimizationRequestModel.dll",
+        "lib/net462/United.Service.Presentation.OptimizationResponseModel.dll",
+        "lib/net462/United.Service.Presentation.PaymentModel.dll",
+        "lib/net462/United.Service.Presentation.PaymentRequestModel.dll",
+        "lib/net462/United.Service.Presentation.PaymentResponseModel.dll",
+        "lib/net462/United.Service.Presentation.PersonModel.dll",
+        "lib/net462/United.Service.Presentation.PersonalizationModel.dll",
+        "lib/net462/United.Service.Presentation.PersonalizationRequestModel.dll",
+        "lib/net462/United.Service.Presentation.PersonalizationResponseModel.dll",
+        "lib/net462/United.Service.Presentation.PriceModel.dll",
+        "lib/net462/United.Service.Presentation.PriceRequestModel.dll",
+        "lib/net462/United.Service.Presentation.PriceResponseModel.dll",
+        "lib/net462/United.Service.Presentation.ProductModel.dll",
+        "lib/net462/United.Service.Presentation.ProductRequestModel.dll",
+        "lib/net462/United.Service.Presentation.ProductResponseModel.dll",
+        "lib/net462/United.Service.Presentation.ReceiptModel.dll",
+        "lib/net462/United.Service.Presentation.ReceiptRequestModel.dll",
+        "lib/net462/United.Service.Presentation.ReceiptResponseModel.dll",
+        "lib/net462/United.Service.Presentation.ReferenceDataModel.dll",
+        "lib/net462/United.Service.Presentation.ReferenceDataRequestModel.dll",
+        "lib/net462/United.Service.Presentation.ReferenceDataResponseModel.dll",
+        "lib/net462/United.Service.Presentation.RefundModel.dll",
+        "lib/net462/United.Service.Presentation.RefundRequestModel.dll",
+        "lib/net462/United.Service.Presentation.RefundResponseModel.dll",
+        "lib/net462/United.Service.Presentation.ReservationModel.dll",
+        "lib/net462/United.Service.Presentation.ReservationRequestModel.dll",
+        "lib/net462/United.Service.Presentation.ReservationResponseModel.dll",
+        "lib/net462/United.Service.Presentation.SalesModel.dll",
+        "lib/net462/United.Service.Presentation.SalesRequestModel.dll",
+        "lib/net462/United.Service.Presentation.SalesResponseModel.dll",
+        "lib/net462/United.Service.Presentation.SecurityModel.dll",
+        "lib/net462/United.Service.Presentation.SecurityRequestModel.dll",
+        "lib/net462/United.Service.Presentation.SecurityResponseModel.dll",
+        "lib/net462/United.Service.Presentation.SegmentModel.dll",
+        "lib/net462/United.Service.Presentation.ShoppingModel.dll",
+        "lib/net462/United.Service.Presentation.TicketRequestModel.dll",
+        "lib/net462/United.Service.Presentation.TicketResponseModel.dll",
+        "lib/net462/United.Service.Presentation.TravelExceptionModel.dll",
+        "lib/net462/United.Service.Presentation.TravelMgmtModel.dll",
+        "lib/net462/United.Service.Presentation.UnitedCargoModel.dll",
+        "lib/net462/United.Service.Presentation.UnitedCargoRequestModel.dll",
+        "lib/net462/United.Service.Presentation.UnitedCargoResponseModel.dll",
+        "lib/net462/United.Service.Presentation.ValueDocumentModel.dll",
+        "lib/net462/United.Service.Presentation.WorkspaceModel.dll",
+        "presentation.cslmodels.4.6.121.nupkg.sha512",
+        "presentation.cslmodels.nuspec"
+      ]
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "sha512": "dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "type": "package",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net461/System.ComponentModel.Annotations.dll",
+        "lib/netcore50/System.ComponentModel.Annotations.dll",
+        "lib/netstandard1.4/System.ComponentModel.Annotations.dll",
+        "lib/netstandard2.0/System.ComponentModel.Annotations.dll",
+        "lib/netstandard2.1/System.ComponentModel.Annotations.dll",
+        "lib/netstandard2.1/System.ComponentModel.Annotations.xml",
+        "lib/portable-net45+win8/_._",
+        "lib/win8/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net461/System.ComponentModel.Annotations.dll",
+        "ref/net461/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/System.ComponentModel.Annotations.dll",
+        "ref/netcore50/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/de/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/es/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/fr/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/it/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/ja/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/ko/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/ru/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/System.ComponentModel.Annotations.dll",
+        "ref/netstandard1.1/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/de/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/es/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/fr/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/it/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/ja/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/ko/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/ru/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/System.ComponentModel.Annotations.dll",
+        "ref/netstandard1.3/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/de/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/es/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/fr/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/it/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/ja/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/ko/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/ru/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/System.ComponentModel.Annotations.dll",
+        "ref/netstandard1.4/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/de/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/es/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/fr/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/it/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/ja/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/ko/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/ru/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netstandard2.0/System.ComponentModel.Annotations.dll",
+        "ref/netstandard2.0/System.ComponentModel.Annotations.xml",
+        "ref/netstandard2.1/System.ComponentModel.Annotations.dll",
+        "ref/netstandard2.1/System.ComponentModel.Annotations.xml",
+        "ref/portable-net45+win8/_._",
+        "ref/win8/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.componentmodel.annotations.5.0.0.nupkg.sha512",
+        "system.componentmodel.annotations.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Encodings.Web/6.0.0": {
+      "sha512": "Vg8eB5Tawm1IFqj4TVK1czJX89rhFxJo9ELqc/Eiq0eXy13RK00eubyU6TJE6y+GQXjyV5gSfiewDUZjQgSE0w==",
+      "type": "package",
+      "path": "system.text.encodings.web/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Text.Encodings.Web.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Text.Encodings.Web.dll",
+        "lib/net461/System.Text.Encodings.Web.xml",
+        "lib/net6.0/System.Text.Encodings.Web.dll",
+        "lib/net6.0/System.Text.Encodings.Web.xml",
+        "lib/netcoreapp3.1/System.Text.Encodings.Web.dll",
+        "lib/netcoreapp3.1/System.Text.Encodings.Web.xml",
+        "lib/netstandard2.0/System.Text.Encodings.Web.dll",
+        "lib/netstandard2.0/System.Text.Encodings.Web.xml",
+        "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll",
+        "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.xml",
+        "system.text.encodings.web.6.0.0.nupkg.sha512",
+        "system.text.encodings.web.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Json/6.0.1": {
+      "sha512": "X3cTdM+jna1YyfTUzToW7aVgINFv7R1W4+1+3hua/YCyLjApPoR8fd+2Cep9DbfYjbv+rBx4K6dlmAWEJr9AHg==",
+      "type": "package",
+      "path": "system.text.json/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/roslyn3.11/cs/System.Text.Json.SourceGeneration.dll",
+        "analyzers/dotnet/roslyn3.11/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/de/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/es/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/fr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/it/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ja/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ko/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pl/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ru/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/tr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/System.Text.Json.SourceGeneration.dll",
+        "analyzers/dotnet/roslyn4.0/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/de/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/es/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/fr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/it/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ja/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ko/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pl/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ru/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/tr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll",
+        "build/System.Text.Json.targets",
+        "buildTransitive/netcoreapp2.0/System.Text.Json.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/net6.0/System.Text.Json.dll",
+        "lib/net6.0/System.Text.Json.xml",
+        "lib/netcoreapp3.1/System.Text.Json.dll",
+        "lib/netcoreapp3.1/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.6.0.1.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "United.Mobile.Model.Common/1.0.0": {
+      "type": "project",
+      "path": "../../United.Mobile.Model.Common/United.Mobile.Model.Common.csproj",
+      "msbuildProject": "../../United.Mobile.Model.Common/United.Mobile.Model.Common.csproj"
+    },
+    "United.Mobile.Model.Internal.Exception/1.0.0": {
+      "type": "project",
+      "path": "../../../Model.Internal/United.Mobile.Model.Internal.Exception/United.Mobile.Model.Internal.Exception.csproj",
+      "msbuildProject": "../../../Model.Internal/United.Mobile.Model.Internal.Exception/United.Mobile.Model.Internal.Exception.csproj"
+    },
+    "United.Mobile.Model.SeatEngine/1.0.0": {
+      "type": "project",
+      "path": "../../SeatEngine/United.Mobile.Model.SeatEngine/United.Mobile.Model.SeatEngine.csproj",
+      "msbuildProject": "../../SeatEngine/United.Mobile.Model.SeatEngine/United.Mobile.Model.SeatEngine.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BouncyCastle-Ext >= 1.7.0",
+      "United.Mobile.Model.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tmajumder2\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\UnitedClubPasses\\United.Mobile.Model.UnitedClubPasses\\United.Mobile.Model.UnitedClubPasses.csproj",
+      "projectName": "United.Mobile.Model.UnitedClubPasses",
+      "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\UnitedClubPasses\\United.Mobile.Model.UnitedClubPasses\\United.Mobile.Model.UnitedClubPasses.csproj",
+      "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\UnitedClubPasses\\United.Mobile.Model.UnitedClubPasses\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://edtweb.global.ual.com:8080/nuget": {},
+        "http://nuget.ual.com/packages/nuget": {},
+        "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+        "http://www.nuget.org/api/v2/": {},
+        "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+        "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+        "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+        "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+        "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+              "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "BouncyCastle-Ext": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.ual.com/packages/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vcld36gdersas01.global.ual.com/EresNuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://edtweb.global.ual.com:8080/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle-Ext 1.7.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle-Ext",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Presentation.CslModels 4.6.121' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Presentation.CslModels",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

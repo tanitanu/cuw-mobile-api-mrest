@@ -1,0 +1,16 @@
+{
+  "sessionId": "17C979E184CC495EA083D45F4DD9D19D",
+  "AwardTravel": true,
+  "PathEligible": true,
+  "SameDayChangeEligible": true,
+  "isSameDayChangeVersion": false,
+  "ExceptionPolicyEligible": true,
+  "PnrTravelers": [
+    {
+      "knownTravelerNumber": "1234",
+      "ktnDisplaySequence": "ABCD",
+      "redressNumber": "22-10-7",
+      "isMPMember": true
+    }
+  ]
+}

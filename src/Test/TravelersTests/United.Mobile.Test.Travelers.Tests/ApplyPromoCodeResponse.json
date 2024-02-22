@@ -1,0 +1,18 @@
+{
+  "ShoppingCart": {
+    "PromoCodeDetails": {
+      "PromoCodes": [
+        {
+          "promoCode": "promoCode",
+          "isRemove": true,
+          "alertMessage": "alertMessage"
+        },
+        {
+          "promoCode": "promoCode",
+          "isRemove": false,
+          "alertMessage": "alertMessage"
+        }
+      ]
+    }
+  }
+}

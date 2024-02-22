@@ -1,0 +1,1105 @@
+{
+  "Detail": {
+    "Travelers": [
+      {
+        "Person": {
+          "Key": "1.1",
+          "Surname": "JESTE",
+          "GivenName": "TESTSAM",
+          "MiddleName": "",
+          "DateOfBirth": "8/31/1988 12:00:00 AM",
+          "Sex": "M",
+          "ChildIndicator": "False",
+          "Documents": [
+            {
+              "Genre": {
+                "DisplaySequence": 3
+              },
+              "Type": 15,
+              "KnownTravelerNumber": "1234567899"
+            }
+          ],
+          "CustomerID": "JESTE/TESTSAM",
+          "CountryOfResidence": {},
+          "Status": {},
+          "Type": "ADT",
+          "InfantIndicator": "False",
+          "Nationality": [],
+          "PreferredLanguage": {},
+          "Contact": {},
+          "PricingPaxType": "ADT"
+        },
+        "LoyaltyProgramProfile": {
+          "LoyaltyProgramCarrierCode": "UA",
+          "LoyaltyProgramID": "",
+          "LoyaltyProgramMemberID": "AY575986",
+          "LoyaltyProgramMemberTierLevel": "MP",
+          "StarEliteLevel": "",
+          "LoyaltyProgramMemberTierDescription": 0
+        },
+        "Tickets": [
+          {
+            "SequenceNumber": 1,
+            "Type": "ETicketNumber",
+            "Status": {
+              "Code": ""
+            },
+            "DocumentID": "01623662796302",
+            "IssueDate": "9/9/2021 2:00:00 AM",
+            "Benefactor": {},
+            "Price": {
+              "FareType": 0
+            },
+            "Payments": [
+              {
+                "BillingAddress": {
+                  "AddressLines": [
+                    "1600 SMITH ST"
+                  ],
+                  "City": "HOUSTON",
+                  "StateProvince": {
+                    "StateProvinceCode": "TX"
+                  },
+                  "PostalCode": "77002-7362",
+                  "Country": {
+                    "CountryCode": "US"
+                  }
+                },
+                "WalletCategory": 0,
+                "GroupPaymentType": 0
+              }
+            ],
+            "Owner": "",
+            "PurgeDate": "1/1/0001 12:00:00 AM",
+            "FlightSegments": [],
+            "PromotionCode": "",
+            "Value": "http://unitedservicesstage.ual.com/8.0/tickets/details/eticketnumber/01623662796302",
+            "Characteristic": [
+              {
+                "Value": "US",
+                "Description": "Ticketing_country_code"
+              },
+              {
+                "Code": "Active",
+                "Value": "True"
+              }
+            ],
+            "IsConjunctiveTicket": "False",
+            "FlightCoupons": [
+              {
+                "FlightSegment": {
+                  "DepartureAirport": {
+                    "IATACode": "ORD"
+                  },
+                  "ArrivalAirport": {
+                    "IATACode": "IAD"
+                  },
+                  "DepartureDateTime": "9/9/2021 7:00:00 AM",
+                  "FlightNumber": "2198",
+                  "OperatingAirlineCode": "UA",
+                  "SegmentNumber": 1,
+                  "UpgradeEligibilityStatus": 0,
+                  "UpgradeVisibilityType": 0,
+                  "InstantUpgradable": false
+                },
+                "FareBasisCode": "VAA0PKFN",
+                "Status": {
+                  "Code": ""
+                },
+                "BookingClass": "Z"
+              }
+            ],
+            "TicketValidityDate": "12/31/2022 12:00:00 AM"
+          }
+        ],
+        "Characteristics": [
+          {
+            "Code": "SSMF",
+            "Value": "false"
+          },
+          {
+            "Genre": {
+              "DisplaySequence": 2
+            },
+            "Code": "DOCS",
+            "Value": "SSR",
+            "Description": "DOCSUAHK1/////31AUG88/M//JESTE/TEST/SAM-1JESTE/ TESTSAM"
+          },
+          {
+            "Genre": {
+              "DisplaySequence": 3
+            },
+            "Code": "DOCO",
+            "Value": "SSR",
+            "Description": "DOCOUAHK1//K/1234567899///US-1JESTE/TESTSAM"
+          },
+          {
+            "Genre": {
+              "DisplaySequence": 4
+            },
+            "Code": "TKNE",
+            "Value": "SSR",
+            "Description": "TKNEUAHK1TKNEUAHK1ORDIAD2198Z09SEP-1JESTE/TESTSAM.01623662796302C1"
+          },
+          {
+            "Genre": {
+              "DisplaySequence": 1
+            },
+            "Code": "FQTV",
+            "Value": "SSR",
+            "Description": "AY575986"
+          }
+        ]
+      }
+    ],
+    "ReceivedFrom": "COCOM-US/AY575986-GUID/",
+    "Services": [
+      {
+        "Key": "SSR",
+        "CarrierCode": {},
+        "Description": "DOCSUAHK1/////31AUG88/M//JESTE/TEST/SAM-1JESTE/ TESTSAM",
+        "SequenceNumber": 2,
+        "Comments": "API - Secure Flight Data, Passenger Travel Document",
+        "Type": {
+          "Key": "G",
+          "DefaultIndicator": "False",
+          "DisplaySequence": 2
+        },
+        "DisplaySequence": 2,
+        "Status": {
+          "Description": "API - Secure Flight Data, Passenger Travel Document",
+          "Key": "True",
+          "Code": "IsSystemGenerated"
+        },
+        "Code": "DOCS",
+        "TravelerNameIndex": "1.1",
+        "SubCategory": "SECURITY",
+        "Category": "GENERAL",
+        "CommentType": "Mandatory",
+        "IsActive": true
+      },
+      {
+        "Key": "SSR",
+        "CarrierCode": {},
+        "Description": "DOCOUAHK1//K/1234567899///US-1JESTE/TESTSAM",
+        "SequenceNumber": 3,
+        "Comments": "Redress / Known Traveler number",
+        "Type": {
+          "Key": "G",
+          "DefaultIndicator": "False",
+          "DisplaySequence": 3
+        },
+        "DisplaySequence": 3,
+        "Status": {
+          "Description": "Redress / Known Traveler number",
+          "Key": "False",
+          "Code": "IsSystemGenerated"
+        },
+        "Code": "DOCO",
+        "TravelerNameIndex": "1.1",
+        "SubCategory": "SECURITY",
+        "Category": "GENERAL",
+        "CommentType": "Mandatory",
+        "IsActive": true
+      },
+      {
+        "Key": "SSR",
+        "CarrierCode": {},
+        "Description": "TKNEUAHK1TKNEUAHK1ORDIAD2198Z09SEP-1JESTE/TESTSAM.01623662796302C1",
+        "SequenceNumber": 4,
+        "Comments": "Electronic Ticket",
+        "Type": {
+          "Key": "G",
+          "DefaultIndicator": "False",
+          "DisplaySequence": 4
+        },
+        "DisplaySequence": 4,
+        "Status": {
+          "Description": "Electronic Ticket",
+          "Key": "True",
+          "Code": "IsSystemGenerated"
+        },
+        "Code": "TKNE",
+        "SegmentNumber": [
+          1
+        ],
+        "TravelerNameIndex": "1.1",
+        "SubCategory": "TICKETING",
+        "Category": "GENERAL",
+        "CommentType": "Optional",
+        "IsActive": true
+      },
+      {
+        "Key": "SSR",
+        "CarrierCode": {
+          "Name": "UA",
+          "IsCassMember": "False",
+          "IsMustRide": "False"
+        },
+        "Description": "AY575986",
+        "SequenceNumber": 1,
+        "Comments": "JESTE/TESTSAM",
+        "Type": {
+          "Key": "FQTV",
+          "DefaultIndicator": "False"
+        },
+        "DisplaySequence": 1,
+        "Status": {
+          "Description": "Frequent Traveler",
+          "Key": "True",
+          "Code": "IsSystemGenerated"
+        },
+        "Code": "FQTV",
+        "TravelerNameIndex": "1.1",
+        "SubCategory": "MILEAGEPLUS",
+        "Category": "GENERAL",
+        "CommentType": "Not Permitted",
+        "IsActive": true
+      }
+    ],
+    "TelephoneNumbers": [
+      {
+        "Description": "N",
+        "CountryAccessCode": "WEB",
+        "AreaCityCode": "000",
+        "PhoneNumber": "*45520300 DO NOT REMOVE-AGENCY CLAIM NOT ALLOWED",
+        "DisplaySequence": 1
+      },
+      {
+        "Description": "H",
+        "CountryAccessCode": "MOB",
+        "AreaCityCode": "713",
+        "PhoneNumber": "3241234",
+        "DisplaySequence": 2
+      }
+    ],
+    "ActionItems": [],
+    "FlightSegments": [
+      {
+        "FlightSegment": {
+          "DepartureAirport": {
+            "IATACode": "ORD",
+            "Name": "Chicago, IL, US (ORD - O'Hare)",
+            "ShortName": "ORD",
+            "IATACountryCode": {
+              "CountryCode": "US",
+              "ISOAlpha3Code": "USA"
+            },
+            "StateProvince": {
+              "StateProvinceCode": "IL",
+              "Name": "Illinois"
+            }
+          },
+          "ArrivalAirport": {
+            "IATACode": "IAD",
+            "Name": "Washington, DC, US (IAD - Dulles)",
+            "ShortName": "IAD",
+            "IATACountryCode": {
+              "CountryCode": "US",
+              "ISOAlpha3Code": "USA"
+            },
+            "StateProvince": {
+              "StateProvinceCode": "DC",
+              "Name": "District of Columbia"
+            }
+          },
+          "DepartureDateTime": "9/9/2021 7:00:00 AM",
+          "ArrivalDateTime": "9/9/2021 9:48:00 AM",
+          "FlightNumber": "2198",
+          "MarketedFlightSegment": [
+            {
+              "MarketingAirlineCode": "UA",
+              "FlightNumber": "2198"
+            }
+          ],
+          "BookingClasses": [
+            {
+              "Code": "Z"
+            }
+          ],
+          "FlightSegmentType": "HX",
+          "Characteristic": [
+            {
+              "Value": "",
+              "Description": "Ticket Coupon Status",
+              "Status": {
+                "Description": "Ticket Coupon Status",
+                "Code": "cpn_status"
+              }
+            },
+            {
+              "Code": "01623662796302",
+              "Value": "016",
+              "Description": "Ticket Stock",
+              "Status": {
+                "Description": "Ticket Stock",
+                "Code": "cpn_frm_ser"
+              }
+            },
+            {
+              "Value": "VAA0PKFN",
+              "Description": "FareBasisCode"
+            },
+            {
+              "Value": "09/09/2021",
+              "Description": "TicketIssuDate"
+            }
+          ],
+          "FlightStatuses": [
+            {
+              "StatusType": "",
+              "Description": "ETicket Coupon Status",
+              "Code": ""
+            }
+          ],
+          "AvailBookingClasses": [],
+          "UpgradeEligibilityStatus": 0,
+          "UpgradeVisibilityType": 0,
+          "InstantUpgradable": false,
+          "IsGroupBooking": "False"
+        },
+        "EstimatedArrivalTime": "01/01/0001 12:00:00 AM",
+        "EstimatedArrivalUTCTime": "01/01/0001 12:00:00 AM",
+        "EstimatedDepartureTime": "01/01/0001 12:00:00 AM",
+        "EstimatedDepartureUTCTime": "01/01/0001 12:00:00 AM",
+        "Characteristic": [
+          {
+            "Code": "CheckinTriggered",
+            "Value": "False"
+          },
+          {
+            "Code": "CheckedIn",
+            "Value": "False"
+          },
+          {
+            "Code": "Waitlisted",
+            "Value": "False"
+          },
+          {
+            "Code": "DEI50",
+            "Value": ""
+          },
+          {
+            "Code": "MealDescription",
+            "Value": ""
+          },
+          {
+            "Code": "DEI50",
+            "Value": ""
+          },
+          {
+            "Code": "MealDescription",
+            "Value": ""
+          }
+        ],
+        "TripNumber": "1"
+      }
+    ],
+    "Prices": [
+      {
+        "BasePrice": [
+          {
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 287.44
+          }
+        ],
+        "Taxes": [
+          {
+            "Code": "US",
+            "Name": "U.S. Transportation Tax",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 21.56
+          },
+          {
+            "Code": "ZP",
+            "Name": "U.S. Flight Segment Tax",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 4.3
+          },
+          {
+            "Code": "AY",
+            "Name": "September 11th Security Fee",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 5.6
+          },
+          {
+            "Code": "XF",
+            "Name": "U.S. Passenger Facility Charge",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 4.5
+          }
+        ],
+        "Fees": [],
+        "Totals": [
+          {
+            "Name": "TaxTotal",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 35.96
+          },
+          {
+            "Name": "GrandTotalForMileage",
+            "Currency": {
+              "Code": "MIL"
+            },
+            "Amount": -1.0
+          },
+          {
+            "Name": "GrandTotalForCurrency",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 323.4
+          }
+        ],
+        "BasePriceEquivalent": {
+          "Currency": {},
+          "Amount": 0.0
+        },
+        "Type": {
+          "Value": "ADT"
+        },
+        "Rules": [
+          {
+            "Description": "NONREF/0VALUAFTDPT"
+          }
+        ],
+        "FareCalculation": "CHI UA WAS 287.44VAA0PKFN USD 287.44 END ZP ORD XT4.30ZP5.60AY XF ORD4.5",
+        "FareComponents": [
+          {
+            "AirlineCode": "UA",
+            "OriginCity": "CHI",
+            "DestinationCity": "WAS",
+            "TicketDesignator": "",
+            "BasisCodes": [
+              "VAA0PKFN"
+            ],
+            "BasePrice": [
+              {
+                "Currency": {
+                  "Code": "USD",
+                  "DecimalPlace": 2
+                },
+                "Amount": 287.44
+              }
+            ],
+            "DestinationAirportCode": "IAD",
+            "OriginAirportCode": "ORD",
+            "SequenceNumber": 1,
+            "TourCode": "",
+            "DestinationCityAirportCodes": [
+              "BWI",
+              "DCA",
+              "IAD",
+              "ZWU"
+            ],
+            "OriginCityAirportCodes": [
+              "MDW",
+              "ORD"
+            ],
+            "DepartureDateTime": "9/9/2021 7:00:00 AM",
+            "IsRulesEligible": "False"
+          }
+        ],
+        "Count": {
+          "CountType": "Pax Count",
+          "Value": "1"
+        },
+        "FareType": 0,
+        "PriceFlightSegments": [
+          {
+            "FareBasisCode": "VAA0PKFN",
+            "LOFNumber": 1,
+            "FareComponentSequenceNumber": 1,
+            "NotValidAfter": "09/09/2021",
+            "NotValidBefore": "09/09/2021",
+            "DepartureAirport": {
+              "IATACode": "ORD",
+              "Name": "Chicago, IL, US (ORD - O'Hare)",
+              "ShortName": "ORD",
+              "IATACountryCode": {
+                "CountryCode": "US",
+                "ISOAlpha3Code": "USA"
+              },
+              "StateProvince": {
+                "StateProvinceCode": "IL",
+                "Name": "Illinois"
+              }
+            },
+            "ArrivalAirport": {
+              "IATACode": "IAD",
+              "Name": "Washington, DC, US (IAD - Dulles)",
+              "ShortName": "IAD",
+              "IATACountryCode": {
+                "CountryCode": "US",
+                "ISOAlpha3Code": "USA"
+              },
+              "StateProvince": {
+                "StateProvinceCode": "DC",
+                "Name": "District of Columbia"
+              }
+            },
+            "DepartureDateTime": "9/9/2021 7:00:00 AM",
+            "ArrivalDateTime": "9/9/2021 9:48:00 AM",
+            "FlightNumber": "2198",
+            "MarketedFlightSegment": [
+              {
+                "MarketingAirlineCode": "UA",
+                "FlightNumber": "2198"
+              }
+            ],
+            "BookingClasses": [
+              {
+                "Code": "Z"
+              }
+            ],
+            "Characteristic": [
+              {
+                "Value": "",
+                "Description": "Ticket Coupon Status",
+                "Status": {
+                  "Description": "Ticket Coupon Status",
+                  "Code": "cpn_status"
+                }
+              },
+              {
+                "Code": "01623662796302",
+                "Value": "016",
+                "Description": "Ticket Stock",
+                "Status": {
+                  "Description": "Ticket Stock",
+                  "Code": "cpn_frm_ser"
+                }
+              },
+              {
+                "Value": "VAA0PKFN",
+                "Description": "FareBasisCode"
+              },
+              {
+                "Value": "09/09/2021",
+                "Description": "TicketIssuDate"
+              }
+            ],
+            "Legs": [
+              {
+                "DepartureAirport": {
+                  "IATACode": "ORD"
+                },
+                "ArrivalAirport": {
+                  "IATACode": "IAD"
+                },
+                "Equipment": {
+                  "Model": {
+                    "Fleet": "2198"
+                  },
+                  "SeatmapLegendList": null
+                }
+              }
+            ],
+            "FlightStatuses": [
+              {
+                "StatusType": "",
+                "Description": "ETicket Coupon Status",
+                "Code": ""
+              }
+            ],
+            "OperatingAirlineFlightNumber": "2198",
+            "UpgradeEligibilityStatus": 0,
+            "UpgradeVisibilityType": 0,
+            "InstantUpgradable": false,
+            "OperatingBookingClasses": [
+              {
+                "Code": "Z"
+              }
+            ]
+          }
+        ],
+        "PassengerTypeCode": "ADT",
+        "Characteristics": [
+          {
+            "Value": "01623662796302",
+            "Description": "ETicketNumber"
+          },
+          {
+            "Code": "",
+            "Description": "originalIssueNumber"
+          },
+          {
+            "Value": "No match",
+            "Description": "Ticketing"
+          }
+        ],
+        "PassengerIDs": {
+          "Key": "1.1",
+          "Description": "ADT"
+        },
+        "POSBaseFare": {
+          "Currency": {
+            "Code": "USD",
+            "DecimalPlace": 2
+          },
+          "Amount": 287.44
+        }
+      }
+    ],
+    "ConfirmationID": "HR9X2H",
+    "Type": [
+      {
+        "Key": "NEW",
+        "Description": "TRANS_TYPE"
+      },
+      {
+        "Key": "REVENUE",
+        "Description": "ITIN_TYPE"
+      },
+      {
+        "Key": "ETICKET",
+        "Description": "PRICE_SOURCE"
+      },
+      {
+        "Key": "ONE_WAY",
+        "Description": "JOURNEY_TYPE"
+      }
+    ],
+    "CreateDutyCode": "05",
+    "CreateDate": "09/09/2021 07:00:00",
+    "PurgeAirlineCode": {
+      "Name": "UA",
+      "Key": "UA",
+      "IsCassMember": "False",
+      "IsMustRide": "False"
+    },
+    "Status": {
+      "DefaultIndicator": "True",
+      "Description": "PNR MODIFIED -CHK ITIN-",
+      "Key": "PNR MODIFIED",
+      "Type": {
+        "Key": "NeedAttention",
+        "Value": "TRUE"
+      }
+    },
+    "PurgeDate": "01/01/0001 00:00:00",
+    "EmailAddress": [
+      {
+        "Genre": {
+          "Key": "REMARK_INDEX",
+          "DisplaySequence": 6
+        },
+        "Address": "TEST@UNITED.COM"
+      }
+    ],
+    "MethodsofPayment": [
+      {
+        "CreditCard": {
+          "Description": 0,
+          "CreditCardTypeCode": 7,
+          "PinEntryCapability": 0,
+          "InputCapability": 0,
+          "TerminalAttended": 0,
+          "TerminalCardholderActivated": 0,
+          "Amount": 323.4,
+          "Date": "0522",
+          "AccountNumber": "XXXXXXXXXXXX5678",
+          "Currency": {
+            "Code": "USD"
+          },
+          "WalletCategory": 0,
+          "PaymentCharacteristics": [
+            {
+              "Code": "TicketPaymentAt",
+              "Value": "WEB"
+            }
+          ],
+          "GroupPaymentType": 0
+        }
+      }
+    ],
+    "Remarks": [
+      {
+        "Description": "$VIXXXXXXXXXXXX5678/0522",
+        "Key": "1",
+        "DisplaySequence": 1
+      },
+      {
+        "Description": "WEB CLIENT IP 127.0.0.1",
+        "Key": "1",
+        "DisplaySequence": 1
+      },
+      {
+        "Description": "AVAILABILITY SOURCE - ITA",
+        "Key": "2",
+        "DisplaySequence": 2
+      },
+      {
+        "Description": "WEB*CO COM RESERVATIONS - US",
+        "Key": "3",
+        "DisplaySequence": 3
+      },
+      {
+        "Description": "BOOKINGCHANNEL - MOBILE - ANDROID",
+        "Key": "4",
+        "DisplaySequence": 4
+      },
+      {
+        "Description": "IATA MSO ID - 14990360",
+        "Key": "5",
+        "DisplaySequence": 5
+      },
+      {
+        "Description": "EMAIL RQSTD TEST-AT-UNITED.COM",
+        "Key": "6",
+        "DisplaySequence": 6
+      },
+      {
+        "Description": "SFS FQID*B3C86631-DD81-447E-989D-73ECA36273A8",
+        "Key": "7",
+        "DisplaySequence": 7
+      },
+      {
+        "Description": "07 REMARKS ADDED BY WEB SU AD 09SEP 0700Z DC591F",
+        "Key": "8",
+        "DisplaySequence": 8
+      },
+      {
+        "Description": "PB TKT ORDERID*2F316FEA-31A8-496C-AACE-C73F8A72095C",
+        "Key": "9",
+        "DisplaySequence": 9
+      },
+      {
+        "Description": "RVI ID*8F2RE308-2930-4C2A-86C3-CUF1C8TL30FD",
+        "Key": "10",
+        "DisplaySequence": 10
+      },
+      {
+        "Description": "02 REMARKS ADDED BY WEB SU BK 09SEP 0700Z D13187",
+        "Key": "11",
+        "DisplaySequence": 11
+      },
+      {
+        "Description": "RBY9SEP*APPR CC VI 010136 $323.4 WEBCO",
+        "Key": "12",
+        "DisplaySequence": 12
+      },
+      {
+        "Description": "01 REMARKS ADDED BY WEB SU AD 09SEP 0700Z DC32A2",
+        "Key": "13",
+        "DisplaySequence": 13
+      },
+      {
+        "Description": "ADDR TEST TEST",
+        "Key": "14",
+        "DisplaySequence": 14
+      },
+      {
+        "Description": "ADDR 1600 SMITH ST",
+        "Key": "15",
+        "DisplaySequence": 15
+      },
+      {
+        "Description": "ADDR HOUSTON TX 77002-7362",
+        "Key": "16",
+        "DisplaySequence": 16
+      },
+      {
+        "Description": "ADDRCITY HOUSTON",
+        "Key": "17",
+        "DisplaySequence": 17
+      },
+      {
+        "Description": "ADDRSTATE TX",
+        "Key": "18",
+        "DisplaySequence": 18
+      },
+      {
+        "Description": "ADDRZIP 77002-7362",
+        "Key": "19",
+        "DisplaySequence": 19
+      },
+      {
+        "Description": "06 REMARKS ADDED BY WEB SU BK 09SEP 0700Z DC3615",
+        "Key": "20",
+        "DisplaySequence": 20
+      },
+      {
+        "Description": "5CDM: PNR SENT TO ACCERTIFY CDM41",
+        "Key": "21",
+        "DisplaySequence": 21
+      },
+      {
+        "Description": "01 REMARKS ADDED BY WEB SU BK 09SEP 0700Z DC305C",
+        "Key": "22",
+        "DisplaySequence": 22
+      },
+      {
+        "Description": "5CDM APPROVED TO TICKET --A-- CDM43",
+        "Key": "23",
+        "DisplaySequence": 23
+      },
+      {
+        "Description": "01 REMARKS ADDED BY WEB SU BK 09SEP 0700Z DC572B",
+        "Key": "24",
+        "DisplaySequence": 24
+      },
+      {
+        "Description": "9SEP*RCVD FROM FRAUD CLEAR*TKTSCV",
+        "Key": "25",
+        "DisplaySequence": 25
+      },
+      {
+        "Description": "01 REMARKS ADDED BY WEB SU BK 09SEP 0700Z DC586B",
+        "Key": "26",
+        "DisplaySequence": 26
+      }
+    ],
+    "Characteristic": [
+      {
+        "Code": "24HrFlexibleBookingPolicy ",
+        "Value": "False"
+      },
+      {
+        "Code": "ColumbiaFlexPolicy",
+        "Value": "False"
+      },
+      {
+        "Code": "BrazilFlexPolicy",
+        "Value": "True"
+      },
+      {
+        "Code": "TimeMilliSeconds",
+        "Value": "276.81",
+        "Description": "Other_Shares_Info_Retreival_Time"
+      },
+      {
+        "Code": "TimeMilliSeconds",
+        "Value": "102.26",
+        "Description": "LEID_Disposal_Time"
+      },
+      {
+        "Code": "TimeMilliSeconds",
+        "Value": "199.24",
+        "Description": "FlightStatus_Info_Retreival_time"
+      },
+      {
+        "Code": "FlightStatusEndpoint",
+        "Value": "https://unitedservicesstage.ual.com/8.0/ODS/uflifo/FlightStatus/Customer/multistatus/lite"
+      },
+      {
+        "Code": "TimeMilliSeconds",
+        "Value": "0.00",
+        "Description": "Flight_Range_retrieval_time"
+      },
+      {
+        "Code": "FARELOCK",
+        "Value": "FALSE"
+      },
+      {
+        "Code": "TAE",
+        "Value": "T/FQR/XXXXXXXXXXXX5678/23662796302/0001//323.40"
+      },
+      {
+        "Code": "PNRChangeEligibility"
+      },
+      {
+        "Code": "UTD",
+        "Value": "9/9/2021",
+        "Description": "USED TICKET DATA"
+      },
+      {
+        "Code": "OutOfSync",
+        "Value": "False"
+      },
+      {
+        "Code": "CancelDate",
+        "Value": "09/09/2021"
+      },
+      {
+        "Code": "PrintBoardingPasses",
+        "Value": "False"
+      },
+      {
+        "Code": "IsValidCorporateTravel",
+        "Value": "False"
+      },
+      {
+        "Code": "ActiveTicketsExist",
+        "Value": "True"
+      },
+      {
+        "Code": "NoItin",
+        "Value": "True"
+      },
+      {
+        "Code": "Do not call PNRRetreival - GET",
+        "Value": "TRUE"
+      },
+      {
+        "Code": "DIVIDED",
+        "Value": "True"
+      },
+      {
+        "Code": "CONCUR",
+        "Value": "True"
+      },
+      {
+        "Code": "UMNR",
+        "Value": "True"
+      },
+      {
+        "Code": "UNITED MEETINGS",
+        "Value": "True"
+      },
+      {
+        "Code": "CEO-Chairman Circle",
+        "Value": "True"
+      },
+      {
+        "Code": "OLYMPIC",
+        "Value": "True"
+      },
+      {
+        "Code": "OXYGEN",
+        "Value": "True"
+      },
+      {
+        "Code": "GMS",
+        "Value": "True"
+      },
+      {
+        "Code": "FFC",
+        "Description": "Future Flight Credit"
+      },
+      {
+        "Code": "LEID",
+        "Description": "DC323F"
+      },
+      {
+        "Code": "SFS FQID",
+        "Value": "B3C86631-DD81-447E-989D-73ECA36273A8"
+      },
+      {
+        "Code": "PB TKT ORDERID",
+        "Value": "2F316FEA-31A8-496C-AACE-C73F8A72095C"
+      },
+      {
+        "Code": "MIL",
+        "Value": "0",
+        "Description": "ITINTotalForMileage"
+      },
+      {
+        "Code": "USD",
+        "Value": "35.96",
+        "Description": "ITINTotalTax"
+      },
+      {
+        "Code": "USD",
+        "Value": "323.40",
+        "Description": "ITINTotalForCurrency"
+      },
+      {
+        "Code": "Booking Source",
+        "Description": "MOBILE"
+      },
+      {
+        "Code": "TimeMilliSeconds",
+        "Value": "231.59",
+        "Description": "LEID_Retreival_Time"
+      },
+      {
+        "Code": "UCDStatus",
+        "Value": "False"
+      },
+      {
+        "Code": "IsPolicyEligible",
+        "Value": "True"
+      },
+      {
+        "Code": "PROC_TIME",
+        "Value": "2.04"
+      }
+    ],
+    "TimeLimitExpiration": "01/01/0001 00:00:00",
+    "FareEffectiveDate": "01/01/0001 00:00:00",
+    "FareExpireDate": "01/01/0001 00:00:00",
+    "Channel": "MOBILE",
+    "Association": [
+      {
+        "Requestor": {
+          "ChannelName": "MOBILE"
+        }
+      }
+    ],
+    "PointOfSale": {
+      "Country": {
+        "CountryCode": "US"
+      }
+    },
+    "Payment": {
+      "Type": {
+        "Key": "CC",
+        "Description": "AccountType",
+        "Value": "VI"
+      },
+      "Amount": 323.4,
+      "Date": "0522",
+      "AccountNumber": "XXXXXXXXXXXX5678",
+      "Currency": {
+        "Code": "USD"
+      },
+      "WalletCategory": 0,
+      "PaymentCharacteristics": [
+        {
+          "Code": "TicketPaymentAt",
+          "Value": "WEB"
+        }
+      ],
+      "GroupPaymentType": 0
+    },
+    "BookingIndicators": {}
+  },
+  "PNRChangeEligibility": {
+    "IsATREEligible": "True",
+    "IsPolicyEligible": "True",
+    "Policies": [
+      {
+        "Name": "BE WVR: TKTS ISSUED ON OR AFTER 5/1/21",
+        "Waived": [
+          {
+            "Code": "NON_REFUND_WAIVED",
+            "Value": "False"
+          },
+          {
+            "Code": "ADD_COL_WAIVED",
+            "Value": "False"
+          },
+          {
+            "Code": "CHANGE_FEE_WAIVED",
+            "Value": "False"
+          },
+          {
+            "Code": "CLS_OF_SVC_WAIVED",
+            "Value": "False"
+          }
+        ],
+        "Number": "7195"
+      }
+    ]
+  }
+}

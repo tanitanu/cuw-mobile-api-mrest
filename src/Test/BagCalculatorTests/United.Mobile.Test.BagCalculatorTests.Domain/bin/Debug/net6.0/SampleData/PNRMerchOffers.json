@@ -1,0 +1,1163 @@
+[
+  {
+    "MerchOffers": {
+      "TranscationLogs": null,
+      "Itinerary": [
+        {
+          "MerchandisingInfo": {
+            "Services": [
+              {
+                "ServiceDefinition": {
+                  "Description": "Baggage Service",
+                  "AdditionalInfo": null,
+                  "Name": "Baggage",
+                  "Code": "BAG",
+                  "DisplayName": "Baggage",
+                  "PresentationInfo": null
+                },
+                "Tiers": [
+                  {
+                    "TierInfo": {
+                      "DisplayName": null,
+                      "Group": 1,
+                      "SubGroup": 0,
+                      "SubGroupType": null,
+                      "Description": [ { "text": "MinQuantity: 1, MaxQuantity: 2, Type: Discount, Group: BG, " } ],
+                      "PresentationInfo": null,
+                      "Type": 1,
+                      "Components": null,
+                      "Entitlement": null,
+                      "InEligibleReason": null,
+                      "EntitledSpecified": false
+                    },
+                    "Pricing": [
+                      {
+                        "PaymentOptions": [
+                          {
+                            "Price": [
+                              {
+                                "BasePrice": {
+                                  "amount": 0.00,
+                                  "amountSpecified": true,
+                                  "currencycode": "USD",
+                                  "iseligibleSpecified": false
+                                },
+                                "Taxes": null,
+                                "Fees": null,
+                                "TotalPrice": {
+                                  "amount": 0.00,
+                                  "amountSpecified": true,
+                                  "currencycode": "USD",
+                                  "iseligibleSpecified": false
+                                },
+                                "DiscountPrice": null,
+                                "Info": {
+                                  "Description": null,
+                                  "Disclaimer": null
+                                },
+                                "PriceCalculation": null
+                              }
+                            ],
+                            "DefaultInd": false,
+                            "Type": "Money",
+                            "EDDCode": null,
+                            "MsCarrier": "UA",
+                            "Desig": null,
+                            "Quantity": null
+                          }
+                        ],
+                        "Rules": null,
+                        "Association": {
+                          "Items": [ { "SegmentReference": "0" } ],
+                          "Items1": [ { "PassengerRefrence": "1" } ],
+                          "Items2": null
+                        },
+                        "Id": "01",
+                        "Description": null,
+                        "TierType": null,
+                        "Hash": null,
+                        "OfferLevel": "S"
+                      }
+                    ],
+                    "Rules": null,
+                    "Specifications": null,
+                    "AnalyticsInstructions": null,
+                    "TierExtension": {
+                      "Subscription": null,
+                      "Bags": {
+                        "Bag": [
+                          {
+                            "Weight": [
+                              {
+                                "Min": 0.0,
+                                "MinSpecified": true,
+                                "Max": 32.0,
+                                "MaxSpecified": true,
+                                "Unit": "KG",
+                                "MaxPiece": null
+                              },
+                              {
+                                "Min": 0.0,
+                                "MinSpecified": true,
+                                "Max": 70.0,
+                                "MaxSpecified": true,
+                                "Unit": "LBS",
+                                "MaxPiece": null
+                              }
+                            ],
+                            "Dimensions": [
+                              {
+                                "Length": {
+                                  "Min": 0.0,
+                                  "MinSpecified": true,
+                                  "Max": 157.0,
+                                  "MaxSpecified": true
+                                },
+                                "Height": null,
+                                "Width": null,
+                                "Unit": "CM",
+                                "MaxPiece": null
+                              },
+                              {
+                                "Length": {
+                                  "Min": 0.0,
+                                  "MinSpecified": true,
+                                  "Max": 62.0,
+                                  "MaxSpecified": true
+                                },
+                                "Height": null,
+                                "Width": null,
+                                "Unit": "IN",
+                                "MaxPiece": null
+                              }
+                            ],
+                            "ExcessFees": [
+                              {
+                                "DescriptionDetails": [ "Overweight up to 45K/100LB" ],
+                                "ExcessWeight": [
+                                  {
+                                    "Min": 33.0,
+                                    "MinSpecified": true,
+                                    "Max": 45.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "KG",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Min": 71.0,
+                                    "MinSpecified": true,
+                                    "Max": 100.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "LBS",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "ExcessSize": [
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 157.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "CM",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 62.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "IN",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Price": [
+                                      {
+                                        "BasePrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "Taxes": null,
+                                        "Fees": null,
+                                        "TotalPrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "DiscountPrice": null,
+                                        "Info": {
+                                          "Description": null,
+                                          "Disclaimer": null
+                                        },
+                                        "PriceCalculation": null
+                                      }
+                                    ],
+                                    "DefaultInd": false,
+                                    "Type": "Money",
+                                    "EDDCode": "OWH",
+                                    "MsCarrier": "UA",
+                                    "Desig": null,
+                                    "Quantity": null
+                                  }
+                                ],
+                                "PriceRefID": null,
+                                "Description": "Overweight up to 45K/100LB",
+                                "MinQuantity": "1",
+                                "MaxQuantity": "2",
+                                "Code": null,
+                                "SubCode": "0DB",
+                                "PolicyCarrier": null,
+                                "Type": 0,
+                                "TypeSpecified": true
+                              },
+                              {
+                                "DescriptionDetails": [ "Oversize up to 115IN/292CM" ],
+                                "ExcessWeight": [
+                                  {
+                                    "Min": 0.0,
+                                    "MinSpecified": true,
+                                    "Max": 32.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "KG",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Min": 0.0,
+                                    "MinSpecified": true,
+                                    "Max": 70.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "LBS",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "ExcessSize": [
+                                  {
+                                    "Length": {
+                                      "Min": 158.0,
+                                      "MinSpecified": true,
+                                      "Max": 292.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "CM",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Length": {
+                                      "Min": 63.0,
+                                      "MinSpecified": true,
+                                      "Max": 115.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "IN",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Price": [
+                                      {
+                                        "BasePrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "Taxes": null,
+                                        "Fees": null,
+                                        "TotalPrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "DiscountPrice": null,
+                                        "Info": {
+                                          "Description": null,
+                                          "Disclaimer": null
+                                        },
+                                        "PriceCalculation": null
+                                      }
+                                    ],
+                                    "DefaultInd": false,
+                                    "Type": "Money",
+                                    "EDDCode": "OSB",
+                                    "MsCarrier": "UA",
+                                    "Desig": null,
+                                    "Quantity": null
+                                  }
+                                ],
+                                "PriceRefID": null,
+                                "Description": "Oversize up to 115IN/292CM",
+                                "MinQuantity": "1",
+                                "MaxQuantity": "2",
+                                "Code": null,
+                                "SubCode": "0D1",
+                                "PolicyCarrier": null,
+                                "Type": 1,
+                                "TypeSpecified": true
+                              }
+                            ],
+                            "AllowedItems": [
+                              {
+                                "Weight": [
+                                  {
+                                    "Min": 0.0,
+                                    "MinSpecified": true,
+                                    "Max": 0.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "KG",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Min": 0.0,
+                                    "MinSpecified": true,
+                                    "Max": 0.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "LBS",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "Dimension": [
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 157.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": null,
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 62.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": null,
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "Id": null,
+                                "Description": "Free Baggage Allowance",
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              },
+                              {
+                                "Weight": null,
+                                "Dimension": null,
+                                "Id": null,
+                                "Description": null,
+                                "MinQuantity": null,
+                                "MaxQuantity": "2"
+                              }
+                            ],
+                            "RegularPrice": null,
+                            "PrePaidBagPrice": [
+                              {
+                                "Price": {
+                                  "BasePrice": {
+                                    "amount": 0.00,
+                                    "amountSpecified": true,
+                                    "currencycode": "USD",
+                                    "iseligibleSpecified": false
+                                  },
+                                  "Taxes": null,
+                                  "Fees": null,
+                                  "TotalPrice": {
+                                    "amount": 0.00,
+                                    "amountSpecified": true,
+                                    "currencycode": "USD",
+                                    "iseligibleSpecified": false
+                                  },
+                                  "DiscountPrice": null,
+                                  "Info": {
+                                    "Description": null,
+                                    "Disclaimer": null
+                                  },
+                                  "PriceCalculation": null
+                                },
+                                "description": "PrePaid bag fee",
+                                "MinQuantity": null,
+                                "MaxQuantity": null
+                              }
+                            ],
+                            "HandlingPolicy": 0,
+                            "MinQuantity": "1",
+                            "MaxQuantity": "2",
+                            "Id": null,
+                            "PriceRefId": "01",
+                            "Description": null,
+                            "Code": null,
+                            "SubCode": null,
+                            "PolicyCarrier": null
+                          }
+                        ],
+                        "Baggage": null,
+                        "Id": null,
+                        "MinQuantity": "1",
+                        "MaxQuantity": "2"
+                      },
+                      "SeatDetails": null,
+                      "BundleDetails": null,
+                      "TripInsurance": null
+                    },
+                    "Association": null,
+                    "Id": "1",
+                    "Descrpition": null,
+                    "TierType1": null,
+                    "Count": null,
+                    "Default": false,
+                    "DefaultSpecified": true,
+                    "Ranking": null
+                  },
+                  {
+                    "TierInfo": {
+                      "DisplayName": null,
+                      "Group": 1,
+                      "SubGroup": 0,
+                      "SubGroupType": null,
+                      "Description": [ { "text": "MinQuantity: 3, MaxQuantity: 101, Type: Surcharge, Group: BG, " } ],
+                      "PresentationInfo": null,
+                      "Type": 3,
+                      "Components": null,
+                      "Entitlement": null,
+                      "InEligibleReason": null,
+                      "EntitledSpecified": false
+                    },
+                    "Pricing": [
+                      {
+                        "PaymentOptions": [
+                          {
+                            "Price": [
+                              {
+                                "BasePrice": {
+                                  "amount": 150.00,
+                                  "amountSpecified": true,
+                                  "currencycode": "USD",
+                                  "iseligibleSpecified": false
+                                },
+                                "Taxes": null,
+                                "Fees": null,
+                                "TotalPrice": {
+                                  "amount": 150.00,
+                                  "amountSpecified": true,
+                                  "currencycode": "USD",
+                                  "iseligibleSpecified": false
+                                },
+                                "DiscountPrice": null,
+                                "Info": {
+                                  "Description": null,
+                                  "Disclaimer": null
+                                },
+                                "PriceCalculation": null
+                              }
+                            ],
+                            "DefaultInd": false,
+                            "Type": "Money",
+                            "EDDCode": "EXB",
+                            "MsCarrier": "UA",
+                            "Desig": null,
+                            "Quantity": null
+                          }
+                        ],
+                        "Rules": null,
+                        "Association": {
+                          "Items": [ { "SegmentReference": "0" } ],
+                          "Items1": [ { "PassengerRefrence": "1" } ],
+                          "Items2": null
+                        },
+                        "Id": "01",
+                        "Description": null,
+                        "TierType": null,
+                        "Hash": null,
+                        "OfferLevel": "S"
+                      }
+                    ],
+                    "Rules": null,
+                    "Specifications": null,
+                    "AnalyticsInstructions": null,
+                    "TierExtension": {
+                      "Subscription": null,
+                      "Bags": {
+                        "Bag": [
+                          {
+                            "Weight": [
+                              {
+                                "Min": 0.0,
+                                "MinSpecified": true,
+                                "Max": 23.0,
+                                "MaxSpecified": true,
+                                "Unit": "KG",
+                                "MaxPiece": null
+                              },
+                              {
+                                "Min": 0.0,
+                                "MinSpecified": true,
+                                "Max": 50.0,
+                                "MaxSpecified": true,
+                                "Unit": "LBS",
+                                "MaxPiece": null
+                              }
+                            ],
+                            "Dimensions": [
+                              {
+                                "Length": {
+                                  "Min": 0.0,
+                                  "MinSpecified": true,
+                                  "Max": 157.0,
+                                  "MaxSpecified": true
+                                },
+                                "Height": null,
+                                "Width": null,
+                                "Unit": "CM",
+                                "MaxPiece": null
+                              },
+                              {
+                                "Length": {
+                                  "Min": 0.0,
+                                  "MinSpecified": true,
+                                  "Max": 62.0,
+                                  "MaxSpecified": true
+                                },
+                                "Height": null,
+                                "Width": null,
+                                "Unit": "IN",
+                                "MaxPiece": null
+                              }
+                            ],
+                            "ExcessFees": [
+                              {
+                                "DescriptionDetails": [ "Overweight up to 32K/70LB" ],
+                                "ExcessWeight": [
+                                  {
+                                    "Min": 24.0,
+                                    "MinSpecified": true,
+                                    "Max": 32.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "KG",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Min": 51.0,
+                                    "MinSpecified": true,
+                                    "Max": 70.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "LBS",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "ExcessSize": [
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 157.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "CM",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 62.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "IN",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Price": [
+                                      {
+                                        "BasePrice": {
+                                          "amount": 100.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "Taxes": null,
+                                        "Fees": null,
+                                        "TotalPrice": {
+                                          "amount": 100.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "DiscountPrice": null,
+                                        "Info": {
+                                          "Description": null,
+                                          "Disclaimer": null
+                                        },
+                                        "PriceCalculation": null
+                                      }
+                                    ],
+                                    "DefaultInd": false,
+                                    "Type": "Money",
+                                    "EDDCode": "OWB",
+                                    "MsCarrier": "UA",
+                                    "Desig": null,
+                                    "Quantity": null
+                                  }
+                                ],
+                                "PriceRefID": null,
+                                "Description": "Overweight up to 32K/70LB",
+                                "MinQuantity": "3",
+                                "MaxQuantity": "101",
+                                "Code": null,
+                                "SubCode": "0DA",
+                                "PolicyCarrier": null,
+                                "Type": 0,
+                                "TypeSpecified": true
+                              },
+                              {
+                                "DescriptionDetails": [ "Overweight up to 45K/100LB" ],
+                                "ExcessWeight": [
+                                  {
+                                    "Min": 33.0,
+                                    "MinSpecified": true,
+                                    "Max": 45.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "KG",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Min": 71.0,
+                                    "MinSpecified": true,
+                                    "Max": 100.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "LBS",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "ExcessSize": [
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 157.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "CM",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Length": {
+                                      "Min": 0.0,
+                                      "MinSpecified": true,
+                                      "Max": 62.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "IN",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Price": [
+                                      {
+                                        "BasePrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "Taxes": null,
+                                        "Fees": null,
+                                        "TotalPrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "DiscountPrice": null,
+                                        "Info": {
+                                          "Description": null,
+                                          "Disclaimer": null
+                                        },
+                                        "PriceCalculation": null
+                                      }
+                                    ],
+                                    "DefaultInd": false,
+                                    "Type": "Money",
+                                    "EDDCode": "OWH",
+                                    "MsCarrier": "UA",
+                                    "Desig": null,
+                                    "Quantity": null
+                                  }
+                                ],
+                                "PriceRefID": null,
+                                "Description": "Overweight up to 45K/100LB",
+                                "MinQuantity": "3",
+                                "MaxQuantity": "101",
+                                "Code": null,
+                                "SubCode": "0DB",
+                                "PolicyCarrier": null,
+                                "Type": 0,
+                                "TypeSpecified": true
+                              },
+                              {
+                                "DescriptionDetails": [ "Oversize up to 115IN/292CM" ],
+                                "ExcessWeight": [
+                                  {
+                                    "Min": 0.0,
+                                    "MinSpecified": true,
+                                    "Max": 23.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "KG",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Min": 0.0,
+                                    "MinSpecified": true,
+                                    "Max": 50.0,
+                                    "MaxSpecified": true,
+                                    "Unit": "LBS",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "ExcessSize": [
+                                  {
+                                    "Length": {
+                                      "Min": 158.0,
+                                      "MinSpecified": true,
+                                      "Max": 292.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "CM",
+                                    "MaxPiece": null
+                                  },
+                                  {
+                                    "Length": {
+                                      "Min": 63.0,
+                                      "MinSpecified": true,
+                                      "Max": 115.0,
+                                      "MaxSpecified": true
+                                    },
+                                    "Height": null,
+                                    "Width": null,
+                                    "Unit": "IN",
+                                    "MaxPiece": null
+                                  }
+                                ],
+                                "PaymentOptions": [
+                                  {
+                                    "Price": [
+                                      {
+                                        "BasePrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "Taxes": null,
+                                        "Fees": null,
+                                        "TotalPrice": {
+                                          "amount": 200.00,
+                                          "amountSpecified": true,
+                                          "currencycode": "USD",
+                                          "iseligibleSpecified": false
+                                        },
+                                        "DiscountPrice": null,
+                                        "Info": {
+                                          "Description": null,
+                                          "Disclaimer": null
+                                        },
+                                        "PriceCalculation": null
+                                      }
+                                    ],
+                                    "DefaultInd": false,
+                                    "Type": "Money",
+                                    "EDDCode": "OSB",
+                                    "MsCarrier": "UA",
+                                    "Desig": null,
+                                    "Quantity": null
+                                  }
+                                ],
+                                "PriceRefID": null,
+                                "Description": "Oversize up to 115IN/292CM",
+                                "MinQuantity": "3",
+                                "MaxQuantity": "101",
+                                "Code": null,
+                                "SubCode": "0D1",
+                                "PolicyCarrier": null,
+                                "Type": 1,
+                                "TypeSpecified": true
+                              }
+                            ],
+                            "AllowedItems": null,
+                            "RegularPrice": null,
+                            "PrePaidBagPrice": [
+                              {
+                                "Price": {
+                                  "BasePrice": {
+                                    "amount": 150.00,
+                                    "amountSpecified": true,
+                                    "currencycode": "USD",
+                                    "iseligibleSpecified": false
+                                  },
+                                  "Taxes": null,
+                                  "Fees": null,
+                                  "TotalPrice": {
+                                    "amount": 150.00,
+                                    "amountSpecified": true,
+                                    "currencycode": "USD",
+                                    "iseligibleSpecified": false
+                                  },
+                                  "DiscountPrice": null,
+                                  "Info": {
+                                    "Description": null,
+                                    "Disclaimer": null
+                                  },
+                                  "PriceCalculation": null
+                                },
+                                "description": "PrePaid bag fee",
+                                "MinQuantity": null,
+                                "MaxQuantity": null
+                              }
+                            ],
+                            "HandlingPolicy": 0,
+                            "MinQuantity": "3",
+                            "MaxQuantity": "101",
+                            "Id": null,
+                            "PriceRefId": "01",
+                            "Description": "Excess Bag Normal",
+                            "Code": null,
+                            "SubCode": "0DN",
+                            "PolicyCarrier": null
+                          }
+                        ],
+                        "Baggage": null,
+                        "Id": null,
+                        "MinQuantity": "3",
+                        "MaxQuantity": "101"
+                      },
+                      "SeatDetails": null,
+                      "BundleDetails": null,
+                      "TripInsurance": null
+                    },
+                    "Association": null,
+                    "Id": "2",
+                    "Descrpition": null,
+                    "TierType1": null,
+                    "Count": null,
+                    "Default": false,
+                    "DefaultSpecified": true,
+                    "Ranking": null
+                  }
+                ],
+                "InEligibleSegments": null,
+                "Parameters": null,
+                "ServiceExtension": null,
+                "Association": null,
+                "Id": null,
+                "Name": null,
+                "ServiceType1": null,
+                "Rank": null
+              }
+            ],
+            "Conversions": [],
+            "ServiceEligibility": {
+              "EligibleServices": null,
+              "OfferedServices": null,
+              "InEligibleServices": []
+            },
+            "POS": null,
+            "Currency": null
+          },
+          "Items": [
+            {
+              "AirItinerary": {
+                "OriginDestinationOptions": [
+                  {
+                    "FlightSegment": [
+                      {
+                        "FlightNumber": "2198",
+                        "FlightDuration": null,
+                        "OnTimePerformance": null,
+                        "OperatingAirline": null,
+                        "Equipment": null,
+                        "MarketingAirline": "UA",
+                        "MarriageGroup": null,
+                        "DirectionIndicator": null,
+                        "StopLocation": null,
+                        "DistanceSpecified": false,
+                        "SegmentNumber": "0",
+                        "BookingClassAvailability": null,
+                        "IsDiscountAppliedSpecified": false,
+                        "FlightLeg": null,
+                        "isChangeOfGuageSpecified": false,
+                        "ClassOfService": "Z",
+                        "TripIndicatorSpecified": false,
+                        "CabinCodeSpecified": false,
+                        "SegmentStatus": "HX",
+                        "IsSeatMapPricingSpecified": false,
+                        "SeatMapDetails": null,
+                        "AdditionalInfo": null,
+                        "RefId": null,
+                        "Id": "0",
+                        "DepartureAirport": {
+                          "LocationCode": "ORD",
+                          "CountryCode": null
+                        },
+                        "ArrivalAirport": {
+                          "LocationCode": "IAD",
+                          "CountryCode": null
+                        },
+                        "DepartureDateTime": "2021-09-09T07:00:00",
+                        "DepartureDateTimeSpecified": true,
+                        "ArrivalDateTime": "2021-09-09T09:48:00",
+                        "ArrivalDateTimeSpecified": true,
+                        "ActiveInd": 0,
+                        "ActiveIndSpecified": true,
+                        "ResBookDesignCode": null,
+                        "FBC": null
+                      }
+                    ],
+                    "AdditionalInfo": null,
+                    "Id": "OD1",
+                    "RefId": null
+                  }
+                ],
+                "Id": null
+              },
+              "PricingInfo": null,
+              "TotalPassengersSpecified": false,
+              "Reward": null,
+              "Ticket": null,
+              "AdditionalInfo": null,
+              "Id": null,
+              "RefId": null
+            }
+          ],
+          "TravelerInfo": {
+            "SpecialServiceRequest": null,
+            "Traveler": [
+              {
+                "Id": "1",
+                "GivenName": "TESTSAM",
+                "Surname": "JESTE",
+                "PassengerTypeCode": 2,
+                "PassengerTypeCodeSpecified": true,
+                "PhoneNumber": null,
+                "AreaCityCode": null,
+                "BirthDateSpecified": false,
+                "Gender": 0,
+                "GenderSpecified": true,
+                "UnaccompaniedMinorContactTake": null,
+                "UnaccompaniedMinorContactMeet": null,
+                "SpecialServiceRequest": null,
+                "Loyalty": [
+                  {
+                    "TravelerId": null,
+                    "ProgramId": "UA",
+                    "MemberShipId": "AY575986",
+                    "LoyalLevel": 1,
+                    "LoyalLevelCode": null,
+                    "CustomerType": null,
+                    "ExpireDateSpecified": false,
+                    "EffectiveDateSpecified": false,
+                    "AllianceLoyaltyLevelName": null,
+                    "PrimaryLoyaltyIndicatorSpecified": false,
+                    "SingleVendorId": null,
+                    "RPCCode": null,
+                    "CardType": 0,
+                    "Subscriptions": {
+                      "Subscription": null,
+                      "Pbao": null,
+                      "IsAvailable": false,
+                      "IsAvailableSpecified": true,
+                      "Details": null,
+                      "GiftPurchase": null,
+                      "UpgradeOption": null
+                    },
+                    "Entitlements": {
+                      "ServiceEntitlement": null,
+                      "InEligibility": [
+                        {
+                          "Type": "CHASE",
+                          "Reason": "Benefits do not apply – MileagePlus Chase Primary Card member is not on itinerary"
+                        }
+                      ]
+                    },
+                    "Id": null,
+                    "SpouseMemberId": null
+                  }
+                ],
+                "TicketingDate": "2021-09-09T00:00:00",
+                "TicketingDateSpecified": true,
+                "TravelerCategory": 0,
+                "TicketNumber": "01623662796302",
+                "RelationSpecified": false,
+                "Entitlements": null,
+                "AdditionalInfo": null,
+                "HostIndex": "1.1"
+              }
+            ]
+          },
+          "Warnings": null,
+          "BookingReferenceIds": {
+            "BookingDate": "2021-09-09T00:00:00",
+            "BookingDateSpecified": true,
+            "BookingReferenceId": "HR9X2H"
+          },
+          "Id": null
+        }
+      ],
+      "EchoToken": null,
+      "TimeStampSpecified": false,
+      "TargetName": null,
+      "Version": 0.0,
+      "VersionSpecified": true,
+      "TransactionIdentifier": "Mobile_Request_With_RecordLocator_HR9X2H",
+      "SequenceNmbr": null,
+      "TransactionStatusCode": null,
+      "PrimaryLangID": null,
+      "AltLangID": null,
+      "RetransmissionIndicator": false,
+      "RetransmissionIndicatorSpecified": true,
+      "CorrelationHash": "163188228",
+      "CorrelationID": "1631882284951010232113251805771",
+      "ChannelId": "1301",
+      "PrintReceiptSpecified": false,
+      "ChannelName": "MMR",
+      "CountryCode": null,
+      "TicketingCountryCode": null,
+      "CurrencyCode": null,
+      "LangCode": 0,
+      "LangCodeSpecified": true,
+      "MultiLang": false,
+      "MultiLangSpecified": true
+    }
+  }
+]

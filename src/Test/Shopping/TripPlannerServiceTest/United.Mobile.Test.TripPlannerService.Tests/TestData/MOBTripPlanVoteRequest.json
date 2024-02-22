@@ -1,0 +1,22 @@
+{
+  "firstFlightDepartDate": "2022-08-04 07:25",
+  "hashPinCode": "F758491B89F84A9A4DF3B4110A77919128EC0D19",
+  "mileagePlusID": "AW713019",
+  "sessionId": "79F19E1C9B814AB0BF14567AE85FAD25",
+  "shoppingCartID": "abef4fe3-40d9-4b1e-9ea0-492afed7b89f",
+  "tripPlanId": "25bc3fa6-8979-458b-98a1-602acd7a6357",
+  "voteId": "",
+  "accessCode": "ACCESSCODE",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.55",
+      "minor": "4.1.55"
+    }
+  },
+  "deviceId": "00c87c77-f976-482d-a9a7-c504cc08ab59",
+  "languageCode": "en-US",
+  "transactionId": "00c87c77-f976-482d-a9a7-c504cc08ab59|5f2bc92d-f584-492a-8371-6e68120e14f2"
+}

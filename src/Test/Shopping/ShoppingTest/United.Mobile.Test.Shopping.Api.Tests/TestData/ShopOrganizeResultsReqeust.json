@@ -1,0 +1,2854 @@
+[
+  {
+    "cartId": "37888BFF-581F-4471-8EC9-2CDB0351C5F9",
+    "lastTripIndexRequested": 1,
+    "searchFiltersIn": {
+      "aircraftCabinTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy Only",
+          "isSelected": true,
+          "key": "EconomyOnly",
+          "value": "Economy Only"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Multi cabin",
+          "isSelected": true,
+          "key": "Multicabin",
+          "value": "Multi cabin"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "TurboProp",
+          "isSelected": true,
+          "key": "TurboProp",
+          "value": "TurboProp"
+        }
+      ],
+      "aircraftTypes": "",
+      "airportsDestination": "LHR,LCY,LGW,MAN",
+      "airportsDestinationList": [
+        {
+          "amount": "$788",
+          "currency": "USD",
+          "displayValue": "London, GB (LCY)",
+          "isSelected": true,
+          "key": "LCY",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$798",
+          "currency": "USD",
+          "displayValue": "London, GB (LGW)",
+          "isSelected": true,
+          "key": "LGW",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "London, GB (LHR)",
+          "isSelected": true,
+          "key": "LHR",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$1,555",
+          "currency": "USD",
+          "displayValue": "Manchester, GB (MAN)",
+          "isSelected": true,
+          "key": "MAN",
+          "value": "Manchester, GB"
+        }
+      ],
+      "airportsOrigin": "LAX,SNA,BUR,SAN",
+      "airportsOriginList": [
+        {
+          "amount": "$970",
+          "currency": "USD",
+          "displayValue": "Burbank, CA, US (BUR)",
+          "isSelected": true,
+          "key": "BUR",
+          "value": "Burbank, CA, US"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "Los Angeles, CA, US (LAX)",
+          "isSelected": true,
+          "key": "LAX",
+          "value": "Los Angeles, CA, US"
+        },
+        {
+          "amount": "$1,844",
+          "currency": "USD",
+          "displayValue": "San Diego, CA, US (SAN)",
+          "isSelected": true,
+          "key": "SAN",
+          "value": "San Diego, CA, US"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "Orange County, CA, US (SNA)",
+          "isSelected": true,
+          "key": "SNA",
+          "value": "Orange County, CA, US"
+        }
+      ],
+      "airportsStop": "ASE,BOS,BRU,COS,DEN,DUB,EWR,FAT,FRA,GVA,IAD,IAH,JFK,LAS,LIS,MUC,ORD,PHX,SAN,SFO,SLC,YUL,YVR,YYZ,ZRH",
+      "airportsStopList": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Aspen, CO, US (ASE)",
+          "isSelected": true,
+          "key": "ASE",
+          "value": "Aspen, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Boston, MA, US (BOS)",
+          "isSelected": true,
+          "key": "BOS",
+          "value": "Boston, MA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Brussels, BE (BRU)",
+          "isSelected": false,
+          "key": "BRU",
+          "value": "Brussels, BE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Chicago, IL, US (ORD)",
+          "isSelected": true,
+          "key": "ORD",
+          "value": "Chicago, IL, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Colorado Springs, CO, US (COS)",
+          "isSelected": true,
+          "key": "COS",
+          "value": "Colorado Springs, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Denver, CO, US (DEN)",
+          "isSelected": true,
+          "key": "DEN",
+          "value": "Denver, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Dublin, IE (DUB)",
+          "isSelected": true,
+          "key": "DUB",
+          "value": "Dublin, IE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Frankfurt, DE (FRA)",
+          "isSelected": true,
+          "key": "FRA",
+          "value": "Frankfurt, DE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Fresno, CA, US (FAT)",
+          "isSelected": true,
+          "key": "FAT",
+          "value": "Fresno, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Geneva, CH (GVA)",
+          "isSelected": true,
+          "key": "GVA",
+          "value": "Geneva, CH"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Houston, TX, US (IAH)",
+          "isSelected": true,
+          "key": "IAH",
+          "value": "Houston, TX, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Las Vegas, NV, US (LAS)",
+          "isSelected": true,
+          "key": "LAS",
+          "value": "Las Vegas, NV, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Lisbon, PT (LIS)",
+          "isSelected": true,
+          "key": "LIS",
+          "value": "Lisbon, PT"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Montreal, QC, CA (YUL)",
+          "isSelected": true,
+          "key": "YUL",
+          "value": "Montreal, QC, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Munich, DE (MUC)",
+          "isSelected": true,
+          "key": "MUC",
+          "value": "Munich, DE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "New York, NY, US (JFK)",
+          "isSelected": true,
+          "key": "JFK",
+          "value": "New York, NY, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Newark, NJ, US (EWR)",
+          "isSelected": true,
+          "key": "EWR",
+          "value": "Newark, NJ, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Phoenix, AZ, US (PHX)",
+          "isSelected": true,
+          "key": "PHX",
+          "value": "Phoenix, AZ, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Salt Lake City, UT, US (SLC)",
+          "isSelected": true,
+          "key": "SLC",
+          "value": "Salt Lake City, UT, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "San Diego, CA, US (SAN)",
+          "isSelected": true,
+          "key": "SAN",
+          "value": "San Diego, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "San Francisco, CA, US (SFO)",
+          "isSelected": true,
+          "key": "SFO",
+          "value": "San Francisco, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Toronto, ON, CA (YYZ)",
+          "isSelected": true,
+          "key": "YYZ",
+          "value": "Toronto, ON, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Vancouver, BC, CA (YVR)",
+          "isSelected": true,
+          "key": "YVR",
+          "value": "Vancouver, BC, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Washington, DC, US (IAD)",
+          "isSelected": true,
+          "key": "IAD",
+          "value": "Washington, DC, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Zürich, CH (ZRH)",
+          "isSelected": true,
+          "key": "ZRH",
+          "value": "Zürich, CH"
+        }
+      ],
+      "airportsStopToAvoid": "",
+      "amenityTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Wifi",
+          "isSelected": true,
+          "key": "Wifi",
+          "value": "Wifi"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "DirecTV",
+          "isSelected": true,
+          "key": "DirecTV",
+          "value": "DirecTV"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "In-seat power",
+          "isSelected": true,
+          "key": "Power",
+          "value": "In-seat power"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Other amenities",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Other amenities"
+        }
+      ],
+      "bookingCodes": "",
+      "cabinCountMax": 3,
+      "cabinCountMin": 0,
+      "carrierDefault": true,
+      "carrierExpress": true,
+      "carrierPartners": false,
+      "carrierStar": true,
+      "carrierTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United",
+          "isSelected": true,
+          "key": "United",
+          "value": "United"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United Express",
+          "isSelected": true,
+          "key": "UnitedExpress",
+          "value": "United Express"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Star Alliance",
+          "isSelected": false,
+          "key": "StarAlliance",
+          "value": "Star Alliance"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Partners",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Partners"
+        }
+      ],
+      "carriersMarketing": "UA,LX,LH,EI",
+      "carriersMarketingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Aer Lingus",
+          "isSelected": true,
+          "key": "EI",
+          "value": "Aer Lingus"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Lufthansa",
+          "isSelected": true,
+          "key": "LH",
+          "value": "Lufthansa"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "SWISS International Airlines",
+          "isSelected": true,
+          "key": "LX",
+          "value": "SWISS International Airlines"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "TAP Portugal",
+          "isSelected": true,
+          "key": "TP",
+          "value": "TAP Portugal"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "United Airlines",
+          "isSelected": true,
+          "key": "UA",
+          "value": "United Airlines"
+        }
+      ],
+      "carriersOperating": "UA,LH,AC,LX,2L,CL,EI,SN",
+      "carriersOperatingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "AC",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "EI",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "LH",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "LX",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "SN",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "TP",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "UA",
+          "value": ""
+        }
+      ],
+      "durationMax": 2820,
+      "durationMin": 540,
+      "durationStopMax": -1,
+      "durationStopMin": -1,
+      "equipmentCodes": "221,223,290,319,320,321,32N,32Q,330,333,343,359,738,739,73G,74H,752,753,763,764,777,77W,781,788,789,7M8,7M9,CR7,CR9,CRJ,E75,E7W,E90,E95",
+      "equipmentList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-300",
+          "isSelected": false,
+          "key": "753",
+          "value": "Boeing 757-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 767-300",
+          "isSelected": false,
+          "key": "763",
+          "value": "Boeing 767-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-800",
+          "isSelected": false,
+          "key": "738",
+          "value": "Boeing 737-800"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-9 Dreamliner",
+          "isSelected": false,
+          "key": "789",
+          "value": "Boeing 787-9 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-900",
+          "isSelected": false,
+          "key": "739",
+          "value": "Boeing 737-900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A320",
+          "isSelected": false,
+          "key": "320",
+          "value": "Airbus A320"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-700",
+          "isSelected": false,
+          "key": "73G",
+          "value": "Boeing 737-700"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 175",
+          "isSelected": false,
+          "key": "E7W",
+          "value": "Embraer 175"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 9",
+          "isSelected": false,
+          "key": "7M9",
+          "value": "Boeing 737 MAX 9"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-10 Dreamliner",
+          "isSelected": false,
+          "key": "781",
+          "value": "Boeing 787-10 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A350-900",
+          "isSelected": false,
+          "key": "359",
+          "value": "Airbus A350-900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A320",
+          "isSelected": false,
+          "key": "32N",
+          "value": "Airbus A320"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 747-8 Intercontinental",
+          "isSelected": false,
+          "key": "74H",
+          "value": "Boeing 747-8 Intercontinental"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 8",
+          "isSelected": false,
+          "key": "7M8",
+          "value": "Boeing 737 MAX 8"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A220-300",
+          "isSelected": false,
+          "key": "223",
+          "value": "Airbus A220-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A330-300",
+          "isSelected": false,
+          "key": "333",
+          "value": "Airbus A330-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A321",
+          "isSelected": false,
+          "key": "321",
+          "value": "Airbus A321"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 767-400ER",
+          "isSelected": false,
+          "key": "764",
+          "value": "Boeing 767-400ER"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A220-100",
+          "isSelected": false,
+          "key": "221",
+          "value": "Airbus A220-100"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer E190-E2",
+          "isSelected": false,
+          "key": "290",
+          "value": "Embraer E190-E2"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A319",
+          "isSelected": false,
+          "key": "319",
+          "value": "Airbus A319"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-200",
+          "isSelected": false,
+          "key": "752",
+          "value": "Boeing 757-200"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-8 Dreamliner",
+          "isSelected": false,
+          "key": "788",
+          "value": "Boeing 787-8 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 777-200",
+          "isSelected": false,
+          "key": "777",
+          "value": "Boeing 777-200"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 190",
+          "isSelected": false,
+          "key": "E90",
+          "value": "Embraer 190"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 777-300ER",
+          "isSelected": false,
+          "key": "77W",
+          "value": "Boeing 777-300ER"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet",
+          "isSelected": false,
+          "key": "CRJ",
+          "value": "Canadair Regional Jet"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 175",
+          "isSelected": false,
+          "key": "E75",
+          "value": "Embraer 175"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet 900",
+          "isSelected": false,
+          "key": "CR9",
+          "value": "Canadair Regional Jet 900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A340-300",
+          "isSelected": false,
+          "key": "343",
+          "value": "Airbus A340-300"
+        }
+      ],
+      "equipmentTypes": "753,763,738,789,739,320,73G,E7W,7M9,781,359,32N,74H,7M8,223,333,321,764,221,290,319,752,788,777,E90,77W,CRJ,E75,CR9,343",
+      "fareFamilies": [
+        {
+          "fareFamily": "ECO-PREMIUM",
+          "maxMileage": 3537,
+          "maxPrice": "",
+          "minMileage": 476,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "ECO-PREMIUM-UNRESTRICTED",
+          "maxMileage": 3537,
+          "maxPrice": "",
+          "minMileage": 626,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "ECONOMY",
+          "maxMileage": 4488,
+          "maxPrice": "",
+          "minMileage": 321,
+          "minPrice": "",
+          "minPriceInSummary": true
+        },
+        {
+          "fareFamily": "ECONOMY-UNRESTRICTED",
+          "maxMileage": 4535,
+          "maxPrice": "",
+          "minMileage": 501,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "MIN-BUSINESS-OR-FIRST",
+          "maxMileage": 10649,
+          "maxPrice": "",
+          "minMileage": 4250,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "MIN-BUSINESS-OR-FIRST-UNRESTRICTED",
+          "maxMileage": 10649,
+          "maxPrice": "",
+          "minMileage": 4525,
+          "minPrice": "",
+          "minPriceInSummary": false
+        }
+      ],
+      "fareFamily": "",
+      "filterSortPaging": false,
+      "numberofStops": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "1+ stops",
+          "isSelected": true,
+          "key": "OneStop",
+          "value": "1,1"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "2+ stops",
+          "isSelected": true,
+          "key": "MoreStops",
+          "value": "3,3"
+        }
+      ],
+      "pageNumber": 2,
+      "priceMax": 11555.1,
+      "priceMaxDisplayValue": "$11,556",
+      "priceMin": 524.7,
+      "priceMinDisplayValue": "$524",
+      "refundableFaresToggle": {
+        "amount": "",
+        "currency": "",
+        "displayValue": "Refundable fares from $705",
+        "isSelected": false,
+        "key": "RefundableFares",
+        "value": "Refundable Fares"
+      },
+      "showArrivalFilters": false,
+      "showDepartureFilters": true,
+      "showDurationFilters": true,
+      "showLayOverFilters": true,
+      "showPriceFilters": false,
+      "showRefundableFaresToggle": true,
+      "showSortingandFilters": true,
+      "sortType1": "",
+      "sortTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Best matches",
+          "isSelected": false,
+          "key": "BestMatch",
+          "value": "Best matches"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (early to late)",
+          "isSelected": false,
+          "key": "DepartEarlyToLate",
+          "value": "Departure time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (late to early)",
+          "isSelected": false,
+          "key": "DepartLateToEarly",
+          "value": "Departure time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (early to late)",
+          "isSelected": false,
+          "key": "ArriveEarlyToLate",
+          "value": "Arrival time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (late to early)",
+          "isSelected": false,
+          "key": "ArriveLateToEarly",
+          "value": "Arrival time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Duration (fastest to longest)",
+          "isSelected": false,
+          "key": "DurtionShortToLong",
+          "value": "Duration (fastest to longest)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy",
+          "isSelected": false,
+          "key": "ECONOMY",
+          "value": "Economy"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy (fully refundable)",
+          "isSelected": false,
+          "key": "ECONOMY-UNRESTRICTED",
+          "value": "Economy (fully refundable)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Premium Economy",
+          "isSelected": false,
+          "key": "ECO-PREMIUM",
+          "value": "Premium Economy"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Premium Economy (fully refundable)",
+          "isSelected": false,
+          "key": "ECO-PREMIUM-UNRESTRICTED",
+          "value": "Premium Economy (fully refundable)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Business",
+          "isSelected": false,
+          "key": "MIN-BUSINESS-OR-FIRST",
+          "value": "Business"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Business (fully refundable)",
+          "isSelected": false,
+          "key": "MIN-BUSINESS-OR-FIRST-UNRESTRICTED",
+          "value": "Business (fully refundable)"
+        }
+      ],
+      "stopCountExcl": -1,
+      "stopCountMax": 3,
+      "stopCountMin": 1,
+      "timeArrivalMax": "20:35",
+      "timeArrivalMin": "06:20",
+      "timeDepartMax": "17:59",
+      "timeDepartMin": "12:00",
+      "warningsFilter": []
+    },
+    "sessionId": "37888BFF581F44718EC92CDB0351C5F9",
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "b266cf34-fb15-4952-8070-03dcbb8f10fb",
+    "languageCode": "en-US",
+    "transactionId": "b266cf34-fb15-4952-8070-03dcbb8f10fb|afc70312-f330-4a89-b36b-0cd1049b5a23"
+  },
+  {
+    "cartId": "37888BFF-581F-4471-8EC9-2CDB0351C5F9",
+    "lastTripIndexRequested": 0,
+    "searchFiltersIn": {
+      "aircraftCabinTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy Only",
+          "isSelected": true,
+          "key": "EconomyOnly",
+          "value": "Economy Only"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Multi cabin",
+          "isSelected": true,
+          "key": "Multicabin",
+          "value": "Multi cabin"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "TurboProp",
+          "isSelected": true,
+          "key": "TurboProp",
+          "value": "TurboProp"
+        }
+      ],
+      "aircraftTypes": "",
+      "airportsDestination": "LHR,LCY,LGW,MAN",
+      "airportsDestinationList": [
+        {
+          "amount": "$788",
+          "currency": "USD",
+          "displayValue": "London, GB (LCY)",
+          "isSelected": true,
+          "key": "LCY",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$798",
+          "currency": "USD",
+          "displayValue": "London, GB (LGW)",
+          "isSelected": true,
+          "key": "LGW",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "London, GB (LHR)",
+          "isSelected": true,
+          "key": "LHR",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$1,555",
+          "currency": "USD",
+          "displayValue": "Manchester, GB (MAN)",
+          "isSelected": true,
+          "key": "MAN",
+          "value": "Manchester, GB"
+        }
+      ],
+      "airportsOrigin": "LAX,SNA,BUR,SAN",
+      "airportsOriginList": [
+        {
+          "amount": "$970",
+          "currency": "USD",
+          "displayValue": "Burbank, CA, US (BUR)",
+          "isSelected": true,
+          "key": "BUR",
+          "value": "Burbank, CA, US"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "Los Angeles, CA, US (LAX)",
+          "isSelected": true,
+          "key": "LAX",
+          "value": "Los Angeles, CA, US"
+        },
+        {
+          "amount": "$1,844",
+          "currency": "USD",
+          "displayValue": "San Diego, CA, US (SAN)",
+          "isSelected": true,
+          "key": "SAN",
+          "value": "San Diego, CA, US"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "Orange County, CA, US (SNA)",
+          "isSelected": true,
+          "key": "SNA",
+          "value": "Orange County, CA, US"
+        }
+      ],
+      "airportsStop": "ASE,BOS,BRU,COS,DEN,DUB,EWR,FAT,FRA,GVA,IAD,IAH,JFK,LAS,LIS,MUC,ORD,PHX,SAN,SFO,SLC,YUL,YVR,YYZ,ZRH",
+      "airportsStopList": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Aspen, CO, US (ASE)",
+          "isSelected": true,
+          "key": "ASE",
+          "value": "Aspen, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Boston, MA, US (BOS)",
+          "isSelected": true,
+          "key": "BOS",
+          "value": "Boston, MA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Brussels, BE (BRU)",
+          "isSelected": false,
+          "key": "BRU",
+          "value": "Brussels, BE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Chicago, IL, US (ORD)",
+          "isSelected": true,
+          "key": "ORD",
+          "value": "Chicago, IL, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Colorado Springs, CO, US (COS)",
+          "isSelected": true,
+          "key": "COS",
+          "value": "Colorado Springs, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Denver, CO, US (DEN)",
+          "isSelected": true,
+          "key": "DEN",
+          "value": "Denver, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Dublin, IE (DUB)",
+          "isSelected": true,
+          "key": "DUB",
+          "value": "Dublin, IE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Frankfurt, DE (FRA)",
+          "isSelected": true,
+          "key": "FRA",
+          "value": "Frankfurt, DE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Fresno, CA, US (FAT)",
+          "isSelected": true,
+          "key": "FAT",
+          "value": "Fresno, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Geneva, CH (GVA)",
+          "isSelected": true,
+          "key": "GVA",
+          "value": "Geneva, CH"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Houston, TX, US (IAH)",
+          "isSelected": true,
+          "key": "IAH",
+          "value": "Houston, TX, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Las Vegas, NV, US (LAS)",
+          "isSelected": true,
+          "key": "LAS",
+          "value": "Las Vegas, NV, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Lisbon, PT (LIS)",
+          "isSelected": true,
+          "key": "LIS",
+          "value": "Lisbon, PT"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Montreal, QC, CA (YUL)",
+          "isSelected": true,
+          "key": "YUL",
+          "value": "Montreal, QC, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Munich, DE (MUC)",
+          "isSelected": true,
+          "key": "MUC",
+          "value": "Munich, DE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "New York, NY, US (JFK)",
+          "isSelected": true,
+          "key": "JFK",
+          "value": "New York, NY, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Newark, NJ, US (EWR)",
+          "isSelected": true,
+          "key": "EWR",
+          "value": "Newark, NJ, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Phoenix, AZ, US (PHX)",
+          "isSelected": true,
+          "key": "PHX",
+          "value": "Phoenix, AZ, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Salt Lake City, UT, US (SLC)",
+          "isSelected": true,
+          "key": "SLC",
+          "value": "Salt Lake City, UT, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "San Diego, CA, US (SAN)",
+          "isSelected": true,
+          "key": "SAN",
+          "value": "San Diego, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "San Francisco, CA, US (SFO)",
+          "isSelected": true,
+          "key": "SFO",
+          "value": "San Francisco, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Toronto, ON, CA (YYZ)",
+          "isSelected": true,
+          "key": "YYZ",
+          "value": "Toronto, ON, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Vancouver, BC, CA (YVR)",
+          "isSelected": true,
+          "key": "YVR",
+          "value": "Vancouver, BC, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Washington, DC, US (IAD)",
+          "isSelected": true,
+          "key": "IAD",
+          "value": "Washington, DC, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Zürich, CH (ZRH)",
+          "isSelected": true,
+          "key": "ZRH",
+          "value": "Zürich, CH"
+        }
+      ],
+      "airportsStopToAvoid": "",
+      "amenityTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Wifi",
+          "isSelected": true,
+          "key": "Wifi",
+          "value": "Wifi"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "DirecTV",
+          "isSelected": true,
+          "key": "DirecTV",
+          "value": "DirecTV"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "In-seat power",
+          "isSelected": true,
+          "key": "Power",
+          "value": "In-seat power"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Other amenities",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Other amenities"
+        }
+      ],
+      "bookingCodes": "",
+      "cabinCountMax": 3,
+      "cabinCountMin": 0,
+      "carrierDefault": true,
+      "carrierExpress": true,
+      "carrierPartners": false,
+      "carrierStar": true,
+      "carrierTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United",
+          "isSelected": true,
+          "key": "United",
+          "value": "United"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United Express",
+          "isSelected": true,
+          "key": "UnitedExpress",
+          "value": "United Express"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Star Alliance",
+          "isSelected": false,
+          "key": "StarAlliance",
+          "value": "Star Alliance"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Partners",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Partners"
+        }
+      ],
+      "carriersMarketing": "UA,LX,LH,EI",
+      "carriersMarketingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Aer Lingus",
+          "isSelected": true,
+          "key": "EI",
+          "value": "Aer Lingus"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Lufthansa",
+          "isSelected": true,
+          "key": "LH",
+          "value": "Lufthansa"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "SWISS International Airlines",
+          "isSelected": true,
+          "key": "LX",
+          "value": "SWISS International Airlines"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "TAP Portugal",
+          "isSelected": true,
+          "key": "TP",
+          "value": "TAP Portugal"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "United Airlines",
+          "isSelected": true,
+          "key": "UA",
+          "value": "United Airlines"
+        }
+      ],
+      "carriersOperating": "UA,LH,AC,LX,2L,CL,EI,SN",
+      "carriersOperatingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "AC",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "EI",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "LH",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "LX",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "SN",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "TP",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "UA",
+          "value": ""
+        }
+      ],
+      "durationMax": 2820,
+      "durationMin": 540,
+      "durationStopMax": -1,
+      "durationStopMin": -1,
+      "equipmentCodes": "221,223,290,319,320,321,32N,32Q,330,333,343,359,738,739,73G,74H,752,753,763,764,777,77W,781,788,789,7M8,7M9,CR7,CR9,CRJ,E75,E7W,E90,E95",
+      "equipmentList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-300",
+          "isSelected": false,
+          "key": "753",
+          "value": "Boeing 757-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 767-300",
+          "isSelected": false,
+          "key": "763",
+          "value": "Boeing 767-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-800",
+          "isSelected": false,
+          "key": "738",
+          "value": "Boeing 737-800"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-9 Dreamliner",
+          "isSelected": false,
+          "key": "789",
+          "value": "Boeing 787-9 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-900",
+          "isSelected": false,
+          "key": "739",
+          "value": "Boeing 737-900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A320",
+          "isSelected": false,
+          "key": "320",
+          "value": "Airbus A320"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-700",
+          "isSelected": false,
+          "key": "73G",
+          "value": "Boeing 737-700"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 175",
+          "isSelected": false,
+          "key": "E7W",
+          "value": "Embraer 175"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 9",
+          "isSelected": false,
+          "key": "7M9",
+          "value": "Boeing 737 MAX 9"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-10 Dreamliner",
+          "isSelected": false,
+          "key": "781",
+          "value": "Boeing 787-10 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A350-900",
+          "isSelected": false,
+          "key": "359",
+          "value": "Airbus A350-900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A320",
+          "isSelected": false,
+          "key": "32N",
+          "value": "Airbus A320"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 747-8 Intercontinental",
+          "isSelected": false,
+          "key": "74H",
+          "value": "Boeing 747-8 Intercontinental"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 8",
+          "isSelected": false,
+          "key": "7M8",
+          "value": "Boeing 737 MAX 8"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A220-300",
+          "isSelected": false,
+          "key": "223",
+          "value": "Airbus A220-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A330-300",
+          "isSelected": false,
+          "key": "333",
+          "value": "Airbus A330-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A321",
+          "isSelected": false,
+          "key": "321",
+          "value": "Airbus A321"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 767-400ER",
+          "isSelected": false,
+          "key": "764",
+          "value": "Boeing 767-400ER"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A220-100",
+          "isSelected": false,
+          "key": "221",
+          "value": "Airbus A220-100"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer E190-E2",
+          "isSelected": false,
+          "key": "290",
+          "value": "Embraer E190-E2"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A319",
+          "isSelected": false,
+          "key": "319",
+          "value": "Airbus A319"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-200",
+          "isSelected": false,
+          "key": "752",
+          "value": "Boeing 757-200"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-8 Dreamliner",
+          "isSelected": false,
+          "key": "788",
+          "value": "Boeing 787-8 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 777-200",
+          "isSelected": false,
+          "key": "777",
+          "value": "Boeing 777-200"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 190",
+          "isSelected": false,
+          "key": "E90",
+          "value": "Embraer 190"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 777-300ER",
+          "isSelected": false,
+          "key": "77W",
+          "value": "Boeing 777-300ER"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet",
+          "isSelected": false,
+          "key": "CRJ",
+          "value": "Canadair Regional Jet"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 175",
+          "isSelected": false,
+          "key": "E75",
+          "value": "Embraer 175"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet 900",
+          "isSelected": false,
+          "key": "CR9",
+          "value": "Canadair Regional Jet 900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A340-300",
+          "isSelected": false,
+          "key": "343",
+          "value": "Airbus A340-300"
+        }
+      ],
+      "equipmentTypes": "753,763,738,789,739,320,73G,E7W,7M9,781,359,32N,74H,7M8,223,333,321,764,221,290,319,752,788,777,E90,77W,CRJ,E75,CR9,343",
+      "fareFamilies": [
+        {
+          "fareFamily": "ECO-PREMIUM",
+          "maxMileage": 3537,
+          "maxPrice": "",
+          "minMileage": 476,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "ECO-PREMIUM-UNRESTRICTED",
+          "maxMileage": 3537,
+          "maxPrice": "",
+          "minMileage": 626,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "ECONOMY",
+          "maxMileage": 4488,
+          "maxPrice": "",
+          "minMileage": 321,
+          "minPrice": "",
+          "minPriceInSummary": true
+        },
+        {
+          "fareFamily": "ECONOMY-UNRESTRICTED",
+          "maxMileage": 4535,
+          "maxPrice": "",
+          "minMileage": 501,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "MIN-BUSINESS-OR-FIRST",
+          "maxMileage": 10649,
+          "maxPrice": "",
+          "minMileage": 4250,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "MIN-BUSINESS-OR-FIRST-UNRESTRICTED",
+          "maxMileage": 10649,
+          "maxPrice": "",
+          "minMileage": 4525,
+          "minPrice": "",
+          "minPriceInSummary": false
+        }
+      ],
+      "fareFamily": "",
+      "filterSortPaging": false,
+      "numberofStops": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "1+ stops",
+          "isSelected": true,
+          "key": "OneStop",
+          "value": "1,1"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "2+ stops",
+          "isSelected": true,
+          "key": "MoreStops",
+          "value": "3,3"
+        }
+      ],
+      "pageNumber": 2,
+      "priceMax": 11555.1,
+      "priceMaxDisplayValue": "$11,556",
+      "priceMin": 524.7,
+      "priceMinDisplayValue": "$524",
+      "refundableFaresToggle": {
+        "amount": "",
+        "currency": "",
+        "displayValue": "Refundable fares from $705",
+        "isSelected": false,
+        "key": "RefundableFares",
+        "value": "Refundable Fares"
+      },
+      "showArrivalFilters": false,
+      "showDepartureFilters": true,
+      "showDurationFilters": true,
+      "showLayOverFilters": true,
+      "showPriceFilters": false,
+      "showRefundableFaresToggle": true,
+      "showSortingandFilters": true,
+      "sortType1": "",
+      "sortTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Best matches",
+          "isSelected": false,
+          "key": "BestMatch",
+          "value": "Best matches"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (early to late)",
+          "isSelected": false,
+          "key": "DepartEarlyToLate",
+          "value": "Departure time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (late to early)",
+          "isSelected": false,
+          "key": "DepartLateToEarly",
+          "value": "Departure time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (early to late)",
+          "isSelected": false,
+          "key": "ArriveEarlyToLate",
+          "value": "Arrival time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (late to early)",
+          "isSelected": false,
+          "key": "ArriveLateToEarly",
+          "value": "Arrival time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Duration (fastest to longest)",
+          "isSelected": false,
+          "key": "DurtionShortToLong",
+          "value": "Duration (fastest to longest)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy",
+          "isSelected": false,
+          "key": "ECONOMY",
+          "value": "Economy"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy (fully refundable)",
+          "isSelected": false,
+          "key": "ECONOMY-UNRESTRICTED",
+          "value": "Economy (fully refundable)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Premium Economy",
+          "isSelected": false,
+          "key": "ECO-PREMIUM",
+          "value": "Premium Economy"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Premium Economy (fully refundable)",
+          "isSelected": false,
+          "key": "ECO-PREMIUM-UNRESTRICTED",
+          "value": "Premium Economy (fully refundable)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Business",
+          "isSelected": false,
+          "key": "MIN-BUSINESS-OR-FIRST",
+          "value": "Business"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Business (fully refundable)",
+          "isSelected": false,
+          "key": "MIN-BUSINESS-OR-FIRST-UNRESTRICTED",
+          "value": "Business (fully refundable)"
+        }
+      ],
+      "stopCountExcl": -1,
+      "stopCountMax": 3,
+      "stopCountMin": 1,
+      "timeArrivalMax": "20:35",
+      "timeArrivalMin": "06:20",
+      "timeDepartMax": "17:59",
+      "timeDepartMin": "12:00",
+      "warningsFilter": []
+    },
+    "sessionId": "37898BFF581F44718EC92CDB0351C5F9",
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "b266cf34-fb15-4952-8070-03dcbb8f10fb",
+    "languageCode": "en-US",
+    "transactionId": "b266cf34-fb15-4952-8070-03dcbb8f10fb|afc70312-f330-4a89-b36b-0cd1049b5a23"
+  },
+  {
+    "cartId": "37888BFF-581F-4471-8EC9-2CDB0351C5F9",
+    "lastTripIndexRequested": 2,
+    "searchFiltersIn": {
+      "aircraftCabinTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy Only",
+          "isSelected": true,
+          "key": "EconomyOnly",
+          "value": "Economy Only"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Multi cabin",
+          "isSelected": true,
+          "key": "Multicabin",
+          "value": "Multi cabin"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "TurboProp",
+          "isSelected": true,
+          "key": "TurboProp",
+          "value": "TurboProp"
+        }
+      ],
+      "aircraftTypes": "",
+      "airportsDestination": "LHR,LCY,LGW,MAN",
+      "airportsDestinationList": [
+        {
+          "amount": "$788",
+          "currency": "USD",
+          "displayValue": "London, GB (LCY)",
+          "isSelected": true,
+          "key": "LCY",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$798",
+          "currency": "USD",
+          "displayValue": "London, GB (LGW)",
+          "isSelected": true,
+          "key": "LGW",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "London, GB (LHR)",
+          "isSelected": true,
+          "key": "LHR",
+          "value": "London, GB"
+        },
+        {
+          "amount": "$1,555",
+          "currency": "USD",
+          "displayValue": "Manchester, GB (MAN)",
+          "isSelected": true,
+          "key": "MAN",
+          "value": "Manchester, GB"
+        }
+      ],
+      "airportsOrigin": "LAX,SNA,BUR,SAN",
+      "airportsOriginList": [
+        {
+          "amount": "$970",
+          "currency": "USD",
+          "displayValue": "Burbank, CA, US (BUR)",
+          "isSelected": true,
+          "key": "BUR",
+          "value": "Burbank, CA, US"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "Los Angeles, CA, US (LAX)",
+          "isSelected": true,
+          "key": "LAX",
+          "value": "Los Angeles, CA, US"
+        },
+        {
+          "amount": "$1,844",
+          "currency": "USD",
+          "displayValue": "San Diego, CA, US (SAN)",
+          "isSelected": true,
+          "key": "SAN",
+          "value": "San Diego, CA, US"
+        },
+        {
+          "amount": "$770",
+          "currency": "USD",
+          "displayValue": "Orange County, CA, US (SNA)",
+          "isSelected": true,
+          "key": "SNA",
+          "value": "Orange County, CA, US"
+        }
+      ],
+      "airportsStop": "ASE,BOS,BRU,COS,DEN,DUB,EWR,FAT,FRA,GVA,IAD,IAH,JFK,LAS,LIS,MUC,ORD,PHX,SAN,SFO,SLC,YUL,YVR,YYZ,ZRH",
+      "airportsStopList": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Aspen, CO, US (ASE)",
+          "isSelected": true,
+          "key": "ASE",
+          "value": "Aspen, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Boston, MA, US (BOS)",
+          "isSelected": true,
+          "key": "BOS",
+          "value": "Boston, MA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Brussels, BE (BRU)",
+          "isSelected": false,
+          "key": "BRU",
+          "value": "Brussels, BE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Chicago, IL, US (ORD)",
+          "isSelected": true,
+          "key": "ORD",
+          "value": "Chicago, IL, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Colorado Springs, CO, US (COS)",
+          "isSelected": true,
+          "key": "COS",
+          "value": "Colorado Springs, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Denver, CO, US (DEN)",
+          "isSelected": true,
+          "key": "DEN",
+          "value": "Denver, CO, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Dublin, IE (DUB)",
+          "isSelected": true,
+          "key": "DUB",
+          "value": "Dublin, IE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Frankfurt, DE (FRA)",
+          "isSelected": true,
+          "key": "FRA",
+          "value": "Frankfurt, DE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Fresno, CA, US (FAT)",
+          "isSelected": true,
+          "key": "FAT",
+          "value": "Fresno, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Geneva, CH (GVA)",
+          "isSelected": true,
+          "key": "GVA",
+          "value": "Geneva, CH"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Houston, TX, US (IAH)",
+          "isSelected": true,
+          "key": "IAH",
+          "value": "Houston, TX, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Las Vegas, NV, US (LAS)",
+          "isSelected": true,
+          "key": "LAS",
+          "value": "Las Vegas, NV, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Lisbon, PT (LIS)",
+          "isSelected": true,
+          "key": "LIS",
+          "value": "Lisbon, PT"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Montreal, QC, CA (YUL)",
+          "isSelected": true,
+          "key": "YUL",
+          "value": "Montreal, QC, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Munich, DE (MUC)",
+          "isSelected": true,
+          "key": "MUC",
+          "value": "Munich, DE"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "New York, NY, US (JFK)",
+          "isSelected": true,
+          "key": "JFK",
+          "value": "New York, NY, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Newark, NJ, US (EWR)",
+          "isSelected": true,
+          "key": "EWR",
+          "value": "Newark, NJ, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Phoenix, AZ, US (PHX)",
+          "isSelected": true,
+          "key": "PHX",
+          "value": "Phoenix, AZ, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Salt Lake City, UT, US (SLC)",
+          "isSelected": true,
+          "key": "SLC",
+          "value": "Salt Lake City, UT, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "San Diego, CA, US (SAN)",
+          "isSelected": true,
+          "key": "SAN",
+          "value": "San Diego, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "San Francisco, CA, US (SFO)",
+          "isSelected": true,
+          "key": "SFO",
+          "value": "San Francisco, CA, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Toronto, ON, CA (YYZ)",
+          "isSelected": true,
+          "key": "YYZ",
+          "value": "Toronto, ON, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Vancouver, BC, CA (YVR)",
+          "isSelected": true,
+          "key": "YVR",
+          "value": "Vancouver, BC, CA"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Washington, DC, US (IAD)",
+          "isSelected": true,
+          "key": "IAD",
+          "value": "Washington, DC, US"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Zürich, CH (ZRH)",
+          "isSelected": true,
+          "key": "ZRH",
+          "value": "Zürich, CH"
+        }
+      ],
+      "airportsStopToAvoid": "",
+      "amenityTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Wifi",
+          "isSelected": true,
+          "key": "Wifi",
+          "value": "Wifi"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "DirecTV",
+          "isSelected": true,
+          "key": "DirecTV",
+          "value": "DirecTV"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "In-seat power",
+          "isSelected": true,
+          "key": "Power",
+          "value": "In-seat power"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Other amenities",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Other amenities"
+        }
+      ],
+      "bookingCodes": "",
+      "cabinCountMax": 3,
+      "cabinCountMin": 0,
+      "carrierDefault": true,
+      "carrierExpress": true,
+      "carrierPartners": false,
+      "carrierStar": true,
+      "carrierTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United",
+          "isSelected": true,
+          "key": "United",
+          "value": "United"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "United Express",
+          "isSelected": true,
+          "key": "UnitedExpress",
+          "value": "United Express"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Star Alliance",
+          "isSelected": false,
+          "key": "StarAlliance",
+          "value": "Star Alliance"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Partners",
+          "isSelected": true,
+          "key": "Other",
+          "value": "Partners"
+        }
+      ],
+      "carriersMarketing": "UA,LX,LH,EI",
+      "carriersMarketingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Aer Lingus",
+          "isSelected": true,
+          "key": "EI",
+          "value": "Aer Lingus"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Lufthansa",
+          "isSelected": true,
+          "key": "LH",
+          "value": "Lufthansa"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "SWISS International Airlines",
+          "isSelected": true,
+          "key": "LX",
+          "value": "SWISS International Airlines"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "TAP Portugal",
+          "isSelected": true,
+          "key": "TP",
+          "value": "TAP Portugal"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "United Airlines",
+          "isSelected": true,
+          "key": "UA",
+          "value": "United Airlines"
+        }
+      ],
+      "carriersOperating": "UA,LH,AC,LX,2L,CL,EI,SN",
+      "carriersOperatingList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "AC",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "EI",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "LH",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "LX",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "SN",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "TP",
+          "value": ""
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "",
+          "isSelected": true,
+          "key": "UA",
+          "value": ""
+        }
+      ],
+      "durationMax": 2820,
+      "durationMin": 540,
+      "durationStopMax": -1,
+      "durationStopMin": -1,
+      "equipmentCodes": "221,223,290,319,320,321,32N,32Q,330,333,343,359,738,739,73G,74H,752,753,763,764,777,77W,781,788,789,7M8,7M9,CR7,CR9,CRJ,E75,E7W,E90,E95",
+      "equipmentList": [
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-300",
+          "isSelected": false,
+          "key": "753",
+          "value": "Boeing 757-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 767-300",
+          "isSelected": false,
+          "key": "763",
+          "value": "Boeing 767-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-800",
+          "isSelected": false,
+          "key": "738",
+          "value": "Boeing 737-800"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-9 Dreamliner",
+          "isSelected": false,
+          "key": "789",
+          "value": "Boeing 787-9 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-900",
+          "isSelected": false,
+          "key": "739",
+          "value": "Boeing 737-900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A320",
+          "isSelected": false,
+          "key": "320",
+          "value": "Airbus A320"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737-700",
+          "isSelected": false,
+          "key": "73G",
+          "value": "Boeing 737-700"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 175",
+          "isSelected": false,
+          "key": "E7W",
+          "value": "Embraer 175"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 9",
+          "isSelected": false,
+          "key": "7M9",
+          "value": "Boeing 737 MAX 9"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-10 Dreamliner",
+          "isSelected": false,
+          "key": "781",
+          "value": "Boeing 787-10 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A350-900",
+          "isSelected": false,
+          "key": "359",
+          "value": "Airbus A350-900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A320",
+          "isSelected": false,
+          "key": "32N",
+          "value": "Airbus A320"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 747-8 Intercontinental",
+          "isSelected": false,
+          "key": "74H",
+          "value": "Boeing 747-8 Intercontinental"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 737 MAX 8",
+          "isSelected": false,
+          "key": "7M8",
+          "value": "Boeing 737 MAX 8"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A220-300",
+          "isSelected": false,
+          "key": "223",
+          "value": "Airbus A220-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A330-300",
+          "isSelected": false,
+          "key": "333",
+          "value": "Airbus A330-300"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A321",
+          "isSelected": false,
+          "key": "321",
+          "value": "Airbus A321"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 767-400ER",
+          "isSelected": false,
+          "key": "764",
+          "value": "Boeing 767-400ER"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A220-100",
+          "isSelected": false,
+          "key": "221",
+          "value": "Airbus A220-100"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer E190-E2",
+          "isSelected": false,
+          "key": "290",
+          "value": "Embraer E190-E2"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A319",
+          "isSelected": false,
+          "key": "319",
+          "value": "Airbus A319"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 757-200",
+          "isSelected": false,
+          "key": "752",
+          "value": "Boeing 757-200"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 787-8 Dreamliner",
+          "isSelected": false,
+          "key": "788",
+          "value": "Boeing 787-8 Dreamliner"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 777-200",
+          "isSelected": false,
+          "key": "777",
+          "value": "Boeing 777-200"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 190",
+          "isSelected": false,
+          "key": "E90",
+          "value": "Embraer 190"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Boeing 777-300ER",
+          "isSelected": false,
+          "key": "77W",
+          "value": "Boeing 777-300ER"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet",
+          "isSelected": false,
+          "key": "CRJ",
+          "value": "Canadair Regional Jet"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Embraer 175",
+          "isSelected": false,
+          "key": "E75",
+          "value": "Embraer 175"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Canadair Regional Jet 900",
+          "isSelected": false,
+          "key": "CR9",
+          "value": "Canadair Regional Jet 900"
+        },
+        {
+          "amount": "$0",
+          "currency": "",
+          "displayValue": "Airbus A340-300",
+          "isSelected": false,
+          "key": "343",
+          "value": "Airbus A340-300"
+        }
+      ],
+      "equipmentTypes": "753,763,738,789,739,320,73G,E7W,7M9,781,359,32N,74H,7M8,223,333,321,764,221,290,319,752,788,777,E90,77W,CRJ,E75,CR9,343",
+      "fareFamilies": [
+        {
+          "fareFamily": "ECO-PREMIUM",
+          "maxMileage": 3537,
+          "maxPrice": "",
+          "minMileage": 476,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "ECO-PREMIUM-UNRESTRICTED",
+          "maxMileage": 3537,
+          "maxPrice": "",
+          "minMileage": 626,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "ECONOMY",
+          "maxMileage": 4488,
+          "maxPrice": "",
+          "minMileage": 321,
+          "minPrice": "",
+          "minPriceInSummary": true
+        },
+        {
+          "fareFamily": "ECONOMY-UNRESTRICTED",
+          "maxMileage": 4535,
+          "maxPrice": "",
+          "minMileage": 501,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "MIN-BUSINESS-OR-FIRST",
+          "maxMileage": 10649,
+          "maxPrice": "",
+          "minMileage": 4250,
+          "minPrice": "",
+          "minPriceInSummary": false
+        },
+        {
+          "fareFamily": "MIN-BUSINESS-OR-FIRST-UNRESTRICTED",
+          "maxMileage": 10649,
+          "maxPrice": "",
+          "minMileage": 4525,
+          "minPrice": "",
+          "minPriceInSummary": false
+        }
+      ],
+      "fareFamily": "",
+      "filterSortPaging": false,
+      "numberofStops": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "1+ stops",
+          "isSelected": true,
+          "key": "OneStop",
+          "value": "1,1"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "2+ stops",
+          "isSelected": true,
+          "key": "MoreStops",
+          "value": "3,3"
+        }
+      ],
+      "pageNumber": 1,
+      "priceMax": 11555.1,
+      "priceMaxDisplayValue": "$11,556",
+      "priceMin": 524.7,
+      "priceMinDisplayValue": "$524",
+      "refundableFaresToggle": {
+        "amount": "",
+        "currency": "",
+        "displayValue": "Refundable fares from $705",
+        "isSelected": false,
+        "key": "RefundableFares",
+        "value": "Refundable Fares"
+      },
+      "showArrivalFilters": false,
+      "showDepartureFilters": true,
+      "showDurationFilters": true,
+      "showLayOverFilters": true,
+      "showPriceFilters": false,
+      "showRefundableFaresToggle": true,
+      "showSortingandFilters": true,
+      "sortType1": "",
+      "sortTypes": [
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Best matches",
+          "isSelected": false,
+          "key": "BestMatch",
+          "value": "Best matches"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (early to late)",
+          "isSelected": false,
+          "key": "DepartEarlyToLate",
+          "value": "Departure time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Departure time (late to early)",
+          "isSelected": false,
+          "key": "DepartLateToEarly",
+          "value": "Departure time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (early to late)",
+          "isSelected": false,
+          "key": "ArriveEarlyToLate",
+          "value": "Arrival time (early to late)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Arrival time (late to early)",
+          "isSelected": false,
+          "key": "ArriveLateToEarly",
+          "value": "Arrival time (late to early)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Duration (fastest to longest)",
+          "isSelected": false,
+          "key": "DurtionShortToLong",
+          "value": "Duration (fastest to longest)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy",
+          "isSelected": false,
+          "key": "ECONOMY",
+          "value": "Economy"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Economy (fully refundable)",
+          "isSelected": false,
+          "key": "ECONOMY-UNRESTRICTED",
+          "value": "Economy (fully refundable)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Premium Economy",
+          "isSelected": false,
+          "key": "ECO-PREMIUM",
+          "value": "Premium Economy"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Premium Economy (fully refundable)",
+          "isSelected": false,
+          "key": "ECO-PREMIUM-UNRESTRICTED",
+          "value": "Premium Economy (fully refundable)"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Business",
+          "isSelected": false,
+          "key": "MIN-BUSINESS-OR-FIRST",
+          "value": "Business"
+        },
+        {
+          "amount": "",
+          "currency": "",
+          "displayValue": "Business (fully refundable)",
+          "isSelected": false,
+          "key": "MIN-BUSINESS-OR-FIRST-UNRESTRICTED",
+          "value": "Business (fully refundable)"
+        }
+      ],
+      "stopCountExcl": -1,
+      "stopCountMax": 3,
+      "stopCountMin": 1,
+      "timeArrivalMax": "20:35",
+      "timeArrivalMin": "06:20",
+      "timeDepartMax": "17:59",
+      "timeDepartMin": "12:00",
+      "warningsFilter": []
+    },
+    "sessionId": "37898BFF581F44718EC92CDB0351C5F9",
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "b266cf34-fb15-4952-8070-03dcbb8f10fb",
+    "languageCode": "en-US",
+    "transactionId": "b266cf34-fb15-4952-8070-03dcbb8f10fb|afc70312-f330-4a89-b36b-0cd1049b5a23"
+  },
+  {
+    "cartId": "37888BFF-581F-4471-8EC9-2CDB0351C5F9",
+    "lastTripIndexRequested": 2,
+    "searchFiltersIn": null,
+    "sessionId": "37898BFF581F44718EC92CDB0351C5F9",
+    "booking": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "b266cf34-fb15-4952-8070-03dcbb8f10fb",
+    "languageCode": "en-US",
+    "transactionId": "b266cf34-fb15-4952-8070-03dcbb8f10fb|afc70312-f330-4a89-b36b-0cd1049b5a23"
+  }
+]

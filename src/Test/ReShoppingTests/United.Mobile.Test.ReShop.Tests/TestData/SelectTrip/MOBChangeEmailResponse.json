@@ -1,0 +1,100 @@
+{
+  "Reservation": {
+    "IsReshopChange": true,
+    "ChangeTripTitle": "",
+    "IsUsed": true,
+    "OriginalUsedIndex": 123,
+    "OriginalTrip": {
+      "DisableEplus": true,
+      "DestinationDecodedWithCountry": "",
+      "OriginDecodedWithCountry": "",
+      "YqyrMessage": "",
+      "TripId": "",
+      "OriginDecoded": "",
+      "DestinationDecoded": "",
+      "ShowOriginDestinationForFlights": true,
+      "FlattenedFlights": [
+        {
+          "CarrierMessage": "",
+          "TripId": "",
+          "FlightId": "",
+          "CabinMessage": "",
+          "ProductId": "",
+          "Flights": [
+            {
+              "FareComparisonMessage": [
+                {
+                  "InterimScreenCode": "",
+                  "FareCompareOption": {
+                    "Title": "",
+                    "AirlineAmenities": [
+                      {
+                        "AmenityTitle": "",
+                        "AmenityIcon": "",
+                        "AmenitiesDetails": [
+                          {
+                            "IsAvailable": true,
+                            "ShowMessage": true,
+                            "Message": "",
+                            "CabinCode": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "FareFamily": "",
+              "AirlineTravelInfo": [
+                {
+                  "OptionTitle": "",
+                  "OptionIcon": "",
+                  "OptionDescription": ""
+                }
+              ],
+              "FareHeader": {
+                "Header": "",
+                "Title": "",
+                "InfoDescriptions": [
+                  {
+                    "AlertMessage": "",
+                    "AlignLeft": true,
+                    "AlignRight": true,
+                    "AlertType": "",
+                    "SortOrder": "",
+                    "Visibility": "",
+                    "Key": "5"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TripDays": "",
+      "IsUADiscount": true,
+      "isAddCollectWaived": true,
+      "AddCollectProductId": "",
+      "FlightHash": "",
+      "AirportChange": "",
+      "IsIBELite": true,
+      "IsIBE": true,
+      "IsElf": true,
+      "IsChangeFeeWaiver": true,
+      "IsCovidTestFlight": true,
+      "FlightLabelTextList": [
+      ],
+      "FlightBadges": [
+        {
+          "Text": "",
+          "TextColor": "",
+          "IsItalic": true,
+          "BackgroundColor": "",
+          "SortPriority": ""
+        }
+      ],
+      "MsgFlightCarrier": ""
+    }
+
+  }
+}

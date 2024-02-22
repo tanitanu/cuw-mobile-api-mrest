@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kcoyltghXarJ0VO9MFa45xEbvFkeIiO5HNgn8SW1DjE=",
+  "Source": "United.Mobile.FlightReservation.Api",
+  "BasePath": "_content/United.Mobile.FlightReservation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

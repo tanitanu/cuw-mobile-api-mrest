@@ -1,0 +1,12 @@
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\bin\Debug\net6.0\United.Mobile.Model.HomePageContent.deps.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\bin\Debug\net6.0\United.Mobile.Model.HomePageContent.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\bin\Debug\net6.0\United.Mobile.Model.HomePageContent.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\United.Mobile.Model.HomePageContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\United.Mobile.Model.HomePageContent.AssemblyInfoInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\United.Mobile.Model.HomePageContent.AssemblyInfo.cs
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\United.Mobile.Model.HomePageContent.csproj.CoreCompileInputs.cache
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\United.Mobile.Model.HomePageContent.sourcelink.json
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\United.Mobile.Model.HomePageContent.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\refint\United.Mobile.Model.HomePageContent.dll
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\United.Mobile.Model.HomePageContent.pdb
+C:\Users\tmajumder2\Downloads\Important docs\REPOS\Mrest\src\Model\eRes\United.Mobile.Model.HomePageContent\obj\Debug\net6.0\ref\United.Mobile.Model.HomePageContent.dll

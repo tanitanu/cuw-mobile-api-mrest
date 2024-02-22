@@ -1,0 +1,1387 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopSeats\\United.Mobile.Model.ShopSeats.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Ebs.Logging\\United.Ebs.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Ebs.Logging\\United.Ebs.Logging.csproj",
+        "projectName": "United.Ebs.Logging",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Ebs.Logging\\United.Ebs.Logging.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Ebs.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Serilog.Sinks.Http": {
+              "target": "Package",
+              "version": "[8.0.0-beta.7, )"
+            },
+            "United.Csl.Ms.Common": {
+              "target": "Package",
+              "version": "[3.4.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\United.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\United.Utility.csproj",
+        "projectName": "United.Utility",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\United.Utility.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Ebs.Logging\\United.Ebs.Logging.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Ebs.Logging\\United.Ebs.Logging.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.SecretsManager": {
+              "target": "Package",
+              "version": "[3.7.101.33, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\DataAccess\\United.Mobile.DataAccess.Common\\United.Mobile.DataAccess.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\DataAccess\\United.Mobile.DataAccess.Common\\United.Mobile.DataAccess.Common.csproj",
+        "projectName": "United.Mobile.DataAccess.Common",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\DataAccess\\United.Mobile.DataAccess.Common\\United.Mobile.DataAccess.Common.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\DataAccess\\United.Mobile.DataAccess.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\United.Utility.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\United.Utility.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\United.Mobile.Model.Internal.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\United.Mobile.Model.Internal.Common.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "United.Foundations.Practices.Framework.Model": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "United.Foundations.Practices.Framework.Security.DataPower": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\United.Mobile.Model.Internal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\United.Mobile.Model.Internal.Common.csproj",
+        "projectName": "United.Mobile.Model.Internal.Common",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\United.Mobile.Model.Internal.Common.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal.Exception\\United.Mobile.Model.Internal.Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal.Exception\\United.Mobile.Model.Internal.Exception.csproj",
+        "projectName": "United.Mobile.Model.Internal.Exception",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal.Exception\\United.Mobile.Model.Internal.Exception.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal.Exception\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj",
+        "projectName": "United.Mobile.Model.Internal",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\eRes\\United.Mobile.Model.HomePageContent\\United.Mobile.Model.HomePageContent.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\eRes\\United.Mobile.Model.HomePageContent\\United.Mobile.Model.HomePageContent.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Ancillary\\United.Mobile.Model.Catalog\\United.Mobile.Model.Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Ancillary\\United.Mobile.Model.Catalog\\United.Mobile.Model.Catalog.csproj",
+        "projectName": "United.Mobile.Model.Catalog",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Ancillary\\United.Mobile.Model.Catalog\\United.Mobile.Model.Catalog.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Ancillary\\United.Mobile.Model.Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\eRes\\United.Mobile.Model.HomePageContent\\United.Mobile.Model.HomePageContent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\eRes\\United.Mobile.Model.HomePageContent\\United.Mobile.Model.HomePageContent.csproj",
+        "projectName": "United.Mobile.Model.HomePageContent",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\eRes\\United.Mobile.Model.HomePageContent\\United.Mobile.Model.HomePageContent.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\eRes\\United.Mobile.Model.HomePageContent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\FlightStatus\\United.Mobile.Model.FlightStatus\\United.Mobile.Model.FlightStatus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\FlightStatus\\United.Mobile.Model.FlightStatus\\United.Mobile.Model.FlightStatus.csproj",
+        "projectName": "United.Mobile.Model.FlightStatus",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\FlightStatus\\United.Mobile.Model.FlightStatus\\United.Mobile.Model.FlightStatus.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\FlightStatus\\United.Mobile.Model.FlightStatus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\United.Mobile.Model.PNRManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\United.Mobile.Model.PNRManagement.csproj",
+        "projectName": "United.Mobile.Model.PNRManagement",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\United.Mobile.Model.PNRManagement.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\United.Mobile.Model.Internal.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Definition\\United.Mobile.Model.Internal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\SeatEngine\\United.Mobile.Model.SeatEngine\\United.Mobile.Model.SeatEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\SeatEngine\\United.Mobile.Model.SeatEngine\\United.Mobile.Model.SeatEngine.csproj",
+        "projectName": "United.Mobile.Model.SeatEngine",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\SeatEngine\\United.Mobile.Model.SeatEngine\\United.Mobile.Model.SeatEngine.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\SeatEngine\\United.Mobile.Model.SeatEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Common\\United.Mobile.Model.Shopping.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Common\\United.Mobile.Model.Shopping.Common.csproj",
+        "projectName": "United.Mobile.Model.Shopping.Common",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Common\\United.Mobile.Model.Shopping.Common.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\United.Utility.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Core\\United.Utility\\United.Utility.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\DataAccess\\United.Mobile.DataAccess.Common\\United.Mobile.DataAccess.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\DataAccess\\United.Mobile.DataAccess.Common\\United.Mobile.DataAccess.Common.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Ancillary\\United.Mobile.Model.Catalog\\United.Mobile.Model.Catalog.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Ancillary\\United.Mobile.Model.Catalog\\United.Mobile.Model.Catalog.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\United.Mobile.Model.PNRManagement.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\United.Mobile.Model.PNRManagement.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopAward\\United.Mobile.Model.ShopAward.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopAward\\United.Mobile.Model.ShopAward.csproj",
+        "projectName": "United.Mobile.Model.ShopAward",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopAward\\United.Mobile.Model.ShopAward.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopAward\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Common\\United.Mobile.Model.Shopping.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Common\\United.Mobile.Model.Shopping.Common.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Shopping\\United.Mobile.Model.Shopping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Shopping\\United.Mobile.Model.Shopping.csproj",
+        "projectName": "United.Mobile.Model.Shopping",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Shopping\\United.Mobile.Model.Shopping.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Shopping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal\\United.Mobile.Model.Internal.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\FlightStatus\\United.Mobile.Model.FlightStatus\\United.Mobile.Model.FlightStatus.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\FlightStatus\\United.Mobile.Model.FlightStatus\\United.Mobile.Model.FlightStatus.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\United.Mobile.Model.PNRManagement.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\PNRManagement\\United.Mobile.Model.PNRManagement\\United.Mobile.Model.PNRManagement.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopAward\\United.Mobile.Model.ShopAward.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopAward\\United.Mobile.Model.ShopAward.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Presentation.CSL.AnalysisModel": {
+              "target": "Package",
+              "version": "[3.9.9.336, )"
+            },
+            "United.Services.FlightShopping.Common": {
+              "target": "Package",
+              "version": "[2.0.0.372, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopSeats\\United.Mobile.Model.ShopSeats.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopSeats\\United.Mobile.Model.ShopSeats.csproj",
+        "projectName": "United.Mobile.Model.ShopSeats",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopSeats\\United.Mobile.Model.ShopSeats.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.ShopSeats\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Shopping\\United.Mobile.Model.Shopping.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\Shopping\\United.Mobile.Model.Shopping\\United.Mobile.Model.Shopping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj",
+        "projectName": "United.Mobile.Model.Common",
+        "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\United.Mobile.Model.Common.csproj",
+        "packagesPath": "C:\\Users\\tmajumder2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\United.Mobile.Model.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tmajumder2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://edtweb.global.ual.com:8080/nuget": {},
+          "http://nuget.ual.com/packages/nuget": {},
+          "http://vcld36gdersas01.global.ual.com/EresNuget/nuget": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://Artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetFrameworkRelease/": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/nuget-ual": {},
+          "https://artifactory.ual.com/artifactory/api/nuget/v3/nuget": {},
+          "https://artifactorycloud.ual.com/artifactory/api/nuget/v3/v-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal.Exception\\United.Mobile.Model.Internal.Exception.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model.Internal\\United.Mobile.Model.Internal.Exception\\United.Mobile.Model.Internal.Exception.csproj"
+              },
+              "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\SeatEngine\\United.Mobile.Model.SeatEngine\\United.Mobile.Model.SeatEngine.csproj": {
+                "projectPath": "C:\\Users\\tmajumder2\\Downloads\\Important docs\\REPOS\\Mrest\\src\\Model\\SeatEngine\\United.Mobile.Model.SeatEngine\\United.Mobile.Model.SeatEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Presentation.CslModels": {
+              "target": "Package",
+              "version": "[4.6.121, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "United.Mobile.Model.BagTracking/1.0.0": {
+        "dependencies": {
+          "Presentation.CslModels": "4.6.121",
+          "System.ComponentModel.Annotations": "5.0.0",
+          "United.Mobile.Model.Common": "1.0.0"
+        },
+        "runtime": {
+          "United.Mobile.Model.BagTracking.dll": {}
+        }
+      },
+      "Autofac/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Autofac.Extensions.DependencyInjection/6.0.0": {
+        "dependencies": {
+          "Autofac": "5.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.18136"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "Presentation.CslModels/4.6.121": {
+        "runtime": {
+          "lib/net462/United.Service.Presentation.AirportResourceModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.AirportResourceRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.AirportResourceResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.BagRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.BagResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.BaggageModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.CarRentalModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.CommonEnumModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.CommonModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.CustomerModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.CustomerRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.CustomerResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.EServiceCheckInModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.FlightRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.FlightResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.HostManagementModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.HostManagementRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.HostManagementResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.HotelModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.InteractionModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.InteractionRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.InteractionResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.LoyaltyModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.LoyaltyRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.LoyaltyResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.OptimizationModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.OptimizationRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.OptimizationResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PaymentModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PaymentRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PaymentResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PersonModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PersonalizationModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PersonalizationRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PersonalizationResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PriceModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PriceRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.PriceResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ProductModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ProductRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ProductResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReceiptModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReceiptRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReceiptResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReferenceDataModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReferenceDataRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReferenceDataResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.RefundModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.RefundRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.RefundResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReservationModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReservationRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ReservationResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.SalesModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.SalesRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.SalesResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.SecurityModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.SecurityRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.SecurityResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.SegmentModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ShoppingModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.TicketRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.TicketResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.TravelExceptionModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.TravelMgmtModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.UnitedCargoModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.UnitedCargoRequestModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.UnitedCargoResponseModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.ValueDocumentModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          },
+          "lib/net462/United.Service.Presentation.WorkspaceModel.dll": {
+            "assemblyVersion": "4.6.121.0",
+            "fileVersion": "4.6.121.0"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Text.Encodings.Web/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        }
+      },
+      "System.Text.Json/6.0.1": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.121.56705"
+          }
+        }
+      },
+      "United.Mobile.Model.Common/1.0.0": {
+        "dependencies": {
+          "Autofac": "5.0.0",
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
+          "Microsoft.Extensions.Configuration": "6.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "6.0.0",
+          "Newtonsoft.Json": "13.0.3",
+          "Presentation.CslModels": "4.6.121",
+          "System.ComponentModel.Annotations": "5.0.0",
+          "System.Text.Json": "6.0.1",
+          "United.Mobile.Model.Internal.Exception": "1.0.0",
+          "United.Mobile.Model.SeatEngine": "1.0.0"
+        },
+        "runtime": {
+          "United.Mobile.Model.Common.dll": {}
+        }
+      },
+      "United.Mobile.Model.Internal.Exception/1.0.0": {
+        "runtime": {
+          "United.Mobile.Model.Internal.Exception.dll": {}
+        }
+      },
+      "United.Mobile.Model.SeatEngine/1.0.0": {
+        "runtime": {
+          "United.Mobile.Model.SeatEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "United.Mobile.Model.BagTracking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U1aCHUMXuG7DDJ5JmTXF2kInXpad3Fuow+voSXEVunDHW4OkD8GDWJjleHpJPanpP+3dUQYLAM9R2lftGiQSbA==",
+      "path": "autofac/5.0.0",
+      "hashPath": "autofac.5.0.0.nupkg.sha512"
+    },
+    "Autofac.Extensions.DependencyInjection/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+1WNYENm4s/bSBrmTy2sD0zs6MCiCAlUaEbHJ+y7fKpXKqnFl4oTkIkUoDKlp05dl1VoAASBUJocaKKJa1KPCw==",
+      "path": "autofac.extensions.dependencyinjection/6.0.0",
+      "hashPath": "autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tq2wXyh3fL17EMF2bXgRhU7JrbO3on93MRKYxzz4JzzvuGSA1l0W3GI9/tl8EO89TH+KWEymP7bcFway6z9fXg==",
+      "path": "microsoft.extensions.configuration/6.0.0",
+      "hashPath": "microsoft.extensions.configuration.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qWzV9o+ZRWq+pGm+1dF+R7qTgTYoXvbyowRoBxQJGfqTpqDun2eteerjRQhq5PQ/14S+lqto3Ft4gYaRyl4rdQ==",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b3ErKzND8LIC7o08QAVlKfaEIYEvLJbtmVbFZVBRXeu9YkKfSSzLZfR1SUfQPBIy9mKLhEtJgGYImkcMNaKE0A==",
+      "path": "microsoft.extensions.configuration.binder/6.0.0",
+      "hashPath": "microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9+PnzmQFfEFNR9J2aDTfJGGupShHjOuGw4VUv+JB044biSHrnmCIMD+mJHmb2H7YryrfBEXDurxQ47gJZdCKNQ==",
+      "path": "microsoft.extensions.primitives/6.0.0",
+      "hashPath": "microsoft.extensions.primitives.6.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Presentation.CslModels/4.6.121": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bZaXVFj8XbFviRaZRrBhL6TOd6QaV4zcpuL5DAeR4tdHk4GPSWXwdOyjpWjOhCop61xlI1r+Ba9+fZsNCntnmw==",
+      "path": "presentation.cslmodels/4.6.121",
+      "hashPath": "presentation.cslmodels.4.6.121.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vg8eB5Tawm1IFqj4TVK1czJX89rhFxJo9ELqc/Eiq0eXy13RK00eubyU6TJE6y+GQXjyV5gSfiewDUZjQgSE0w==",
+      "path": "system.text.encodings.web/6.0.0",
+      "hashPath": "system.text.encodings.web.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X3cTdM+jna1YyfTUzToW7aVgINFv7R1W4+1+3hua/YCyLjApPoR8fd+2Cep9DbfYjbv+rBx4K6dlmAWEJr9AHg==",
+      "path": "system.text.json/6.0.1",
+      "hashPath": "system.text.json.6.0.1.nupkg.sha512"
+    },
+    "United.Mobile.Model.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "United.Mobile.Model.Internal.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "United.Mobile.Model.SeatEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

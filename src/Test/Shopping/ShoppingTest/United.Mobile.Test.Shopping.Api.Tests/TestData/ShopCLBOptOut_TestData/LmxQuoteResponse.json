@@ -1,0 +1,100 @@
+{
+  "Status": 1,
+  "Flights": [
+    {
+      "Hash": "304-3735|4344-UA",
+      "FlightNumber": "3735",
+      "DepartDateTime": "2021-10-31 08:55",
+      "Destination": "JAN",
+      "MarketingCarrier": "UA",
+      "OperatingCarrier": "UA",
+      "Origin": "ORD",
+      "Products": [
+        {
+          "BookingCode": "N",
+          "BookingClassAvailability": "Y0|YN0|B0|M0|E0|U0|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X9",
+          "BookingCount": 9,
+          "CabinTypeText": "(most restrictive)",
+          "CabinType": "Coach",
+          "Description": "United Economy",
+          "Mileage": 678,
+          "ProductId": "NAP",
+          "Fares": [
+            {
+              "FareBasisCode": "SAA2AFBN",
+              "SegmentRefs": [ "3735" ],
+              "Amount": 140.47,
+              "Currency": "USD",
+              "Ptc": "ADT"
+            },
+            {
+              "FareBasisCode": "SAA2AKBN",
+              "SegmentRefs": [ "4344" ],
+              "Amount": 104.19,
+              "Currency": "USD",
+              "Ptc": "ADT"
+            }
+          ],
+          "ProductPath": "Revenue",
+          "BestMatchSortOrder": 100,
+          "ProductSubtype": "BASE",
+          "ProductType": "ECO-BASIC",
+          "SolutionId": "GwnGebkvzz1LPOCRU0KukG00j",
+          "Prices": [
+            {
+              "Currency": "USD",
+              "CurrencyAllPax": "USD",
+              "Amount": 287.0,
+              "AmountAllPax": 287.0,
+              "PricingDetails": [
+                {
+                  "Currency": "EURO",
+                  "Amount": 23453,
+                  "DetailDescription": "VALID FOR SAME DAY CHANGE",
+                  "PriceType": "Taxes",
+                  "PriceSubtype": ""
+                }
+              ],
+              "AmountBase": 286.20,
+              "PricingType": "Fare",
+              "AmountBySlice": 287.0,
+              "AmountBySliceAllPax": 287.0
+            },
+            {
+              "Currency": "USD",
+              "Amount": 42.0,
+              "AmountAllPax": 0.0,
+              "AmountBase": 41.54,
+              "PricingType": "Taxes",
+              "PricingDetails": [
+                {
+                  "Currency": "EURO",
+                  "Amount": 23453,
+                  "DetailDescription": "-NOAC",
+                  "PriceType": "Taxes",
+                  "PriceSubtype": ""
+                }
+              ]
+            }
+          ],
+          "MealDescription": "Meals are not offered for this flight",
+          "CabinTypeCode": "UE",
+          "DisplayOrder": 0,
+          "ColumnId": 1,
+          "NumberOfPassengers": 0,
+          "IsElf": true,
+          "TripIndex": 0,
+          "SegmentNumber": 0,
+          "IsOverBooked": 0,
+          "MarriedSegmentIndex": 0,
+          "IsProductUpdatedForOverBooking": false,
+          "UserSelection": "ECO-BASIC",
+          "FareFamily": "ECO-BASIC",
+          "IsDynamicallyPriced": 0,
+          "SortIndex": 1
+        }
+      ]
+    }
+  ],
+  "Timings": [ {} ]
+}

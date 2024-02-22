@@ -1,0 +1,26 @@
+[
+
+  {
+    "getShopTnc": false,
+    "groupName": "Mobile:Baggage",
+    "listNames": [
+      "baggage"
+    ],
+    "mileagePlusNumber": "AY575986",
+    "sessionId": "855A5CF6C58C4806A803824E86BEB6A7",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.23",
+        "minor": "4.1.23"
+      }
+    },
+    "deviceId": "d23ec4e5-fa0b-470a-a66a-0fd226654ace",
+    "languageCode": "en-US",
+    "transactionId": "d23ec4e5-fa0b-470a-a66a-0fd226654ace|bbf54ecf-a305-49bb-b1df-e3b35bb0ba76",
+    "BasicEconomyContentChange": "true"
+  }
+]

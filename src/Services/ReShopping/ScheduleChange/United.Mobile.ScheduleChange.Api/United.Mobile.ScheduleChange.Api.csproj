@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>ff2762e5-8a7f-466f-bf1d-67f885b5e42f</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\ReShopping\United.Mobile.Model.ReShop\United.Mobile.Model.ReShop.csproj" />
+    <ProjectReference Include="..\United.Mobile.ScheduleChange.Domain\United.Mobile.ScheduleChange.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

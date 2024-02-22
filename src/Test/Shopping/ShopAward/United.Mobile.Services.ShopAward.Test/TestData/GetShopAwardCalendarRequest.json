@@ -1,0 +1,188 @@
+[
+  {
+    "awardTravel": true,
+    "cameFromFSRHandler": false,
+    "countryCode": "US",
+    "customerMetrics": {
+      "ptcCode": "PPR"
+    },
+    "employeeDiscountId": "123",
+    "experiments": [ "NoChangeFee" ],
+    "fareClass": "",
+    "fareType": "lf",
+    "getFlightsWithStops": false,
+    "getNonStopFlightsOnly": false,
+    "hashPinCode": "4EF2F47A6DAB8A848C29C65FDA52B2CF99C41D38",
+    "isCorporateBooking": false,
+    "isELFFareDisplayAtFSR": false,
+    "isExpertModeEnabled": false,
+    "isReshopChange": false,
+    "isShareTripSearchAgain": false,
+    "isYoungAdultBooking": false,
+    "lengthOfCalendar": 3,
+    "maxNumberOfStops": 2,
+    "maxNumberOfTrips": 25,
+    "mileagePlusAccountNumber": "AW719636",
+    "mobCPCorporateDetails": {
+      "noOfTravelers": 0
+    },
+    "numberOfAdults": 0,
+    "numberOfChildren12To17": 0,
+    "numberOfChildren2To4": 0,
+    "numberOfChildren5To11": 0,
+    "numberOfInfantOnLap": 0,
+    "numberOfInfantWithSeat": 0,
+    "numberOfSeniors": 0,
+    "pointOfSaleCountryName": "United States",
+    "premierStatusLevel": 0,
+    "resultSortType": "R",
+    "searchType": "RT",
+    "serviceType": "",
+    "sessionId": "F962E282C8AF401B9D713FD07CAF41A1",
+    "showMileageDetails": false,
+    "travelType": "RA",
+    "travelerTypes": [
+      {
+        "count": 1,
+        "travelerType": "Adult"
+      },
+      {
+        "count": 0,
+        "travelerType": "Senior"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child15To17"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child12To14"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child5To11"
+      },
+      {
+        "count": 0,
+        "travelerType": "Child2To4"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantSeat"
+      },
+      {
+        "count": 0,
+        "travelerType": "InfantLap"
+      }
+    ],
+    "trips": [
+      {
+        "cabin": "awardEcon",
+        "changeType": 0,
+        "departDate": "12/29/2021",
+        "destination": "ORD",
+        "destinationAllAirports": 0,
+        "origin": "IAH",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardEcon",
+        "changeType": 0,
+        "departDate": "12/31/2021",
+        "destination": "IAH",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardEcon",
+        "changeType": 0,
+        "departDate": "12/31/2021",
+        "destination": "IAH",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardEcon",
+        "changeType": 0,
+        "departDate": "12/31/2021",
+        "destination": "IAH",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardEcon",
+        "changeType": 0,
+        "departDate": "12/31/2021",
+        "destination": "IAH",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardEcon",
+        "changeType": 0,
+        "departDate": "12/31/2021",
+        "destination": "IAH",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      },
+      {
+        "cabin": "awardEcon",
+        "changeType": 0,
+        "departDate": "12/31/2021",
+        "destination": "IAH",
+        "destinationAllAirports": 0,
+        "origin": "ORD",
+        "originAllAirports": 0,
+        "searchNearbyDestinationAirports": false,
+        "searchNearbyOriginAirports": false,
+        "searchWithMapClicked": false,
+        "useFilters": false
+      }
+    ],
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.36",
+        "minor": "4.1.36"
+      }
+    },
+    "deviceId": "e3e8b501-f154-4c44-b81d-135cdf07759a",
+    "languageCode": "en-US",
+    "transactionId": "e3e8b501-f154-4c44-b81d-135cdf07759a|42dfbb6a-301c-4ce7-acfd-0e8e60d63c08"
+  }
+
+
+
+]
